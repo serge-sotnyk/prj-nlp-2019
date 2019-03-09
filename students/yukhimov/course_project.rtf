@@ -1,0 +1,544 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset0 HelveticaNeue-Bold;
+}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red0\green0\blue0;\red104\green104\blue104;
+\red109\green109\blue109;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0;\cssrgb\c48235\c48235\c48235;
+\cssrgb\c50196\c50196\c50196;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\fs42\fsmilli21333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 \cb2 \expnd0\expndtw0\kerning0
+\ul \ulc0 Cockney Rhyming Slang Generator\AppleTypeServices \ulnone \'a0
+\f1\fs24 \cb1 \
+\pard\pardeftab720\qj\partightenfactor0
+
+\fs29\fsmilli14667 \cf0 \cb2 \'a0\cb1 \uc0\u8232 \cb2 \'a0\cb1 \uc0\u8232 
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \cb2 The project seems interesting as can be considered a sample of Natural-language generation and text transformation aspects of NLP.\AppleTypeServices \cf0 \'a0
+\f1\fs24 \cb1 \
+\pard\pardeftab720\qj\partightenfactor0
+
+\fs32 \cf0 \cb2 \'a0
+\fs24 \cb1 \
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \cb2 Rhyming slang is a form of phrase construction in the English language and is especially prevalent in dialectal English from the East End of London; hence the alternative name, Cockney rhyming slang. 
+\f2\b \AppleTypeServices\AppleTypeServicesF65539 The construction involves replacing a common word with a rhyming phrase of two or three words and then, in almost all cases, omitting the secondary rhyming word
+\f0\b0 \AppleTypeServices\AppleTypeServicesF65539 , making the origin and meaning of the phrase elusive to listeners not in the know. So, this is a kind of phono-semantic rhyming slang, which includes a semantic link between the slang expression and its referent (the thing it refers to).\AppleTypeServices \cf0 \'a0
+\f1\fs24 \cb1 \
+\pard\pardeftab720\qj\partightenfactor0
+
+\fs32 \cf0 \cb2 \'a0
+\fs24 \cb1 \
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \cb2 There are some realizations of the concept already. One of them presumes that Rhyming slang is generated through a combination of 2 linguistic corpora: the CMU Pronouncing Dictionary and the Edinburgh Associative Corpus. CMU is used to index words according to their rhyming pattern, and EAT is used to group pronounceable words by semantic association.\AppleTypeServices \cf0 \'a0
+\f1\fs24 \cb1 \
+
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \cb2 Once everything is indexed, the actual generation of slang is pretty straightforward. First, take a word and find its rhyme pattern. Then get all of the other words that share this pattern. Randomly go through each rhyming word until one is found that has associated words that meet a particular threshold of relevance. Finally, take one of those words and return it along with the rhyme and the original word.\AppleTypeServices \cf0 \'a0
+\f1\fs24 \cb1 \
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\fs32 \cf0 \cb2 \'a0
+\f1\fs24 \cb1 \
+\pard\pardeftab720\qj\partightenfactor0
+
+\f2\b\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \cb2 However, the idea of choosing a certain phono-semantic pattern is of great interest and gives plenty of space for exploration. It requires research to get understanding of such generation performed in natural language. As talking about Cockney rhyming slang one should definitely underline its ironical, jocular and controversial character, that lies in the basis of this generation. Program recreating of such regularity will be the most fascinating part of the task.
+\f0\b0 \AppleTypeServices\AppleTypeServicesF65539 \'a0\'a0\AppleTypeServices \cf0 \'a0
+\f1\fs24 \cb1 \
+\pard\pardeftab720\qj\partightenfactor0
+
+\fs32 \cf0 \cb2 \'a0
+\fs24 \cb1 \
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \cb2 In a simple solution the program computationally generates unique rhyming slang for common words, thus creating slang vocabulary or in more complex one also finds and replaces certain words in a given text with a generated slang.\AppleTypeServices \cf0 \'a0
+\f1\fs24 \cb1 \
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\fs32 \cf0 \cb2 \'a0
+\f1\fs24 \cb1 \
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \cb2 Samples:\AppleTypeServices \cf0 \'a0\cb1 \uc0\u8232 
+\f1 \cb2 \'a0
+\fs24 \cb1 \
+\pard\pardeftab720\qj\partightenfactor0
+
+\f2\b\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \cb2 Slang vocabulary
+\f0\b0 \AppleTypeServices \cf0 \'a0
+\f1\fs24 \cb1 \
+\
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrt\brdrs\brdrw20\brdrcf5 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf3 \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf3 \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf3 \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 Input\AppleTypeServices \cf0 \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 Rhyming pattern\AppleTypeServices \cf0 \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 Output\AppleTypeServices \cf0 \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Cockney Rhyming Slang\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Chitty Chitty Bang Bang\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Chitty Chitty\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Alone\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Todd Sloan\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Todd\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Braces\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Airs and Graces\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Airs\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Pub\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Nuclear Sub\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Nuclear\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Rain\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Pleasure and Pain\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Pleasure\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Stout\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Salmon and Trout\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Salmon\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Girl\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Twist and Twirl\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Twist\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Dyke (lesbian)\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Raleigh Bike\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Raleigh\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Pakistani\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Reg Varney\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Reg\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvmgf \clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Gin\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Vera Lynn\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Vera\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvmrg \clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Needle and Pin\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Needle\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Tonic\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Philharmonic\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Phil\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Poof (homosexual)\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Tin Roof\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Tin Roof\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Rum\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Tom Thumb\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Tom\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Smoke (cigarette)\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Laugh and Joke\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Laugh\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Jugs (breasts)\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Carpets and Rugs\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Carpets\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Whore\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Roger Moore\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Roger\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Powder (cocaine)\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Nikki Lauder\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Nikki\AppleTypeServices \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrb\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth4140\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Rave (dance)\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Comedy Dave\AppleTypeServices \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Comedy\AppleTypeServices \'a0
+\f1\fs24 \cell \lastrow\row
+\pard\pardeftab720\qj\partightenfactor0
+
+\fs29\fsmilli14667 \cf0 \'a0
+\fs24 \
+\pard\pardeftab720\qj\partightenfactor0
+
+\f2\b\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 Text sample
+\f0\b0 \AppleTypeServices \cf0 \'a0
+\f1\fs24 \
+\
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrt\brdrs\brdrw20\brdrcf5 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth6240\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf3 \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth6240\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf3 \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 Input\AppleTypeServices \cf0 \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf4 Output\AppleTypeServices \cf0 \'a0
+\f1\fs24 \cell \row
+
+\itap1\trowd \taflags5 \trgaph108\trleft-108 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrb\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalt \clshdrawnil \clwWidth6240\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth6240\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Let\'92s talk some Cockney Rhyming Slang, little kitty.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Looks like I was all alone that night.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 So I\'92ve put new braces on and was off to pub.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 It was raining enough for swimming.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 I\'92m in, got some stout.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 She looks like a nice girl, but a right dyke.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Oh, Martin's new bird's a Pakistani.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Got some gin.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 I think he might be a poof.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Got a drop of rum.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Going out for a quick smoke.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 See a nice set of jugs.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Should buy her some gin.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 I was trying to get my trousers back on,\'a0\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 and the dirty whore is running up the street with my wallet.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Finally, need to get some powder and go to rave.\AppleTypeServices \'a0
+\f1\fs24 \
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \cf0 \'a0
+\f1\fs24 \cell 
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 \cf0 Let\'92s talk some chitty chitty, little kitty.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Looks like I was on my Todd that night.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 So I\'92ve put new airs on and was off to nuclear.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Pleasure enough for swimming.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 I\'92m in, got some salmon.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 She looks like a nice twist, but a right Raleigh.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Oh, Martin's new bird's a Reg.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Got some Vera and Phil.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 I think he might be a tin roof.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Got a drop of Tom.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Going out for a quick laugh.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 See a nice set of carpets.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Should buy her some needle.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 I was trying to get my trousers back on,\'a0\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 and the dirty roger is running up the street with my wallet.\AppleTypeServices \'a0
+\f1\fs24 \
+
+\f0\fs26\fsmilli13333 \AppleTypeServices\AppleTypeServicesF65539 Finally, need to get some Nikki and go to comedy.\AppleTypeServices \'a0
+\f1\fs24 \
+\pard\intbl\itap1\pardeftab720\qj\partightenfactor0
+
+\f0\fs26\fsmilli13333 \cf0 \'a0
+\f1\fs24 \cell \lastrow\row
+\pard\pardeftab720\qj\partightenfactor0
+
+\fs29\fsmilli14667 \cf0 \'a0}
