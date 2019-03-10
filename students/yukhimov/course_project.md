@@ -1,4 +1,4 @@
-Cockney Rhyming Slang Generator
+**Cockney Rhyming Slang Generator**
 
 The project seems interesting as can be considered a sample of Natural-language generation and text transformation aspects of NLP.
 
