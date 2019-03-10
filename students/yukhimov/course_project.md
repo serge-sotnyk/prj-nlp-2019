@@ -28,7 +28,7 @@ Samples:
 | Dyke (lesbian) | Raleigh Bike | Raleigh |
 | Pakistani | Reg Varney | Reg |
 | Gin | Vera Lynn | Vera |
-| Needle and Pin | Needle |
+| Gin | Needle and Pin | Needle |
 | Tonic | Philharmonic | Phil |
 | Poof (homosexual) | Tin Roof | Tin Roof |
 | Rum | Tom Thumb | Tom |
@@ -42,4 +42,4 @@ Samples:
 
 | Input | Output |
 | --- | --- |
-| Let&#39;s talk some Cockney Rhyming Slang, little kitty.Looks like I was all alone that night.So I&#39;ve put new braces on and was off to pub.It was raining enough for swimming.I&#39;m in, got some stout.She looks like a nice girl, but a right dyke.Oh, Martin&#39;s new bird&#39;s a Pakistani.Got some gin.I think he might be a poof.Got a drop of rum.Going out for a quick smoke.See a nice set of jugs.Should buy her some gin.I was trying to get my trousers back on, and the dirty whore is running up the street with my wallet.Finally, need to get some powder and go to rave.  | Let&#39;s talk some chitty chitty, little kitty.Looks like I was on my Todd that night.So I&#39;ve put new airs on and was off to nuclear.Pleasure enough for swimming.I&#39;m in, got some salmon.She looks like a nice twist, but a right Raleigh.Oh, Martin&#39;s new bird&#39;s a Reg.Got some Vera and Phil.I think he might be a tin roof.Got a drop of Tom.Going out for a quick laugh.See a nice set of carpets.Should buy her some needle.I was trying to get my trousers back on, and the dirty roger is running up the street with my wallet.Finally, need to get some Nikki and go to comedy.  |
+| Let&#39;s talk some Cockney Rhyming Slang, little kitty. Looks like I was all alone that night. So I&#39;ve put new braces on and was off to pub. It was raining enough for swimming. I&#39;m in, got some stout. She looks like a nice girl, but a right dyke. Oh, Martin&#39;s new bird&#39;s a Pakistani. Got some gin. I think he might be a poof. Got a drop of rum. Going out for a quick smoke. See a nice set of jugs. Should buy her some gin. I was trying to get my trousers back on, and the dirty whore is running up the street with my wallet. Finally, need to get some powder and go to rave.  | Let&#39;s talk some chitty chitty, little kitty. Looks like I was on my Todd that night. So I&#39;ve put new airs on and was off to nuclear. Pleasure enough for swimming. I&#39;m in, got some salmon. She looks like a nice twist, but a right Raleigh. Oh, Martin&#39;s new bird&#39;s a Reg. Got some Vera and Phil. I think he might be a tin roof. Got a drop of Tom. Going out for a quick laugh. See a nice set of carpets. Should buy her some needle. I was trying to get my trousers back on, and the dirty roger is running up the street with my wallet. Finally, need to get some Nikki and go to comedy.  |
