@@ -12,7 +12,10 @@ Once everything is indexed, the actual generation of slang is pretty straightfor
 
 In a simple solution the program computationally generates unique rhyming slang for common words, thus creating slang vocabulary or in more complex one also finds and replaces certain words in a given text with a generated slang.
 
+The realization of the idea can be based on the usage of **CMU Pronouncing Dictionary**, built on **ARPAbet phoneme set** and Python **Pronouncing** library for generating rhymes. **Edinburgh Associative Corpus** and **WordNet** can be used for phrase and full rhyme pattern construction.
+
 The input data can be taken from Top 1500 Nouns, vocabulary of common words, as rhyming slang basically includes only frequently used spoken words. 
+
 The quality test principles are yet to be discovered, anyhow the result should satisfy the following requirements: the first level is the correspondence to the main phono-semantic rule - rhyme and phrase (Cash - Sausage and Mash, Jail - Ginger Ale) or rhyme and popular (mass media) name (Jeans - Steve McQueens, Luck - Donald Duck) and the second level is the presence of ironical, jocular and controversial features (Wife - Trouble and Strife, Gym - Fatboy Slim), that truly reflect the ‘poison laughing gas’ spirit of chitty chitty.
 
 Samples:
