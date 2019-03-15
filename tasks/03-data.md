@@ -1,6 +1,6 @@
 # Data
 
-## Data Acquisition and analysis
+## Data Acquisition and Analysis
 
 Write scripts in your favourite language to perform the following tasks:
 
