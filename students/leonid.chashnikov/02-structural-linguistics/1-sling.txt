@@ -1,0 +1,82 @@
+1. Побудуйте ланцюжок походження слів за зразком:
+
+1. атиповий: (а + (тип + овий))
+2. мореплавання: (море + плавання)
+3. оподаткувати: (о + (податк + увати))
+4. перевтілитися пере + (втілити + ся)
+5. схилившись: (с + (хилив + шись))
+6. підсніжник: ((під + (сніг)) + ник)
+
+
+2. Перевірте роботу SnowballStem для спільнокореневих слів. Напишіть ваші спостереження.
+
+
+2.1. truth, truthful, truthfulness, countertruth, untruthful, truthology:
+truth, truth, truth, countertruth, untruth, trutholog
+перші три утворені від кореня + affix - стемінг до кореня. countertruth - утворено від двох коренів, тому стеммінг дає “countertruth”. untruthful, truthology - відрізається суфікс, залишається лише untruth, trutholog.
+
+2.2. flaw, flaws, flawed, flawless, flawlessness, flawlessly:
+flaw, flaw, flaw, flawless, flawless, flawless
+перші три утворені від кореня + аффікс/закінчення - стемінг до кореня. flawless, flawlessness, flawlessly - стеммінг відбувається не до базової форми слова, а до кореня + суфікса (flaw + less)
+
+2.3. лес, лесной, лесник, лесничий, лесничество, пролесье:
+лес, лесн, лесник, леснич, лесничеств, пролес
+відрізається закінчення, але не аффікси (лесничеств, пролес)
+
+2.4. окно, окошко, подоконник, оконный, окнище
+окн, окошк, подоконник, окон, окнищ
+стемінг в основному тільки відрізає закінчення, залишивши аффікси на місці (подоконник, окнищ)
+
+
+3. Визначте частину мови виділеного слова і зв'язок до його батька:
+
+1. We can {but} hope that everything will be fine. : CCONJ, cc(can, but)
+2. It's sad {but} true. : CCONJ, cc(sad, but)
+3. Jack brings nothing {but} trouble. : ADP, prep(nothing, but)
+4. {As} we were talking, I realised how to solve the issue. : ADP, mark(talking, As)
+5. This hot dog isn't {as} big as usual. : ADV, advmod(big, as)
+6. This hot dog isn't as big {as} usual. : ADP, prep(big, as)
+7. This hot dog isn't as big {as} I expected. : ADP, mark(expected, as)
+8. I work {as} a teacher. : ADP, prep(work, as)
+9. Let's do it this {way}! : NOUN, npadvmod(do, way)
+10. This is {way} too much! : ADV, advmod(much, way)
+11. The prices are going {down}. : PART, prt(going, down)
+12. Someone pushed him and he fell {down} the stairs. : ADP, prep(fell, down)
+13. I’ve been feeling rather {down} lately. : ADV, advmod(feeling, down)
+14. It's not easy to {down} a cup of coffee in one gulp. : VERB, xcomp('s, down)
+15. Bring a {down} jacket and a pair of gloves, and you'll be fine. : ADJ, amod(jacket, down)
+
+
+
+6
+
+куля:
+1) Геометричне тіло, утворене обертанням кола навколо свого діаметра
+синоніми: шар, сфера
+антоніми:
+мероніми:
+голоніми:
+гіпоніми:
+гіпероніми:
+
+
+2) Предмет, що має таку форму.
+синоніми: м'яч, гранули
+антоніми:
+мероніми:
+голоніми:
+гіпоніми:
+гіпероніми:
+
+3) Маленький свинцевий або стальний снаряд для стрільби
+синоніми: патрон, снаряд
+антоніми:
+мероніми:
+голоніми:
+гіпоніми:
+гіпероніми:
+
+
+
+
+
