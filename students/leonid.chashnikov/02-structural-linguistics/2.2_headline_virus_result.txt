@@ -1,4 +1,4 @@
 Doc count: 5000
-Named Entities: 2984
-Emotional: 1516
-Comparative/Superlative: 235
+Found headlines with named entities: 2984
+Found headlines with emotional words: 1516
+Found headlines with comparative/superlative: 235
