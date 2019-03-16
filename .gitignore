@@ -4,6 +4,8 @@
 !.gitignore
 *.pyc
 
+students/igor_kurinnyi/data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
