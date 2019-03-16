@@ -79,3 +79,36 @@ class Shmificator:
 			shmase = shmord
 		return shmase
 
+
+
+def test_eng():
+	shm = Shmificator(lang=EngLang)
+
+	assert shm('table')     == 'table-shmable'
+	assert shm('breakfast') == 'breakfast-shmeakfast'
+	assert shm('apple')     == 'apple-shmapple'
+	assert shm('shmutter')  == 'shmutter-shmutter'
+	assert shm('ashmont')   == 'ashmont-smashmont'
+	assert shm('Apple')     == 'Apple-Shmapple' 
+	assert shm('Jimmy Hendriks') == 'Jimmy Hendriks-Jimmy Shmendriks'
+	assert shm('data science') == 'data science-data shmience'
+
+	print('Tests for Eng passed')
+
+
+def test_ukr():
+	shm = Shmificator(lang=UkrLang)
+
+	assert shm('совеня')   == 'совеня-шмовеня'
+	assert shm('авокадо')  == 'авокадо-шмавокадо'
+	assert shm('Вишгород') == 'Вишгород-Смишгород'
+	assert shm('круглий')  == 'круглий-шмуглий'
+
+	print('Tests for Ukr passed')
+	
+
+
+if __name__ == '__main__':
+	test_eng()
+	test_ukr()
+
