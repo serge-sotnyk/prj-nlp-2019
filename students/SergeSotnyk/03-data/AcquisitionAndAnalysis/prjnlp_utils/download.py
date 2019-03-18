@@ -6,7 +6,8 @@ import math
 import requests
 from tqdm.auto import tqdm
 
-def check_if_file_exist_make_dir(filename:str)->(Path, bool):
+
+def check_if_file_exist_make_dir(filename: str) -> (Path, bool):
     """
     Function performs the following checks:
        if file directory does not exist, directory is created.
