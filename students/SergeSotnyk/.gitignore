@@ -1,6 +1,5 @@
 # Downloaded files
-notebooks/data/
-qa/data/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
