@@ -69,6 +69,6 @@ def download_with_progress(link: str, filename: str):
                 for data in response.iter_content(chunk_size=chunk_size):
                     bl_size = f.write(data)
                     wrote += bl_size
-                    p_bar.update(wrote)
+                    p_bar.update(bl_size)
 
     print(f"File downloaded, length = {file_path.stat().st_size} b")
