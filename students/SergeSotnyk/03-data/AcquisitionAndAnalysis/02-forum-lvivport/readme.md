@@ -11,6 +11,15 @@ get the results as xml file.
 
 ```scrapy runspider lviv_forum_spider.py -o rover.xml```
 
+Note fo me: 
+
+Following pycharm configuration can be used to debug spider with pycharm IDE 
+
+![pycharm-config.png](pycharm-config.png)
+
+File requirements.txt contains many unused packages, but I don't want to waste my 
+time to clear this list, sorry.
+
 # Results
 
 Collected data can be found in file rover.xml. Every item has three fields:
