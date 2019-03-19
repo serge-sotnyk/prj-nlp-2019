@@ -1,0 +1,1 @@
+select ?p where {?p a <http://dbpedia.org/ontology/Person>. ?p dbr:living dbo:Ukraine .} LIMIT 100
