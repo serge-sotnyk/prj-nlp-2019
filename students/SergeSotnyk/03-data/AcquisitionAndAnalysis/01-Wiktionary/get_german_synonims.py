@@ -69,7 +69,7 @@ def _write_stat(syn_dict: Dict[str, List[str]]):
     syn_list = list([[k]+v for k, v in syn_dict.items()])
     print(f"Found terms with synonyms: {len(syn_list)}")
     longest_set = max(syn_list, key=len)
-    print(f"Longest set has length {len(longest_set)}")
+    print(f"The longest set has length {len(longest_set)}")
     print(longest_set)
     with open(syn_name, 'w', encoding='utf-8') as outp:
         for synset in syn_list:
