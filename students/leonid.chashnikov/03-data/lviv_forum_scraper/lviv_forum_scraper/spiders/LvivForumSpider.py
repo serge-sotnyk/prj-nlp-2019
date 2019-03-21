@@ -1,5 +1,6 @@
 import scrapy
 from bs4 import BeautifulSoup
+from urllib.parse import urlparse
 
 
 class LvivForumSpider(scrapy.Spider):
@@ -33,30 +34,37 @@ class LvivForumSpider(scrapy.Spider):
 
     def _parse_thread(self, response):
         page = BeautifulSoup(response.body, 'html.parser')
-        self.logger.critical('Parse thread {}'.format(page.title.text))
-        self._save_page(page.title.text, page)
+        thread_name = self._parse_thread_name(response.url)
+        self.logger.info('Parse thread {}'.format(thread_name))
+        self._save_page(thread_name, page)
 
-        # as thread is not taken in one request, I'll have to add writes to a file
-        # here can return next page of current thread. Maybe can pass page name / file name to callback
         next_page = response.xpath('//link[@rel="next"]/@href').get()
         if next_page is not None:
             next_page = self.base_url + next_page
             yield scrapy.Request(next_page, callback=self._parse_thread)
 
-    # fix how posts and users are parsed, cleaned etc
-    # use some identifiers instead of page names as file names
     def _save_page(self, name, page):
+        # todo remove "adsbygoogle"
         users = page.find_all(attrs={"class": "username"})
         posts = page.find_all(attrs={"class": "messageContent"})
         result = []
         for user, post in zip(users, posts):
-            result.append({"user": user.text, "post": post.text})
-        with open(name, 'w') as f:
-            # f.write(page_text)
-            for r in result:
-                f.write(r["user"].strip())
-                f.write('\t')
-                f.write(r["post"].strip()[0:50])
-                f.write('\n')
+            if user and post:
+                result.append('<USER>{}</USER>\n'
+                              '<POST>\n{}\n</POST>'
+                              .format(self._clean_text(user.text),
+                                      self._clean_text(post.text)))
 
+        result = '\n'.join(result)
+        with open('./forum/' + name, 'a+') as f:  # thread is parsed in several requests, I'll have to append to a file
+            f.write(result + '\n')
 
+    # todo add proper cleaning
+    def _clean_text(self, text):
+        return text.strip()
+
+    def _parse_thread_name(self, url):
+        path = urlparse(url).path
+        for part in path.split('/'):
+            if '.' in part:
+                return part.split('.')[0]

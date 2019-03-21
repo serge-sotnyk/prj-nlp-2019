@@ -29,7 +29,7 @@ def _update_word_count(page, counts: dict):
     words = page.text.split()
 
     for word in words:
-        if word not in ['{', '}', '=', '-', '+', '>', '<']:
+        if word not in ['{', '}', '=', '-', '+', '>', '<', '/', '\\', '|']:
             _update_dict(word, counts)
 
     return counts
@@ -44,6 +44,13 @@ def _update_language_count(page, counts: dict):
             print(e)
 
 
+def _parse_page(content):
+    try:
+        return BeautifulSoup(content, 'html.parser')
+    except Exception:
+        return None
+
+
 if __name__ == "__main__":
     word_counts = dict()
     lang_counts = dict()
@@ -53,14 +60,14 @@ if __name__ == "__main__":
             if record.rec_type == 'response':
                 i += 1
                 content = record.content_stream().read()
-                page = BeautifulSoup(content, 'html.parser')
+                page = _parse_page(content)
+                if page:
+                    host = _get_host(record)
+                    _update_word_count(page, word_counts)
+                    _update_language_count(page, lang_counts)
 
-                host = _get_host(record)
-                _update_word_count(page, word_counts)
-                _update_language_count(page, lang_counts)
-
-                if i % 100 == 0:
-                    top_words = sorted(word_counts, key=word_counts.get, reverse=True)[:7]
-                    top_langs = sorted(lang_counts, key=lang_counts.get, reverse=True)[:7]
-                    print('After processing {} records,\n top words: {}\n top langs: {}\n'
-                          .format(i, list(top_words), list(top_langs)))
+                    if i % 100 == 0:
+                        top_words = sorted(word_counts, key=word_counts.get, reverse=True)[:10]
+                        top_langs = sorted(lang_counts, key=lang_counts.get, reverse=True)[:10]
+                        print('After processing {} records,\n top words: {}\n top langs: {}\n'
+                              .format(i, list(top_words), list(top_langs)))
