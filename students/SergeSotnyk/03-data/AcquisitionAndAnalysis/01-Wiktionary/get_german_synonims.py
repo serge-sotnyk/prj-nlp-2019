@@ -1,12 +1,11 @@
 import os
-import sys
-import xml.sax
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 from typing import List, Dict
 
-from prjnlp_utils import download_with_progress, unpack_bz2
 from tqdm.auto import tqdm
+
+from prjnlp_utils import download_with_progress, unpack_bz2
 
 link_uri: str = \
     'https://dumps.wikimedia.org/dewiktionary/20190301/dewiktionary-20190301-pages-articles-multistream.xml.bz2'
