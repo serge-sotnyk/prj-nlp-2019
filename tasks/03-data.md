@@ -4,7 +4,7 @@
 
 Write scripts in your favourite language to perform the following tasks:
 
-+ 1. Process a Wiktionary dump to extract synonym relations for a random language (not English, Ukrainian or Russian :). You can find the latest dumps at <https://dumps.wikimedia.org/backup-index.html>. The task requires application of XML SAX parsing.
+1. Process a Wiktionary dump to extract synonym relations for a random language (not English, Ukrainian or Russian :). You can find the latest dumps at <https://dumps.wikimedia.org/backup-index.html>. The task requires application of XML SAX parsing.
 
 2. Download and extract as separate texts all posts in a section of choice from <http://forum.lvivport.com>. The task requires web scraping.
 
