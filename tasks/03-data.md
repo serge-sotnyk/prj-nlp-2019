@@ -16,7 +16,7 @@ Write scripts in your favourite language to perform the following tasks:
 
 1. According to the [annotation guidelines](https://github.com/lang-uk/ner-uk/blob/master/doc/README.md), annotate 2 documents from the BrUK corpus for Named Entities for your username at <http://ann.lisp.kiev.ua/>.
 
-2. Process data from the [NUCLE Error Corpus](http://www.comp.nus.edu.sg/~nlp/conll14st.html#nucle32) and analyze inter-annotator agreement in it (general and for each error type).
+2. Process data from the [NUCLE Error Corpus](http://www.comp.nus.edu.sg/~nlp/conll14st.html#nucle32) and analyze inter-annotator agreement in it (general and for each error type). You can use only [the test data](https://github.com/andabi/deep-text-corrector/tree/master/data/conll14st-test-data) for this task.
 
 ## Project
 
