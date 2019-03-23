@@ -72,3 +72,8 @@ if __name__ == "__main__":
 
         k = float(P - Pe) / float(1 - Pe)
         print(k)
+
+
+# overlap / overall annotators number for sentence (including noop)
+
+# overlap / union

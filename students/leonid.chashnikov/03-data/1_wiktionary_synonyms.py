@@ -21,7 +21,6 @@ class WikiHandler(xml.sax.ContentHandler):
 
     def endElement(self, tag):
         if self.current_synonyms and self.current_word and self.current_tag == "text":
-            # print('Pushing word "{}" into result with synonyms {}'.format(self.current_word, len(self.current_synonyms)))
             self.result[self.current_word] = self.current_synonyms
             self.current_word = ""
             self.current_synonyms = []
@@ -36,9 +35,7 @@ class WikiHandler(xml.sax.ContentHandler):
 
         if self.current_tag == "title":
             is_correct_word = ':' not in content
-            if not is_correct_word:
-                print('Incorrect {}'.format(content))
-            else:
+            if is_correct_word:
                 self.current_word = content
 
         elif self.current_tag == "text" and self.is_text_first_line:
@@ -58,6 +55,14 @@ class WikiHandler(xml.sax.ContentHandler):
             self.current_part_synonyms = []
 
 
+def _write_parsed(inp: dict):
+    with open('./data/synonyms_result', 'w') as f:
+        for key, value in inp.items():
+            inner = ['[' + ', '.join(v) + ']' for v in value]
+            result = '{}: [{}]\n'.format(key, ', '.join(inner))
+            f.write(result)
+
+
 if __name__ == "__main__":
     parser = xml.sax.make_parser()
     parser.setFeature(xml.sax.handler.feature_namespaces, 0)
@@ -67,3 +72,5 @@ if __name__ == "__main__":
 
     parser.parse("./data/frwiktionary-20190301-pages-meta-current.xml")
     print('Total words processed: {}'.format(len(handler.result)))
+
+    _write_parsed(handler.result)

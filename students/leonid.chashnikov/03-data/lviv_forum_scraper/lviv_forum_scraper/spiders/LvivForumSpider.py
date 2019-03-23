@@ -44,7 +44,6 @@ class LvivForumSpider(scrapy.Spider):
             yield scrapy.Request(next_page, callback=self._parse_thread)
 
     def _save_page(self, name, page):
-        # todo remove "adsbygoogle"
         users = page.find_all(attrs={"class": "username"})
         posts = page.find_all(attrs={"class": "messageContent"})
         result = []
@@ -59,8 +58,10 @@ class LvivForumSpider(scrapy.Spider):
         with open('./forum/' + name, 'a+') as f:  # thread is parsed in several requests, I'll have to append to a file
             f.write(result + '\n')
 
-    # todo add proper cleaning
+    # todo add better cleaning
     def _clean_text(self, text):
+        ad_text = '(adsbygoogle = window.adsbygoogle || []).push({});'
+        text = text.replace(ad_text, '')
         return text.strip()
 
     def _parse_thread_name(self, url):

@@ -3,11 +3,6 @@ from langdetect.lang_detect_exception import LangDetectException
 from warcio.archiveiterator import ArchiveIterator
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
-# extract individual items,
-# perform basic statistical analysis (distribution of
-#   hosts,
-#   domains )
-# and visualization (optional).
 
 
 def _update_dict(word, counts: dict):
@@ -18,14 +13,12 @@ def _update_dict(word, counts: dict):
 
 
 def _get_host(record):
-    # or get Host ?
     target_uri = record.rec_headers.get_header('WARC-Target-URI')
     parsed_uri = urlparse(target_uri)
     return parsed_uri.hostname
 
 
 def _update_word_count(page, counts: dict):
-    # stem? filter out symbols
     words = page.text.split()
 
     for word in words:
