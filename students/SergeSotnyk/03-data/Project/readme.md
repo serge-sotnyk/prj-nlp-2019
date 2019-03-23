@@ -1,7 +1,7 @@
 # Task
 
-0 Perform initial data collection for your project.
-0 Devise and describe a way to collect data for your course project using crowdsourcing or from the users. Implement a proof-of-concept.
+0. Perform initial data collection for your project.
+0. Devise and describe a way to collect data for your course project using crowdsourcing or from the users. Implement a proof-of-concept.
 
 # Що знайдено 
 
@@ -46,4 +46,4 @@ As part of the TIPSTER SUMMAC effort, a corpus of 183 documents from the Computa
 
 Ці корпуси в більшості випадків знайдено через аналіз різних papers та ісходних кодів до них.
 
-Також є плани скрєйпити Вікіпедию для того, щоб отримати сінопсіси до літературних творів. Літературні твори планую зібрати ті, що є у відкритому доступі (ресурси по типу проекту Гутенберг). Це дозволить самостійно створити корпуси для різних мов та мати досить об'ємні аннотації.
+Також є плани скрейпити Вікіпедию для того, щоб отримати сінопсіси до літературних творів. Літературні твори планую зібрати ті, що є у відкритому доступі (ресурси по типу проекту Гутенберг). Це дозволить самостійно створити корпуси для різних мов та мати досить об'ємні аннотації.
