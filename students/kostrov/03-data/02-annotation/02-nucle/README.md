@@ -1,7 +1,9 @@
 Inter-annotation agreement statistics:
 
 naive IoU: 0.06897148973831464
+
 using Cohen's Kappa: -0.22750130250407258
+
 using Cohen's Kappa separated by error:
 ```
 {
