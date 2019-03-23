@@ -2,7 +2,7 @@
 
 Прізвиська головних героїв книжок/серіалу "Гра Престолів", зібрані з Вікіпедії як доказ концепції.
 
-'''
+```
 {
   'Ned Stark': ['The Quiet Wolf'],
   'Robert Baratheon':['The Usurper', 'Demon of the Trident', 'The Whoremonger King', 'The Stag King'],
