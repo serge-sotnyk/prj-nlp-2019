@@ -11,10 +11,8 @@ class Annotation:
 	correction : str
 	annotator_id : int = field(compare=False)
 
-
 	def __hash__(self):
 		return hash(astuple(self))
-
 
 
 class AnnotationSet(set):
@@ -24,28 +22,23 @@ class AnnotationSet(set):
 			if x == item:
 				return True
 
-
 	def __and__(self, other):
 		intersect = [x for x in self if x in other]
 		return AnnotationSet(intersect)
 
-
 	def __str__(self):
-		anns_str = ''.join(['A: {}\n'.format(a) for a in self])
+		anns_str = ''.join([f'A: {a}\n' for a in self])
 		return anns_str[:-1]
-
 
 	@property
 	def annotators_ids(self):
 		return list(set(ann.annotator_id for ann in self))
-
 
 	def filter_by(self, **params):
 		result = list(self)
 		for key, value in params.items():
 			result = list(filter(lambda x: getattr(x, key) == value, result))
 		return AnnotationSet(result)
-
 
 	def cross_agreement(self):
 		filters_key = [{'ann1' : {'annotator_id': id1}, 
@@ -54,19 +47,16 @@ class AnnotationSet(set):
 		 				for id1, id2 in self.annotator_pairs()]
 		return self.all_agreements(filters_key)
 
-
 	def cross_agreement_by_error(self):
-		filters_key = [{'ann1' : {'annotator_id': id1, 'err_type': err}, 
-		 				'ann2' : {'annotator_id': id2, 'err_type': err},
-		 				'key'  : err}
-		 				for err in ErrorType 
-		 				for id1, id2 in self.annotator_pairs()]
+		filters_key = [{'ann1': {'annotator_id': id1, 'err_type': err},
+						'ann2': {'annotator_id': id2, 'err_type': err},
+						'key': err}
+					   for err in ErrorType
+					   for id1, id2 in self.annotator_pairs()]
 		return self.all_agreements(filters_key)
-
 
 	def annotator_pairs(self):
 		return combinations(sorted(self.annotators_ids), r=2)
-
 
 	def all_agreements(self, filters_key):
 		scores = dict()
@@ -77,10 +67,8 @@ class AnnotationSet(set):
 				scores[fk['key']] = ann1.agreement(ann2)
 		return scores
 
-
 	def agreement(self, other):
 		return 2 * len(self & other) / (len(self) + len(other))
-
 
 
 class Sentence:
@@ -89,10 +77,8 @@ class Sentence:
 		self.s = s
 		self.anns = anns
 
-
 	def correct(self, annotator_id):
 		pass
 
-
 	def __str__(self):
-		return 'S: {}\n{}'.format(self.s, self.anns)
+		return f'S: {self.s}\n{self.anns}'

@@ -5,6 +5,7 @@
 *.pyc
 
 students/igor_kurinnyi/data/
+students/igor_kurinnyi/in_class/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
