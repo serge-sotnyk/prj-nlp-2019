@@ -29,3 +29,4 @@ def test_evaluate_summary():
         ref_summary=['Ad sales boost Time Warner profit', 'Testing started at 16:22'])
     metrics = evaluate_summary(doc)
     assert {'rouge_1', 'rouge_2', 'rouge_3', 'rouge_4', 'bleu'}.issubset(metrics.keys())
+
