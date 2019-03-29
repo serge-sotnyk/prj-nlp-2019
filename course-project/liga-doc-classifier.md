@@ -10,3 +10,5 @@
 
 - 100 тис класифікованих нормативних документів у HTML-форматі (див. [приклад](https://ips.ligazakon.net/lzviewservice/document/T_179800?fullText=true) або [приклад з метаданими](https://ips.ligazakon.net/lzviewservice/document/infotemplate/T_179800?bl=true))
 - [таксономія класів](https://www.dropbox.com/s/hip7e4oxld4oc1y/EK_sum.xlsx?dl=0) (~ 1000 класів)
+
+Більше текстів можна знайти тут: https://ips.ligazakon.net/search?search_group=500-0000.0003. (Ті, що з замками, в інтрфейсі повністю не покажуться.)
