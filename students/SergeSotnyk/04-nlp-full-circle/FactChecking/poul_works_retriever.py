@@ -6,6 +6,8 @@ import spacy
 import wikipedia
 import os
 
+from spacy.tokens import Token
+
 _start_tag = '<*'
 _finish_tag = '*>'
 print('Start preparing spacy model')
@@ -140,7 +142,7 @@ def show_difference(content, annotation):
             return
 
 
-def find_writings(content: str, checker: Checker) -> Annotation:
+def find_writings_with_dict(content: str, checker: Checker) -> Annotation:
     res = Annotation(content)
     doc = _nlp(content)
     max_len = checker.max_len()
@@ -157,6 +159,45 @@ def find_writings(content: str, checker: Checker) -> Annotation:
                     start = sent[p].idx
                     finish = sent[finish_token - 1].idx + len(sent[finish_token - 1])
                     res.entries.append(Entry(start, finish))
+    return res
+
+
+def find_writings_by_rules(content: str) -> Annotation:
+    res = Annotation(content)
+
+    def add_entry_clear_suspect(suspect: List[Token]):
+        orig_suspect = suspect
+        if suspect:
+            while not suspect[-1].is_title:
+                suspect = suspect[0:-1]
+            start = suspect[0].idx
+            finish = suspect[-1].idx + len(suspect[-1])
+            res.entries.append(Entry(start, finish))
+            orig_suspect.clear()
+
+    doc = _nlp(content)
+    pre_lemmas = {'novel', 'fiction', 'sequel', 'in'}
+    for sent in doc.sents:
+        tokens = list(sent)
+        suspect = []
+        for i, t in enumerate(tokens):
+            if i == 0:
+                continue
+            if t.is_punct:
+                add_entry_clear_suspect(suspect)
+                continue
+
+            if t.is_title or (suspect and t.is_stop):
+                if str(t.lemma_).casefold().startswith('anderson'):
+                    suspect.clear()
+                    continue
+                if not suspect:
+                    if tokens[i - 1].lemma_.casefold() not in pre_lemmas:
+                        continue
+                suspect.append(t)
+            else:
+                add_entry_clear_suspect(suspect)
+        add_entry_clear_suspect(suspect)
     return res
 
 
@@ -209,13 +250,24 @@ def main():
     print('-' * 64)
 
     checker = Checker('sparql.tsv')
-    auto_annotation = find_writings(content, checker)
+    auto_annotation = find_writings_with_dict(content, checker)
     print(f"Found entries number: {len(auto_annotation.entries)}")
     for e in auto_annotation.entries:
         print(content[e.start:e.finish])
 
     print('=' * 64)
     for name, value in compare_with_ground_truth(manual_annotation, auto_annotation).items():
+        print(f"{name}: {value}")
+
+    print()
+    print('=' * 64)
+    print("Annotation by rules:")
+    rules_annotation = find_writings_by_rules(content)
+    print(f"Found entries number: {len(rules_annotation.entries)}")
+    for e in rules_annotation.entries:
+        print(content[e.start:e.finish])
+    print('=' * 64)
+    for name, value in compare_with_ground_truth(manual_annotation, rules_annotation).items():
         print(f"{name}: {value}")
 
 
