@@ -1,5 +1,6 @@
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import SGDClassifier
+from sklearn.naive_bayes import MultinomialNB, BernoulliNB
 from sklearn.pipeline import Pipeline, FeatureUnion
 from sklearn.decomposition import TruncatedSVD
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -16,23 +17,23 @@ def create_pipeline() -> Pipeline:
         return tokenize_lemmatize(text)
 
     features = FeatureUnion([
-            ('bow_features', Pipeline([
-                ('bow', TfidfVectorizer(tokenizer=tokenizer)),
-                ('scaler', StandardScaler(with_mean=False))
-            ])),
-            ('stat_features', Pipeline([
-                ('text_stat', StatVectorizer()),
-                ('scaler', StandardScaler())
-            ])),
-            ('emb_features', Pipeline([
-                ('embs', EmbVectorizer()),
-                ('scaler', StandardScaler())
-            ])),
-            ('tone_features', Pipeline([
-                ('text_tone', ToneVectorizer()),
-                ('scaler', StandardScaler()),
-            ]))
-        ],
+        ('bow_features', Pipeline([
+            ('bow', TfidfVectorizer(tokenizer=tokenizer, min_df=10, max_df=0.2)),
+            ('scaler', StandardScaler(with_mean=False))
+        ])),
+        ('stat_features', Pipeline([
+            ('text_stat', StatVectorizer()),
+            ('scaler', StandardScaler()),
+        ])),
+        ('emb_features', Pipeline([
+            ('embs', EmbVectorizer()),
+            ('scaler', StandardScaler()),
+        ])),
+        ('tone_features', Pipeline([
+            ('text_tone', ToneVectorizer()),
+            ('scaler', StandardScaler()),
+        ]))
+    ],
         transformer_weights={
             'bow_features': 1,
             'stat_features': 0.02,
@@ -44,9 +45,10 @@ def create_pipeline() -> Pipeline:
     steps = [
         ('feat_union', features),
         # ('vectorize', TfidfVectorizer(tokenizer=tokenizer)),
-        # ('reductor', TruncatedSVD(n_components=100)),
+        # ('reductor', TruncatedSVD(n_components=1000)),
         ('classifier', SGDClassifier(max_iter=1000, tol=1e-3))
         # ('classifier', RandomForestClassifier())
+        # ('classifier', BernoulliNB())
     ]
 
     return Pipeline(steps)

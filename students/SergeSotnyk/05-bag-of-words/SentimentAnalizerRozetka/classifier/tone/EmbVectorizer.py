@@ -17,8 +17,9 @@ class EmbVectorizer(BaseEstimator, TransformerMixin):
         return self
 
     def calc_emb(self, text):
-        tokens = word_tokenize(text)
         res = np.zeros(EmbVectorizer.bpemb.vectors.shape[1], dtype=np.float32)
+        # tokens = word_tokenize(text)
+        # for t in tokens:
         embs = EmbVectorizer.bpemb.embed(text)
         for e in embs:
             res += e
