@@ -15,7 +15,7 @@ class StatVectorizer(BaseEstimator, TransformerMixin):
 
     def calc_stat(self, text):
         tokens = word_tokenize(text)
-        return np.array([len(text)/100, len(tokens)/10, np.mean([float(len(t)/10) for t in tokens])], dtype=float)
+        return np.array([len(text), len(tokens), np.mean([float(len(t)) for t in tokens])], dtype=float)
 
     def transform(self, X):
         res = []

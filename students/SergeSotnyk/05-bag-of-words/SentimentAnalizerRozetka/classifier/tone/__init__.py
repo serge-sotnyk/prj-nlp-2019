@@ -6,3 +6,5 @@ from .utils import stars_to_sentiment, find_classes
 from .StatVectorizer import StatVectorizer
 from .ToneVectorizer import ToneVectorizer
 from .EmbVectorizer import EmbVectorizer
+from .L2NormScaler import L2NormVectorizer
+from .L1NormScaler import L1NormVectorizer
