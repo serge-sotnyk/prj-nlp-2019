@@ -45,8 +45,12 @@ class WikiHandler(xml.sax.ContentHandler):
             self.is_synonym_ongoing = True
 
         elif self.current_tag == "text" and self.is_synonym_ongoing and ('*' in content):
-            content = ''.join(s for s in content if s.isalpha())
-            self.current_part_synonyms.append(content)
+            if '[[' in content and ']]' in content:
+                content = content.split('[[')[1]
+                content = content.split(']]')[0]
+                if '#' in content:
+                    content = content.split('#')[0]
+                self.current_part_synonyms.append(content)
 
         elif self.current_tag == "text" and self.is_synonym_ongoing:
             self.is_synonym_ongoing = False
