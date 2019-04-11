@@ -15,15 +15,14 @@ YEAR_REGEX = re.compile(r'[1-3][0-9]{3}')
 
 
 def _detect_ne(text: str):
-    sentences = text.split('.')
     labels = dict()
-    for s in sentences:
-        doc = nlp(s)
-        if any([True for e in doc.ents if e.label_ == 'WORK_OF_ART']):
-            books = [e.text.strip() for e in doc.ents if e.label_ == 'WORK_OF_ART']
+    doc = nlp(text)
+    for s in doc.sents:
+        if any([True for e in s.ents if e.label_ == 'WORK_OF_ART']):
+            books = [e.text.strip() for e in s.ents if e.label_ == 'WORK_OF_ART']
             if len(books) > 1 or all((len(b.strip()) == 0 for b in books)):
                 continue
-            years = [e.text.strip() for e in doc.ents if e.label_ == 'DATE']
+            years = [e.text.strip() for e in s.ents if e.label_ == 'DATE']
             if years:
                 year = next((re.findall(YEAR_REGEX, year) for year in years if re.findall(YEAR_REGEX, year)), None)
             else:
@@ -49,14 +48,11 @@ def _parse_dbpedia(text: str):
 
 
 def _compare(ground_truth, extracted_data):
-    total_count = len(ground_truth)
     found_book_count = 0
     found_year_count = 0
     for true_book, true_year in ground_truth.items():
-        print('True {}'.format(true_year))
         if true_book in extracted_data.keys():
             found_book_count += 1
-            print('Extract {}'.format(extracted_data[true_book]))
             if extracted_data[true_book] == true_year or (extracted_data[true_book] and not true_year):
                 found_year_count += 1
     return found_book_count, found_year_count
@@ -72,11 +68,19 @@ if __name__ == "__main__":
     wiki_page = BeautifulSoup(wiki_response.text, 'html.parser')
 
     extracted_data = _detect_ne(wiki_page.text)
-    ners_log = ['{} -> {}'.format(k, v) for k, v in extracted_data.items()]
-    print('page NERs:\n{}'.format('\n'.join(ners_log)))
 
     # compare dbpedia and wiki
+    ground_truth_books_amount = len(ground_truth)
+    ground_truth_years_amount = len([v for v in ground_truth.values() if v != ''])
+
     book_found, year_found = _compare(ground_truth, extracted_data)
-    print(book_found)
-    print(year_found)
+    irrelevant_data = len(extracted_data) - book_found
+
+    print('Correct books found: {} out of {} - {}%'
+          .format(book_found, ground_truth_books_amount, round((book_found / ground_truth_books_amount) * 100)))
+    print('Correct years of books found: {} out of {} - {}%'
+          .format(year_found, ground_truth_years_amount, round((year_found / ground_truth_years_amount) * 100)))
+    print('Extracted irrelevant data (non-books, titles from other author etc): {} - {}%'
+          .format(irrelevant_data, round((irrelevant_data / len(extracted_data)) * 100)))
+
 
