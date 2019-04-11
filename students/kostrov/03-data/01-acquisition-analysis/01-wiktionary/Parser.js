@@ -54,11 +54,22 @@ class Parser {
         if (line.startsWith(this.settings.sectionMarker)) {
           break;
         }
-        const cleanLine = line.replace(/[{(](.*)[})]|[#*;]/g, '');
+        const cleanLine = line
+          .replace(/[{=('<](.*)[=})'>]/g, '')
+          .replace(/[#*…?—\-.]/g, '')
+          .replace(/\[http.+\]/g, '')
+          .replace(/(\[\[:?\w.+]])/g, '')
+          .replace(/:{2,}.*/g, '')
+          .replace(/\s+/g, ' ')
+          .trim();
         if (/\[\[/.test(cleanLine)) {
-          synonyms.push(...this.getMatches(line, /\[\[([^\]]+)\]/g));
-        } else {
-          synonyms.push(...cleanLine.split(',').map(item => item.trim()));
+          synonyms.push(...this.getMatches(line, /\[\[+([^\]]+)\]/g));
+        } else {          
+          synonyms.push(...cleanLine.split(/[,;]/).map(item => 
+            item
+            .replace(/[\[\]]/g, '')
+            .trim()
+          ));
         }
       }
     }
@@ -133,14 +144,14 @@ class Parser {
 (async () => {
   fs.writeFileSync('./output/ua.json', JSON.stringify(await new Parser(UA).extract(), null, 2));
 
-  fs.writeFileSync('./output/arabic.json', JSON.stringify(await new Parser(ARABIC, {
-    languageMarker: '{{عربية}}',
-    synonymsMarker: '=== مرادفات ===',
-    dir: 'rtl',
-  }).extract(), null, 2));
+  // fs.writeFileSync('./output/arabic.json', JSON.stringify(await new Parser(ARABIC, {
+  //   languageMarker: '{{عربية}}',
+  //   synonymsMarker: '=== مرادفات ===',
+  //   dir: 'rtl',
+  // }).extract(), null, 2));
 
-  fs.writeFileSync('./output/thai.json', JSON.stringify(await new Parser(THAI, {
-    languageMarker: '== ภาษาไทย ==',
-    synonymsMarker: '==== คำพ้องความหมาย ====',
-  }).extract(), null, 2));
+  // fs.writeFileSync('./output/thai.json', JSON.stringify(await new Parser(THAI, {
+  //   languageMarker: '== ภาษาไทย ==',
+  //   synonymsMarker: '==== คำพ้องความหมาย ====',
+  // }).extract(), null, 2));
 })();
