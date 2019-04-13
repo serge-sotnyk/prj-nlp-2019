@@ -1,0 +1,154 @@
+#begin document (selectraws1/17565); part 000
+
+selectraws1/17565	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/17565	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws1/17565	0	2	outlines	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17565	0	3	his	PRP$	(NP(NP*	-	-	-	-	*	(1)
+selectraws1/17565	0	4	theories	NNS	*)	-	-	-	-	*	-
+selectraws1/17565	0	5	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	6	sexual	JJ	(NP*	-	-	-	-	*	-
+selectraws1/17565	0	7	warfare	NN	*)))	-	-	-	-	*	-
+selectraws1/17565	0	8	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	9	the	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws1/17565	0	10	essay	NN	*)	-	-	-	-	*	6)
+selectraws1/17565	0	11	On	IN	(PP*	-	-	-	-	*	(6
+selectraws1/17565	0	12	Psychic	NNP	(NP(NP*	-	-	-	-	*	-
+selectraws1/17565	0	13	Murder	NNP	*)	-	-	-	-	*	6)
+selectraws1/17565	0	14	,	,	*	-	-	-	-	*	-
+selectraws1/17565	0	15	applications	NNS	(SBAR(WHNP(NP*)	-	-	-	-	*	-
+selectraws1/17565	0	16	of	IN	(WHPP*	-	-	-	-	*	-
+selectraws1/17565	0	17	which	WDT	(WHNP*)))	-	-	-	-	*	-
+selectraws1/17565	0	18	can	MD	(S(VP*	-	-	-	-	*	-
+selectraws1/17565	0	19	be	VB	(VP*	-	-	-	-	*	-
+selectraws1/17565	0	20	found	VBN	(VP*	-	-	-	-	*	-
+selectraws1/17565	0	21	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	22	minor	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws1/17565	0	23	dramas	NN	*)	-	-	-	-	*	-
+selectraws1/17565	0	24	like	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	25	The	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws1/17565	0	26	Creditor	NNP	*)	-	-	-	-	*	7)
+selectraws1/17565	0	27	and	CC	*	-	-	-	-	*	-
+selectraws1/17565	0	28	Pariah	NNP	*))))))))))))))	-	-	-	-	*	(8)
+selectraws1/17565	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17565	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(2
+selectraws1/17565	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	2	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/17565	0	3	author	NN	*	-	-	-	-	*	1)
+selectraws1/17565	0	4	's	POS	*)	-	-	-	-	*	-
+selectraws1/17565	0	5	novels	NNS	*)))	-	-	-	-	*	2)
+selectraws1/17565	0	6	revolves	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17565	0	7	around	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	8	an	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws1/17565	0	9	idealistic	JJ	*	-	-	-	-	*	-
+selectraws1/17565	0	10	civil	JJ	*	-	-	-	-	*	-
+selectraws1/17565	0	11	servant	NN	*)	-	-	-	-	*	9)
+selectraws1/17565	0	12	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/17565	0	13	experiences	NNS	*)	-	-	-	-	*	-
+selectraws1/17565	0	14	depict	VBP	(S(VP*	-	-	-	-	*	-
+selectraws1/17565	0	15	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/17565	0	16	author	NN	*	-	-	-	-	*	1)
+selectraws1/17565	0	17	's	POS	*)	-	-	-	-	*	-
+selectraws1/17565	0	18	own	JJ	*	-	-	-	-	*	-
+selectraws1/17565	0	19	bohemian	NN	*	-	-	-	-	*	-
+selectraws1/17565	0	20	lifestyle	NN	*)	-	-	-	-	*	-
+selectraws1/17565	0	21	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	22	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17565	0	23	member	NN	*)	-	-	-	-	*	-
+selectraws1/17565	0	24	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	25	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17565	0	26	coterie	NN	*)	-	-	-	-	*	-
+selectraws1/17565	0	27	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	28	artists	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws1/17565	0	29	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/17565	0	30	met	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/17565	0	31	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	32	the	DT	(NP*	-	-	-	-	*	(2
+selectraws1/17565	0	33	namesake	NN	*	-	-	-	-	*	-
+selectraws1/17565	0	34	restaurant	NN	*)))))))))))))))))	-	-	-	-	*	2)
+selectraws1/17565	0	35	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17565	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/17565	0	1	one	CD	(NP(NP*)	-	-	-	-	*	(5
+selectraws1/17565	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	3	his	PRP$	(NP(NP*	-	-	-	-	*	(1)
+selectraws1/17565	0	4	chamber	NN	*	-	-	-	-	*	-
+selectraws1/17565	0	5	plays	NNS	*)	-	-	-	-	*	5)
+selectraws1/17565	0	6	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	7	his	PRP$	(NP*	-	-	-	-	*	(10|(1)
+selectraws1/17565	0	8	so-called	JJ	*	-	-	-	-	*	-
+selectraws1/17565	0	9	tiny	JJ	*	-	-	-	-	*	-
+selectraws1/17565	0	10	theatre	FW	*))))))	-	-	-	-	*	10)
+selectraws1/17565	0	11	an	,	*	-	-	-	-	*	(11
+selectraws1/17565	0	12	Old	NNP	(NP*	-	-	-	-	*	-
+selectraws1/17565	0	13	Man	NNP	*)	-	-	-	-	*	11)
+selectraws1/17565	0	14	assigns	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17565	0	15	a	DT	(NP*	-	-	-	-	*	(12
+selectraws1/17565	0	16	student	NN	*)	-	-	-	-	*	12)
+selectraws1/17565	0	17	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/17565	0	18	attend	VB	(VP*	-	-	-	-	*	-
+selectraws1/17565	0	19	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17565	0	20	performance	NN	*)	-	-	-	-	*	-
+selectraws1/17565	0	21	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	22	The	DT	(NP*	-	-	-	-	(ORGANIZATION*	(13
+selectraws1/17565	0	23	Valkyrie	NNP	*)))))))	-	-	-	-	*)	13)
+selectraws1/17565	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17565	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	(12
+selectraws1/17565	0	1	student	NN	*)	-	-	-	-	*	12)
+selectraws1/17565	0	2	,	,	*	-	-	-	-	*	-
+selectraws1/17565	0	3	Arkenholz	NNP	(NP*)	-	-	-	-	*	(12)
+selectraws1/17565	0	4	passes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17565	0	5	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	6	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17565	0	7	building	NN	*)	-	-	-	-	*	-
+selectraws1/17565	0	8	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/17565	0	9	contains	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/17565	0	10	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17565	0	11	statue	NN	*)	-	-	-	-	*	-
+selectraws1/17565	0	12	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	13	a	DT	(NP(NP*	-	-	-	-	*	(14
+selectraws1/17565	0	14	woman	NN	*)	-	-	-	-	*	14)
+selectraws1/17565	0	15	worshipped	VBN	(VP*	-	-	-	-	*	-
+selectraws1/17565	0	16	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	17	a	DT	(NP(NP*	-	-	-	-	*	(15
+selectraws1/17565	0	18	Mummy	NN	*)	-	-	-	-	*	15)
+selectraws1/17565	0	19	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/17565	0	20	lives	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/17565	0	21	inside	RB	(ADVP*))))))))))))))))	-	-	-	-	*	-
+selectraws1/17565	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17565	0	0	Author	NN	(TOP(S(NP(NP*)	-	-	-	-	*	(1
+selectraws1/17565	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	2	The	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/17565	0	3	Red	NNP	*	-	-	-	-	*	-
+selectraws1/17565	0	4	Room	NNP	*)	-	-	-	-	*	2)
+selectraws1/17565	0	5	,	,	*	-	-	-	-	*	-
+selectraws1/17565	0	6	Master	NNP	(NP*	-	-	-	-	*	(3
+selectraws1/17565	0	7	Olof	NNP	*)	-	-	-	-	*	3)
+selectraws1/17565	0	8	and	CC	*	-	-	-	-	*	-
+selectraws1/17565	0	9	A	DT	(NP*	-	-	-	-	*	(4
+selectraws1/17565	0	10	Dream	NNP	*	-	-	-	-	*	-
+selectraws1/17565	0	11	Play	NNP	*))))	-	-	-	-	*	4)|1)
+selectraws1/17565	0	12	,	,	*	-	-	-	-	*	-
+selectraws1/17565	0	13	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	14	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/17565	0	15	points	NNS	*))	-	-	-	-	*	-
+selectraws1/17565	0	16	,	,	*	-	-	-	-	*	-
+selectraws1/17565	0	17	name	VBP	(VP*	-	-	-	-	*	-
+selectraws1/17565	0	18	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/17565	0	19	Swedish	JJ	*	-	-	-	-	*	-
+selectraws1/17565	0	20	playwright	NN	*)	-	-	-	-	*	-
+selectraws1/17565	0	21	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17565	0	22	The	DT	(NP*	-	-	-	-	*	(5
+selectraws1/17565	0	23	Ghost	NN	*	-	-	-	-	*	-
+selectraws1/17565	0	24	Sonata	NN	*))))	-	-	-	-	*	5)|1)
+selectraws1/17565	0	25	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

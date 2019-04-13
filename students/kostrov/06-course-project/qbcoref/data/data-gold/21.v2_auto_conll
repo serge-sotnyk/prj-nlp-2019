@@ -1,0 +1,134 @@
+#begin document (selectraws1/21); part 000
+
+selectraws1/21	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(4
+selectraws1/21	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	2	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/21	0	3	author	NN	*	-	-	-	-	*	1)
+selectraws1/21	0	4	's	POS	*)	-	-	-	-	*	-
+selectraws1/21	0	5	novels	NNS	*)))	-	-	-	-	*	4)
+selectraws1/21	0	6	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/21	0	7	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	8	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/21	0	9	cottage	NN	*)	-	-	-	-	*	-
+selectraws1/21	0	10	frequented	VBN	(VP*	-	-	-	-	*	-
+selectraws1/21	0	11	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	12	such	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws1/21	0	13	characters	NNS	*)	-	-	-	-	*	-
+selectraws1/21	0	14	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	15	a	DT	(NP(NP(NP*	-	-	-	-	*	(5
+selectraws1/21	0	16	former	JJ	*	-	-	-	-	*	-
+selectraws1/21	0	17	manure-spreader	NN	*)	-	-	-	-	*	5)
+selectraws1/21	0	18	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/21	0	19	gets	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/21	0	20	drunk	JJ	(ADJP*)	-	-	-	-	*	-
+selectraws1/21	0	21	four	CD	(NP(NP*	-	-	-	-	*	-
+selectraws1/21	0	22	times	NNS	*)	-	-	-	-	*	-
+selectraws1/21	0	23	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/21	0	24	year	NN	*))))))	-	-	-	-	*	-
+selectraws1/21	0	25	and	CC	*	-	-	-	-	*	-
+selectraws1/21	0	26	a	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws1/21	0	27	former	JJ	*	-	-	-	-	*	-
+selectraws1/21	0	28	ship	NN	*	-	-	-	-	*	-
+selectraws1/21	0	29	pilot	NN	*)	-	-	-	-	*	6)
+selectraws1/21	0	30	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/21	0	31	Captain	NNP	(S(NP*	-	-	-	-	*	(6
+selectraws1/21	0	32	Hogensen	NNP	*))))))))))))	-	-	-	-	*	6)
+selectraws1/21	0	33	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/21	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws1/21	0	1	also	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/21	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/21	0	3	a	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws1/21	0	4	novel	NN	*)	-	-	-	-	*	-
+selectraws1/21	0	5	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	6	a	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws1/21	0	7	collector	NN	*)	-	-	-	-	*	-
+selectraws1/21	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	9	manuscripts	NNS	(NP(NP*)	-	-	-	-	*	8)
+selectraws1/21	0	10	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/21	0	11	Arnas	NNP	(S(NP*	-	-	-	-	*	(8
+selectraws1/21	0	12	Arnaeus	NNP	*)))	-	-	-	-	*	8)|7)
+selectraws1/21	0	13	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/21	0	14	was	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/21	0	15	published	VBN	(VP*	-	-	-	-	*	-
+selectraws1/21	0	16	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	17	three	CD	(NP*	-	-	-	-	*	-
+selectraws1/21	0	18	parts	NNS	*))))))))))	-	-	-	-	*	-
+selectraws1/21	0	19	,	,	*	-	-	-	-	*	-
+selectraws1/21	0	20	including	VBG	(PP*	-	-	-	-	*	-
+selectraws1/21	0	21	The	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws1/21	0	22	Bright	NNP	*	-	-	-	-	*	-
+selectraws1/21	0	23	Jewel	NNP	*)	-	-	-	-	*	9)
+selectraws1/21	0	24	and	CC	*	-	-	-	-	*	-
+selectraws1/21	0	25	Fire	NNP	(NP(NP*)	-	-	-	-	*	(10
+selectraws1/21	0	26	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	27	Copenhagen	NNP	(NP*)))))))	-	-	-	-	(LOCATION)	10)
+selectraws1/21	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/21	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/21	0	1	addition	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/21	0	2	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/21	0	3	The	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/21	0	4	Fish	NN	*	-	-	-	-	*	-
+selectraws1/21	0	5	Can	NNP	*	-	-	-	-	*	-
+selectraws1/21	0	6	Sing	NNP	*)	-	-	-	-	*	4)
+selectraws1/21	0	7	and	CC	*	-	-	-	-	*	-
+selectraws1/21	0	8	Iceland	NNP	(NP(NP*	-	-	-	-	(LOCATION)	(7
+selectraws1/21	0	9	's	POS	*)	-	-	-	-	*	-
+selectraws1/21	0	10	Bell	NNP	*)))))	-	-	-	-	*	7)
+selectraws1/21	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/21	0	12	he	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws1/21	0	13	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/21	0	14	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/21	0	15	work	NN	*)	-	-	-	-	*	2)
+selectraws1/21	0	16	dealing	VBG	(VP*	-	-	-	-	*	-
+selectraws1/21	0	17	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	18	the	DT	(NP(NP(NP*	-	-	-	-	*	(3
+selectraws1/21	0	19	protagonist	NN	*	-	-	-	-	*	3)
+selectraws1/21	0	20	's	POS	*)	-	-	-	-	*	-
+selectraws1/21	0	21	relationship	NN	*)	-	-	-	-	*	-
+selectraws1/21	0	22	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	23	his	PRP$	(NP*	-	-	-	-	*	(11|(3)
+selectraws1/21	0	24	daughter	NN	*	-	-	-	-	*	11)
+selectraws1/21	0	25	Asta	NNP	*))))))	-	-	-	-	(ORGANIZATION)	(11)
+selectraws1/21	0	26	after	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/21	0	27	he	PRP	(S(NP*)	-	-	-	-	*	(3)
+selectraws1/21	0	28	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/21	0	29	freed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/21	0	30	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	31	his	PRP$	(NP*	-	-	-	-	*	(3)
+selectraws1/21	0	32	servitude	NN	*))	-	-	-	-	*	-
+selectraws1/21	0	33	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/21	0	34	the	DT	(NP(NP*	-	-	-	-	*	(12
+selectraws1/21	0	35	Bailiff	NNP	*)	-	-	-	-	*	-
+selectraws1/21	0	36	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	37	Myri	NNP	(NP*)))))))))	-	-	-	-	*	12)
+selectraws1/21	0	38	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/21	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/21	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/21	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/21	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/21	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/21	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/21	0	6	Icelandic	JJ	*	-	-	-	-	*	-
+selectraws1/21	0	7	author	NN	*)	-	-	-	-	*	-
+selectraws1/21	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	9	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/21	0	10	novel	NN	*)	-	-	-	-	*	-
+selectraws1/21	0	11	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/21	0	12	the	DT	(NP(NP(NP*	-	-	-	-	*	(3
+selectraws1/21	0	13	sheep	NN	*	-	-	-	-	*	-
+selectraws1/21	0	14	farmer	NN	*)	-	-	-	-	*	3)
+selectraws1/21	0	15	Bjartur	NNP	(NP*))	-	-	-	-	*	(3)|2)
+selectraws1/21	0	16	,	,	*	-	-	-	-	*	-
+selectraws1/21	0	17	Independent	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(2
+selectraws1/21	0	18	People	NNP	*)))))))	-	-	-	-	*)	2)|1)
+selectraws1/21	0	19	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

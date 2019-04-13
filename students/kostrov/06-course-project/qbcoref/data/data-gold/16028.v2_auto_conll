@@ -1,0 +1,134 @@
+#begin document (notdoneraws/16028); part 000
+
+notdoneraws/16028	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+notdoneraws/16028	0	1	work	NN	*	-	-	-	-	*	1)
+notdoneraws/16028	0	2	's	POS	*)	-	-	-	-	*	-
+notdoneraws/16028	0	3	action	NN	*)	-	-	-	-	*	-
+notdoneraws/16028	0	4	occurs	VBZ	(VP(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	5	while	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/16028	0	6	Betty	NNP	(S(NP*)	-	-	-	-	(PERSON)	(2)
+notdoneraws/16028	0	7	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	8	otherwise	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/16028	0	9	employed	VBN	(VP*)))))	-	-	-	-	*	-
+notdoneraws/16028	0	10	,	,	*	-	-	-	-	*	-
+notdoneraws/16028	0	11	and	CC	*	-	-	-	-	*	-
+notdoneraws/16028	0	12	involves	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	13	the	DT	(NP(NP*	-	-	-	-	*	(3
+notdoneraws/16028	0	14	dead	JJ	*	-	-	-	-	*	-
+notdoneraws/16028	0	15	dog	NN	*	-	-	-	-	*	3)
+notdoneraws/16028	0	16	Tripsy	NNP	*)	-	-	-	-	*	(3)
+notdoneraws/16028	0	17	,	,	*	-	-	-	-	*	-
+notdoneraws/16028	0	18	whose	WP$	(SBAR(SBAR(WHNP*	-	-	-	-	*	-
+notdoneraws/16028	0	19	skin	NN	*)	-	-	-	-	*	-
+notdoneraws/16028	0	20	is	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	21	used	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	22	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	23	night	NN	(NP*	-	-	-	-	*	-
+notdoneraws/16028	0	24	gloves	NNS	*))))))	-	-	-	-	*	-
+notdoneraws/16028	0	25	and	CC	*	-	-	-	-	*	-
+notdoneraws/16028	0	26	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+notdoneraws/16028	0	27	puppy	NN	*)	-	-	-	-	*	-
+notdoneraws/16028	0	28	provides	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	29	urine	NN	(NP*)	-	-	-	-	*	-
+notdoneraws/16028	0	30	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	31	one	CD	(NP(NP*)	-	-	-	-	*	(4
+notdoneraws/16028	0	32	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	33	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16028	0	34	main	JJ	*	-	-	-	-	*	-
+notdoneraws/16028	0	35	characters	NNS	*)))))))))))	-	-	-	-	*	4)
+notdoneraws/16028	0	36	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16028	0	0	Two	CD	(TOP(S(NP*	-	-	-	-	*	-
+notdoneraws/16028	0	1	epic	NN	*	-	-	-	-	*	-
+notdoneraws/16028	0	2	similes	NNS	*)	-	-	-	-	*	-
+notdoneraws/16028	0	3	compare	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	4	its	PRP$	(NP*	-	-	-	-	*	(1)
+notdoneraws/16028	0	5	central	JJ	*	-	-	-	-	*	-
+notdoneraws/16028	0	6	act	NN	*)	-	-	-	-	*	-
+notdoneraws/16028	0	7	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	8	fat	NN	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/16028	0	9	dropping	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	10	onto	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	11	cinders	NNS	(NP(NP(NP*)	-	-	-	-	*	-
+notdoneraws/16028	0	12	and	CC	*	-	-	-	-	*	-
+notdoneraws/16028	0	13	Pandora	NNS	*)	-	-	-	-	(ORGANIZATION)	(5)
+notdoneraws/16028	0	14	opening	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	15	her	PRP$	(NP*	-	-	-	-	*	(5)
+notdoneraws/16028	0	16	box	NN	*))))))))	-	-	-	-	*	-
+notdoneraws/16028	0	17	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16028	0	0	Unlike	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	1	the	DT	(NP(NP*	-	-	-	-	*	(6
+notdoneraws/16028	0	2	narrator	NN	*)	-	-	-	-	*	6)
+notdoneraws/16028	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/16028	0	4	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/16028	0	5	delights	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	6	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	7	seeing	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	8	Such	JJ	(NP*	-	-	-	-	*	-
+notdoneraws/16028	0	9	order	NN	*)	-	-	-	-	*	-
+notdoneraws/16028	0	10	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	11	confusion	NN	(NP*	-	-	-	-	*	-
+notdoneraws/16028	0	12	sprung	NNS	*))))))))))	-	-	-	-	*	-
+notdoneraws/16028	0	13	,	,	*	-	-	-	-	*	-
+notdoneraws/16028	0	14	its	PRP$	(NP*	-	-	-	-	*	(7|(1)
+notdoneraws/16028	0	15	protagonist	NN	*)	-	-	-	-	*	7)
+notdoneraws/16028	0	16	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	17	cursed	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	18	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	19	the	DT	(NP*	-	-	-	-	*	(8
+notdoneraws/16028	0	20	goddess	NN	*	-	-	-	-	*	8)
+notdoneraws/16028	0	21	Vengeance	NNP	*))	-	-	-	-	*	(8)
+notdoneraws/16028	0	22	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	23	associate	NN	(VP(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	24	his	PRP$	(NP(NP*	-	-	-	-	*	(7)
+notdoneraws/16028	0	25	experience	NN	*)	-	-	-	-	*	-
+notdoneraws/16028	0	26	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	27	all	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16028	0	28	women	NNS	*))))	-	-	-	-	*	-
+notdoneraws/16028	0	29	,	,	*	-	-	-	-	*	-
+notdoneraws/16028	0	30	recalling	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	31	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	32	petticoats	NNS	(NP*)))	-	-	-	-	*	-
+notdoneraws/16028	0	33	and	CC	*	-	-	-	-	*	-
+notdoneraws/16028	0	34	perfume	NN	(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	35	his	PRP$	(NP*	-	-	-	-	*	(7)
+notdoneraws/16028	0	36	realization	NN	*	-	-	-	-	*	-
+notdoneraws/16028	0	37	that	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/16028	0	38	Celia	NNP	(S(NP*	-	-	-	-	(PERSON)	(4)
+notdoneraws/16028	0	39	,	,	*	-	-	-	-	*	-
+notdoneraws/16028	0	40	Celia	NNP	*	-	-	-	-	(PERSON)	(4)
+notdoneraws/16028	0	41	,	,	*	-	-	-	-	*	-
+notdoneraws/16028	0	42	Celia	NNP	*)	-	-	-	-	(PERSON)	(4)
+notdoneraws/16028	0	43	shits	VBZ	(VP*))))))))))	-	-	-	-	*	-
+notdoneraws/16028	0	44	!	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16028	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/16028	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/16028	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/16028	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16028	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/16028	0	6	poem	NN	*)	-	-	-	-	*	-
+notdoneraws/16028	0	7	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	8	Strephon	NNP	(NP(NP*	-	-	-	-	(PERSON)	(7)
+notdoneraws/16028	0	9	's	POS	*)	-	-	-	-	*	-
+notdoneraws/16028	0	10	investigation	NN	*)))	-	-	-	-	*	-
+notdoneraws/16028	0	11	in	RP	(PRT*)	-	-	-	-	*	-
+notdoneraws/16028	0	12	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	13	the	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/16028	0	14	title	NN	*)	-	-	-	-	*	-
+notdoneraws/16028	0	15	secret	JJ	(ADJP*	-	-	-	-	*	-
+notdoneraws/16028	0	16	place	NN	*)	-	-	-	-	*	1)|1)
+notdoneraws/16028	0	17	,	,	*	-	-	-	-	*	-
+notdoneraws/16028	0	18	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16028	0	19	Jonathan	NNP	(NP*	-	-	-	-	(PERSON*	(9
+notdoneraws/16028	0	20	Swift	NNP	*)))))	-	-	-	-	*)	9)
+notdoneraws/16028	0	21	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,155 @@
+#begin document (notdoneraws/17260); part 000
+
+notdoneraws/17260	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	1	one	CD	(NP(NP*	-	-	-	-	*	-
+notdoneraws/17260	0	2	flashback	NN	*)	-	-	-	-	*	-
+notdoneraws/17260	0	3	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/17260	0	5	novel	NN	*))))	-	-	-	-	*	1)
+notdoneraws/17260	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/17260	0	7	the	DT	(NP(NP*	-	-	-	-	*	(3|(4
+notdoneraws/17260	0	8	protagonist	NN	*	-	-	-	-	*	3)
+notdoneraws/17260	0	9	's	POS	*)	-	-	-	-	*	-
+notdoneraws/17260	0	10	mother	NN	*)	-	-	-	-	*	4)
+notdoneraws/17260	0	11	describes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	12	carrying	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	13	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/17260	0	14	banner	NN	*)	-	-	-	-	*	-
+notdoneraws/17260	0	15	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	16	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/17260	0	17	Take	NN	*)	-	-	-	-	*	-
+notdoneraws/17260	0	18	Back	RP	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	19	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/17260	0	20	Night	NNP	*	-	-	-	-	(ORGANIZATION)	-
+notdoneraws/17260	0	21	march	NN	*)))))))	-	-	-	-	*	-
+notdoneraws/17260	0	22	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17260	0	0	Its	PRP$	(TOP(S(NP*	-	-	-	-	*	(3|(1)
+notdoneraws/17260	0	1	protagonist	NN	*)	-	-	-	-	*	3)
+notdoneraws/17260	0	2	rubs	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	3	butter	NN	(NP*)	-	-	-	-	*	-
+notdoneraws/17260	0	4	into	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	5	her	PRP$	(NP*	-	-	-	-	*	(3)
+notdoneraws/17260	0	6	hands	NNS	*))	-	-	-	-	*	-
+notdoneraws/17260	0	7	because	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/17260	0	8	she	PRP	(S(NP*)	-	-	-	-	*	(3)
+notdoneraws/17260	0	9	cannot	RB	(VP(VP(ADVP*)	-	-	-	-	*	-
+notdoneraws/17260	0	10	obtain	VBP	*	-	-	-	-	*	-
+notdoneraws/17260	0	11	lotion	NN	(NP*))	-	-	-	-	*	-
+notdoneraws/17260	0	12	and	CC	*	-	-	-	-	*	-
+notdoneraws/17260	0	13	observes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	14	another	DT	(NP(NP*	-	-	-	-	*	(5
+notdoneraws/17260	0	15	character	NN	*	-	-	-	-	*	5)
+notdoneraws/17260	0	16	's	POS	*)	-	-	-	-	*	-
+notdoneraws/17260	0	17	blood-smeared	JJ	*	-	-	-	-	*	-
+notdoneraws/17260	0	18	face	NN	*)	-	-	-	-	*	-
+notdoneraws/17260	0	19	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	20	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/17260	0	21	end	NN	*)	-	-	-	-	*	-
+notdoneraws/17260	0	22	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	23	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/17260	0	24	Particicution	NN	*)))))))))	-	-	-	-	*	-
+notdoneraws/17260	0	25	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17260	0	0	At	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	1	Jezebel	NNP	(NP*	-	-	-	-	(ORGANIZATION)	-
+notdoneraws/17260	0	2	's	POS	*))	-	-	-	-	*	-
+notdoneraws/17260	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/17260	0	4	the	DT	(NP*	-	-	-	-	*	(3
+notdoneraws/17260	0	5	protagonist	NN	*)	-	-	-	-	*	3)
+notdoneraws/17260	0	6	finds	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	7	her	PRP$	(NP(NP*	-	-	-	-	*	(6|(3)
+notdoneraws/17260	0	8	old	JJ	*	-	-	-	-	*	-
+notdoneraws/17260	0	9	friend	NN	*	-	-	-	-	*	6)
+notdoneraws/17260	0	10	Moira	NNP	*)	-	-	-	-	(PERSON)	(6)
+notdoneraws/17260	0	11	,	,	*	-	-	-	-	*	-
+notdoneraws/17260	0	12	a	DT	(NP(NP*	-	-	-	-	*	(6
+notdoneraws/17260	0	13	lesbian	NN	*)	-	-	-	-	*	6)
+notdoneraws/17260	0	14	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/17260	0	15	donned	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	16	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/17260	0	17	garb	NN	*)	-	-	-	-	*	-
+notdoneraws/17260	0	18	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	19	an	DT	(NP*	-	-	-	-	*	-
+notdoneraws/17260	0	20	Aunt	NNP	(ADJP*	-	-	-	-	*	-
+notdoneraws/17260	0	21	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	22	escape	VB	(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	23	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	24	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/17260	0	25	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+notdoneraws/17260	0	26	\*	SYM	(NP*)	-	-	-	-	*	-
+notdoneraws/17260	0	27	-RRB-	-RRB-	*)))))))	-	-	-	-	*	-
+notdoneraws/17260	0	28	Red	NNP	*	-	-	-	-	*	-
+notdoneraws/17260	0	29	Center	NNP	*)))))))))	-	-	-	-	*	-
+notdoneraws/17260	0	30	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17260	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(3
+notdoneraws/17260	0	1	protagonist	NN	*)	-	-	-	-	*	3)
+notdoneraws/17260	0	2	sleeps	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	3	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	4	Nick	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(7)
+notdoneraws/17260	0	5	,	,	*	-	-	-	-	*	-
+notdoneraws/17260	0	6	a	DT	(NP(NP*	-	-	-	-	*	(7
+notdoneraws/17260	0	7	chauffeur	NN	*)	-	-	-	-	*	7)
+notdoneraws/17260	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/17260	0	9	reveals	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	10	that	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/17260	0	11	some	DT	(S(NP(NP*)	-	-	-	-	*	-
+notdoneraws/17260	0	12	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	13	the	DT	(NP*	-	-	-	-	*	(8
+notdoneraws/17260	0	14	Eyes	NNS	*)))	-	-	-	-	*	8)
+notdoneraws/17260	0	15	are	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	16	members	NNS	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/17260	0	17	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	18	the	DT	(NP*	-	-	-	-	*	(8
+notdoneraws/17260	0	19	revolutionary	JJ	*	-	-	-	-	*	-
+notdoneraws/17260	0	20	Mayday	NN	*)))))))))))))	-	-	-	-	*	8)
+notdoneraws/17260	0	21	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17260	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+notdoneraws/17260	0	1	title	NN	*	-	-	-	-	*	-
+notdoneraws/17260	0	2	figure	NN	*)	-	-	-	-	*	-
+notdoneraws/17260	0	3	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/17260	0	5	novel	NN	*)))	-	-	-	-	*	1)|3)
+notdoneraws/17260	0	6	serves	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	7	Serena	NNP	(NP(NP*	-	-	-	-	(PERSON*	(9
+notdoneraws/17260	0	8	Joy	NNP	*)	-	-	-	-	*)	9)
+notdoneraws/17260	0	9	and	CC	*	-	-	-	-	*	-
+notdoneraws/17260	0	10	her	PRP$	(NP(NP*	-	-	-	-	*	(10|(9)
+notdoneraws/17260	0	11	husband	NN	*)	-	-	-	-	*	10)
+notdoneraws/17260	0	12	,	,	*	-	-	-	-	*	-
+notdoneraws/17260	0	13	a	DT	(NP*	-	-	-	-	*	(10
+notdoneraws/17260	0	14	Commander	NNP	*))))	-	-	-	-	*	10)
+notdoneraws/17260	0	15	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17260	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/17260	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/17260	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/17260	0	4	name	NN	(NP*)	-	-	-	-	*	-
+notdoneraws/17260	0	5	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/17260	0	6	dystopian	JJ	*	-	-	-	-	*	-
+notdoneraws/17260	0	7	novel	NN	*)	-	-	-	-	*	-
+notdoneraws/17260	0	8	set	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	9	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	10	Gilead	NNP	(NP(NP*)	-	-	-	-	(ORGANIZATION)	1)
+notdoneraws/17260	0	11	,	,	*	-	-	-	-	*	-
+notdoneraws/17260	0	12	a	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/17260	0	13	work	NN	*)	-	-	-	-	*	-
+notdoneraws/17260	0	14	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	15	Offred	NNP	(NP*))	-	-	-	-	*	(3)|1)
+notdoneraws/17260	0	16	written	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/17260	0	17	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17260	0	18	Margaret	NNP	(NP*	-	-	-	-	(PERSON*	(2
+notdoneraws/17260	0	19	Atwood	NNP	*)))))))	-	-	-	-	*)	2)
+notdoneraws/17260	0	20	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,152 @@
+#begin document (selectraws1/19294); part 000
+
+selectraws1/19294	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/19294	0	1	main	JJ	*	-	-	-	-	*	-
+selectraws1/19294	0	2	setting	NN	*)	-	-	-	-	*	-
+selectraws1/19294	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/19294	0	5	novel	NN	*)))	-	-	-	-	*	1)|1)
+selectraws1/19294	0	6	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19294	0	7	constructed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19294	0	8	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	9	Thomas	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(2)
+selectraws1/19294	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/19294	0	11	an	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/19294	0	12	architect	NN	*)	-	-	-	-	*	2)
+selectraws1/19294	0	13	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19294	0	14	hides	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/19294	0	15	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19294	0	16	deed	NN	*)	-	-	-	-	*	-
+selectraws1/19294	0	17	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	18	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19294	0	19	huge	JJ	*	-	-	-	-	*	-
+selectraws1/19294	0	20	tract	NN	*)	-	-	-	-	*	-
+selectraws1/19294	0	21	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	22	land	NN	(NP*))	-	-	-	-	*	-
+selectraws1/19294	0	23	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	24	Maine	NNP	(NP*)))))	-	-	-	-	(LOCATION)	-
+selectraws1/19294	0	25	behind	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	26	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/19294	0	27	portrait	NN	*))))))))))	-	-	-	-	*	-
+selectraws1/19294	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19294	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+selectraws1/19294	0	1	son	NN	*)	-	-	-	-	*	-
+selectraws1/19294	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	3	that	DT	(NP*	-	-	-	-	*	(2
+selectraws1/19294	0	4	architect	NN	*)))	-	-	-	-	*	2)|3)
+selectraws1/19294	0	5	mesmerizes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19294	0	6	Alice	NNP	(NP*)	-	-	-	-	(PERSON)	(4)
+selectraws1/19294	0	7	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	8	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/19294	0	9	failed	VBN	*	-	-	-	-	*	-
+selectraws1/19294	0	10	attempt	NN	*	-	-	-	-	*	-
+selectraws1/19294	0	11	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/19294	0	12	reveal	VB	(VP*	-	-	-	-	*	-
+selectraws1/19294	0	13	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19294	0	14	location	NN	*)	-	-	-	-	*	-
+selectraws1/19294	0	15	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	16	that	DT	(NP*	-	-	-	-	*	-
+selectraws1/19294	0	17	deed	NN	*)))	-	-	-	-	*	-
+selectraws1/19294	0	18	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	19	Gervayse	NNP	(NP*))))))))	-	-	-	-	*	(5)
+selectraws1/19294	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19294	0	0	While	IN	(TOP(S(SBAR*	-	-	-	-	*	-
+selectraws1/19294	0	1	telling	VBG	(S(S(VP*	-	-	-	-	*	-
+selectraws1/19294	0	2	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19294	0	3	story	NN	*)	-	-	-	-	*	-
+selectraws1/19294	0	4	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	5	Alice	NNP	(NP(NP*)	-	-	-	-	(ORGANIZATION)	(3)
+selectraws1/19294	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/19294	0	7	Holgrave	NNP	(NP*))))	-	-	-	-	*	(7)
+selectraws1/19294	0	8	accidentally	RB	(ADVP*)))	-	-	-	-	*	-
+selectraws1/19294	0	9	hypnotizes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19294	0	10	Phoebe	NNP	(NP*))))	-	-	-	-	(PERSON)	(6)
+selectraws1/19294	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/19294	0	12	the	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws1/19294	0	13	descendant	NN	*)	-	-	-	-	*	-
+selectraws1/19294	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	15	a	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/19294	0	16	character	NN	*)	-	-	-	-	*	-
+selectraws1/19294	0	17	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	18	this	DT	(NP*	-	-	-	-	*	-
+selectraws1/19294	0	19	novel	NN	*))	-	-	-	-	*	10)
+selectraws1/19294	0	20	who	WP	(SBAR(WHNP*)	-	-	-	-	*	(10)
+selectraws1/19294	0	21	dies	VBZ	(S(VP*	-	-	-	-	*	6)
+selectraws1/19294	0	22	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	23	being	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/19294	0	24	cursed	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19294	0	25	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	26	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/19294	0	27	sentence	NN	*))	-	-	-	-	*	-
+selectraws1/19294	0	28	''	''	*	-	-	-	-	*	-
+selectraws1/19294	0	29	God	NNP	(NP*)))))))))))	-	-	-	-	*	-
+selectraws1/19294	0	30	will	MD	(VP*	-	-	-	-	*	-
+selectraws1/19294	0	31	give	VB	(VP*	-	-	-	-	*	-
+selectraws1/19294	0	32	him	PRP	(NP*)	-	-	-	-	*	-
+selectraws1/19294	0	33	blood	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/19294	0	34	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+selectraws1/19294	0	35	drink	VB	(VP*)))))))	-	-	-	-	*	-
+selectraws1/19294	0	36	.	.	*	-	-	-	-	*	-
+selectraws1/19294	0	37	''	''	*))	-	-	-	-	*	-
+
+
+selectraws1/19294	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/19294	0	1	novel	NN	*)	-	-	-	-	*	1)
+selectraws1/19294	0	2	ends	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19294	0	3	with	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/19294	0	4	Clifford	NNP	(S(NP*	-	-	-	-	(PERSON)	(16)
+selectraws1/19294	0	5	and	CC	*	-	-	-	-	*	-
+selectraws1/19294	0	6	Hepzibah	NNP	*)	-	-	-	-	(PERSON)	(15)
+selectraws1/19294	0	7	leaving	VBG	(VP*	-	-	-	-	*	-
+selectraws1/19294	0	8	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/19294	0	9	title	NN	*	-	-	-	-	*	-
+selectraws1/19294	0	10	location	NN	*)	-	-	-	-	*	1)
+selectraws1/19294	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/19294	0	12	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	(1)
+selectraws1/19294	0	13	was	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/19294	0	14	built	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19294	0	15	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	16	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19294	0	17	former	JJ	*	-	-	-	-	*	-
+selectraws1/19294	0	18	land	NN	*)	-	-	-	-	*	-
+selectraws1/19294	0	19	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	20	Matthrew	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(11
+selectraws1/19294	0	21	Maule	NNP	*))))	-	-	-	-	*)	11)
+selectraws1/19294	0	22	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	23	Colonel	NNP	(NP*	-	-	-	-	*	(10
+selectraws1/19294	0	24	Pyncheon	NNP	*)))))))))))	-	-	-	-	*	10)
+selectraws1/19294	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19294	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19294	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/19294	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/19294	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/19294	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/19294	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/19294	0	6	novel	NN	*)	-	-	-	-	*	-
+selectraws1/19294	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	8	Nathaniel	NNP	(NP*	-	-	-	-	(PERSON*	-
+selectraws1/19294	0	9	Hawthorne	NNP	*))	-	-	-	-	*)	1)
+selectraws1/19294	0	10	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	(1)
+selectraws1/19294	0	11	takes	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/19294	0	12	place	NN	(NP*)	-	-	-	-	*	-
+selectraws1/19294	0	13	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	14	a	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/19294	0	15	mansion	NN	*)	-	-	-	-	*	-
+selectraws1/19294	0	16	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	17	the	DT	(NP*	-	-	-	-	*	(1
+selectraws1/19294	0	18	title	NN	*	-	-	-	-	*	-
+selectraws1/19294	0	19	features	NNS	*))	-	-	-	-	*	1)
+selectraws1/19294	0	20	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/19294	0	21	its	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/19294	0	22	roof	NN	*)))))))))	-	-	-	-	*	1)
+selectraws1/19294	0	23	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

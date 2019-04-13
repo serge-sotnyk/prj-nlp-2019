@@ -1,0 +1,105 @@
+#begin document (selectraws1/75); part 000
+
+selectraws1/75	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/75	0	1	one	CD	(NP(NP*)	-	-	-	-	*	(4
+selectraws1/75	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/75	0	3	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/75	0	4	short	JJ	*	-	-	-	-	*	-
+selectraws1/75	0	5	stories	NNS	*))))	-	-	-	-	*	4)
+selectraws1/75	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/75	0	7	the	DT	(NP*	-	-	-	-	*	(5
+selectraws1/75	0	8	protagonist	NN	*	-	-	-	-	*	5)
+selectraws1/75	0	9	Sammy	NNP	*)	-	-	-	-	(PERSON)	(5)
+selectraws1/75	0	10	gives	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/75	0	11	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/75	0	12	unflattering	JJ	*	-	-	-	-	*	-
+selectraws1/75	0	13	nickname	NN	*)	-	-	-	-	*	-
+selectraws1/75	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/75	0	15	''	''	*	-	-	-	-	*	-
+selectraws1/75	0	16	Big	NNP	(NP(NP*	-	-	-	-	*	(6
+selectraws1/75	0	17	Tall	NNP	*	-	-	-	-	*	-
+selectraws1/75	0	18	Gooney	NN	*	-	-	-	-	*	6)
+selectraws1/75	0	19	''	''	*)	-	-	-	-	*	-
+selectraws1/75	0	20	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/75	0	21	one	CD	(NP*	-	-	-	-	*	(6
+selectraws1/75	0	22	character	NN	*)))))	-	-	-	-	*	6)
+selectraws1/75	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/75	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/75	0	1	that	DT	(NP*	-	-	-	-	*	(4
+selectraws1/75	0	2	story	NN	*))	-	-	-	-	*	4)
+selectraws1/75	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/75	0	4	Sammy	NNP	(NP*)	-	-	-	-	(PERSON)	(5)
+selectraws1/75	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/75	0	6	quits	VBG	(VP*	-	-	-	-	*	-
+selectraws1/75	0	7	his	PRP$	(NP*	-	-	-	-	*	(5)
+selectraws1/75	0	8	job	NN	*)	-	-	-	-	*	-
+selectraws1/75	0	9	after	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/75	0	10	Lengel	NNP	(S(NP*)	-	-	-	-	(PERSON)	(7)
+selectraws1/75	0	11	threw	VBD	(VP*	-	-	-	-	*	-
+selectraws1/75	0	12	three	CD	(NP*	-	-	-	-	*	-
+selectraws1/75	0	13	girls	NNS	*)	-	-	-	-	*	-
+selectraws1/75	0	14	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/75	0	15	bathing	NN	(NP(NP*	-	-	-	-	*	-
+selectraws1/75	0	16	suits	NNS	*)	-	-	-	-	*	-
+selectraws1/75	0	17	out	IN	(PP*	-	-	-	-	*	-
+selectraws1/75	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/75	0	19	the	DT	(NP*	-	-	-	-	*	(4
+selectraws1/75	0	20	title	NN	*	-	-	-	-	*	-
+selectraws1/75	0	21	grocery	NN	*	-	-	-	-	*	-
+selectraws1/75	0	22	store	NN	*)))	-	-	-	-	*	4)
+selectraws1/75	0	23	,	,	*	-	-	-	-	*	-
+selectraws1/75	0	24	''	''	*	-	-	-	-	*	-
+selectraws1/75	0	25	A&P	NNP	(NP*))))))))	-	-	-	-	(ORGANIZATION)	(4)
+selectraws1/75	0	26	.	.	*	-	-	-	-	*	-
+selectraws1/75	0	27	''	''	*))	-	-	-	-	*	-
+
+
+selectraws1/75	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/75	0	1	man	NN	*)	-	-	-	-	*	1)
+selectraws1/75	0	2	also	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/75	0	3	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/75	0	4	a	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws1/75	0	5	series	NN	*)	-	-	-	-	*	-
+selectraws1/75	0	6	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/75	0	7	novels	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws1/75	0	8	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/75	0	9	a	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws1/75	0	10	former	JJ	*	-	-	-	-	*	-
+selectraws1/75	0	11	basketball	NN	*	-	-	-	-	*	-
+selectraws1/75	0	12	star	NN	*)	-	-	-	-	*	9)|8)
+selectraws1/75	0	13	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/75	0	14	has	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/75	0	15	an	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/75	0	16	unhappy	JJ	*	-	-	-	-	*	-
+selectraws1/75	0	17	marriage	NN	*)	-	-	-	-	*	-
+selectraws1/75	0	18	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/75	0	19	Janice	NNP	(NP*	-	-	-	-	(PERSON)	(10)
+selectraws1/75	0	20	,	,	*	-	-	-	-	*	-
+selectraws1/75	0	21	Harry	NNP	*	-	-	-	-	(PERSON*	(9
+selectraws1/75	0	22	Angstrom	NNP	*))))))))))))	-	-	-	-	*)	9)
+selectraws1/75	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/75	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/75	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/75	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/75	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/75	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/75	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/75	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws1/75	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/75	0	8	novels	NNS	(NP(NP*)	-	-	-	-	*	(8
+selectraws1/75	0	9	such	JJ	(PP*	-	-	-	-	*	-
+selectraws1/75	0	10	as	IN	*	-	-	-	-	*	-
+selectraws1/75	0	11	Rabbit	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	(2
+selectraws1/75	0	12	Redux	NNP	*)	-	-	-	-	*)	2)
+selectraws1/75	0	13	and	CC	*	-	-	-	-	*	-
+selectraws1/75	0	14	Rabbit	NNP	(NP*	-	-	-	-	*	(3
+selectraws1/75	0	15	Run	NNP	*))))))	-	-	-	-	*	3)|1)|8)
+selectraws1/75	0	16	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

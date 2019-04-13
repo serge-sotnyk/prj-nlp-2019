@@ -1,0 +1,136 @@
+#begin document (notdoneraws/15198); part 000
+
+notdoneraws/15198	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/15198	0	1	author	NN	*)	-	-	-	-	*	1)
+notdoneraws/15198	0	2	created	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	3	the	DT	(NP(NP*	-	-	-	-	*	(4
+notdoneraws/15198	0	4	bank	NN	*	-	-	-	-	*	-
+notdoneraws/15198	0	5	manager	NN	*	-	-	-	-	*	4)
+notdoneraws/15198	0	6	Henry	NNP	*	-	-	-	-	(PERSON*	(4
+notdoneraws/15198	0	7	Pulling	NNP	*)	-	-	-	-	*)	4)
+notdoneraws/15198	0	8	,	,	*	-	-	-	-	*	-
+notdoneraws/15198	0	9	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/15198	0	10	finds	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	11	out	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/15198	0	12	his	PRP$	(S(NP*	-	-	-	-	*	(5|(4)
+notdoneraws/15198	0	13	real	JJ	*	-	-	-	-	*	-
+notdoneraws/15198	0	14	mother	NN	*)	-	-	-	-	*	5)
+notdoneraws/15198	0	15	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	16	his	PRP$	(NP*	-	-	-	-	*	(5|(4)
+notdoneraws/15198	0	17	traveling	VBG	*	-	-	-	-	*	-
+notdoneraws/15198	0	18	companion	NN	*	-	-	-	-	*	5)
+notdoneraws/15198	0	19	Augusta	NNS	*)))))))))	-	-	-	-	(LOCATION)	(5)
+notdoneraws/15198	0	20	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15198	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(2
+notdoneraws/15198	0	1	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15198	0	2	his	PRP$	(NP*	-	-	-	-	*	(1)
+notdoneraws/15198	0	3	works	NNS	*)))	-	-	-	-	*	2)
+notdoneraws/15198	0	4	features	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	5	the	DT	(NP(NP*	-	-	-	-	*	(6
+notdoneraws/15198	0	6	dentist	NN	*	-	-	-	-	*	6)
+notdoneraws/15198	0	7	Mr.	NNP	*	-	-	-	-	(PERSON*	(6
+notdoneraws/15198	0	8	Tench	NNP	*)	-	-	-	-	*)	6)
+notdoneraws/15198	0	9	,	,	*	-	-	-	-	*	-
+notdoneraws/15198	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/15198	0	11	discovers	VBZ	(S(VP(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	12	the	DT	(NP(NP*	-	-	-	-	*	(7
+notdoneraws/15198	0	13	protagonist	NN	*	-	-	-	-	*	7)
+notdoneraws/15198	0	14	's	POS	*)	-	-	-	-	*	-
+notdoneraws/15198	0	15	Latin	JJ	*	-	-	-	-	*	-
+notdoneraws/15198	0	16	devotional	NN	*))	-	-	-	-	*	-
+notdoneraws/15198	0	17	and	CC	*	-	-	-	-	*	-
+notdoneraws/15198	0	18	hides	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	19	it	PRP	(NP*)	-	-	-	-	*	-
+notdoneraws/15198	0	20	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15198	0	21	an	DT	(NP*	-	-	-	-	*	-
+notdoneraws/15198	0	22	oven	NN	*))))))))	-	-	-	-	*	-
+notdoneraws/15198	0	23	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15198	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+notdoneraws/15198	0	1	author	NN	*)	-	-	-	-	*	-
+notdoneraws/15198	0	2	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15198	0	3	Travels	NNS	(NP(NP*)	-	-	-	-	*	(8
+notdoneraws/15198	0	4	With	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15198	0	5	My	NNP	(NP*	-	-	-	-	*	-
+notdoneraws/15198	0	6	Aunt	NNP	*)))))	-	-	-	-	*	8)|1)
+notdoneraws/15198	0	7	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	8	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15198	0	9	a	DT	(NP(NP*	-	-	-	-	*	(9
+notdoneraws/15198	0	10	man	NN	*)	-	-	-	-	*	9)
+notdoneraws/15198	0	11	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/15198	0	12	ultimately	RB	(S(ADVP*)	-	-	-	-	*	-
+notdoneraws/15198	0	13	marries	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	14	his	PRP$	(NP(NP*	-	-	-	-	*	(10|(9)
+notdoneraws/15198	0	15	secretary	NN	*)	-	-	-	-	*	10)
+notdoneraws/15198	0	16	,	,	*	-	-	-	-	*	-
+notdoneraws/15198	0	17	Beatrice	NNP	(NP*	-	-	-	-	(PERSON*	(10
+notdoneraws/15198	0	18	Severn	NNP	*)))))))	-	-	-	-	*)	10)
+notdoneraws/15198	0	19	after	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15198	0	20	outwitting	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	21	Captain	NNP	(NP*	-	-	-	-	*	(11
+notdoneraws/15198	0	22	Segura	NNP	*)))))	-	-	-	-	(PERSON)	11)
+notdoneraws/15198	0	23	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15198	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/15198	0	1	man	NN	*)	-	-	-	-	*	1)
+notdoneraws/15198	0	2	created	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	3	such	JJ	(NP*	-	-	-	-	*	-
+notdoneraws/15198	0	4	characters	NNS	*)	-	-	-	-	*	-
+notdoneraws/15198	0	5	as	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15198	0	6	James	NNP	(NP(NP(NP*	-	-	-	-	(PERSON*	(12
+notdoneraws/15198	0	7	Wormold	NNP	*)	-	-	-	-	*)	12)
+notdoneraws/15198	0	8	,	,	*	-	-	-	-	*	-
+notdoneraws/15198	0	9	a	DT	(NP(NP*	-	-	-	-	*	(12
+notdoneraws/15198	0	10	vacuum	NN	*	-	-	-	-	*	-
+notdoneraws/15198	0	11	cleaner	NN	*	-	-	-	-	*	-
+notdoneraws/15198	0	12	salesman	NN	*)	-	-	-	-	*	-
+notdoneraws/15198	0	13	turned	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	14	fake	JJ	(NP*	-	-	-	-	*	-
+notdoneraws/15198	0	15	spy	NN	*))))	-	-	-	-	*	12)
+notdoneraws/15198	0	16	,	,	*	-	-	-	-	*	-
+notdoneraws/15198	0	17	and	CC	*	-	-	-	-	*	-
+notdoneraws/15198	0	18	an	DT	(NP(NP*	-	-	-	-	*	(13
+notdoneraws/15198	0	19	unnamed	JJ	*	-	-	-	-	*	-
+notdoneraws/15198	0	20	whisky	NN	*	-	-	-	-	*	-
+notdoneraws/15198	0	21	priest	NN	*)	-	-	-	-	*	13)
+notdoneraws/15198	0	22	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/15198	0	23	labors	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	24	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15198	0	25	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15198	0	26	Mexican	JJ	*	-	-	-	-	*	-
+notdoneraws/15198	0	27	area	NN	*)	-	-	-	-	*	-
+notdoneraws/15198	0	28	where	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+notdoneraws/15198	0	29	Catholicism	NNP	(S(NP*)	-	-	-	-	*	-
+notdoneraws/15198	0	30	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	31	outlawed	VBN	(VP*)))))))))))))	-	-	-	-	*	-
+notdoneraws/15198	0	32	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15198	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/15198	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/15198	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/15198	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/15198	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/15198	0	5	this	DT	(NP(NP(NP*	-	-	-	-	*	(1
+notdoneraws/15198	0	6	English	JJ	*	-	-	-	-	*	-
+notdoneraws/15198	0	7	author	NN	*)	-	-	-	-	*	-
+notdoneraws/15198	0	8	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15198	0	9	The	NNP	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/15198	0	10	Power	NNP	*)	-	-	-	-	*	-
+notdoneraws/15198	0	11	and	CC	*	-	-	-	-	*	-
+notdoneraws/15198	0	12	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/15198	0	13	Glory	NN	*))))	-	-	-	-	*	2)
+notdoneraws/15198	0	14	and	CC	*	-	-	-	-	*	-
+notdoneraws/15198	0	15	Our	PRP$	(NP(NP*	-	-	-	-	*	(3
+notdoneraws/15198	0	16	Man	NN	*)	-	-	-	-	*	-
+notdoneraws/15198	0	17	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15198	0	18	Havana	NNP	(NP*)))))	-	-	-	-	(LOCATION)	3)|1)
+notdoneraws/15198	0	19	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

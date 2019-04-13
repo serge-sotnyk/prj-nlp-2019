@@ -1,0 +1,157 @@
+#begin document (notdoneraws/16743); part 000
+
+notdoneraws/16743	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(4
+notdoneraws/16743	0	1	protagonist	NN	*)	-	-	-	-	*	-
+notdoneraws/16743	0	2	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	3	one	CD	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/16743	0	4	work	NN	*)	-	-	-	-	*	-
+notdoneraws/16743	0	5	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	6	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/16743	0	7	author	NN	*)))))	-	-	-	-	*	1)|4)|2)
+notdoneraws/16743	0	8	becomes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	9	an	DT	(NP*	-	-	-	-	*	(4
+notdoneraws/16743	0	10	opium	NN	*	-	-	-	-	*	-
+notdoneraws/16743	0	11	addict	NN	*)	-	-	-	-	*	4)
+notdoneraws/16743	0	12	after	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	13	realizing	VBG	(S(VP(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	14	that	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/16743	0	15	he	PRP	(S(NP*)	-	-	-	-	*	(4)
+notdoneraws/16743	0	16	has	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	17	fallen	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	18	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	19	love	NN	(NP*))	-	-	-	-	*	-
+notdoneraws/16743	0	20	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	21	a	DT	(NP*	-	-	-	-	*	(5
+notdoneraws/16743	0	22	prostitute	NN	*)))))))	-	-	-	-	*	5)
+notdoneraws/16743	0	23	and	CC	*	-	-	-	-	*	-
+notdoneraws/16743	0	24	abandoning	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	25	his	PRP$	(NP*	-	-	-	-	*	(4)
+notdoneraws/16743	0	26	life	NN	*)	-	-	-	-	*	-
+notdoneraws/16743	0	27	as	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	28	an	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16743	0	29	artist	NN	*)))))))	-	-	-	-	*	-
+notdoneraws/16743	0	30	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16743	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	(2
+notdoneraws/16743	0	1	work	NN	*)	-	-	-	-	*	2)
+notdoneraws/16743	0	2	opens	VBZ	(VP(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	3	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	4	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16743	0	5	description	NN	*)	-	-	-	-	*	-
+notdoneraws/16743	0	6	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	7	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16743	0	8	people	NNS	*)	-	-	-	-	*	-
+notdoneraws/16743	0	9	found	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	10	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	11	the	DT	(NP*	-	-	-	-	*	(2
+notdoneraws/16743	0	12	titular	JJ	*	-	-	-	-	*	-
+notdoneraws/16743	0	13	thoroughfare	NN	*))	-	-	-	-	*	2)
+notdoneraws/16743	0	14	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	15	different	JJ	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16743	0	16	times	NNS	*)	-	-	-	-	*	-
+notdoneraws/16743	0	17	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	18	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16743	0	19	day	NN	*))))))))))	-	-	-	-	*	-
+notdoneraws/16743	0	20	,	,	*	-	-	-	-	*	-
+notdoneraws/16743	0	21	and	CC	*	-	-	-	-	*	-
+notdoneraws/16743	0	22	centers	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	23	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	24	Pirogov	NNP	(NP*	-	-	-	-	(ORGANIZATION)	(6)
+notdoneraws/16743	0	25	and	CC	*	-	-	-	-	*	-
+notdoneraws/16743	0	26	Piskarev	NNP	*))))	-	-	-	-	(ORGANIZATION)	(4)
+notdoneraws/16743	0	27	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16743	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	1	another	DT	(NP(NP*	-	-	-	-	*	(3
+notdoneraws/16743	0	2	work	NN	*)	-	-	-	-	*	-
+notdoneraws/16743	0	3	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/16743	0	5	author	NN	*))))	-	-	-	-	*	1)|3)
+notdoneraws/16743	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/16743	0	7	the	DT	(NP*	-	-	-	-	*	(7
+notdoneraws/16743	0	8	protagonist	NN	*)	-	-	-	-	*	7)
+notdoneraws/16743	0	9	goes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	10	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	11	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16743	0	12	newspaper	NN	*	-	-	-	-	*	-
+notdoneraws/16743	0	13	office	NN	*))	-	-	-	-	*	-
+notdoneraws/16743	0	14	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	15	place	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	16	an	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16743	0	17	ad	NN	*)	-	-	-	-	*	-
+notdoneraws/16743	0	18	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	19	solve	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	20	his	PRP$	(NP*	-	-	-	-	*	(7)
+notdoneraws/16743	0	21	problem	NN	*)	-	-	-	-	*	-
+notdoneraws/16743	0	22	after	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	23	giving	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	24	up	RP	(PRT*)	-	-	-	-	*	-
+notdoneraws/16743	0	25	hopes	NNS	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/16743	0	26	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	27	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16743	0	28	police	NN	*	-	-	-	-	*	-
+notdoneraws/16743	0	29	station	NN	*)))))))))))))	-	-	-	-	*	-
+notdoneraws/16743	0	30	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16743	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	(3
+notdoneraws/16743	0	1	work	NN	*)	-	-	-	-	*	3)
+notdoneraws/16743	0	2	sees	VBZ	(VP(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	3	the	DT	(S(NP*	-	-	-	-	*	(3
+notdoneraws/16743	0	4	titular	JJ	*	-	-	-	-	*	-
+notdoneraws/16743	0	5	figure	NN	*)	-	-	-	-	*	3)
+notdoneraws/16743	0	6	pose	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	7	as	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	8	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16743	0	9	State	NNP	*	-	-	-	-	(ORGANIZATION*	-
+notdoneraws/16743	0	10	Councilor	NNP	*)))))	-	-	-	-	*)	-
+notdoneraws/16743	0	11	and	CC	*	-	-	-	-	*	-
+notdoneraws/16743	0	12	deny	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	13	that	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/16743	0	14	he	PRP	(S(NP*)	-	-	-	-	*	(3)
+notdoneraws/16743	0	15	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	16	actually	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/16743	0	17	the	DT	(NP(NP*	-	-	-	-	*	(3
+notdoneraws/16743	0	18	titular	JJ	*	-	-	-	-	*	-
+notdoneraws/16743	0	19	object	NN	*)	-	-	-	-	*	3)
+notdoneraws/16743	0	20	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/16743	0	21	belongs	VBZ	(S(VP(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	22	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	23	Major	NNP	(NP*	-	-	-	-	*	(7
+notdoneraws/16743	0	24	Kovalyov	NNP	*)))	-	-	-	-	(PERSON)	7)
+notdoneraws/16743	0	25	,	,	*	-	-	-	-	*	-
+notdoneraws/16743	0	26	and	CC	*	-	-	-	-	*	-
+notdoneraws/16743	0	27	opens	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	28	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	29	an	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16743	0	30	establishment	NN	*)	-	-	-	-	*	-
+notdoneraws/16743	0	31	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/16743	0	32	advertises	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	33	that	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/16743	0	34	it	PRP	(S(NP*)	-	-	-	-	*	-
+notdoneraws/16743	0	35	lets	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	36	blood	NN	(NP*)))))))))))))))))))	-	-	-	-	*	-
+notdoneraws/16743	0	37	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16743	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/16743	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/16743	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/16743	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16743	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/16743	0	6	Russian	JJ	*	-	-	-	-	*	-
+notdoneraws/16743	0	7	author	NN	*)	-	-	-	-	*	-
+notdoneraws/16743	0	8	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16743	0	9	Nevsky	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	(2
+notdoneraws/16743	0	10	Prospect	NNP	*)	-	-	-	-	*)	2)
+notdoneraws/16743	0	11	and	CC	*	-	-	-	-	*	-
+notdoneraws/16743	0	12	The	DT	(NP*	-	-	-	-	*	(3
+notdoneraws/16743	0	13	Nose	NNP	*)))))	-	-	-	-	*	3)|1)
+notdoneraws/16743	0	14	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

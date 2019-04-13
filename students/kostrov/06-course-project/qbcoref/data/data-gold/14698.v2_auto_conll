@@ -1,0 +1,119 @@
+#begin document (selectraws1/14698); part 000
+
+selectraws1/14698	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3|(1
+selectraws1/14698	0	1	poem	NN	*	-	-	-	-	*	1)
+selectraws1/14698	0	2	's	POS	*)	-	-	-	-	*	-
+selectraws1/14698	0	3	first	JJ	*	-	-	-	-	*	-
+selectraws1/14698	0	4	part	NN	*)	-	-	-	-	*	3)
+selectraws1/14698	0	5	describes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/14698	0	6	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/14698	0	7	activities	NNS	*)	-	-	-	-	*	-
+selectraws1/14698	0	8	of	IN	(PP(PP*	-	-	-	-	*	-
+selectraws1/14698	0	9	''	''	*	-	-	-	-	*	-
+selectraws1/14698	0	10	peyote	JJ	(NP*	-	-	-	-	*	-
+selectraws1/14698	0	11	soldiers	NNS	*))	-	-	-	-	*	-
+selectraws1/14698	0	12	''	''	*	-	-	-	-	*	-
+selectraws1/14698	0	13	and	CC	*	-	-	-	-	*	-
+selectraws1/14698	0	14	''	''	*	-	-	-	-	*	-
+selectraws1/14698	0	15	angelheaded	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws1/14698	0	16	hipsters	NNS	*)	-	-	-	-	*	-
+selectraws1/14698	0	17	''	''	*	-	-	-	-	*	-
+selectraws1/14698	0	18	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/14698	0	19	are	VBP	(S(VP*))))	-	-	-	-	*	-
+selectraws1/14698	0	20	''	''	*)	-	-	-	-	*	-
+selectraws1/14698	0	21	looking	VBG	(VP*	-	-	-	-	*	-
+selectraws1/14698	0	22	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/14698	0	23	an	DT	(NP*	-	-	-	-	*	-
+selectraws1/14698	0	24	angry	JJ	*	-	-	-	-	*	-
+selectraws1/14698	0	25	fix	NN	*)))))	-	-	-	-	*	-
+selectraws1/14698	0	26	.	.	*	-	-	-	-	*	-
+selectraws1/14698	0	27	''	''	*))	-	-	-	-	*	-
+
+
+selectraws1/14698	0	0	Its	PRP$	(TOP(S(S(NP*	-	-	-	-	*	(4|(1)
+selectraws1/14698	0	1	second	JJ	*	-	-	-	-	*	-
+selectraws1/14698	0	2	part	NN	*)	-	-	-	-	*	4)
+selectraws1/14698	0	3	refers	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/14698	0	4	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/14698	0	5	a	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/14698	0	6	being	NN	*)	-	-	-	-	*	5)
+selectraws1/14698	0	7	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/14698	0	8	''	JJ	*	-	-	-	-	*	-
+selectraws1/14698	0	9	love	NN	*)	-	-	-	-	*	-
+selectraws1/14698	0	10	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/14698	0	11	endless	JJ	(UCP(NP*	-	-	-	-	*	-
+selectraws1/14698	0	12	oil	NN	*)	-	-	-	-	*	-
+selectraws1/14698	0	13	and	CC	*	-	-	-	-	*	-
+selectraws1/14698	0	14	stone	NN	*	-	-	-	-	*	-
+selectraws1/14698	0	15	''	''	*	-	-	-	-	*	-
+selectraws1/14698	0	16	and	CC	*	-	-	-	-	*	-
+selectraws1/14698	0	17	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/14698	0	18	''	JJ	*	-	-	-	-	*	-
+selectraws1/14698	0	19	mind	NN	*)	-	-	-	-	*	-
+selectraws1/14698	0	20	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/14698	0	21	pure	JJ	(NP*	-	-	-	-	*	-
+selectraws1/14698	0	22	machinery	NN	*))))))))))))	-	-	-	-	*	-
+selectraws1/14698	0	23	;	:	*	-	-	-	-	*	-
+selectraws1/14698	0	24	''	''	*	-	-	-	-	*	-
+selectraws1/14698	0	25	that	DT	(NP*	-	-	-	-	*	(5
+selectraws1/14698	0	26	being	NN	*)	-	-	-	-	*	5)
+selectraws1/14698	0	27	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/14698	0	28	Moloch	NNP	(NP(NP*)	-	-	-	-	*	(5)
+selectraws1/14698	0	29	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/14698	0	30	MOE-lock	NNP	(NP*)	-	-	-	-	*	-
+selectraws1/14698	0	31	-RRB-	-RRB-	*)))	-	-	-	-	*	-
+selectraws1/14698	0	32	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14698	0	0	Published	VBN	(TOP(S(S(VP*	-	-	-	-	*	-
+selectraws1/14698	0	1	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/14698	0	2	1955	CD	(NP*))	-	-	-	-	(DATE)	-
+selectraws1/14698	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/14698	0	4	Lawrence	NNP	(NP(NP*	-	-	-	-	(PERSON*	(7
+selectraws1/14698	0	5	Ferlinghetti	NNP	*	-	-	-	-	*)	7)
+selectraws1/14698	0	6	's	POS	*)	-	-	-	-	*	-
+selectraws1/14698	0	7	City	NNP	*	-	-	-	-	*	-
+selectraws1/14698	0	8	Lights	NNP	*	-	-	-	-	*	-
+selectraws1/14698	0	9	Bookstore	NNP	*))))	-	-	-	-	*	-
+selectraws1/14698	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/14698	0	11	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/14698	0	12	poem	NN	*)	-	-	-	-	*	1)
+selectraws1/14698	0	13	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/14698	0	14	dedicated	VBN	(VP*	-	-	-	-	*	-
+selectraws1/14698	0	15	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/14698	0	16	Carl	NNP	(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/14698	0	17	Solomon	NNP	*))))	-	-	-	-	*)	6)
+selectraws1/14698	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14698	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/14698	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/14698	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/14698	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/14698	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/14698	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/14698	0	6	poem	NN	*)	-	-	-	-	*	1)
+selectraws1/14698	0	7	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/14698	0	8	begins	VBZ	(S(VP*)))	-	-	-	-	*	-
+selectraws1/14698	0	9	''	''	*)	-	-	-	-	*	-
+selectraws1/14698	0	10	I	PRP	(SBAR(S(NP*)	-	-	-	-	*	-
+selectraws1/14698	0	11	saw	VBD	(VP*	-	-	-	-	*	-
+selectraws1/14698	0	12	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/14698	0	13	best	JJS	*	-	-	-	-	*	-
+selectraws1/14698	0	14	minds	NNS	*)	-	-	-	-	*	-
+selectraws1/14698	0	15	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14698	0	16	my	PRP$	(NP(NP*	-	-	-	-	*	-
+selectraws1/14698	0	17	generation	NN	*)	-	-	-	-	*	-
+selectraws1/14698	0	18	destroyed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/14698	0	19	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/14698	0	20	madness	NN	(NP*))	-	-	-	-	*	-
+selectraws1/14698	0	21	,	,	*	-	-	-	-	*	-
+selectraws1/14698	0	22	''	''	*	-	-	-	-	*	-
+selectraws1/14698	0	23	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/14698	0	24	Allen	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/14698	0	25	Ginsberg	NNP	*))))))))))	-	-	-	-	*)	2)
+selectraws1/14698	0	26	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

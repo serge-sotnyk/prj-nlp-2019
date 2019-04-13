@@ -1,0 +1,146 @@
+#begin document (notdoneraws/16512); part 000
+
+notdoneraws/16512	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/16512	0	1	character	NN	*)	-	-	-	-	*	1)
+notdoneraws/16512	0	2	delivers	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	3	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16512	0	4	monologue	NN	*)	-	-	-	-	*	-
+notdoneraws/16512	0	5	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/16512	0	6	ends	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	7	men	NNS	(NP*)	-	-	-	-	*	-
+notdoneraws/16512	0	8	like	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/16512	0	9	me	PRP	(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/16512	0	10	burn	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	11	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16512	0	12	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16512	0	13	hidden	JJ	*	-	-	-	-	*	-
+notdoneraws/16512	0	14	flame	NN	*)	-	-	-	-	*	-
+notdoneraws/16512	0	15	she	PRP	(SBAR(S(NP*)	-	-	-	-	*	(4)
+notdoneraws/16512	0	16	will	MD	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	17	find	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	18	love	NN	(NP*)	-	-	-	-	*	-
+notdoneraws/16512	0	19	without	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16512	0	20	scandal	NN	(NP*))))))))))))))))	-	-	-	-	*	-
+notdoneraws/16512	0	21	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16512	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/16512	0	1	another	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16512	0	2	scene	NN	*))	-	-	-	-	*	-
+notdoneraws/16512	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/16512	0	4	he	PRP	(NP*)	-	-	-	-	*	(1)
+notdoneraws/16512	0	5	refuses	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	6	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	7	see	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	8	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	9	look	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	10	at	IN	(PP*	-	-	-	-	*	(5
+notdoneraws/16512	0	11	another	DT	(NP*))	-	-	-	-	*	5)
+notdoneraws/16512	0	12	until	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/16512	0	13	she	PRP	(S(NP*)	-	-	-	-	*	(5)
+notdoneraws/16512	0	14	covers	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	15	her	PRP$	(NP*	-	-	-	-	*	(5)
+notdoneraws/16512	0	16	bosom	NN	*)	-	-	-	-	*	-
+notdoneraws/16512	0	17	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16512	0	18	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16512	0	19	handkerchief	NN	*))))))))	-	-	-	-	*	-
+notdoneraws/16512	0	20	because	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/16512	0	21	the	DT	(S(NP*	-	-	-	-	*	-
+notdoneraws/16512	0	22	flesh	NN	*)	-	-	-	-	*	-
+notdoneraws/16512	0	23	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	24	weak	JJ	(ADJP*))))))))	-	-	-	-	*	-
+notdoneraws/16512	0	25	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16512	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/16512	0	1	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	2	tricked	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	3	into	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16512	0	4	revealing	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	5	his	PRP$	(NP*	-	-	-	-	*	(1)
+notdoneraws/16512	0	6	true	JJ	*	-	-	-	-	*	-
+notdoneraws/16512	0	7	seductive	JJ	*	-	-	-	-	*	-
+notdoneraws/16512	0	8	nature	NN	*)	-	-	-	-	*	-
+notdoneraws/16512	0	9	while	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/16512	0	10	one	CD	(S(NP*	-	-	-	-	*	(2
+notdoneraws/16512	0	11	character	NN	*)	-	-	-	-	*	2)
+notdoneraws/16512	0	12	hides	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	13	under	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16512	0	14	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16512	0	15	table	NN	*))))))))))	-	-	-	-	*	-
+notdoneraws/16512	0	16	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16512	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/16512	0	1	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	2	arrested	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	3	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16512	0	4	revealing	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	5	state	NN	(NP*	-	-	-	-	*	-
+notdoneraws/16512	0	6	secrets	NNS	*)	-	-	-	-	*	-
+notdoneraws/16512	0	7	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16512	0	8	the	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/16512	0	9	work	NN	*	-	-	-	-	*	1)
+notdoneraws/16512	0	10	's	POS	*)	-	-	-	-	*	-
+notdoneraws/16512	0	11	end	NN	*)))))))	-	-	-	-	*	-
+notdoneraws/16512	0	12	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16512	0	0	Although	IN	(TOP(S(SBAR*	-	-	-	-	*	-
+notdoneraws/16512	0	1	he	PRP	(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/16512	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	3	able	JJ	(ADJP*	-	-	-	-	*	-
+notdoneraws/16512	0	4	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	5	get	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	6	Monsieur	NNP	(S(NP*	-	-	-	-	(PERSON*	(6
+notdoneraws/16512	0	7	Loyale	NNP	*)	-	-	-	-	*)	6)
+notdoneraws/16512	0	8	to	TO	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	9	read	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	10	an	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16512	0	11	eviction	NN	*	-	-	-	-	*	-
+notdoneraws/16512	0	12	notice	NN	*)))))))))))	-	-	-	-	*	-
+notdoneraws/16512	0	13	,	,	*	-	-	-	-	*	-
+notdoneraws/16512	0	14	his	PRP$	(NP*	-	-	-	-	*	(1)
+notdoneraws/16512	0	15	arrest	NN	*)	-	-	-	-	*	-
+notdoneraws/16512	0	16	leads	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	17	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/16512	0	18	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16512	0	19	good	JJ	*	-	-	-	-	*	-
+notdoneraws/16512	0	20	news	NN	*	-	-	-	-	*	-
+notdoneraws/16512	0	21	that	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/16512	0	22	Valere	NNP	(S(NP*	-	-	-	-	(PERSON)	(7)
+notdoneraws/16512	0	23	and	CC	*	-	-	-	-	*	-
+notdoneraws/16512	0	24	Mariane	NNP	*)	-	-	-	-	(PERSON)	(8)
+notdoneraws/16512	0	25	are	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	26	getting	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	27	married	JJ	(ADJP*))))))))	-	-	-	-	*	-
+notdoneraws/16512	0	28	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16512	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/16512	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/16512	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/16512	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/16512	0	4	identify	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/16512	0	6	character	NN	*)	-	-	-	-	*	1)
+notdoneraws/16512	0	7	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/16512	0	8	acts	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	9	religiously	RB	(ADJP*	-	-	-	-	*	-
+notdoneraws/16512	0	10	hypocritical	JJ	*)	-	-	-	-	*	-
+notdoneraws/16512	0	11	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16512	0	12	Orgon	NNP	(NP(NP(NP*	-	-	-	-	(ORGANIZATION)	(2)
+notdoneraws/16512	0	13	's	POS	*)	-	-	-	-	*	-
+notdoneraws/16512	0	14	estate	NN	*)	-	-	-	-	*	-
+notdoneraws/16512	0	15	,	,	*	-	-	-	-	*	-
+notdoneraws/16512	0	16	a	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/16512	0	17	title	NN	*	-	-	-	-	*	-
+notdoneraws/16512	0	18	character	NN	*)	-	-	-	-	*	-
+notdoneraws/16512	0	19	created	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16512	0	20	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16512	0	21	Moliere	NNP	(NP*)))))))))))	-	-	-	-	(ORGANIZATION)	(3)|1)
+notdoneraws/16512	0	22	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,157 @@
+#begin document (selectraws1/16703); part 000
+
+selectraws1/16703	0	0	When	WRB	(TOP(S(S(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/16703	0	1	confronted	VBN	(S(VP*	-	-	-	-	*	-
+selectraws1/16703	0	2	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	3	a	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws1/16703	0	4	group	NN	*)	-	-	-	-	*	-
+selectraws1/16703	0	5	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	6	four	CD	(NP*	-	-	-	-	*	-
+selectraws1/16703	0	7	boys	NNS	*)))))))	-	-	-	-	*	11)
+selectraws1/16703	0	8	,	,	*	-	-	-	-	*	-
+selectraws1/16703	0	9	one	CD	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16703	0	10	character	NN	*)	-	-	-	-	*	-
+selectraws1/16703	0	11	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	12	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16703	0	13	work	NN	*)))	-	-	-	-	*	1)|1)
+selectraws1/16703	0	14	scares	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	15	them	PRP	(NP*)	-	-	-	-	*	(11)
+selectraws1/16703	0	16	away	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/16703	0	17	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	18	cutting	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/16703	0	19	off	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/16703	0	20	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16703	0	21	tip	NN	*)	-	-	-	-	*	-
+selectraws1/16703	0	22	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	23	her	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/16703	0	24	finger	NN	*))))))))	-	-	-	-	*	-
+selectraws1/16703	0	25	;	:	*	-	-	-	-	*	-
+selectraws1/16703	0	26	that	DT	(S(NP*	-	-	-	-	*	(1
+selectraws1/16703	0	27	character	NN	*)	-	-	-	-	*	1)
+selectraws1/16703	0	28	later	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/16703	0	29	learns	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	30	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16703	0	31	Albert	NNP	(S(NP*	-	-	-	-	(PERSON*	(10
+selectraws1/16703	0	32	Jacks	NNP	*)	-	-	-	-	*)	10)
+selectraws1/16703	0	33	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	34	the	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/16703	0	35	real	JJ	*	-	-	-	-	*	-
+selectraws1/16703	0	36	name	NN	*)	-	-	-	-	*	-
+selectraws1/16703	0	37	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	38	her	PRP$	(NP(NP*	-	-	-	-	*	(10|(1)
+selectraws1/16703	0	39	lover	NN	*)	-	-	-	-	*	10)|10)
+selectraws1/16703	0	40	,	,	*	-	-	-	-	*	-
+selectraws1/16703	0	41	Ajax	NNP	(NP*)))))))))	-	-	-	-	(LOCATION)	(10)
+selectraws1/16703	0	42	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16703	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/16703	0	1	title	NN	*	-	-	-	-	*	-
+selectraws1/16703	0	2	character	NN	*)	-	-	-	-	*	-
+selectraws1/16703	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16703	0	5	work	NN	*)))	-	-	-	-	*	1)|1)
+selectraws1/16703	0	6	accidentally	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/16703	0	7	causes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	8	Chicken	NNP	(S(NP*	-	-	-	-	*	(4
+selectraws1/16703	0	9	Little	NNP	*)	-	-	-	-	*	4)
+selectraws1/16703	0	10	to	TO	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	11	drown	VB	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	12	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16703	0	13	they	PRP	(S(NP*)	-	-	-	-	*	(5)
+selectraws1/16703	0	14	are	VBP	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	15	playing	VBG	(VP*))))))))	-	-	-	-	*	-
+selectraws1/16703	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16703	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	-
+selectraws1/16703	0	1	cowbell	NN	*)	-	-	-	-	*	-
+selectraws1/16703	0	2	and	CC	*	-	-	-	-	*	-
+selectraws1/16703	0	3	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16703	0	4	noose	NN	*))	-	-	-	-	*	-
+selectraws1/16703	0	5	are	VBP	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	6	carried	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	7	through	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	8	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16703	0	9	streets	NNS	*)	-	-	-	-	*	-
+selectraws1/16703	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	11	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16703	0	12	Bottom	NNP	*))))	-	-	-	-	*	-
+selectraws1/16703	0	13	each	DT	(NP*	-	-	-	-	*	-
+selectraws1/16703	0	14	year	NN	*)	-	-	-	-	*	-
+selectraws1/16703	0	15	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	16	National	NNP	(NP*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/16703	0	17	Suicide	NNP	*	-	-	-	-	*)	-
+selectraws1/16703	0	18	Day	NNP	*))	-	-	-	-	*	-
+selectraws1/16703	0	19	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	20	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/16703	0	21	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws1/16703	0	22	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws1/16703	0	23	Shadrach	NNP	(NP*))	-	-	-	-	(LOCATION)	(6)
+selectraws1/16703	0	24	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	25	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16703	0	26	work	NN	*))))	-	-	-	-	*	1)
+selectraws1/16703	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16703	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	(7
+selectraws1/16703	0	1	one-legged	JJ	*	-	-	-	-	*	-
+selectraws1/16703	0	2	character	NN	*)	-	-	-	-	*	-
+selectraws1/16703	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16703	0	5	work	NN	*)))	-	-	-	-	*	7)|1)
+selectraws1/16703	0	6	jumps	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	7	out	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	9	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16703	0	10	window	NN	*)))	-	-	-	-	*	-
+selectraws1/16703	0	11	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/16703	0	12	Hannah	NNP	(S(NP*)	-	-	-	-	(PERSON)	(8)
+selectraws1/16703	0	13	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	14	accidentally	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/16703	0	15	lit	VBD	*	-	-	-	-	*	-
+selectraws1/16703	0	16	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	17	fire	NN	(NP*))	-	-	-	-	*	-
+selectraws1/16703	0	18	,	,	*	-	-	-	-	*	-
+selectraws1/16703	0	19	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16703	0	20	Eva	NNP	(S(NP*	-	-	-	-	(ORGANIZATION*	(7
+selectraws1/16703	0	21	Peace	NNP	*)	-	-	-	-	*)	7)
+selectraws1/16703	0	22	had	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	23	earlier	RB	*	-	-	-	-	*	-
+selectraws1/16703	0	24	burned	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	25	the	DT	(NP*	-	-	-	-	*	(9
+selectraws1/16703	0	26	heroin-addicted	JJ	*	-	-	-	-	*	9)
+selectraws1/16703	0	27	Plum	NNP	*)	-	-	-	-	*	(9)
+selectraws1/16703	0	28	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	29	death	NN	(NP*)))))))))))	-	-	-	-	*	-
+selectraws1/16703	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16703	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16703	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/16703	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/16703	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/16703	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/16703	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16703	0	6	work	NN	*)	-	-	-	-	*	-
+selectraws1/16703	0	7	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	8	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16703	0	9	friendship	NN	*)	-	-	-	-	*	-
+selectraws1/16703	0	10	between	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	11	Nel	NNP	(NP(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/16703	0	12	Wright	NNP	*)	-	-	-	-	*)	2)
+selectraws1/16703	0	13	and	CC	*	-	-	-	-	*	-
+selectraws1/16703	0	14	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16703	0	15	title	NN	*	-	-	-	-	*	-
+selectraws1/16703	0	16	character	NN	*)	-	-	-	-	*	1)|1)
+selectraws1/16703	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/16703	0	18	a	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16703	0	19	work	NN	*)	-	-	-	-	*	-
+selectraws1/16703	0	20	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16703	0	21	Toni	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/16703	0	22	Morrison	NNP	*)))))))))	-	-	-	-	*)	3)|1)
+selectraws1/16703	0	23	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

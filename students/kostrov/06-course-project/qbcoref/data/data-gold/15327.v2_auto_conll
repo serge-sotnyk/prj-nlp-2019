@@ -1,0 +1,133 @@
+#begin document (notdoneraws/15327); part 000
+
+notdoneraws/15327	0	0	At	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	1	one	CD	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15327	0	2	point	NN	*)	-	-	-	-	*	-
+notdoneraws/15327	0	3	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/15327	0	5	work	NN	*))))	-	-	-	-	*	1)
+notdoneraws/15327	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/15327	0	7	two	CD	(NP*	-	-	-	-	*	(4
+notdoneraws/15327	0	8	characters	NNS	*)	-	-	-	-	*	4)
+notdoneraws/15327	0	9	approach	VBP	(VP(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	10	an	DT	(NP*	-	-	-	-	*	-
+notdoneraws/15327	0	11	empty	JJ	*	-	-	-	-	*	-
+notdoneraws/15327	0	12	boat	NN	*))	-	-	-	-	*	-
+notdoneraws/15327	0	13	and	CC	*	-	-	-	-	*	-
+notdoneraws/15327	0	14	imagine	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	15	themselves	PRP	(NP*)	-	-	-	-	*	(4)
+notdoneraws/15327	0	16	traveling	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	17	two-thousand	JJ	(NP*	-	-	-	-	*	-
+notdoneraws/15327	0	18	miles	NNS	*)))))	-	-	-	-	*	-
+notdoneraws/15327	0	19	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15327	0	0	At	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	1	another	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15327	0	2	point	NN	*)	-	-	-	-	*	-
+notdoneraws/15327	0	3	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/15327	0	5	work	NN	*))))	-	-	-	-	*	1)
+notdoneraws/15327	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/15327	0	7	Countess	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(5
+notdoneraws/15327	0	8	Trifaldi	NNP	*)	-	-	-	-	*)	5)
+notdoneraws/15327	0	9	tells	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	10	the	DT	(S(NP*	-	-	-	-	*	(1
+notdoneraws/15327	0	11	central	JJ	*	-	-	-	-	*	-
+notdoneraws/15327	0	12	character	NN	*)	-	-	-	-	*	1)
+notdoneraws/15327	0	13	to	TO	(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	14	board	VB	(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	15	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/15327	0	16	flying	VBG	*	-	-	-	-	*	-
+notdoneraws/15327	0	17	wooden	JJ	*	-	-	-	-	*	-
+notdoneraws/15327	0	18	horse	NN	*)))))	-	-	-	-	*	-
+notdoneraws/15327	0	19	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15327	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(6
+notdoneraws/15327	0	1	character	NN	*)	-	-	-	-	*	-
+notdoneraws/15327	0	2	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	3	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/15327	0	4	work	NN	*)))	-	-	-	-	*	1)|6)
+notdoneraws/15327	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	6	named	VBN	(VP(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	7	Samson	NNP	(S(NP*	-	-	-	-	(PERSON*	(6
+notdoneraws/15327	0	8	Carrasco	NNP	*)))	-	-	-	-	*)	6)
+notdoneraws/15327	0	9	and	CC	*	-	-	-	-	*	-
+notdoneraws/15327	0	10	disguises	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	11	himself	PRP	(NP*)	-	-	-	-	*	(6)
+notdoneraws/15327	0	12	as	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	13	the	DT	(NP(NP*	-	-	-	-	*	(7
+notdoneraws/15327	0	14	Knight	NNP	*)	-	-	-	-	*	-
+notdoneraws/15327	0	15	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	16	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/15327	0	17	White	NNP	*	-	-	-	-	(LOCATION*	-
+notdoneraws/15327	0	18	Moon	NNP	*))))	-	-	-	-	*)	7)
+notdoneraws/15327	0	19	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	20	challenge	VB	(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	21	the	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/15327	0	22	title	NN	*	-	-	-	-	*	-
+notdoneraws/15327	0	23	character	NN	*)	-	-	-	-	*	1)
+notdoneraws/15327	0	24	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	25	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/15327	0	26	duel	NN	*))))))))	-	-	-	-	*	-
+notdoneraws/15327	0	27	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15327	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/15327	0	1	novel	NN	*)	-	-	-	-	*	1)
+notdoneraws/15327	0	2	focuses	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	3	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	4	a	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/15327	0	5	man	NN	*)	-	-	-	-	*	-
+notdoneraws/15327	0	6	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	7	search	NN	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/15327	0	8	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	9	his	PRP$	(NP(NP*	-	-	-	-	*	(8|(1)
+notdoneraws/15327	0	10	love	NN	*	-	-	-	-	*	8)
+notdoneraws/15327	0	11	Dulcinea	NN	*)	-	-	-	-	*	(8)|1)
+notdoneraws/15327	0	12	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/15327	0	13	rides	NNS	(S(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	14	the	DT	(NP*	-	-	-	-	*	(9
+notdoneraws/15327	0	15	steed	JJ	*	-	-	-	-	*	9)
+notdoneraws/15327	0	16	Rocinante	NNP	(UCP*	-	-	-	-	*	(9)
+notdoneraws/15327	0	17	and	CC	*	-	-	-	-	*	-
+notdoneraws/15327	0	18	attacks	NNS	*)	-	-	-	-	*	-
+notdoneraws/15327	0	19	windmills	NNS	*))))))))))	-	-	-	-	*	(10)
+notdoneraws/15327	0	20	,	,	*	-	-	-	-	*	-
+notdoneraws/15327	0	21	believing	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	22	them	PRP	(S(NP*)	-	-	-	-	*	(10)
+notdoneraws/15327	0	23	to	TO	(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	24	be	VB	(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	25	giants	NNS	(NP*)))))))	-	-	-	-	*	-
+notdoneraws/15327	0	26	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15327	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/15327	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/15327	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/15327	0	4	identify	VB	(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	5	this	DT	(NP(NP(NP*	-	-	-	-	*	(1
+notdoneraws/15327	0	6	novel	NN	*)	-	-	-	-	*	-
+notdoneraws/15327	0	7	featuring	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	8	Sancho	NNP	(NP(NP*	-	-	-	-	(PERSON*	(2|(4
+notdoneraws/15327	0	9	Panza	NNP	*)	-	-	-	-	*)	2)
+notdoneraws/15327	0	10	and	CC	*	-	-	-	-	*	-
+notdoneraws/15327	0	11	the	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/15327	0	12	title	NN	*	-	-	-	-	*	-
+notdoneraws/15327	0	13	man	NN	*)	-	-	-	-	*	-
+notdoneraws/15327	0	14	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	15	La	NNP	(NP*	-	-	-	-	*	-
+notdoneraws/15327	0	16	Mancha	NNP	*))))))	-	-	-	-	*	4)|1)|1)
+notdoneraws/15327	0	17	,	,	*	-	-	-	-	*	-
+notdoneraws/15327	0	18	written	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15327	0	19	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15327	0	20	Miguel	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(3
+notdoneraws/15327	0	21	de	NNP	*	-	-	-	-	*	-
+notdoneraws/15327	0	22	Cervantes	NNP	*)))))	-	-	-	-	*)	3)
+notdoneraws/15327	0	23	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

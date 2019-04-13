@@ -1,0 +1,98 @@
+#begin document (selectraws/17900); part 000
+
+selectraws/17900	0	0	In	IN	(TOP(S(S(PP*	-	-	-	-	*	-
+selectraws/17900	0	1	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/17900	0	2	novel	NN	*))	-	-	-	-	*	1)
+selectraws/17900	0	3	,	,	*	-	-	-	-	*	-
+selectraws/17900	0	4	a	DT	(NP*	-	-	-	-	*	-
+selectraws/17900	0	5	town	NN	*)	-	-	-	-	*	-
+selectraws/17900	0	6	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/17900	0	7	fooled	VBN	(VP*	-	-	-	-	*	-
+selectraws/17900	0	8	by	IN	(PP*	-	-	-	-	*	-
+selectraws/17900	0	9	two	CD	(NP(NP*	-	-	-	-	*	(8
+selectraws/17900	0	10	men	NNS	*)	-	-	-	-	*	8)
+selectraws/17900	0	11	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/17900	0	12	pull	VBP	(S(VP*	-	-	-	-	*	-
+selectraws/17900	0	13	off	IN	(PP*	-	-	-	-	*	-
+selectraws/17900	0	14	the	DT	(NP*	-	-	-	-	*	-
+selectraws/17900	0	15	Royal	NNP	*	-	-	-	-	*	-
+selectraws/17900	0	16	Nonesuch	NNP	*))))))))))	-	-	-	-	*	-
+selectraws/17900	0	17	,	,	*	-	-	-	-	*	-
+selectraws/17900	0	18	and	CC	*	-	-	-	-	*	-
+selectraws/17900	0	19	those	DT	(S(NP*	-	-	-	-	*	(8
+selectraws/17900	0	20	men	NNS	*)	-	-	-	-	*	8)
+selectraws/17900	0	21	go	VBP	(VP*	-	-	-	-	*	-
+selectraws/17900	0	22	on	IN	(PP*)	-	-	-	-	*	-
+selectraws/17900	0	23	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/17900	0	24	steal	VB	(VP*	-	-	-	-	*	-
+selectraws/17900	0	25	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/17900	0	26	property	NN	*)	-	-	-	-	*	-
+selectraws/17900	0	27	of	IN	(PP*	-	-	-	-	*	-
+selectraws/17900	0	28	the	DT	(NP*	-	-	-	-	*	(6
+selectraws/17900	0	29	late	JJ	*	-	-	-	-	*	-
+selectraws/17900	0	30	Peter	NNP	*	-	-	-	-	(PERSON*	-
+selectraws/17900	0	31	Wilkes	NNP	*))))))))	-	-	-	-	*)	6)
+selectraws/17900	0	32	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/17900	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(7
+selectraws/17900	0	1	Widow	NNP	*	-	-	-	-	*	-
+selectraws/17900	0	2	Douglas	NNP	*)	-	-	-	-	(PERSON)	7)
+selectraws/17900	0	3	wants	VBZ	(VP*	-	-	-	-	*	-
+selectraws/17900	0	4	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/17900	0	5	sivilize	VB	(VP*	-	-	-	-	*	-
+selectraws/17900	0	6	the	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws/17900	0	7	title	NN	*	-	-	-	-	*	-
+selectraws/17900	0	8	character	NN	*)	-	-	-	-	*	3)
+selectraws/17900	0	9	,	,	*	-	-	-	-	*	-
+selectraws/17900	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/17900	0	11	misses	VBZ	(S(VP(VP*	-	-	-	-	*	-
+selectraws/17900	0	12	a	DT	(NP(NP(NP*	-	-	-	-	*	-
+selectraws/17900	0	13	turn	NN	*)	-	-	-	-	*	-
+selectraws/17900	0	14	at	IN	(PP*	-	-	-	-	*	-
+selectraws/17900	0	15	Cairo	NNP	(NP*)))	-	-	-	-	(LOCATION)	-
+selectraws/17900	0	16	-LRB-	-LRB-	*	-	-	-	-	*	-
+selectraws/17900	0	17	''	''	*	-	-	-	-	*	-
+selectraws/17900	0	18	KAY-row	NNP	(NP*)	-	-	-	-	*	-
+selectraws/17900	0	19	''	''	*	-	-	-	-	*	-
+selectraws/17900	0	20	-RRB-	-RRB-	*))	-	-	-	-	*	-
+selectraws/17900	0	21	and	CC	*	-	-	-	-	*	-
+selectraws/17900	0	22	keeps	VBZ	(VP*	-	-	-	-	*	-
+selectraws/17900	0	23	floating	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/17900	0	24	south	RB	(ADVP*))))))))))))	-	-	-	-	*	-
+selectraws/17900	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/17900	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/17900	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/17900	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/17900	0	3	,	,	*	-	-	-	-	*	-
+selectraws/17900	0	4	name	NN	(NP*)	-	-	-	-	*	-
+selectraws/17900	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/17900	0	6	novel	NN	*)	-	-	-	-	*	1)
+selectraws/17900	0	7	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/17900	0	8	sees	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/17900	0	9	Jim	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(4)
+selectraws/17900	0	10	and	CC	*	-	-	-	-	*	-
+selectraws/17900	0	11	the	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws/17900	0	12	title	NN	*	-	-	-	-	*	-
+selectraws/17900	0	13	friend	NN	*)	-	-	-	-	*	-
+selectraws/17900	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws/17900	0	15	Tom	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws/17900	0	16	Sawyer	NNP	*))))))))	-	-	-	-	*)	3)|2)
+selectraws/17900	0	17	travel	VBP	(VP*	-	-	-	-	*	-
+selectraws/17900	0	18	down	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/17900	0	19	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/17900	0	20	Mississippi	NNP	*	-	-	-	-	(LOCATION*	-
+selectraws/17900	0	21	River	NNP	*)	-	-	-	-	*)	-
+selectraws/17900	0	22	,	,	*	-	-	-	-	*	-
+selectraws/17900	0	23	a	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/17900	0	24	work	NN	*)	-	-	-	-	*	-
+selectraws/17900	0	25	by	IN	(PP*	-	-	-	-	*	-
+selectraws/17900	0	26	Mark	NNP	(NP*	-	-	-	-	(PERSON*	(5
+selectraws/17900	0	27	Twain	NNP	*)))))	-	-	-	-	*)	5)|1)
+selectraws/17900	0	28	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

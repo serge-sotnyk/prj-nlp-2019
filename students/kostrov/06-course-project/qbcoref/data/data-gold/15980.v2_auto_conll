@@ -1,0 +1,155 @@
+#begin document (selectraws1/15980); part 000
+
+selectraws1/15980	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/15980	0	1	a	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/15980	0	2	play	NN	*)	-	-	-	-	*	-
+selectraws1/15980	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15980	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/15980	0	5	author	NN	*))))	-	-	-	-	*	4)|1)
+selectraws1/15980	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/15980	0	7	one	CD	(NP*	-	-	-	-	*	(5
+selectraws1/15980	0	8	character	NN	*)	-	-	-	-	*	5)
+selectraws1/15980	0	9	recalls	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15980	0	10	sneaking	VBG	(S(VP(VP*	-	-	-	-	*	-
+selectraws1/15980	0	11	into	IN	(PP*	-	-	-	-	*	-
+selectraws1/15980	0	12	a	FW	(NP*))	-	-	-	-	*	-
+selectraws1/15980	0	13	''	''	*	-	-	-	-	*	-
+selectraws1/15980	0	14	Turkish	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws1/15980	0	15	Pavillion	NN	*)	-	-	-	-	*	-
+selectraws1/15980	0	16	''	''	*	-	-	-	-	*	-
+selectraws1/15980	0	17	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/15980	0	18	turns	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/15980	0	19	out	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/15980	0	20	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/15980	0	21	be	VB	(VP*	-	-	-	-	*	-
+selectraws1/15980	0	22	an	DT	(NP*	-	-	-	-	*	-
+selectraws1/15980	0	23	outhouse	NN	*)))))))))	-	-	-	-	*	-
+selectraws1/15980	0	24	,	,	*	-	-	-	-	*	-
+selectraws1/15980	0	25	and	CC	*	-	-	-	-	*	-
+selectraws1/15980	0	26	nearly	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/15980	0	27	dying	VBG	*	-	-	-	-	*	-
+selectraws1/15980	0	28	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/15980	0	29	falling	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/15980	0	30	asleep	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/15980	0	31	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15980	0	32	some	DT	(NP*	-	-	-	-	*	-
+selectraws1/15980	0	33	alder	NN	*	-	-	-	-	*	-
+selectraws1/15980	0	34	leaves	NNS	*)))))))))	-	-	-	-	*	-
+selectraws1/15980	0	35	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15980	0	0	Another	DT	(TOP(S(NP(NP*)	-	-	-	-	*	(2
+selectraws1/15980	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15980	0	2	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/15980	0	3	plays	NNS	*)))	-	-	-	-	*	2)
+selectraws1/15980	0	4	is	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/15980	0	5	partly	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/15980	0	6	set	VBN	*	-	-	-	-	*	-
+selectraws1/15980	0	7	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15980	0	8	Fingal	NNP	(NP(NP*	-	-	-	-	(LOCATION)	-
+selectraws1/15980	0	9	's	POS	*)	-	-	-	-	*	-
+selectraws1/15980	0	10	Cave	NNP	*))))	-	-	-	-	*	-
+selectraws1/15980	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/15980	0	12	and	CC	*	-	-	-	-	*	-
+selectraws1/15980	0	13	includes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15980	0	14	a	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws1/15980	0	15	character	NN	*)	-	-	-	-	*	6)
+selectraws1/15980	0	16	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/15980	0	17	plays	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/15980	0	18	Bach	NNP	(NP(NP(NP*	-	-	-	-	(PERSON)	(8|(7)
+selectraws1/15980	0	19	's	POS	*)	-	-	-	-	*	-
+selectraws1/15980	0	20	Toccata	NNP	*)	-	-	-	-	*	-
+selectraws1/15980	0	21	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15980	0	22	Fugue	NNP	(NP*)))	-	-	-	-	*	8)
+selectraws1/15980	0	23	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/15980	0	24	a	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws1/15980	0	25	prologue	NN	*)	-	-	-	-	*	9)
+selectraws1/15980	0	26	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/15980	0	27	sees	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/15980	0	28	Indra	NNP	(S(NP(NP*	-	-	-	-	(ORGANIZATION)	(11|(10)
+selectraws1/15980	0	29	's	POS	*)	-	-	-	-	*	-
+selectraws1/15980	0	30	daughter	NN	*)	-	-	-	-	*	11)
+selectraws1/15980	0	31	incarnated	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15980	0	32	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/15980	0	33	Agnes	NNS	(NP*)))))))))))))))	-	-	-	-	(PERSON)	(11)
+selectraws1/15980	0	34	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15980	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/15980	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws1/15980	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/15980	0	3	another	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/15980	0	4	play	NN	*)	-	-	-	-	*	3)
+selectraws1/15980	0	5	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/15980	0	6	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/15980	0	7	an	DT	(S(NP(NP*	-	-	-	-	*	(12
+selectraws1/15980	0	8	apparition	NN	*)	-	-	-	-	*	-
+selectraws1/15980	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15980	0	10	a	DT	(NP*	-	-	-	-	*	(13
+selectraws1/15980	0	11	Milkmaid	NN	*)))	-	-	-	-	*	13)|12)
+selectraws1/15980	0	12	appears	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15980	0	13	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/15980	0	14	Arkenholz	NNP	(NP(NP*)	-	-	-	-	*	(14)
+selectraws1/15980	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/15980	0	16	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/15980	0	17	rejects	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/15980	0	18	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/15980	0	19	teachings	NNS	*)	-	-	-	-	*	-
+selectraws1/15980	0	20	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15980	0	21	the	DT	(NP*	-	-	-	-	*	(15
+selectraws1/15980	0	22	sinister	JJ	*	-	-	-	-	*	-
+selectraws1/15980	0	23	wheelchair	NN	*))))))))	-	-	-	-	*	-
+selectraws1/15980	0	24	bound	VBN	(NP*	-	-	-	-	*	-
+selectraws1/15980	0	25	Hummel	NN	*))))))	-	-	-	-	(PERSON)	15)
+selectraws1/15980	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15980	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws1/15980	0	1	also	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/15980	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/15980	0	3	a	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/15980	0	4	play	NN	*)	-	-	-	-	*	4)
+selectraws1/15980	0	5	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/15980	0	6	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/15980	0	7	the	DT	(S(NP*	-	-	-	-	*	(5
+selectraws1/15980	0	8	valet	NN	*	-	-	-	-	*	5)
+selectraws1/15980	0	9	Jean	NNP	*)	-	-	-	-	*	(5)
+selectraws1/15980	0	10	brings	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15980	0	11	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/15980	0	12	razor	NN	*)	-	-	-	-	*	-
+selectraws1/15980	0	13	with	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/15980	0	14	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/15980	0	15	the	DT	(S(NP*	-	-	-	-	*	(4
+selectraws1/15980	0	16	title	NN	*	-	-	-	-	*	-
+selectraws1/15980	0	17	character	NN	*)	-	-	-	-	*	4)
+selectraws1/15980	0	18	intends	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15980	0	19	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/15980	0	20	commit	VB	(VP*	-	-	-	-	*	-
+selectraws1/15980	0	21	suicide	NN	(NP*)))))))))))))	-	-	-	-	*	-
+selectraws1/15980	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15980	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/15980	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/15980	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/15980	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/15980	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/15980	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/15980	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws1/15980	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15980	0	8	A	DT	(NP(NP(NP*	-	-	-	-	*	(2
+selectraws1/15980	0	9	Dream	NNP	*	-	-	-	-	*	-
+selectraws1/15980	0	10	Play	NN	*)	-	-	-	-	*	2)
+selectraws1/15980	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/15980	0	12	The	DT	(NP*	-	-	-	-	*	(3
+selectraws1/15980	0	13	Ghost	NN	*	-	-	-	-	*	-
+selectraws1/15980	0	14	Sonata	NNP	*)	-	-	-	-	*	3)
+selectraws1/15980	0	15	,	,	*)	-	-	-	-	*	-
+selectraws1/15980	0	16	and	CC	*	-	-	-	-	*	-
+selectraws1/15980	0	17	Miss	NNP	(NP*	-	-	-	-	*	(4
+selectraws1/15980	0	18	Julie	NNP	*))))	-	-	-	-	(PERSON)	4)|1)
+selectraws1/15980	0	19	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

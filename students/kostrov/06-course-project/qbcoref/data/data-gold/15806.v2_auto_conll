@@ -1,0 +1,113 @@
+#begin document (selectraws1/15806); part 000
+
+selectraws1/15806	0	0	One	CD	(TOP(S(S(NP(NP*	-	-	-	-	*	(4
+selectraws1/15806	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws1/15806	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15806	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/15806	0	4	novel	NN	*)))	-	-	-	-	*	1)|4)
+selectraws1/15806	0	5	dreams	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	6	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/15806	0	7	mice	NNS	(S(NP*)	-	-	-	-	*	-
+selectraws1/15806	0	8	are	VBP	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	9	crawling	VBG	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	10	all	DT	(NP(NP*)	-	-	-	-	*	-
+selectraws1/15806	0	11	over	IN	(PP*	-	-	-	-	*	-
+selectraws1/15806	0	12	him	PRP	(NP*)))))))))	-	-	-	-	*	(4)
+selectraws1/15806	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/15806	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/15806	0	15	another	DT	(S(NP*)	-	-	-	-	*	(3)
+selectraws1/15806	0	16	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	17	read	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	18	the	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/15806	0	19	biblical	JJ	*	-	-	-	-	*	-
+selectraws1/15806	0	20	story	NN	*)	-	-	-	-	*	-
+selectraws1/15806	0	21	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15806	0	22	Lazarus	NNP	(NP*))))))	-	-	-	-	(PERSON)	(6)|5)
+selectraws1/15806	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15806	0	0	That	DT	(TOP(S(S(NP*	-	-	-	-	*	(3
+selectraws1/15806	0	1	character	NN	*)	-	-	-	-	*	3)
+selectraws1/15806	0	2	receives	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	3	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/15806	0	4	cross	NN	*)	-	-	-	-	*	-
+selectraws1/15806	0	5	near	IN	(PP*	-	-	-	-	*	-
+selectraws1/15806	0	6	the	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws1/15806	0	7	end	NN	*)	-	-	-	-	*	-
+selectraws1/15806	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15806	0	9	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/15806	0	10	work	NN	*)))))))	-	-	-	-	*	1)|7)
+selectraws1/15806	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/15806	0	12	and	CC	*	-	-	-	-	*	-
+selectraws1/15806	0	13	debates	NNS	(S(NP*)	-	-	-	-	*	-
+selectraws1/15806	0	14	Lebezyatnikov	VBP	(VP*))	-	-	-	-	*	(8)
+selectraws1/15806	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15806	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/15806	0	1	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/15806	0	2	novel	NN	*))	-	-	-	-	*	1)
+selectraws1/15806	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/15806	0	4	the	DT	(NP*	-	-	-	-	*	(9
+selectraws1/15806	0	5	dastardly	JJ	*	-	-	-	-	*	-
+selectraws1/15806	0	6	Pyotr	NNP	*	-	-	-	-	(PERSON*	-
+selectraws1/15806	0	7	Luzhin	NNP	*)	-	-	-	-	*)	9)
+selectraws1/15806	0	8	becomes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	9	engaged	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	10	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/15806	0	11	the	DT	(NP(NP*	-	-	-	-	*	(3|(10
+selectraws1/15806	0	12	protagonist	NN	*	-	-	-	-	*	3)
+selectraws1/15806	0	13	's	POS	*)	-	-	-	-	*	-
+selectraws1/15806	0	14	sister	NN	*))))	-	-	-	-	*	10)
+selectraws1/15806	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15806	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(3
+selectraws1/15806	0	1	central	JJ	*	-	-	-	-	*	-
+selectraws1/15806	0	2	character	NN	*)	-	-	-	-	*	3)
+selectraws1/15806	0	3	is	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/15806	0	4	questioned	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	5	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15806	0	6	Porfiry	NNP	(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/15806	0	7	Petrovich	NNP	*))))	-	-	-	-	*)	11)
+selectraws1/15806	0	8	,	,	*	-	-	-	-	*	-
+selectraws1/15806	0	9	and	CC	*	-	-	-	-	*	-
+selectraws1/15806	0	10	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	11	befriended	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	12	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15806	0	13	Razumikhin	NNP	(NP(NP*)	-	-	-	-	(ORGANIZATION)	(12)
+selectraws1/15806	0	14	,	,	*	-	-	-	-	*	-
+selectraws1/15806	0	15	as	RB	(CONJP*	-	-	-	-	*	-
+selectraws1/15806	0	16	well	RB	*	-	-	-	-	*	-
+selectraws1/15806	0	17	as	IN	*)	-	-	-	-	*	-
+selectraws1/15806	0	18	the	DT	(NP*	-	-	-	-	*	(13
+selectraws1/15806	0	19	former	JJ	*	-	-	-	-	*	-
+selectraws1/15806	0	20	prostitute	NN	*	-	-	-	-	*	13)
+selectraws1/15806	0	21	Sonya	NNP	*))))))	-	-	-	-	(PERSON)	(13)
+selectraws1/15806	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15806	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/15806	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/15806	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/15806	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/15806	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/15806	0	6	novel	NN	*)	-	-	-	-	*	-
+selectraws1/15806	0	7	beginning	VBG	(PP*	-	-	-	-	*	-
+selectraws1/15806	0	8	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/15806	0	9	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/15806	0	10	murder	NN	*)	-	-	-	-	*	-
+selectraws1/15806	0	11	committed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	12	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15806	0	13	Raskolnikov	NNP	(NP(NP*)	-	-	-	-	(ORGANIZATION)	(3)|1)
+selectraws1/15806	0	14	,	,	*	-	-	-	-	*	-
+selectraws1/15806	0	15	written	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15806	0	16	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15806	0	17	Fyodor	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/15806	0	18	Dostoevsky	NNP	*))))))))))	-	-	-	-	*)	2)
+selectraws1/15806	0	19	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

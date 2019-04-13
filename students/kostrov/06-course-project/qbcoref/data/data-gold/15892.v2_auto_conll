@@ -1,0 +1,114 @@
+#begin document (selectraws/15892); part 000
+
+selectraws/15892	0	0	One	CD	(TOP(S(S(NP(NP*	-	-	-	-	*	(2
+selectraws/15892	0	1	figure	NN	*)	-	-	-	-	*	-
+selectraws/15892	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15892	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15892	0	4	novel	NN	*)))	-	-	-	-	*	2)|1)
+selectraws/15892	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15892	0	6	able	JJ	(ADJP*	-	-	-	-	*	-
+selectraws/15892	0	7	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/15892	0	8	secure	VB	(VP*	-	-	-	-	*	-
+selectraws/15892	0	9	a	DT	(NP*	-	-	-	-	*	-
+selectraws/15892	0	10	tavern	NN	*	-	-	-	-	*	-
+selectraws/15892	0	11	room	NN	*)	-	-	-	-	*	-
+selectraws/15892	0	12	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15892	0	13	passing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15892	0	14	as	IN	(PP*	-	-	-	-	*	-
+selectraws/15892	0	15	a	DT	(NP*	-	-	-	-	*	(2
+selectraws/15892	0	16	Spaniard	NN	*)))))))))))	-	-	-	-	*	2)
+selectraws/15892	0	17	,	,	*	-	-	-	-	*	-
+selectraws/15892	0	18	and	CC	*	-	-	-	-	*	-
+selectraws/15892	0	19	that	DT	(S(NP(NP*	-	-	-	-	*	(2|(3
+selectraws/15892	0	20	figure	NN	*	-	-	-	-	*	-
+selectraws/15892	0	21	's	POS	*)	-	-	-	-	*	2)
+selectraws/15892	0	22	wife	NN	*)	-	-	-	-	*	3)
+selectraws/15892	0	23	crosses	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15892	0	24	the	DT	(NP*	-	-	-	-	*	-
+selectraws/15892	0	25	Ohio	NNP	*	-	-	-	-	(LOCATION*	-
+selectraws/15892	0	26	River	NNP	*)	-	-	-	-	*)	-
+selectraws/15892	0	27	via	IN	(PP*	-	-	-	-	*	-
+selectraws/15892	0	28	floating	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15892	0	29	ice	NN	(NP*	-	-	-	-	*	-
+selectraws/15892	0	30	and	CC	*	-	-	-	-	*	-
+selectraws/15892	0	31	reunites	NNS	*)	-	-	-	-	*	-
+selectraws/15892	0	32	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15892	0	33	her	PRP$	(NP(NP*	-	-	-	-	*	(4|(3)
+selectraws/15892	0	34	mother	NN	*)	-	-	-	-	*	4)
+selectraws/15892	0	35	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15892	0	36	Canada	NNP	(NP*)))))))))	-	-	-	-	(LOCATION)	-
+selectraws/15892	0	37	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15892	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15892	0	1	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15892	0	2	novel	NN	*))	-	-	-	-	*	1)
+selectraws/15892	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15892	0	4	Augustine	NNP	(NP*	-	-	-	-	(PERSON*	(5
+selectraws/15892	0	5	St.	NNP	*	-	-	-	-	*	-
+selectraws/15892	0	6	Clare	NNP	*)	-	-	-	-	*)	5)
+selectraws/15892	0	7	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15892	0	8	killed	VBN	(VP*	-	-	-	-	*	-
+selectraws/15892	0	9	before	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15892	0	10	he	PRP	(S(NP*)	-	-	-	-	*	(5)
+selectraws/15892	0	11	can	MD	(VP*	-	-	-	-	*	-
+selectraws/15892	0	12	fulfill	VB	(VP*	-	-	-	-	*	-
+selectraws/15892	0	13	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15892	0	14	promise	NN	*)	-	-	-	-	*	-
+selectraws/15892	0	15	made	VBN	(VP*	-	-	-	-	*	-
+selectraws/15892	0	16	to	TO	(PP*	-	-	-	-	*	-
+selectraws/15892	0	17	Eva	NNP	(NP*))	-	-	-	-	(LOCATION)	(6)
+selectraws/15892	0	18	on	IN	(PP*	-	-	-	-	*	-
+selectraws/15892	0	19	her	PRP$	(NP(NP*	-	-	-	-	*	(6)
+selectraws/15892	0	20	deathbed	JJ	(ADJP*	-	-	-	-	*	-
+selectraws/15892	0	21	to	TO	*	-	-	-	-	*	-
+selectraws/15892	0	22	free	JJ	*)	-	-	-	-	*	-
+selectraws/15892	0	23	all	DT	*)	-	-	-	-	*	-
+selectraws/15892	0	24	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15892	0	25	his	PRP$	(NP*	-	-	-	-	*	(5)
+selectraws/15892	0	26	slaves	NNS	*))))))))))))	-	-	-	-	*	-
+selectraws/15892	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15892	0	0	George	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(7
+selectraws/15892	0	1	Shelby	NNP	*)	-	-	-	-	*)	7)
+selectraws/15892	0	2	frees	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15892	0	3	his	PRP$	(NP*	-	-	-	-	*	-
+selectraws/15892	0	4	slaves	NNS	*)	-	-	-	-	*	-
+selectraws/15892	0	5	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15892	0	6	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15892	0	7	name	NN	*)	-	-	-	-	*	-
+selectraws/15892	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15892	0	9	this	DT	(NP(NP(NP*	-	-	-	-	*	(1|(1
+selectraws/15892	0	10	novel	NN	*	-	-	-	-	*	-
+selectraws/15892	0	11	's	POS	*)	-	-	-	-	*	1)
+selectraws/15892	0	12	title	NN	*	-	-	-	-	*	-
+selectraws/15892	0	13	figure	NN	*)	-	-	-	-	*	1)
+selectraws/15892	0	14	,	,	*	-	-	-	-	*	-
+selectraws/15892	0	15	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15892	0	16	dies	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15892	0	17	after	IN	(PP*	-	-	-	-	*	-
+selectraws/15892	0	18	being	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15892	0	19	beaten	VBN	(VP*	-	-	-	-	*	-
+selectraws/15892	0	20	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15892	0	21	Simon	NNP	(NP*	-	-	-	-	(PERSON*	(8
+selectraws/15892	0	22	Legree	NNP	*))))))))))))))	-	-	-	-	*)	8)
+selectraws/15892	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15892	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15892	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/15892	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/15892	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15892	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/15892	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15892	0	6	novel	NN	*)	-	-	-	-	*	1)
+selectraws/15892	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15892	0	8	Harriet	NNP	(NP*	-	-	-	-	(PERSON*	(9
+selectraws/15892	0	9	Beecher	NNP	*	-	-	-	-	*	-
+selectraws/15892	0	10	Stowe	NNP	*)))	-	-	-	-	*)	9)
+selectraws/15892	0	11	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

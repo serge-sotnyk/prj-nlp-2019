@@ -1,0 +1,90 @@
+#begin document (selectraws/14992); part 000
+
+selectraws/14992	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/14992	0	1	one	CD	(NP*	-	-	-	-	*	(6
+selectraws/14992	0	2	novel	NN	*))	-	-	-	-	*	-
+selectraws/14992	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws/14992	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/14992	0	5	author	NN	*))	-	-	-	-	*	6)|1)
+selectraws/14992	0	6	,	,	*	-	-	-	-	*	-
+selectraws/14992	0	7	Lucius	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws/14992	0	8	Harney	NNP	*)	-	-	-	-	*)	3)
+selectraws/14992	0	9	hides	VBD	(VP*	-	-	-	-	*	-
+selectraws/14992	0	10	his	PRP$	(NP*	-	-	-	-	*	(3)
+selectraws/14992	0	11	engagement	NN	*)	-	-	-	-	*	-
+selectraws/14992	0	12	to	TO	(PP*	-	-	-	-	*	-
+selectraws/14992	0	13	Annabel	NNP	(NP*	-	-	-	-	(PERSON*	(4
+selectraws/14992	0	14	Balch	NNP	*))	-	-	-	-	*)	4)
+selectraws/14992	0	15	despite	IN	(PP*	-	-	-	-	*	-
+selectraws/14992	0	16	his	PRP$	(NP(NP*	-	-	-	-	*	(3)
+selectraws/14992	0	17	romantic	JJ	*	-	-	-	-	*	-
+selectraws/14992	0	18	relationship	NN	*)	-	-	-	-	*	-
+selectraws/14992	0	19	with	IN	(PP*	-	-	-	-	*	-
+selectraws/14992	0	20	Charity	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(5
+selectraws/14992	0	21	Royall	NNP	*)))))	-	-	-	-	*)	5)
+selectraws/14992	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/14992	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/14992	0	1	addition	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws/14992	0	2	to	TO	(PP*	-	-	-	-	*	-
+selectraws/14992	0	3	writing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/14992	0	4	Summer	NNPS	(NP*))))))	-	-	-	-	(DATE)	(6)
+selectraws/14992	0	5	,	,	*	-	-	-	-	*	-
+selectraws/14992	0	6	she	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws/14992	0	7	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/14992	0	8	about	IN	(PP*	-	-	-	-	*	-
+selectraws/14992	0	9	Undine	NNP	(NP(NP(NP*	-	-	-	-	(PERSON*	(7
+selectraws/14992	0	10	Spragg	NNP	*	-	-	-	-	*)	7)
+selectraws/14992	0	11	's	POS	*)	-	-	-	-	*	-
+selectraws/14992	0	12	succession	NN	*)	-	-	-	-	*	-
+selectraws/14992	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws/14992	0	14	marriages	NNS	(NP*))	-	-	-	-	*	-
+selectraws/14992	0	15	in	IN	(PP*	-	-	-	-	*	-
+selectraws/14992	0	16	The	DT	(NP*	-	-	-	-	*	(8
+selectraws/14992	0	17	Custom	NNP	(NAC(NAC*	-	-	-	-	*	-
+selectraws/14992	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws/14992	0	19	the	DT	(NP*)))	-	-	-	-	*	-
+selectraws/14992	0	20	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/14992	0	21	\*	SYM	(X*)	-	-	-	-	*	-
+selectraws/14992	0	22	-RRB-	-RRB-	*))	-	-	-	-	*	-
+selectraws/14992	0	23	Country	NN	*)))))	-	-	-	-	*	8)
+selectraws/14992	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/14992	0	0	She	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws/14992	0	1	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/14992	0	2	better	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/14992	0	3	known	VBN	(VP*	-	-	-	-	*	-
+selectraws/14992	0	4	for	IN	(PP*	-	-	-	-	*	-
+selectraws/14992	0	5	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/14992	0	6	work	NN	*)	-	-	-	-	*	2)
+selectraws/14992	0	7	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws/14992	0	8	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws/14992	0	9	Mattie	NNP	(S(NP*	-	-	-	-	(ORGANIZATION*	(9
+selectraws/14992	0	10	Silver	NNP	*)	-	-	-	-	*)	9)
+selectraws/14992	0	11	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/14992	0	12	left	VBN	(VP*	-	-	-	-	*	-
+selectraws/14992	0	13	crippled	VBN	(VP*	-	-	-	-	*	-
+selectraws/14992	0	14	following	VBG	(PP*	-	-	-	-	*	-
+selectraws/14992	0	15	a	DT	(NP*	-	-	-	-	*	-
+selectraws/14992	0	16	sledding	NN	*	-	-	-	-	*	-
+selectraws/14992	0	17	accident	NN	*)))))))))))	-	-	-	-	*	-
+selectraws/14992	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/14992	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/14992	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/14992	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/14992	0	3	,	,	*	-	-	-	-	*	-
+selectraws/14992	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/14992	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/14992	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws/14992	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/14992	0	8	Ethan	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws/14992	0	9	Frome	NNP	*)))	-	-	-	-	*)	2)|1)
+selectraws/14992	0	10	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

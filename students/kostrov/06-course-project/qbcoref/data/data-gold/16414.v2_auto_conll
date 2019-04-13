@@ -1,0 +1,151 @@
+#begin document (selectraws1/16414); part 000
+
+selectraws1/16414	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/16414	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws1/16414	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16414	0	3	about	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16414	0	4	an	DT	(S(NP(NP*	-	-	-	-	*	(10
+selectraws1/16414	0	5	innocent	JJ	*	-	-	-	-	*	-
+selectraws1/16414	0	6	silk-winder	NN	*)	-	-	-	-	*	10)
+selectraws1/16414	0	7	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	(10)
+selectraws1/16414	0	8	journey	NN	*)	-	-	-	-	*	-
+selectraws1/16414	0	9	connects	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/16414	0	10	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16414	0	11	sordid	JJ	*	-	-	-	-	*	-
+selectraws1/16414	0	12	lives	NNS	*)	-	-	-	-	*	-
+selectraws1/16414	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	14	four	CD	(NP*	-	-	-	-	*	-
+selectraws1/16414	0	15	others	NNS	*)))	-	-	-	-	*	-
+selectraws1/16414	0	16	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	17	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/16414	0	18	poem	NN	*)	-	-	-	-	*	2)
+selectraws1/16414	0	19	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/16414	0	20	coined	VBN	(S(VP*	-	-	-	-	*	-
+selectraws1/16414	0	21	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16414	0	22	phrase	NN	*)	-	-	-	-	*	-
+selectraws1/16414	0	23	God	NNP	(NP*	-	-	-	-	*	-
+selectraws1/16414	0	24	's	POS	*)	-	-	-	-	*	-
+selectraws1/16414	0	25	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	26	His	PRP$	(NP*	-	-	-	-	*	-
+selectraws1/16414	0	27	heaven	NN	*)))))))))))	-	-	-	-	*	-
+selectraws1/16414	0	28	All	DT	*	-	-	-	-	*	-
+selectraws1/16414	0	29	's	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16414	0	30	right	RB	(ADJP*	-	-	-	-	*	-
+selectraws1/16414	0	31	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	32	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16414	0	33	world	NN	*)))))))	-	-	-	-	*	-
+selectraws1/16414	0	34	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16414	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/16414	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws1/16414	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	3	Pippa	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(2
+selectraws1/16414	0	4	Passes	NNPS	*)))	-	-	-	-	*)	2)|1)
+selectraws1/16414	0	5	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16414	0	6	a	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/16414	0	7	poem	NN	*)	-	-	-	-	*	3)
+selectraws1/16414	0	8	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/16414	0	9	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/16414	0	10	the	DT	(S(NP*	-	-	-	-	*	(11
+selectraws1/16414	0	11	title	NN	*	-	-	-	-	*	-
+selectraws1/16414	0	12	painter	NN	*)	-	-	-	-	*	11)
+selectraws1/16414	0	13	urges	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16414	0	14	Grow	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/16414	0	15	old	JJ	(ADJP(ADJP*)	-	-	-	-	*	-
+selectraws1/16414	0	16	along	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	17	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	18	me	PRP	(NP*))))))))))	-	-	-	-	*	-
+selectraws1/16414	0	19	!	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16414	0	0	The	DT	(TOP(S(NP*)	-	-	-	-	*	-
+selectraws1/16414	0	1	best	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/16414	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16414	0	3	yet	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/16414	0	4	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/16414	0	5	be	VB	(VP*))))	-	-	-	-	*	-
+selectraws1/16414	0	6	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16414	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/16414	0	1	poet	NN	*)	-	-	-	-	*	1)
+selectraws1/16414	0	2	documented	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16414	0	3	an	DT	(NP*	-	-	-	-	*	-
+selectraws1/16414	0	4	Italian	JJ	*	-	-	-	-	*	-
+selectraws1/16414	0	5	murder	NN	*)	-	-	-	-	*	-
+selectraws1/16414	0	6	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	7	his	PRP$	(NP(NP*	-	-	-	-	*	(1)
+selectraws1/16414	0	8	The	NNP	*	-	-	-	-	*	(9
+selectraws1/16414	0	9	Ring	NNP	*)	-	-	-	-	*	-
+selectraws1/16414	0	10	and	CC	*	-	-	-	-	*	-
+selectraws1/16414	0	11	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16414	0	12	Book	NNP	*)))	-	-	-	-	*	9)
+selectraws1/16414	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/16414	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/16414	0	15	included	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16414	0	16	Rabbi	NNP	(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/16414	0	17	Ben	NNP	*	-	-	-	-	*	-
+selectraws1/16414	0	18	Ezra	NNP	*)	-	-	-	-	*)	11)
+selectraws1/16414	0	19	among	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	20	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/16414	0	21	dramatic	JJ	*	-	-	-	-	*	-
+selectraws1/16414	0	22	monologues	NNS	*))))	-	-	-	-	*	-
+selectraws1/16414	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16414	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(4
+selectraws1/16414	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	2	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16414	0	3	author	NN	*	-	-	-	-	*	1)
+selectraws1/16414	0	4	's	POS	*)	-	-	-	-	*	-
+selectraws1/16414	0	5	poems	NNS	*)))	-	-	-	-	*	4)
+selectraws1/16414	0	6	concerns	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16414	0	7	a	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/16414	0	8	character	NN	*)	-	-	-	-	*	4)
+selectraws1/16414	0	9	who	WP	(SBAR(SBAR(WHNP*)	-	-	-	-	*	(4)
+selectraws1/16414	0	10	had	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/16414	0	11	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16414	0	12	heart	NN	*)	-	-	-	-	*	-
+selectraws1/16414	0	13	too	RB	(ADVP*	-	-	-	-	*	-
+selectraws1/16414	0	14	soon	RB	*)	-	-	-	-	*	-
+selectraws1/16414	0	15	made	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16414	0	16	glad	JJ	(S(ADJP*)))))))	-	-	-	-	*	-
+selectraws1/16414	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/16414	0	18	and	CC	*	-	-	-	-	*	-
+selectraws1/16414	0	19	whose	WP$	(SBAR(WHNP(WHNP*	-	-	-	-	*	(4)
+selectraws1/16414	0	20	portrait	NN	*)	-	-	-	-	*	-
+selectraws1/16414	0	21	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	22	Fra	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(5
+selectraws1/16414	0	23	Pandolf	NNP	*)))	-	-	-	-	*)	5)
+selectraws1/16414	0	24	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/16414	0	25	painted	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16414	0	26	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	27	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16414	0	28	wall	NN	*)))))))))	-	-	-	-	*	-
+selectraws1/16414	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16414	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16414	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/16414	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/16414	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/16414	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/16414	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16414	0	6	English	JJ	*	-	-	-	-	*	-
+selectraws1/16414	0	7	poet	NN	*)	-	-	-	-	*	-
+selectraws1/16414	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	9	My	PRP$	(NP(NP*	-	-	-	-	*	(4
+selectraws1/16414	0	10	Last	JJ	*	-	-	-	-	*	-
+selectraws1/16414	0	11	Duchess	NNP	*)	-	-	-	-	*	4)|1)
+selectraws1/16414	0	12	,	,	*	-	-	-	-	*	-
+selectraws1/16414	0	13	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16414	0	14	husband	NN	*)	-	-	-	-	*	-
+selectraws1/16414	0	15	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16414	0	16	Elizabeth	NNP	(NP*	-	-	-	-	(PERSON*	(17
+selectraws1/16414	0	17	Barret	NNP	*)))))))	-	-	-	-	*)	17)|1)
+selectraws1/16414	0	18	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

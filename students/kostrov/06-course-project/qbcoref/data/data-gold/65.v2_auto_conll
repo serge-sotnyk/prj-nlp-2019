@@ -1,0 +1,129 @@
+#begin document (selectraws/65); part 000
+
+selectraws/65	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	-
+selectraws/65	0	1	passage	NN	*)	-	-	-	-	*	-
+selectraws/65	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws/65	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/65	0	4	work	NN	*)))	-	-	-	-	*	1)
+selectraws/65	0	5	exhorts	VBZ	(VP*	-	-	-	-	*	-
+selectraws/65	0	6	the	DT	(NP*	-	-	-	-	*	-
+selectraws/65	0	7	reader	NN	*)	-	-	-	-	*	-
+selectraws/65	0	8	to	TO	(PP*	-	-	-	-	*	-
+selectraws/65	0	9	Drink	NNP	(NP*)))	-	-	-	-	*	-
+selectraws/65	0	10	!	.	*))	-	-	-	-	*	-
+
+
+selectraws/65	0	0	For	IN	(TOP(S(S*	-	-	-	-	*	-
+selectraws/65	0	1	you	PRP	(NP*)	-	-	-	-	*	-
+selectraws/65	0	2	know	VB	(VP*	-	-	-	-	*	-
+selectraws/65	0	3	not	RB	*	-	-	-	-	*	-
+selectraws/65	0	4	whence	VB	(VP*	-	-	-	-	*	-
+selectraws/65	0	5	you	PRP	(SBAR(S(NP*)	-	-	-	-	*	-
+selectraws/65	0	6	came	VBD	(VP*))))))	-	-	-	-	*	-
+selectraws/65	0	7	,	,	*	-	-	-	-	*	-
+selectraws/65	0	8	nor	CC	*	-	-	-	-	*	-
+selectraws/65	0	9	why	WRB	(FRAG(WHADVP*))	-	-	-	-	*	-
+selectraws/65	0	10	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/65	0	0	An	DT	(TOP(S(NP(NP*	-	-	-	-	*	-
+selectraws/65	0	1	extended	JJ	*	-	-	-	-	*	-
+selectraws/65	0	2	passage	NN	*)	-	-	-	-	*	-
+selectraws/65	0	3	near	IN	(PP*	-	-	-	-	*	-
+selectraws/65	0	4	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/65	0	5	end	NN	*)	-	-	-	-	*	-
+selectraws/65	0	6	of	IN	(PP*	-	-	-	-	*	-
+selectraws/65	0	7	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/65	0	8	work	NN	*)))))	-	-	-	-	*	1)
+selectraws/65	0	9	describes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/65	0	10	loquacious	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws/65	0	11	vessels	NNS	*)	-	-	-	-	*	-
+selectraws/65	0	12	of	IN	(PP*	-	-	-	-	*	-
+selectraws/65	0	13	clay	NN	(NP*))	-	-	-	-	*	-
+selectraws/65	0	14	,	,	*	-	-	-	-	*	-
+selectraws/65	0	15	one	CD	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws/65	0	16	of	IN	(WHPP*	-	-	-	-	*	-
+selectraws/65	0	17	whom	WP	(WHNP*)))	-	-	-	-	*	-
+selectraws/65	0	18	wonders	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/65	0	19	Who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/65	0	20	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/65	0	21	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/65	0	22	potterand	NN	*)	-	-	-	-	*	-
+selectraws/65	0	23	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/65	0	24	the	DT	(S(NP*	-	-	-	-	*	-
+selectraws/65	0	25	pot	NN	*))))))))))))	-	-	-	-	*	-
+selectraws/65	0	26	?	.	*))	-	-	-	-	*	-
+
+
+selectraws/65	0	0	An	DT	(TOP(S(NP(NP*	-	-	-	-	*	-
+selectraws/65	0	1	oft-quoted	JJ	*	-	-	-	-	*	-
+selectraws/65	0	2	verse	NN	*)	-	-	-	-	*	-
+selectraws/65	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws/65	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/65	0	5	poem	NN	*)))	-	-	-	-	*	1)
+selectraws/65	0	6	warns	VBZ	(VP*	-	-	-	-	*	-
+selectraws/65	0	7	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws/65	0	8	The	DT	(S(NP*	-	-	-	-	*	-
+selectraws/65	0	9	bird	NN	*)	-	-	-	-	*	-
+selectraws/65	0	10	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/65	0	11	on	IN	(PP*	-	-	-	-	*	-
+selectraws/65	0	12	the	DT	(NP*	-	-	-	-	*	-
+selectraws/65	0	13	wing	NN	*))))))	-	-	-	-	*	-
+selectraws/65	0	14	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/65	0	0	Famously	RB	(TOP(S(S(VP(ADVP*)	-	-	-	-	*	-
+selectraws/65	0	1	translated	VBN	*	-	-	-	-	*	-
+selectraws/65	0	2	by	IN	(PP*	-	-	-	-	*	-
+selectraws/65	0	3	Edward	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws/65	0	4	Fitzgerald	NNP	*))))	-	-	-	-	*)	3)
+selectraws/65	0	5	,	,	*	-	-	-	-	*	-
+selectraws/65	0	6	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/65	0	7	work	NN	*)	-	-	-	-	*	1)
+selectraws/65	0	8	describes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/65	0	9	A	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/65	0	10	Book	NN	*)	-	-	-	-	*	-
+selectraws/65	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws/65	0	12	verses	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws/65	0	13	underneath	IN	(PP*	-	-	-	-	*	-
+selectraws/65	0	14	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/65	0	15	bough	NN	*)	-	-	-	-	*	-
+selectraws/65	0	16	/	SYM	(X(X(X*)	-	-	-	-	*	-
+selectraws/65	0	17	A	DT	(NP(NP(NP*	-	-	-	-	*	-
+selectraws/65	0	18	jug	NN	*)	-	-	-	-	*	-
+selectraws/65	0	19	of	IN	(PP*	-	-	-	-	*	-
+selectraws/65	0	20	wine	NN	(NP*)))	-	-	-	-	*	-
+selectraws/65	0	21	,	,	*	-	-	-	-	*	-
+selectraws/65	0	22	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/65	0	23	loaf	NN	*)	-	-	-	-	*	-
+selectraws/65	0	24	of	IN	(PP*	-	-	-	-	*	-
+selectraws/65	0	25	bread	NN	(NP*)))))	-	-	-	-	*	-
+selectraws/65	0	26	-	:	*	-	-	-	-	*	-
+selectraws/65	0	27	and	CC	*	-	-	-	-	*	-
+selectraws/65	0	28	thou	FW	*)))))))	-	-	-	-	*	-
+selectraws/65	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/65	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/65	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/65	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/65	0	3	,	,	*	-	-	-	-	*	-
+selectraws/65	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/65	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/65	0	6	work	NN	*)	-	-	-	-	*	-
+selectraws/65	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/65	0	8	101	CD	(NP(NP*	-	-	-	-	*	-
+selectraws/65	0	9	quatrains	NNS	*)	-	-	-	-	*	1)
+selectraws/65	0	10	,	,	*	-	-	-	-	*	-
+selectraws/65	0	11	written	VBN	(VP*	-	-	-	-	*	-
+selectraws/65	0	12	by	IN	(PP*	-	-	-	-	*	-
+selectraws/65	0	13	the	DT	(NP*	-	-	-	-	*	(2
+selectraws/65	0	14	Farsi	NNP	*	-	-	-	-	(LOCATION)	-
+selectraws/65	0	15	poet	NN	*	-	-	-	-	*	2)
+selectraws/65	0	16	Omar	NNP	*	-	-	-	-	(PERSON*	(2
+selectraws/65	0	17	Khayyam	NNP	*)))))))	-	-	-	-	*)	2)
+selectraws/65	0	18	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

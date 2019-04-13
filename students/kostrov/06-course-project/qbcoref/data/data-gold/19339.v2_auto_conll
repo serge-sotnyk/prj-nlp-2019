@@ -1,0 +1,148 @@
+#begin document (selectraws1/19339); part 000
+
+selectraws1/19339	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19339	0	1	a	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/19339	0	2	short	JJ	*	-	-	-	-	*	-
+selectraws1/19339	0	3	story	NN	*)	-	-	-	-	*	-
+selectraws1/19339	0	4	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	5	Donald	NNP	(NP*	-	-	-	-	(PERSON*	(5
+selectraws1/19339	0	6	Barthelme	NNP	*))	-	-	-	-	*)	5)
+selectraws1/19339	0	7	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	8	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	9	these	DT	(NP*)))))	-	-	-	-	*	(1)|4)
+selectraws1/19339	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/19339	0	11	a	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws1/19339	0	12	hero	NN	*)	-	-	-	-	*	6)
+selectraws1/19339	0	13	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	14	Gris	NNP	(S(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/19339	0	15	Grue	NNP	*))))	-	-	-	-	*)	6)
+selectraws1/19339	0	16	decides	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	17	which	WDT	(SBAR(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19339	0	18	ones	NNS	(S(NP*)	-	-	-	-	*	-
+selectraws1/19339	0	19	are	VBP	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	20	good	JJ	(ADJP*))))	-	-	-	-	*	-
+selectraws1/19339	0	21	and	CC	*	-	-	-	-	*	-
+selectraws1/19339	0	22	which	WDT	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/19339	0	23	ones	NNS	*)	-	-	-	-	*	-
+selectraws1/19339	0	24	are	VBP	(S(VP*	-	-	-	-	*	-
+selectraws1/19339	0	25	bad	JJ	(ADJP*))))))	-	-	-	-	*	-
+selectraws1/19339	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19339	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19339	0	1	a	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws1/19339	0	2	short	JJ	*	-	-	-	-	*	-
+selectraws1/19339	0	3	story	NN	*)	-	-	-	-	*	-
+selectraws1/19339	0	4	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	5	H.P.	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(8
+selectraws1/19339	0	6	Lovecraft	NNP	*))))	-	-	-	-	*)	7)|8)
+selectraws1/19339	0	7	,	,	*	-	-	-	-	*	-
+selectraws1/19339	0	8	Herbert	NNP	(NP*	-	-	-	-	(PERSON*	(9
+selectraws1/19339	0	9	West	NNP	*)	-	-	-	-	*)	9)
+selectraws1/19339	0	10	invents	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	11	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19339	0	12	way	NN	*)	-	-	-	-	*	-
+selectraws1/19339	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	14	creating	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/19339	0	15	them	PRP	(NP*))))))	-	-	-	-	*	(1)
+selectraws1/19339	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19339	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(10
+selectraws1/19339	0	1	novel	NN	*)	-	-	-	-	*	-
+selectraws1/19339	0	2	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	3	them	PRP	(NP*)))	-	-	-	-	*	(1)|10)
+selectraws1/19339	0	4	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	5	structured	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	6	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	7	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19339	0	8	series	NN	*)	-	-	-	-	*	-
+selectraws1/19339	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	10	oral	JJ	(NP*	-	-	-	-	*	-
+selectraws1/19339	0	11	interviews	NNS	*))))	-	-	-	-	*	-
+selectraws1/19339	0	12	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	13	an	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws1/19339	0	14	agent	NN	*)	-	-	-	-	*	-
+selectraws1/19339	0	15	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	16	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/19339	0	17	United	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/19339	0	18	Nations	NNPS	*	-	-	-	-	*	-
+selectraws1/19339	0	19	Postwar	NNP	*	-	-	-	-	*	-
+selectraws1/19339	0	20	Commission	NNP	*))))))	-	-	-	-	*)	11)
+selectraws1/19339	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19339	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	(10
+selectraws1/19339	0	1	novel	NN	*)	-	-	-	-	*	10)
+selectraws1/19339	0	2	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	3	written	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	4	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	5	Max	NNP	(NP(NP*	-	-	-	-	(PERSON*	(12
+selectraws1/19339	0	6	Brooks	NNP	*)	-	-	-	-	*)	12)
+selectraws1/19339	0	7	,	,	*	-	-	-	-	*	-
+selectraws1/19339	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19339	0	9	also	RB	(S(ADVP*)	-	-	-	-	*	-
+selectraws1/19339	0	10	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	11	a	DT	(NP(NP*	-	-	-	-	*	(13
+selectraws1/19339	0	12	survival	NN	*	-	-	-	-	*	-
+selectraws1/19339	0	13	guide	NN	*)	-	-	-	-	*	-
+selectraws1/19339	0	14	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	15	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	16	them	PRP	(NP*)))))))))))	-	-	-	-	*	(1)|13)
+selectraws1/19339	0	17	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19339	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19339	0	1	a	DT	(NP(NP*	-	-	-	-	*	(14
+selectraws1/19339	0	2	recent	JJ	*	-	-	-	-	*	-
+selectraws1/19339	0	3	novel	NN	*)	-	-	-	-	*	-
+selectraws1/19339	0	4	co-authored	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	5	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	6	Seth	NNP	(NP*	-	-	-	-	(PERSON*	(15
+selectraws1/19339	0	7	Grahame-Smith	NNP	*)))))	-	-	-	-	*)	14)|15)
+selectraws1/19339	0	8	,	,	*	-	-	-	-	*	-
+selectraws1/19339	0	9	the	DT	(NP*	-	-	-	-	*	(16
+selectraws1/19339	0	10	main	JJ	*	-	-	-	-	*	-
+selectraws1/19339	0	11	male	JJ	*	-	-	-	-	*	-
+selectraws1/19339	0	12	character	NN	*)	-	-	-	-	*	16)
+selectraws1/19339	0	13	breaks	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	14	up	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/19339	0	15	Jane	NNP	(NP*	-	-	-	-	(PERSON)	(17)
+selectraws1/19339	0	16	and	CC	*	-	-	-	-	*	-
+selectraws1/19339	0	17	Bingley	NNP	*)	-	-	-	-	(ORGANIZATION)	(18)
+selectraws1/19339	0	18	because	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/19339	0	19	he	PRP	(S(NP*)	-	-	-	-	*	(16)
+selectraws1/19339	0	20	fears	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	21	Jane	NNP	(SBAR(S(NP*)	-	-	-	-	(PERSON)	(17)
+selectraws1/19339	0	22	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	23	turning	VBG	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	24	into	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	25	one	CD	(NP(NP*)	-	-	-	-	*	-
+selectraws1/19339	0	26	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	27	them	PRP	(NP*))))))))))))	-	-	-	-	*	(1)
+selectraws1/19339	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19339	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19339	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/19339	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/19339	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/19339	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	5	these	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/19339	0	6	beings	NNS	*)	-	-	-	-	*	1)
+selectraws1/19339	0	7	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19339	0	8	were	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/19339	0	9	recently	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/19339	0	10	featured	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19339	0	11	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	12	an	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/19339	0	13	adaptation	NN	*)	-	-	-	-	*	-
+selectraws1/19339	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19339	0	15	Pride	NNP	(NP*	-	-	-	-	*	(3
+selectraws1/19339	0	16	and	CC	*	-	-	-	-	*	-
+selectraws1/19339	0	17	Prejudice	NNP	*))))))))))	-	-	-	-	*	2)|3)
+selectraws1/19339	0	18	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

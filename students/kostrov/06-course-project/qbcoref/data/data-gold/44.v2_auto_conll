@@ -1,0 +1,116 @@
+#begin document (selectraws/44); part 000
+
+selectraws/44	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(4
+selectraws/44	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws/44	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/44	0	4	play	NN	*)))	-	-	-	-	*	4)|1)
+selectraws/44	0	5	remembers	VBZ	(VP*	-	-	-	-	*	-
+selectraws/44	0	6	entertaining	JJ	(NP*	-	-	-	-	*	-
+selectraws/44	0	7	strangers	NNS	*)	-	-	-	-	*	-
+selectraws/44	0	8	at	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	9	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/44	0	10	hotel	NN	*)	-	-	-	-	*	-
+selectraws/44	0	11	called	VBN	(VP*	-	-	-	-	*	-
+selectraws/44	0	12	the	DT	(S(NP*	-	-	-	-	*	-
+selectraws/44	0	13	Tarantula	NNP	*	-	-	-	-	*	-
+selectraws/44	0	14	Arms	NNS	*))))))	-	-	-	-	*	-
+selectraws/44	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/44	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	-
+selectraws/44	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	2	its	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws/44	0	3	plot	NN	*	-	-	-	-	*	-
+selectraws/44	0	4	points	NNS	*)))	-	-	-	-	*	-
+selectraws/44	0	5	centers	VBZ	(VP*	-	-	-	-	*	-
+selectraws/44	0	6	on	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	7	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/44	0	8	loss	NN	*)	-	-	-	-	*	-
+selectraws/44	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	10	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/44	0	11	family	NN	*	-	-	-	-	*	-
+selectraws/44	0	12	estate	NN	*)	-	-	-	-	*	-
+selectraws/44	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	14	Belle	NNP	(NP*	-	-	-	-	(ORGANIZATION*	-
+selectraws/44	0	15	Reve	NNP	*)))))))	-	-	-	-	*)	-
+selectraws/44	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/44	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(2
+selectraws/44	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	2	its	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws/44	0	3	characters	NNS	*)))	-	-	-	-	*	2)
+selectraws/44	0	4	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/44	0	5	called	VBN	(VP*	-	-	-	-	*	-
+selectraws/44	0	6	a	DT	(S(NP(NP*	-	-	-	-	*	-
+selectraws/44	0	7	survivor	NN	*)	-	-	-	-	*	-
+selectraws/44	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	9	the	DT	(NP*	-	-	-	-	*	-
+selectraws/44	0	10	Stone	NNP	*	-	-	-	-	*	-
+selectraws/44	0	11	Age	NNP	*))))	-	-	-	-	*	-
+selectraws/44	0	12	after	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	13	throwing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/44	0	14	a	DT	(NP*	-	-	-	-	*	-
+selectraws/44	0	15	radio	NN	*)	-	-	-	-	*	-
+selectraws/44	0	16	out	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	17	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/44	0	18	window	NN	*)	-	-	-	-	*	-
+selectraws/44	0	19	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws/44	0	20	it	PRP	(S(NP*)	-	-	-	-	*	-
+selectraws/44	0	21	interrupts	VBZ	(VP*	-	-	-	-	*	-
+selectraws/44	0	22	his	PRP$	(NP*	-	-	-	-	*	(2)
+selectraws/44	0	23	poker	NN	*	-	-	-	-	*	-
+selectraws/44	0	24	game	NN	*)	-	-	-	-	*	-
+selectraws/44	0	25	with	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	26	Mitch	NNP	(NP*))))))))))))	-	-	-	-	(PERSON)	(3)
+selectraws/44	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/44	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	(4
+selectraws/44	0	1	central	JJ	*	-	-	-	-	*	-
+selectraws/44	0	2	character	NN	*)	-	-	-	-	*	-
+selectraws/44	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/44	0	5	play	NN	*)))	-	-	-	-	*	1)|4)
+selectraws/44	0	6	declares	VBZ	(VP*	-	-	-	-	*	-
+selectraws/44	0	7	I	PRP	(SBAR(S(NP*)	-	-	-	-	*	(4)
+selectraws/44	0	8	have	VBP	(VP*	-	-	-	-	*	-
+selectraws/44	0	9	always	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws/44	0	10	depended	VBD	*	-	-	-	-	*	-
+selectraws/44	0	11	on	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	12	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/44	0	13	kindness	NN	*)	-	-	-	-	*	-
+selectraws/44	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	15	strangers	NNS	(NP*))))	-	-	-	-	*	-
+selectraws/44	0	16	after	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	17	moving	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/44	0	18	to	TO	(PP*	-	-	-	-	*	-
+selectraws/44	0	19	the	DT	(NP*	-	-	-	-	*	-
+selectraws/44	0	20	Elysian	NNP	*	-	-	-	-	*	-
+selectraws/44	0	21	Fields	NNPS	*))	-	-	-	-	*	-
+selectraws/44	0	22	with	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	23	Stella	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(5)
+selectraws/44	0	24	and	CC	*	-	-	-	-	*	-
+selectraws/44	0	25	Stanley	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws/44	0	26	Kowalski	NNP	*)))))))))))	-	-	-	-	*)	2)
+selectraws/44	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/44	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/44	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/44	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/44	0	3	,	,	*	-	-	-	-	*	-
+selectraws/44	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/44	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/44	0	6	Tennessee	NNP	*	-	-	-	-	(ORGANIZATION*	(7
+selectraws/44	0	7	Williams	NNP	*	-	-	-	-	*)	7)
+selectraws/44	0	8	play	NN	*)	-	-	-	-	*	-
+selectraws/44	0	9	about	IN	(PP*	-	-	-	-	*	-
+selectraws/44	0	10	Blanche	NNP	(NP*	-	-	-	-	(PERSON*	(4
+selectraws/44	0	11	Dubois	NNP	*)))	-	-	-	-	*)	4)|1)
+selectraws/44	0	12	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

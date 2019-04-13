@@ -1,0 +1,134 @@
+#begin document (selectraws1/19442); part 000
+
+selectraws1/19442	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(2
+selectraws1/19442	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	2	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/19442	0	3	author	NN	*	-	-	-	-	*	1)
+selectraws1/19442	0	4	's	POS	*)	-	-	-	-	*	-
+selectraws1/19442	0	5	protagonists	NNS	*)))	-	-	-	-	*	2)
+selectraws1/19442	0	6	enjoys	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19442	0	7	cricket	NN	(NP(NP(NP*)	-	-	-	-	*	-
+selectraws1/19442	0	8	,	,	*	-	-	-	-	*	-
+selectraws1/19442	0	9	riding	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/19442	0	10	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	11	horseback	NN	(NP*))))	-	-	-	-	*	-
+selectraws1/19442	0	12	,	,	*	-	-	-	-	*	-
+selectraws1/19442	0	13	and	CC	*	-	-	-	-	*	-
+selectraws1/19442	0	14	baseball	NN	(NP*))	-	-	-	-	*	-
+selectraws1/19442	0	15	;	:	*	-	-	-	-	*	-
+selectraws1/19442	0	16	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19442	0	17	word	NN	*)	-	-	-	-	*	-
+selectraws1/19442	0	18	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/19442	0	19	this	DT	(S(NP*	-	-	-	-	*	(1
+selectraws1/19442	0	20	author	NN	*)	-	-	-	-	*	1)
+selectraws1/19442	0	21	used	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19442	0	22	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	23	print	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/19442	0	24	before	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	25	any	DT	(NP*	-	-	-	-	*	-
+selectraws1/19442	0	26	other	JJ	*))))))))))	-	-	-	-	*	-
+selectraws1/19442	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19442	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	(2
+selectraws1/19442	0	1	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws1/19442	0	2	befriends	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/19442	0	3	Isabella	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/19442	0	4	Thorpe	NNP	*))	-	-	-	-	*)	3)
+selectraws1/19442	0	5	and	CC	*	-	-	-	-	*	-
+selectraws1/19442	0	6	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19442	0	7	fascinated	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19442	0	8	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	9	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19442	0	10	tales	NNS	*)	-	-	-	-	*	-
+selectraws1/19442	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	12	Henry	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(4
+selectraws1/19442	0	13	Tilney	NNP	*)))))))	-	-	-	-	*)	4)
+selectraws1/19442	0	14	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19442	0	0	Another	DT	(TOP(S(NP(NP*)	-	-	-	-	*	(10
+selectraws1/19442	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	2	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/19442	0	3	author	NN	*	-	-	-	-	*	1)
+selectraws1/19442	0	4	's	POS	*)	-	-	-	-	*	-
+selectraws1/19442	0	5	works	NNS	*)))	-	-	-	-	*	10)
+selectraws1/19442	0	6	largely	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/19442	0	7	takes	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/19442	0	8	place	NN	(NP*)	-	-	-	-	*	-
+selectraws1/19442	0	9	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	10	Thomas	NNP	(NP(NP*	-	-	-	-	(PERSON*	(5
+selectraws1/19442	0	11	Bertram	NNP	*	-	-	-	-	*)	5)
+selectraws1/19442	0	12	's	POS	*)	-	-	-	-	*	-
+selectraws1/19442	0	13	estate	NN	*)))	-	-	-	-	*	-
+selectraws1/19442	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/19442	0	15	sees	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19442	0	16	the	DT	(S(NP*	-	-	-	-	*	(6
+selectraws1/19442	0	17	protagonist	NN	*)	-	-	-	-	*	6)
+selectraws1/19442	0	18	marry	VB	(VP*	-	-	-	-	*	-
+selectraws1/19442	0	19	her	PRP$	(NP*	-	-	-	-	*	(7|(6)
+selectraws1/19442	0	20	cousin	NN	*	-	-	-	-	*	7)
+selectraws1/19442	0	21	Edmund	NNP	*)))))	-	-	-	-	(PERSON)	(7)
+selectraws1/19442	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19442	0	0	Colonel	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(8
+selectraws1/19442	0	1	Brandon	NNP	*)	-	-	-	-	*)	8)
+selectraws1/19442	0	2	marries	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19442	0	3	the	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws1/19442	0	4	protagonist	NN	*)	-	-	-	-	*	-
+selectraws1/19442	0	5	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	6	another	DT	(NP*	-	-	-	-	*	(12
+selectraws1/19442	0	7	work	NN	*)))	-	-	-	-	*	12)|9)
+selectraws1/19442	0	8	despite	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	9	her	PRP$	(NP(NP*	-	-	-	-	*	(9)
+selectraws1/19442	0	10	once-passionate	JJ	*	-	-	-	-	*	-
+selectraws1/19442	0	11	relationship	NN	*)	-	-	-	-	*	-
+selectraws1/19442	0	12	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	13	John	NNP	(NP*	-	-	-	-	(PERSON*	(14
+selectraws1/19442	0	14	Willoughby	NNP	*))	-	-	-	-	*)	14)
+selectraws1/19442	0	15	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	16	one	CD	(NP(NP*)	-	-	-	-	*	(12
+selectraws1/19442	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	18	her	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/19442	0	19	works	NNS	*))))))	-	-	-	-	*	12)
+selectraws1/19442	0	20	,	,	*	-	-	-	-	*	-
+selectraws1/19442	0	21	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/19442	0	22	another	DT	(S(NP(NP*)	-	-	-	-	*	(13
+selectraws1/19442	0	23	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	24	her	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/19442	0	25	works	NNS	*)))	-	-	-	-	*	13)
+selectraws1/19442	0	26	features	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19442	0	27	the	DT	(NP*	-	-	-	-	*	(14
+selectraws1/19442	0	28	Bennet	NNP	*	-	-	-	-	(PERSON)	-
+selectraws1/19442	0	29	sisters	NNS	*)))))	-	-	-	-	*	14)
+selectraws1/19442	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19442	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19442	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/19442	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/19442	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/19442	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/19442	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/19442	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws1/19442	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19442	0	8	Mansfield	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	(10
+selectraws1/19442	0	9	Park	NNP	*)	-	-	-	-	*)	10)
+selectraws1/19442	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/19442	0	11	Northanger	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(11
+selectraws1/19442	0	12	Abbey	NNP	*)	-	-	-	-	*)	11)
+selectraws1/19442	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/19442	0	14	Sense	NN	(NP*	-	-	-	-	*	(12
+selectraws1/19442	0	15	and	CC	*	-	-	-	-	*	-
+selectraws1/19442	0	16	Sensibility	NN	*)	-	-	-	-	*	12)
+selectraws1/19442	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/19442	0	18	and	CC	*	-	-	-	-	*	-
+selectraws1/19442	0	19	Pride	NNP	(NP*	-	-	-	-	*	(13
+selectraws1/19442	0	20	and	CC	*	-	-	-	-	*	-
+selectraws1/19442	0	21	Prejudice	NNP	*))))	-	-	-	-	*	13)|1)
+selectraws1/19442	0	22	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

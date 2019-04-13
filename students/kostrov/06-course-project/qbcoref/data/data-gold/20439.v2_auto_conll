@@ -1,0 +1,106 @@
+#begin document (selectraws1/20439); part 000
+
+selectraws1/20439	0	0	This	DT	(TOP(S(S(NP(NP*	-	-	-	-	*	(1|(2
+selectraws1/20439	0	1	novel	NN	*	-	-	-	-	*	-
+selectraws1/20439	0	2	's	POS	*)	-	-	-	-	*	1)
+selectraws1/20439	0	3	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws1/20439	0	4	accidentally	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/20439	0	5	hangs	VBZ	*	-	-	-	-	*	-
+selectraws1/20439	0	6	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/20439	0	7	flag	NN	*	-	-	-	-	*	-
+selectraws1/20439	0	8	upside	NN	*)	-	-	-	-	*	-
+selectraws1/20439	0	9	down	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/20439	0	10	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/20439	0	11	getting	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20439	0	12	drunk	JJ	(ADJP*)	-	-	-	-	*	-
+selectraws1/20439	0	13	working	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20439	0	14	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/20439	0	15	a	DT	(NP*	-	-	-	-	*	(2
+selectraws1/20439	0	16	security	NN	*	-	-	-	-	*	-
+selectraws1/20439	0	17	guard	NN	*)))))))))	-	-	-	-	*	2)
+selectraws1/20439	0	18	,	,	*	-	-	-	-	*	-
+selectraws1/20439	0	19	and	CC	*	-	-	-	-	*	-
+selectraws1/20439	0	20	he	PRP	(S(NP*)	-	-	-	-	*	(2)
+selectraws1/20439	0	21	lives	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20439	0	22	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/20439	0	23	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20439	0	24	while	NN	*)	-	-	-	-	*	-
+selectraws1/20439	0	25	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20439	0	26	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20439	0	27	shack	NN	*)	-	-	-	-	*	-
+selectraws1/20439	0	28	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20439	0	29	Lee	NNP	(NP(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/20439	0	30	Ann	NNP	*)	-	-	-	-	*)	3)
+selectraws1/20439	0	31	and	CC	*	-	-	-	-	*	-
+selectraws1/20439	0	32	Remi	NNP	(NP*	-	-	-	-	(PERSON*	(4
+selectraws1/20439	0	33	Boncouer	NNP	*)))))))	-	-	-	-	*)	4)
+selectraws1/20439	0	34	before	IN	(PP*	-	-	-	-	*	-
+selectraws1/20439	0	35	spending	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20439	0	36	time	NN	(NP*)	-	-	-	-	*	-
+selectraws1/20439	0	37	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20439	0	38	the	DT	(NP*	-	-	-	-	*	(5
+selectraws1/20439	0	39	drugged-out	JJ	*	-	-	-	-	*	-
+selectraws1/20439	0	40	Louisianan	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/20439	0	41	Bull	NNP	*	-	-	-	-	*	(5
+selectraws1/20439	0	42	Lee	NNP	*)))))))	-	-	-	-	*)	5)|5)
+selectraws1/20439	0	43	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20439	0	0	Carlo	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/20439	0	1	Marx	NNP	*)	-	-	-	-	*)	6)
+selectraws1/20439	0	2	goes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20439	0	3	around	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/20439	0	4	partying	VBG	(PP*	-	-	-	-	*	-
+selectraws1/20439	0	5	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20439	0	6	a	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws1/20439	0	7	character	NN	*)	-	-	-	-	*	7)
+selectraws1/20439	0	8	who	WP	(SBAR(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/20439	0	9	throughout	IN	(S(PP*	-	-	-	-	*	-
+selectraws1/20439	0	10	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/20439	0	11	novel	NN	*))	-	-	-	-	*	1)
+selectraws1/20439	0	12	has	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20439	0	13	concurrent	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws1/20439	0	14	relationships	NNS	*)	-	-	-	-	*	-
+selectraws1/20439	0	15	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20439	0	16	three	CD	(NP*	-	-	-	-	*	-
+selectraws1/20439	0	17	different	JJ	*	-	-	-	-	*	-
+selectraws1/20439	0	18	wives	NNS	*))))))	-	-	-	-	*	-
+selectraws1/20439	0	19	and	CC	*	-	-	-	-	*	-
+selectraws1/20439	0	20	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/20439	0	21	was	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/20439	0	22	based	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20439	0	23	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/20439	0	24	the	DT	(NP(NP(NP*	-	-	-	-	*	(8|(9
+selectraws1/20439	0	25	author	NN	*	-	-	-	-	*	-
+selectraws1/20439	0	26	's	POS	*)	-	-	-	-	*	8)
+selectraws1/20439	0	27	friend	NN	*)	-	-	-	-	*	9)
+selectraws1/20439	0	28	Neal	NNP	(NP*	-	-	-	-	(PERSON*	(9
+selectraws1/20439	0	29	Cassidy	NNP	*))))))))))))	-	-	-	-	*)	9)
+selectraws1/20439	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20439	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20439	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/20439	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/20439	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/20439	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/20439	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/20439	0	6	work	NN	*)	-	-	-	-	*	-
+selectraws1/20439	0	7	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/20439	0	8	Dean	NNP	(NP(NP*	-	-	-	-	*	(7
+selectraws1/20439	0	9	Moriarty	NNP	*)	-	-	-	-	(PERSON)	7)
+selectraws1/20439	0	10	and	CC	*	-	-	-	-	*	-
+selectraws1/20439	0	11	Sal	NNP	(NP(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/20439	0	12	Paradise	NNP	*)	-	-	-	-	*)	11)|1)
+selectraws1/20439	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/20439	0	14	a	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/20439	0	15	Beat	NN	*	-	-	-	-	*	-
+selectraws1/20439	0	16	novel	NN	*)	-	-	-	-	*	-
+selectraws1/20439	0	17	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/20439	0	18	Jack	NNP	(NP*	-	-	-	-	(PERSON*	(8
+selectraws1/20439	0	19	Kerouac	NNP	*)))))))	-	-	-	-	*)	8)|1)
+selectraws1/20439	0	20	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

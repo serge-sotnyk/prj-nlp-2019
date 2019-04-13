@@ -1,0 +1,156 @@
+#begin document (selectraws/11); part 000
+
+selectraws/11	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(8
+selectraws/11	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws/11	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/11	0	4	play	NN	*)))	-	-	-	-	*	8)|1)
+selectraws/11	0	5	reads	VBZ	(VP*	-	-	-	-	*	-
+selectraws/11	0	6	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/11	0	7	letter	NN	*)	-	-	-	-	*	-
+selectraws/11	0	8	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/11	0	9	says	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/11	0	10	Some	DT	(SBAR(S(S(NP*)	-	-	-	-	*	-
+selectraws/11	0	11	are	VBP	(VP*	-	-	-	-	*	-
+selectraws/11	0	12	born	VBN	(VP*	-	-	-	-	*	-
+selectraws/11	0	13	great	JJ	(ADVP*))))	-	-	-	-	*	-
+selectraws/11	0	14	,	,	*	-	-	-	-	*	-
+selectraws/11	0	15	some	DT	(S(NP*)	-	-	-	-	*	-
+selectraws/11	0	16	achieve	VBP	(VP*	-	-	-	-	*	-
+selectraws/11	0	17	greatness	NN	(NP*)))	-	-	-	-	*	-
+selectraws/11	0	18	,	,	*	-	-	-	-	*	-
+selectraws/11	0	19	and	CC	*	-	-	-	-	*	-
+selectraws/11	0	20	some	DT	(S(NP*)	-	-	-	-	*	-
+selectraws/11	0	21	have	VBP	(VP*	-	-	-	-	*	-
+selectraws/11	0	22	greatness	NN	(NP(NP*	-	-	-	-	*	-
+selectraws/11	0	23	thrust	NN	*)	-	-	-	-	*	-
+selectraws/11	0	24	upon	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	25	'em	PRP	(NP*))))))))))))	-	-	-	-	*	-
+selectraws/11	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/11	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	-
+selectraws/11	0	1	note	NN	*)	-	-	-	-	*	-
+selectraws/11	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/11	0	4	play	NN	*)))	-	-	-	-	*	1)
+selectraws/11	0	5	is	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws/11	0	6	forged	VBN	(VP*	-	-	-	-	*	-
+selectraws/11	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	8	Maria	NNP	(NP*))))	-	-	-	-	(LOCATION)	(11)
+selectraws/11	0	9	and	CC	*	-	-	-	-	*	-
+selectraws/11	0	10	asks	VBZ	(VP*	-	-	-	-	*	-
+selectraws/11	0	11	its	PRP$	(NP*	-	-	-	-	*	(8
+selectraws/11	0	12	recipient	NN	*)	-	-	-	-	*	8)
+selectraws/11	0	13	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/11	0	14	wear	VB	(VP*	-	-	-	-	*	-
+selectraws/11	0	15	yellow	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws/11	0	16	stockings	NNS	*)	-	-	-	-	*	-
+selectraws/11	0	17	and	CC	*	-	-	-	-	*	-
+selectraws/11	0	18	cross	JJ	(NP*	-	-	-	-	*	-
+selectraws/11	0	19	garters	NNS	*)))))))	-	-	-	-	*	-
+selectraws/11	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/11	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/11	0	1	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/11	0	2	play	NN	*))	-	-	-	-	*	1)
+selectraws/11	0	3	,	,	*	-	-	-	-	*	-
+selectraws/11	0	4	the	DT	(NP*	-	-	-	-	*	(5
+selectraws/11	0	5	sea	NN	*	-	-	-	-	*	-
+selectraws/11	0	6	captain	NN	*	-	-	-	-	*	5)
+selectraws/11	0	7	Antonio	NNP	*)	-	-	-	-	*	(5)
+selectraws/11	0	8	becomes	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws/11	0	9	enraged	JJ	(ADJP*	-	-	-	-	*	-
+selectraws/11	0	10	at	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	11	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/11	0	12	supposed	JJ	*	-	-	-	-	*	-
+selectraws/11	0	13	theft	NN	*)	-	-	-	-	*	-
+selectraws/11	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	15	his	PRP$	(NP*	-	-	-	-	*	(5)
+selectraws/11	0	16	purse	NN	*))))))	-	-	-	-	*	-
+selectraws/11	0	17	and	CC	*	-	-	-	-	*	-
+selectraws/11	0	18	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/11	0	19	arrested	VBN	(VP*	-	-	-	-	*	-
+selectraws/11	0	20	by	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	21	the	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws/11	0	22	Duke	NNP	*)	-	-	-	-	(ORGANIZATION*	-
+selectraws/11	0	23	of	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	24	Ilyria	NNP	(NP*)))))))	-	-	-	-	*)	6)
+selectraws/11	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/11	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	-
+selectraws/11	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	2	its	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws/11	0	3	subplots	NNS	*)))	-	-	-	-	*	-
+selectraws/11	0	4	concerns	VBZ	(VP*	-	-	-	-	*	-
+selectraws/11	0	5	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/11	0	6	duel	NN	*)	-	-	-	-	*	-
+selectraws/11	0	7	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws/11	0	8	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws/11	0	9	Andrew	NNP	(S(NP(NP*	-	-	-	-	(PERSON*	(15
+selectraws/11	0	10	Aguecheek	NNP	*)	-	-	-	-	*)	15)
+selectraws/11	0	11	and	CC	*	-	-	-	-	*	-
+selectraws/11	0	12	Toby	NNP	(NP*	-	-	-	-	(PERSON*	(16
+selectraws/11	0	13	Belch	NNP	*))	-	-	-	-	*)	16)
+selectraws/11	0	14	are	VBP	(VP*	-	-	-	-	*	-
+selectraws/11	0	15	wounded	VBN	(VP*))))))	-	-	-	-	*	-
+selectraws/11	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/11	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	-
+selectraws/11	0	1	group	NN	*)	-	-	-	-	*	-
+selectraws/11	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	3	characters	NNS	(NP*)))	-	-	-	-	*	-
+selectraws/11	0	4	plot	NN	(VP*	-	-	-	-	*	-
+selectraws/11	0	5	against	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	6	the	DT	(NP*	-	-	-	-	*	(8
+selectraws/11	0	7	pompous	JJ	*	-	-	-	-	*	-
+selectraws/11	0	8	steward	NN	*	-	-	-	-	*	8)
+selectraws/11	0	9	Malvolio	NNP	*))	-	-	-	-	(ORGANIZATION)	(8)
+selectraws/11	0	10	in	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	11	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/11	0	12	play	NN	*)	-	-	-	-	*	1)
+selectraws/11	0	13	,	,	*	-	-	-	-	*	-
+selectraws/11	0	14	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/11	0	15	centers	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/11	0	16	on	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	17	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/11	0	18	courts	NNS	*)	-	-	-	-	*	-
+selectraws/11	0	19	of	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	20	the	DT	(NP*	-	-	-	-	*	(9
+selectraws/11	0	21	wealthy	JJ	(NX(NX*	-	-	-	-	*	-
+selectraws/11	0	22	countess	NN	*	-	-	-	-	*	9)
+selectraws/11	0	23	Olivia	NNP	*)	-	-	-	-	(LOCATION)	(9)
+selectraws/11	0	24	and	CC	*	-	-	-	-	*	-
+selectraws/11	0	25	Duke	NNP	(NX*	-	-	-	-	(PERSON*	(17
+selectraws/11	0	26	Orsino	NNP	*))))))))))))	-	-	-	-	*)	17)
+selectraws/11	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/11	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/11	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/11	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/11	0	3	,	,	*	-	-	-	-	*	-
+selectraws/11	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/11	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/11	0	6	Shakespeare	NN	*	-	-	-	-	*	(18)
+selectraws/11	0	7	comedy	NN	*)	-	-	-	-	*	-
+selectraws/11	0	8	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws/11	0	9	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws/11	0	10	the	DT	(S(NP*	-	-	-	-	*	(4
+selectraws/11	0	11	twins	NNS	*	-	-	-	-	*	4)
+selectraws/11	0	12	Viola	NNP	*	-	-	-	-	(PERSON)	(4|(2)
+selectraws/11	0	13	and	CC	*	-	-	-	-	*	-
+selectraws/11	0	14	Sebastian	NNP	*)	-	-	-	-	(PERSON)	(3)|4)
+selectraws/11	0	15	are	VBP	(VP*	-	-	-	-	*	-
+selectraws/11	0	16	separated	VBN	(VP*	-	-	-	-	*	-
+selectraws/11	0	17	after	IN	(PP*	-	-	-	-	*	-
+selectraws/11	0	18	a	DT	(NP*	-	-	-	-	*	-
+selectraws/11	0	19	shipwreck	NN	*))))))))	-	-	-	-	*	1)
+selectraws/11	0	20	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

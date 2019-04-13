@@ -1,0 +1,114 @@
+#begin document (selectraws/15135); part 000
+
+selectraws/15135	0	0	At	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15135	0	1	one	CD	(NP(NP*	-	-	-	-	*	-
+selectraws/15135	0	2	point	NN	*)	-	-	-	-	*	-
+selectraws/15135	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15135	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15135	0	5	novel	NN	*))))	-	-	-	-	*	1)
+selectraws/15135	0	6	,	,	*	-	-	-	-	*	-
+selectraws/15135	0	7	the	DT	(NP*	-	-	-	-	*	(2
+selectraws/15135	0	8	narrator	NN	*)	-	-	-	-	*	2)
+selectraws/15135	0	9	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15135	0	10	jealous	JJ	(ADJP*	-	-	-	-	*	-
+selectraws/15135	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15135	0	12	Nunkie	NNP	(NP*)))	-	-	-	-	*	(4)
+selectraws/15135	0	13	before	IN	(PP*	-	-	-	-	*	-
+selectraws/15135	0	14	escaping	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15135	0	15	from	IN	(PP*	-	-	-	-	*	-
+selectraws/15135	0	16	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15135	0	17	storm	NN	*)	-	-	-	-	*	-
+selectraws/15135	0	18	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15135	0	19	her	PRP$	(NP(NP*	-	-	-	-	*	(5|(2)
+selectraws/15135	0	20	husband	NN	*)	-	-	-	-	*	5)
+selectraws/15135	0	21	and	CC	*	-	-	-	-	*	-
+selectraws/15135	0	22	a	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws/15135	0	23	man	NN	*)	-	-	-	-	*	6)
+selectraws/15135	0	24	named	VBN	(VP*	-	-	-	-	*	-
+selectraws/15135	0	25	Motor	NNP	(S(NP*	-	-	-	-	*	(6
+selectraws/15135	0	26	Boat	NNP	*))))))))))))	-	-	-	-	*	6)
+selectraws/15135	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15135	0	0	Much	JJ	(TOP(S(NP(NP*)	-	-	-	-	*	-
+selectraws/15135	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15135	0	2	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15135	0	3	novel	NN	*)))	-	-	-	-	*	1)
+selectraws/15135	0	4	takes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15135	0	5	place	NN	(NP*)	-	-	-	-	*	-
+selectraws/15135	0	6	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15135	0	7	Eatonville	NNP	(NP(NP*)	-	-	-	-	(LOCATION)	-
+selectraws/15135	0	8	,	,	*	-	-	-	-	*	-
+selectraws/15135	0	9	where	WRB	(SBAR(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws/15135	0	10	the	DT	(S(NP(NP(NP*	-	-	-	-	*	(2|(7
+selectraws/15135	0	11	narrator	NN	*	-	-	-	-	*	2)
+selectraws/15135	0	12	's	POS	*)	-	-	-	-	*	-
+selectraws/15135	0	13	second	JJ	*	-	-	-	-	*	-
+selectraws/15135	0	14	husband	NN	*)	-	-	-	-	*	7)
+selectraws/15135	0	15	Jody	NNP	(NP*	-	-	-	-	(PERSON*	(7
+selectraws/15135	0	16	Starks	NNP	*))	-	-	-	-	*)	7)
+selectraws/15135	0	17	becomes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15135	0	18	mayor	NN	(NP*))))	-	-	-	-	*	-
+selectraws/15135	0	19	,	,	*	-	-	-	-	*	-
+selectraws/15135	0	20	and	CC	*	-	-	-	-	*	-
+selectraws/15135	0	21	where	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws/15135	0	22	the	DT	(S(NP*	-	-	-	-	*	(2
+selectraws/15135	0	23	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws/15135	0	24	meets	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15135	0	25	Pheoby	NNP	(NP*	-	-	-	-	(PERSON*	(8
+selectraws/15135	0	26	Watson	NNP	*))))))))	-	-	-	-	*)	8)
+selectraws/15135	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15135	0	0	Eventually	RB	(TOP(S(ADVP*)	-	-	-	-	*	-
+selectraws/15135	0	1	the	DT	(NP*	-	-	-	-	*	(2
+selectraws/15135	0	2	narrator	NN	*)	-	-	-	-	*	2)
+selectraws/15135	0	3	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15135	0	4	forced	VBN	(VP*	-	-	-	-	*	-
+selectraws/15135	0	5	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/15135	0	6	shoot	VB	(VP*	-	-	-	-	*	-
+selectraws/15135	0	7	her	PRP$	(NP(NP*	-	-	-	-	*	(9|(2)
+selectraws/15135	0	8	third	JJ	*	-	-	-	-	*	-
+selectraws/15135	0	9	husband	NN	*)	-	-	-	-	*	9)
+selectraws/15135	0	10	Tea	NNP	(NP*	-	-	-	-	*	(9
+selectraws/15135	0	11	Cake	NNP	*))	-	-	-	-	*	9)
+selectraws/15135	0	12	after	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15135	0	13	he	PRP	(S(NP*)	-	-	-	-	*	(9)
+selectraws/15135	0	14	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15135	0	15	bit	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/15135	0	16	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15135	0	17	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15135	0	18	rabid	JJ	*	-	-	-	-	*	-
+selectraws/15135	0	19	dog	NN	*)	-	-	-	-	*	-
+selectraws/15135	0	20	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15135	0	21	the	DT	(NP*	-	-	-	-	*	-
+selectraws/15135	0	22	Everglades	NNS	*))))))))))))	-	-	-	-	(LOCATION)	-
+selectraws/15135	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15135	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15135	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/15135	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/15135	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15135	0	4	name	VB	(VP(VP*	-	-	-	-	*	-
+selectraws/15135	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/15135	0	6	novel	NN	*)	-	-	-	-	*	1)
+selectraws/15135	0	7	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws/15135	0	8	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws/15135	0	9	Janie	NNP	(S(NP*	-	-	-	-	(PERSON*	(2
+selectraws/15135	0	10	Crawford	NNP	*)	-	-	-	-	*)	2)
+selectraws/15135	0	11	recounts	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15135	0	12	her	PRP$	(NP*	-	-	-	-	*	(2)
+selectraws/15135	0	13	life	NN	*))))))	-	-	-	-	*	-
+selectraws/15135	0	14	,	,	*	-	-	-	-	*	-
+selectraws/15135	0	15	a	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/15135	0	16	work	NN	*)	-	-	-	-	*	-
+selectraws/15135	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15135	0	18	Zora	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(3
+selectraws/15135	0	19	Neale	NNP	*	-	-	-	-	*	-
+selectraws/15135	0	20	Hurston	NNP	*))))	-	-	-	-	*)	3)|1)
+selectraws/15135	0	21	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

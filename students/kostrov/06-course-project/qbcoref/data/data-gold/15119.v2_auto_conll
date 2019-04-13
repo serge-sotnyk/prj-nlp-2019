@@ -1,0 +1,160 @@
+#begin document (selectraws/15119); part 000
+
+selectraws/15119	0	0	Ivan	NNP	(TOP(S(NP(NP*	-	-	-	-	(PERSON*	(11
+selectraws/15119	0	1	Vasilievich	NNP	*)	-	-	-	-	*)	11)
+selectraws/15119	0	2	and	CC	*	-	-	-	-	*	-
+selectraws/15119	0	3	Aristarkh	NNP	(NP*	-	-	-	-	*	(12
+selectraws/15119	0	4	Platonivich	NNP	*))	-	-	-	-	*	12)
+selectraws/15119	0	5	engage	VBP	(VP*	-	-	-	-	*	-
+selectraws/15119	0	6	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	7	a	DT	(NP*	-	-	-	-	*	-
+selectraws/15119	0	8	rivalry	NN	*))	-	-	-	-	*	-
+selectraws/15119	0	9	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15119	0	10	Xavier	NNP	(S(NP*	-	-	-	-	(PERSON*	(13
+selectraws/15119	0	11	Ilchin	NNP	*)	-	-	-	-	*)	13)
+selectraws/15119	0	12	praises	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15119	0	13	Maxudov	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION)	(14)
+selectraws/15119	0	14	's	POS	*)	-	-	-	-	*	-
+selectraws/15119	0	15	work	NN	*)	-	-	-	-	*	-
+selectraws/15119	0	16	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	17	one	CD	(NP(NP*)	-	-	-	-	*	(18
+selectraws/15119	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	19	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/15119	0	20	author	NN	*	-	-	-	-	*	1)
+selectraws/15119	0	21	's	POS	*)	-	-	-	-	*	-
+selectraws/15119	0	22	novels	NNS	*))))))))	-	-	-	-	*	18)
+selectraws/15119	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15119	0	0	Julia	NNP	(TOP(S(NP(NP*	-	-	-	-	(PERSON*	-
+selectraws/15119	0	1	Reiss	NNP	*)	-	-	-	-	*)	-
+selectraws/15119	0	2	and	CC	*	-	-	-	-	*	-
+selectraws/15119	0	3	the	DT	(NP*	-	-	-	-	*	-
+selectraws/15119	0	4	bumpkin	JJ	*	-	-	-	-	*	-
+selectraws/15119	0	5	Larosik	NNP	*))	-	-	-	-	*	-
+selectraws/15119	0	6	stay	VBP	(VP*	-	-	-	-	*	-
+selectraws/15119	0	7	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	8	the	DT	(NP*	-	-	-	-	*	-
+selectraws/15119	0	9	Turbin	NNP	*	-	-	-	-	(PERSON)	-
+selectraws/15119	0	10	family	NN	*))	-	-	-	-	*	-
+selectraws/15119	0	11	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	12	this	DT	(NP(NP(NP*	-	-	-	-	*	(1|(15
+selectraws/15119	0	13	author	NN	*	-	-	-	-	*	1)
+selectraws/15119	0	14	's	POS	*)	-	-	-	-	*	-
+selectraws/15119	0	15	novel	NN	*)	-	-	-	-	*	-
+selectraws/15119	0	16	about	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	17	Pavel	NNP	(NP*	-	-	-	-	(PERSON*	(16
+selectraws/15119	0	18	Skoropadsky	NNP	*)))))	-	-	-	-	*)	16)|15)
+selectraws/15119	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15119	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15119	0	1	addition	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws/15119	0	2	to	TO	(PP*	-	-	-	-	*	-
+selectraws/15119	0	3	writing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15119	0	4	Black	NNP	(NP(NP*	-	-	-	-	*	(18
+selectraws/15119	0	5	Snow	NNP	*)	-	-	-	-	*	18)
+selectraws/15119	0	6	and	CC	*	-	-	-	-	*	-
+selectraws/15119	0	7	White	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(15
+selectraws/15119	0	8	Guard	NNP	*)))))))	-	-	-	-	*)	15)
+selectraws/15119	0	9	,	,	*	-	-	-	-	*	-
+selectraws/15119	0	10	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15119	0	11	man	NN	*)	-	-	-	-	*	1)
+selectraws/15119	0	12	described	VBD	(VP*	-	-	-	-	*	-
+selectraws/15119	0	13	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15119	0	14	scientist	NN	*)	-	-	-	-	*	-
+selectraws/15119	0	15	increasing	VBG	(VP*	-	-	-	-	*	-
+selectraws/15119	0	16	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15119	0	17	size	NN	*)	-	-	-	-	*	-
+selectraws/15119	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	19	reptiles	NNS	(NP*)))	-	-	-	-	*	-
+selectraws/15119	0	20	instead	RB	(PP*	-	-	-	-	*	-
+selectraws/15119	0	21	of	IN	*	-	-	-	-	*	-
+selectraws/15119	0	22	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15119	0	23	population	NN	*)	-	-	-	-	*	-
+selectraws/15119	0	24	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	25	chickens	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws/15119	0	26	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	27	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws/15119	0	28	The	NNP	*	-	-	-	-	*	(17
+selectraws/15119	0	29	Fatal	NNP	*	-	-	-	-	*	-
+selectraws/15119	0	30	Eggs	NNP	*)))))))))	-	-	-	-	*	17)
+selectraws/15119	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15119	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws/15119	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws/15119	0	2	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15119	0	3	wrote	VBD	(S(VP*	-	-	-	-	*	-
+selectraws/15119	0	4	about	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	5	Philip	NNP	(S(NP*	-	-	-	-	(PERSON*	(6
+selectraws/15119	0	6	Philopvich	NNP	*	-	-	-	-	*	-
+selectraws/15119	0	7	Preobrazhensky	NNP	*)	-	-	-	-	*)	6)
+selectraws/15119	0	8	making	VBG	(VP*	-	-	-	-	*	-
+selectraws/15119	0	9	Sharik	NNP	(S(NP*)	-	-	-	-	*	(7)
+selectraws/15119	0	10	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15119	0	11	human	NN	*)	-	-	-	-	*	-
+selectraws/15119	0	12	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	13	the	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws/15119	0	14	work	NN	*	-	-	-	-	*	8)
+selectraws/15119	0	15	Heart	NNP	*)	-	-	-	-	*	(8
+selectraws/15119	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	17	a	DT	(NP*	-	-	-	-	*	-
+selectraws/15119	0	18	Dog	NNP	*)))))))))))))	-	-	-	-	*	8)
+selectraws/15119	0	19	created	VBD	(VP*	-	-	-	-	*	-
+selectraws/15119	0	20	a	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws/15119	0	21	character	NN	*)	-	-	-	-	*	9)
+selectraws/15119	0	22	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15119	0	23	uses	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15119	0	24	Azazello	NNP	(NP(NP*	-	-	-	-	*	(10)
+selectraws/15119	0	25	's	POS	*)	-	-	-	-	*	-
+selectraws/15119	0	26	cream	NN	*)	-	-	-	-	*	-
+selectraws/15119	0	27	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	28	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/15119	0	29	novel	NN	*)	-	-	-	-	*	2)
+selectraws/15119	0	30	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15119	0	31	features	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15119	0	32	a	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws/15119	0	33	giant	JJ	*	-	-	-	-	*	-
+selectraws/15119	0	34	cat	NN	*)	-	-	-	-	*	5)
+selectraws/15119	0	35	named	VBN	(VP*	-	-	-	-	*	-
+selectraws/15119	0	36	Behemoth	NNP	(S(NP*))))))))))))))	-	-	-	-	*	(5)
+selectraws/15119	0	37	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15119	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15119	0	1	that	DT	(NP*	-	-	-	-	*	(2
+selectraws/15119	0	2	novel	NN	*))	-	-	-	-	*	2)
+selectraws/15119	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15119	0	4	Berlioz	NNP	(NP*)	-	-	-	-	(ORGANIZATION)	(3)
+selectraws/15119	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15119	0	6	beheaded	VBN	(VP*	-	-	-	-	*	-
+selectraws/15119	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	8	a	DT	(NP*	-	-	-	-	*	-
+selectraws/15119	0	9	streetcar	NN	*))	-	-	-	-	*	-
+selectraws/15119	0	10	shortly	RB	(SBAR(ADVP*)	-	-	-	-	*	-
+selectraws/15119	0	11	after	IN	*	-	-	-	-	*	-
+selectraws/15119	0	12	Satan	NNP	(S(NP*)	-	-	-	-	*	(4)
+selectraws/15119	0	13	arrives	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15119	0	14	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	15	Moscow	NNP	(NP*)))))))	-	-	-	-	(LOCATION)	-
+selectraws/15119	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15119	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15119	0	1	ten	JJ	(NP*	-	-	-	-	*	-
+selectraws/15119	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/15119	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15119	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/15119	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15119	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws/15119	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15119	0	8	The	DT	(NP*	-	-	-	-	*	(2
+selectraws/15119	0	9	Master	NNP	*	-	-	-	-	*	-
+selectraws/15119	0	10	and	CC	*	-	-	-	-	*	-
+selectraws/15119	0	11	Margarita	NNP	*)))	-	-	-	-	(ORGANIZATION)	(9)|2)|1)
+selectraws/15119	0	12	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

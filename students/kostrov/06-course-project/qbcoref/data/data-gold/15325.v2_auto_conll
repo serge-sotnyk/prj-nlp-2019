@@ -1,0 +1,153 @@
+#begin document (selectraws1/15325); part 000
+
+selectraws1/15325	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(5
+selectraws1/15325	0	1	central	JJ	*	-	-	-	-	*	-
+selectraws1/15325	0	2	character	NN	*)	-	-	-	-	*	-
+selectraws1/15325	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/15325	0	5	play	NN	*)))	-	-	-	-	*	1)|5)
+selectraws1/15325	0	6	skips	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	7	work	NN	(NP*)	-	-	-	-	*	-
+selectraws1/15325	0	8	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	9	three	CD	(NP*	-	-	-	-	*	-
+selectraws1/15325	0	10	days	NNS	*))	-	-	-	-	*	-
+selectraws1/15325	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/15325	0	12	traveling	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/15325	0	13	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	14	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/15325	0	15	Green	NNP	*	-	-	-	-	*	-
+selectraws1/15325	0	16	Hat	NNP	*	-	-	-	-	*	-
+selectraws1/15325	0	17	bar	NN	*))	-	-	-	-	*	-
+selectraws1/15325	0	18	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/15325	0	19	drink	VB	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	20	and	CC	*	-	-	-	-	*	-
+selectraws1/15325	0	21	listen	VB	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	22	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	23	a	DT	(NP*	-	-	-	-	*	(6
+selectraws1/15325	0	24	jazz	NN	*	-	-	-	-	*	-
+selectraws1/15325	0	25	duo	NN	*)))))))))	-	-	-	-	*	6)
+selectraws1/15325	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15325	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(7
+selectraws1/15325	0	1	main	JJ	*	-	-	-	-	*	-
+selectraws1/15325	0	2	characters	NNS	*)	-	-	-	-	*	7)
+selectraws1/15325	0	3	reject	VBP	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	4	Mr.	NNP	(NP(NP*	-	-	-	-	(PERSON*	(8
+selectraws1/15325	0	5	Linder	NNP	*	-	-	-	-	*)	8)
+selectraws1/15325	0	6	's	POS	*)	-	-	-	-	*	-
+selectraws1/15325	0	7	bribe	NN	*)	-	-	-	-	*	-
+selectraws1/15325	0	8	,	,	*	-	-	-	-	*	-
+selectraws1/15325	0	9	even	RB	(SBAR*	-	-	-	-	*	-
+selectraws1/15325	0	10	after	IN	*	-	-	-	-	*	-
+selectraws1/15325	0	11	$	$	(S(NP*	-	-	-	-	(MONEY*	-
+selectraws1/15325	0	12	6500	CD	*)	-	-	-	-	*)	-
+selectraws1/15325	0	13	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	14	stolen	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	15	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	16	Willy	NNP	(NP(NP*	-	-	-	-	(PERSON*	(9
+selectraws1/15325	0	17	Harris	NNP	*)	-	-	-	-	*)	9)
+selectraws1/15325	0	18	,	,	*	-	-	-	-	*	-
+selectraws1/15325	0	19	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+selectraws1/15325	0	20	keep	VB	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	21	them	PRP	(NP*)	-	-	-	-	*	(7)
+selectraws1/15325	0	22	out	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	23	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	24	Clybourne	NNP	(NP*	-	-	-	-	*	-
+selectraws1/15325	0	25	Park	NNP	*))))))))))))))	-	-	-	-	*	-
+selectraws1/15325	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15325	0	0	George	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(10
+selectraws1/15325	0	1	Murchison	NNP	*)	-	-	-	-	*)	10)
+selectraws1/15325	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	3	rejected	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	4	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	5	the	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws1/15325	0	6	main	JJ	*	-	-	-	-	*	-
+selectraws1/15325	0	7	female	JJ	*	-	-	-	-	*	-
+selectraws1/15325	0	8	character	NN	*)	-	-	-	-	*	11)
+selectraws1/15325	0	9	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	10	favor	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/15325	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	12	the	DT	(NP*	-	-	-	-	*	(12
+selectraws1/15325	0	13	Nigerian	NNP	*	-	-	-	-	*	12)
+selectraws1/15325	0	14	Joseph	NNP	*	-	-	-	-	(PERSON*	(12
+selectraws1/15325	0	15	Asagai	NNP	*))))	-	-	-	-	*)	12)
+selectraws1/15325	0	16	,	,	*	-	-	-	-	*	-
+selectraws1/15325	0	17	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	18	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/15325	0	19	work	NN	*))))))	-	-	-	-	*	1)
+selectraws1/15325	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15325	0	0	Travis	NNP	(TOP(S(S(NP(NP(NP*	-	-	-	-	(PERSON)	(14|(13)
+selectraws1/15325	0	1	's	POS	*)	-	-	-	-	*	-
+selectraws1/15325	0	2	mom	NN	*)	-	-	-	-	*	14)
+selectraws1/15325	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/15325	0	4	Ruth	NNP	(NP*)	-	-	-	-	(PERSON)	(14)
+selectraws1/15325	0	5	,	,	*)	-	-	-	-	*	-
+selectraws1/15325	0	6	has	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	7	started	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	8	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/15325	0	9	pay	VB	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	10	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	11	an	DT	(NP*	-	-	-	-	*	-
+selectraws1/15325	0	12	abortion	NN	*))))))))	-	-	-	-	*	-
+selectraws1/15325	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/15325	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/15325	0	15	Beneatha	NNP	(S(NP*)	-	-	-	-	(PERSON)	(11)
+selectraws1/15325	0	16	attends	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	17	college	NN	(NP*)	-	-	-	-	*	-
+selectraws1/15325	0	18	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	19	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/15325	0	20	play	NN	*)	-	-	-	-	*	1)
+selectraws1/15325	0	21	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/15325	0	22	centers	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/15325	0	23	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	24	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/15325	0	25	effects	NNS	*)	-	-	-	-	*	-
+selectraws1/15325	0	26	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	27	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/15325	0	28	$	$	(ADJP*	-	-	-	-	(MONEY*	-
+selectraws1/15325	0	29	10,000	CD	*)	-	-	-	-	*)	-
+selectraws1/15325	0	30	insurance	NN	*	-	-	-	-	*	-
+selectraws1/15325	0	31	check	NN	*)	-	-	-	-	*	-
+selectraws1/15325	0	32	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	33	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/15325	0	34	life	NN	*)	-	-	-	-	*	-
+selectraws1/15325	0	35	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	36	Walter	NNP	(NP*	-	-	-	-	(PERSON*	(5
+selectraws1/15325	0	37	Lee	NNP	*	-	-	-	-	*	-
+selectraws1/15325	0	38	Younger	NNP	*)))))))))))))))	-	-	-	-	*)	5)
+selectraws1/15325	0	39	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15325	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/15325	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/15325	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/15325	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/15325	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/15325	0	6	play	NN	*)	-	-	-	-	*	1)
+selectraws1/15325	0	7	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/15325	0	8	takes	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/15325	0	9	its	PRP$	(NP*	-	-	-	-	*	(1|(1)
+selectraws1/15325	0	10	title	NN	*)	-	-	-	-	*	1)
+selectraws1/15325	0	11	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	12	Langston	NNP	(NP(NP(NP*	-	-	-	-	(PERSON*	(2|(3
+selectraws1/15325	0	13	Hughes	NNP	*	-	-	-	-	*)	3)
+selectraws1/15325	0	14	'	POS	*)	-	-	-	-	*	-
+selectraws1/15325	0	15	A	NNP	*	-	-	-	-	*	-
+selectraws1/15325	0	16	Dream	NNP	*	-	-	-	-	*	-
+selectraws1/15325	0	17	Deferred	NNP	*)	-	-	-	-	*	2)
+selectraws1/15325	0	18	,	,	*	-	-	-	-	*	-
+selectraws1/15325	0	19	written	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15325	0	20	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15325	0	21	Lorraine	NNP	(NP*	-	-	-	-	(PERSON*	(4
+selectraws1/15325	0	22	Hansberry	NNP	*))))))))))	-	-	-	-	*)	4)
+selectraws1/15325	0	23	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

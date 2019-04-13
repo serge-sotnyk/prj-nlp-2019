@@ -1,0 +1,111 @@
+#begin document (notdoneraws/18598); part 000
+
+notdoneraws/18598	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(2
+notdoneraws/18598	0	1	author	NN	*)	-	-	-	-	*	-
+notdoneraws/18598	0	2	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	3	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/18598	0	4	nationality	NN	*)))	-	-	-	-	*	2)|1)
+notdoneraws/18598	0	5	re-imagined	VBP	(VP(VP*	-	-	-	-	*	-
+notdoneraws/18598	0	6	The	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/18598	0	7	Turn	NN	*)	-	-	-	-	*	-
+notdoneraws/18598	0	8	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	9	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/18598	0	10	Screw	NNP	*)	-	-	-	-	*	-
+notdoneraws/18598	0	11	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	12	Aghwee	NNP	(NP*)))))	-	-	-	-	*	(4
+notdoneraws/18598	0	13	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/18598	0	14	Sky	NNP	*	-	-	-	-	*	-
+notdoneraws/18598	0	15	Monster	NN	*))	-	-	-	-	*	4)
+notdoneraws/18598	0	16	and	CC	*	-	-	-	-	*	-
+notdoneraws/18598	0	17	created	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/18598	0	18	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/18598	0	19	small	JJ	*	-	-	-	-	*	-
+notdoneraws/18598	0	20	plague-infested	JJ	*	-	-	-	-	*	-
+notdoneraws/18598	0	21	village	NN	*)	-	-	-	-	*	-
+notdoneraws/18598	0	22	filled	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/18598	0	23	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	24	rotting	VBG	(S(VP(VP*	-	-	-	-	*	-
+notdoneraws/18598	0	25	carcasses	NNS	(NP*))	-	-	-	-	*	-
+notdoneraws/18598	0	26	and	CC	*	-	-	-	-	*	-
+notdoneraws/18598	0	27	occupied	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/18598	0	28	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	29	fifteen	JJ	(NP(NP*	-	-	-	-	*	(5
+notdoneraws/18598	0	30	kids	NNS	*)	-	-	-	-	*	-
+notdoneraws/18598	0	31	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	32	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/18598	0	33	reform	NN	*	-	-	-	-	*	-
+notdoneraws/18598	0	34	school	NN	*)	-	-	-	-	*	5)
+notdoneraws/18598	0	35	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	36	Nip	NNP	(NP(NP(NP*)	-	-	-	-	*	(6
+notdoneraws/18598	0	37	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/18598	0	38	Buds	NNPS	*)	-	-	-	-	*	-
+notdoneraws/18598	0	39	,	,	*	-	-	-	-	*	-
+notdoneraws/18598	0	40	Shoot	NNP	(NP*)))	-	-	-	-	*	-
+notdoneraws/18598	0	41	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/18598	0	42	Kids	NNPS	*)))))))))))))))	-	-	-	-	*	6)
+notdoneraws/18598	0	43	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/18598	0	0	Another	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+notdoneraws/18598	0	1	author	NN	*)	-	-	-	-	*	-
+notdoneraws/18598	0	2	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	3	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/18598	0	4	country	NN	*)))	-	-	-	-	*	1)|3)
+notdoneraws/18598	0	5	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/18598	0	6	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	7	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/18598	0	8	love	NN	*	-	-	-	-	*	-
+notdoneraws/18598	0	9	affair	NN	*)	-	-	-	-	*	-
+notdoneraws/18598	0	10	between	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	11	a	DT	(NP(NP*	-	-	-	-	*	(7
+notdoneraws/18598	0	12	prostitute	NN	*)	-	-	-	-	*	7)
+notdoneraws/18598	0	13	and	CC	*	-	-	-	-	*	-
+notdoneraws/18598	0	14	a	DT	(NP(NP*	-	-	-	-	*	(8
+notdoneraws/18598	0	15	ballet	JJ	*	-	-	-	-	*	-
+notdoneraws/18598	0	16	aficionado	NN	*)	-	-	-	-	*	-
+notdoneraws/18598	0	17	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	18	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/18598	0	19	city	NN	*)))))))	-	-	-	-	*	8)
+notdoneraws/18598	0	20	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	21	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/18598	0	22	hot	JJ	*	-	-	-	-	*	-
+notdoneraws/18598	0	23	springs	NNS	*	-	-	-	-	*	-
+notdoneraws/18598	0	24	town	NN	*)	-	-	-	-	*	-
+notdoneraws/18598	0	25	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	26	Snow	NNP	(NP*	-	-	-	-	*	(9
+notdoneraws/18598	0	27	Country	NNP	*))))	-	-	-	-	*	9)
+notdoneraws/18598	0	28	,	,	*	-	-	-	-	*	-
+notdoneraws/18598	0	29	while	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/18598	0	30	other	JJ	(S(NP(NP*	-	-	-	-	*	(10
+notdoneraws/18598	0	31	novels	NNS	*)	-	-	-	-	*	-
+notdoneraws/18598	0	32	set	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/18598	0	33	here	RB	(ADVP*)))	-	-	-	-	*	10)
+notdoneraws/18598	0	34	include	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/18598	0	35	The	DT	(NP(NP*	-	-	-	-	*	(10|(11
+notdoneraws/18598	0	36	Silent	NNP	*	-	-	-	-	*	-
+notdoneraws/18598	0	37	Cry	NNP	*)	-	-	-	-	*	11)
+notdoneraws/18598	0	38	and	CC	*	-	-	-	-	*	-
+notdoneraws/18598	0	39	Thousand	NNP	(NP*	-	-	-	-	*	(12
+notdoneraws/18598	0	40	Cranes	NNP	*))))))	-	-	-	-	*	10)|12)
+notdoneraws/18598	0	41	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/18598	0	0	FTP	NNP	(TOP(S(NP*)	-	-	-	-	*	-
+notdoneraws/18598	0	1	,	,	*	-	-	-	-	*	-
+notdoneraws/18598	0	2	identify	VB	(VP*	-	-	-	-	*	-
+notdoneraws/18598	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/18598	0	4	country	NN	*)	-	-	-	-	*	1)
+notdoneraws/18598	0	5	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/18598	0	6	was	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/18598	0	7	home	NN	(NP(NP*)	-	-	-	-	*	(1
+notdoneraws/18598	0	8	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/18598	0	9	Kenzaburo	NNP	(NP(NP*	-	-	-	-	(PERSON*	(2
+notdoneraws/18598	0	10	Oe	NNP	*)	-	-	-	-	*)	2)
+notdoneraws/18598	0	11	and	CC	*	-	-	-	-	*	-
+notdoneraws/18598	0	12	Yasunari	NNP	(NP*	-	-	-	-	(PERSON*	(3
+notdoneraws/18598	0	13	Kawabata	NNP	*)))))))))	-	-	-	-	*)	3)|1)
+notdoneraws/18598	0	14	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

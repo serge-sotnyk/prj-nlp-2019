@@ -1,0 +1,185 @@
+#begin document (selectraws/15486); part 000
+
+selectraws/15486	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(7
+selectraws/15486	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	2	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/15486	0	3	man	NN	*	-	-	-	-	*	1)
+selectraws/15486	0	4	's	POS	*)	-	-	-	-	*	-
+selectraws/15486	0	5	dramas	NN	*)))	-	-	-	-	*	7)
+selectraws/15486	0	6	features	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15486	0	7	Sine	NNP	(NP(NP*	-	-	-	-	(PERSON*	(8
+selectraws/15486	0	8	Manibus	NNP	*)	-	-	-	-	*)	8)
+selectraws/15486	0	9	,	,	*	-	-	-	-	*	-
+selectraws/15486	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15486	0	11	opposes	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15486	0	12	Lady	NNP	(NP(NP*	-	-	-	-	*	(9
+selectraws/15486	0	13	Mary	NNP	*	-	-	-	-	(PERSON*	-
+selectraws/15486	0	14	Magdalene	NNP	*)	-	-	-	-	*)	9)
+selectraws/15486	0	15	,	,	*	-	-	-	-	*	-
+selectraws/15486	0	16	earlier	RBR	(VP(ADVP*)	-	-	-	-	*	-
+selectraws/15486	0	17	known	VBN	*	-	-	-	-	*	-
+selectraws/15486	0	18	as	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	19	La	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(9
+selectraws/15486	0	20	Belle	NNP	*	-	-	-	-	*	-
+selectraws/15486	0	21	Dame	NNP	*	-	-	-	-	*	-
+selectraws/15486	0	22	Sans	NNP	*	-	-	-	-	*	-
+selectraws/15486	0	23	Mercy	NNP	*)))))))))	-	-	-	-	*)	9)
+selectraws/15486	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15486	0	0	In	IN	(TOP(S(S(PP*	-	-	-	-	*	-
+selectraws/15486	0	1	his	PRP$	(NP*	-	-	-	-	*	(10|(1)
+selectraws/15486	0	2	first	JJ	*	-	-	-	-	*	-
+selectraws/15486	0	3	play	NN	*))	-	-	-	-	*	10)
+selectraws/15486	0	4	Alda	NNP	(NP*)	-	-	-	-	*	(11)
+selectraws/15486	0	5	competes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15486	0	6	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	7	Gaea	NNP	(NP*))	-	-	-	-	(PERSON)	(12)
+selectraws/15486	0	8	after	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	9	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15486	0	10	death	NN	*)	-	-	-	-	*	-
+selectraws/15486	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	12	Loftur	NNP	(NP*))))))	-	-	-	-	*	(13)
+selectraws/15486	0	13	,	,	*	-	-	-	-	*	-
+selectraws/15486	0	14	and	CC	*	-	-	-	-	*	-
+selectraws/15486	0	15	his	PRP$	(S(NP*	-	-	-	-	*	(14|(1)
+selectraws/15486	0	16	last	JJ	*	-	-	-	-	*	-
+selectraws/15486	0	17	play	NN	*)	-	-	-	-	*	14)
+selectraws/15486	0	18	sees	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15486	0	19	unwanted	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws/15486	0	20	wealth	NN	*)	-	-	-	-	*	-
+selectraws/15486	0	21	showered	VBN	(VP*	-	-	-	-	*	-
+selectraws/15486	0	22	on	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	23	a	DT	(NP*	-	-	-	-	*	(15
+selectraws/15486	0	24	pants	NNS	*	-	-	-	-	*	-
+selectraws/15486	0	25	presser	NN	*))))))	-	-	-	-	*	15)
+selectraws/15486	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15486	0	0	Besides	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15486	0	1	Short	NNP	(NP(NP*	-	-	-	-	*	(10
+selectraws/15486	0	2	Circuit	NNP	*)	-	-	-	-	*	10)
+selectraws/15486	0	3	and	CC	*	-	-	-	-	*	-
+selectraws/15486	0	4	Pigeon	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(14
+selectraws/15486	0	5	Banquet	NNP	*)))	-	-	-	-	*)	14)
+selectraws/15486	0	6	,	,	*	-	-	-	-	*	-
+selectraws/15486	0	7	his	PRP$	(NP(NP*	-	-	-	-	*	(1)
+selectraws/15486	0	8	time	NN	*)	-	-	-	-	*	-
+selectraws/15486	0	9	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	10	a	DT	(NP*	-	-	-	-	*	-
+selectraws/15486	0	11	Luxembourg	NNP	*	-	-	-	-	(LOCATION)	-
+selectraws/15486	0	12	monastery	NN	*)))	-	-	-	-	*	-
+selectraws/15486	0	13	inspired	VBD	(VP*	-	-	-	-	*	-
+selectraws/15486	0	14	the	DT	(NP*	-	-	-	-	*	(16
+selectraws/15486	0	15	novels	NNS	*)	-	-	-	-	*	16)
+selectraws/15486	0	16	Under	IN	(PP*	-	-	-	-	*	(17|(16
+selectraws/15486	0	17	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15486	0	18	Holy	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws/15486	0	19	Mountain	NNP	*)	-	-	-	-	*)	17)
+selectraws/15486	0	20	and	CC	*	-	-	-	-	*	-
+selectraws/15486	0	21	The	DT	(NP(NP*	-	-	-	-	*	(18
+selectraws/15486	0	22	Great	NNP	*	-	-	-	-	(PERSON*	-
+selectraws/15486	0	23	Weaver	NNP	*)	-	-	-	-	*)	-
+selectraws/15486	0	24	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	25	Kashmir	NNP	(NP*))))))	-	-	-	-	(LOCATION)	18)|16)
+selectraws/15486	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15486	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/15486	0	1	man	NN	*)	-	-	-	-	*	1)
+selectraws/15486	0	2	satirized	VBD	(VP(VP*	-	-	-	-	*	-
+selectraws/15486	0	3	his	PRP$	(NP(NP*	-	-	-	-	*	(1)
+selectraws/15486	0	4	nation	NN	*	-	-	-	-	*	-
+selectraws/15486	0	5	's	POS	*)	-	-	-	-	*	-
+selectraws/15486	0	6	epics	NNS	*)	-	-	-	-	*	-
+selectraws/15486	0	7	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	8	The	DT	(NP*	-	-	-	-	*	-
+selectraws/15486	0	9	Happy	JJ	*	-	-	-	-	*	-
+selectraws/15486	0	10	Warriors	NNPS	*)))	-	-	-	-	*	-
+selectraws/15486	0	11	and	CC	*	-	-	-	-	*	-
+selectraws/15486	0	12	attacked	VBD	(VP*	-	-	-	-	*	-
+selectraws/15486	0	13	Mormonism	NNP	(NP*)	-	-	-	-	*	-
+selectraws/15486	0	14	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	15	The	DT	(NP*	-	-	-	-	*	-
+selectraws/15486	0	16	Fish	NN	*	-	-	-	-	*	-
+selectraws/15486	0	17	Can	MD	*	-	-	-	-	*	-
+selectraws/15486	0	18	Sing	NNP	*))))	-	-	-	-	*	-
+selectraws/15486	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15486	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(2
+selectraws/15486	0	1	novel	NN	*)	-	-	-	-	*	2)
+selectraws/15486	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15486	0	4	man	NN	*)))	-	-	-	-	*	1)
+selectraws/15486	0	5	features	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15486	0	6	Arnas	NNP	(NP(NP*	-	-	-	-	(PERSON*	(3
+selectraws/15486	0	7	Arnaeus	NNP	*)	-	-	-	-	*)	3)
+selectraws/15486	0	8	,	,	*	-	-	-	-	*	-
+selectraws/15486	0	9	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15486	0	10	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15486	0	11	beloved	JJ	(ADJP*	-	-	-	-	*	-
+selectraws/15486	0	12	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	13	the	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws/15486	0	14	protagonist	NN	*)	-	-	-	-	*	-
+selectraws/15486	0	15	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	16	the	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws/15486	0	17	section	NN	*)	-	-	-	-	*	5)
+selectraws/15486	0	18	called	VBN	(VP*	-	-	-	-	*	-
+selectraws/15486	0	19	The	DT	(S(NP*	-	-	-	-	*	(5
+selectraws/15486	0	20	Bright	NNP	*	-	-	-	-	*	-
+selectraws/15486	0	21	Jewel	NNP	*)))))))))))))	-	-	-	-	*	4)|5)
+selectraws/15486	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15486	0	0	Other	JJ	(TOP(S(NP(NP*	-	-	-	-	*	-
+selectraws/15486	0	1	creations	NNS	*)	-	-	-	-	*	-
+selectraws/15486	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15486	0	4	man	NN	*)))	-	-	-	-	*	1)
+selectraws/15486	0	5	include	VBP	(VP*	-	-	-	-	*	-
+selectraws/15486	0	6	Madam	NNP	(NP(NP*	-	-	-	-	(PERSON*	(19
+selectraws/15486	0	7	Myri	NNP	*)	-	-	-	-	*)	19)
+selectraws/15486	0	8	,	,	*	-	-	-	-	*	-
+selectraws/15486	0	9	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15486	0	10	sends	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15486	0	11	Finna	NNP	(NP*)	-	-	-	-	*	(20)
+selectraws/15486	0	12	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/15486	0	13	care	VB	(VP*	-	-	-	-	*	-
+selectraws/15486	0	14	for	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	15	Rosa	NNP	(NP(NP(NP*	-	-	-	-	(ORGANIZATION)	(21)|(22
+selectraws/15486	0	16	's	POS	*)	-	-	-	-	*	-
+selectraws/15486	0	17	daughter	NN	*	-	-	-	-	*	22)
+selectraws/15486	0	18	Asta	NN	*)	-	-	-	-	(ORGANIZATION)	(22)
+selectraws/15486	0	19	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	20	a	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws/15486	0	21	novel	NN	*)	-	-	-	-	*	-
+selectraws/15486	0	22	seeing	VBG	(VP*	-	-	-	-	*	-
+selectraws/15486	0	23	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15486	0	24	foreclosure	NN	*)	-	-	-	-	*	-
+selectraws/15486	0	25	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	26	Bjartur	NNP	(NP(NP*	-	-	-	-	*	(23)
+selectraws/15486	0	27	's	POS	*)	-	-	-	-	*	-
+selectraws/15486	0	28	home	NN	*))))))))))))))))	-	-	-	-	*	6)
+selectraws/15486	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15486	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15486	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/15486	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/15486	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15486	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/15486	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15486	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws/15486	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15486	0	8	Iceland	NNP	(NP(NP*	-	-	-	-	(LOCATION)	(2
+selectraws/15486	0	9	's	POS	*)	-	-	-	-	*	-
+selectraws/15486	0	10	Bell	NNP	*	-	-	-	-	(ORGANIZATION)	2)
+selectraws/15486	0	11	and	CC	*	-	-	-	-	*	-
+selectraws/15486	0	12	Independent	NNP	*	-	-	-	-	(ORGANIZATION*	(6
+selectraws/15486	0	13	People	NNP	*)))	-	-	-	-	*)	6)|1)
+selectraws/15486	0	14	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,129 @@
+#begin document (selectraws/16616); part 000
+
+selectraws/16616	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/16616	0	1	a	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws/16616	0	2	poem	NN	*)	-	-	-	-	*	-
+selectraws/16616	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws/16616	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/16616	0	5	man	NN	*))))	-	-	-	-	*	1)|7)
+selectraws/16616	0	6	,	,	*	-	-	-	-	*	-
+selectraws/16616	0	7	Mary	NNP	(NP*	-	-	-	-	(PERSON*	(8)
+selectraws/16616	0	8	and	CC	*	-	-	-	-	*	-
+selectraws/16616	0	9	Warren	NNP	*)	-	-	-	-	*)	(9)
+selectraws/16616	0	10	discuss	VB	(VP*	-	-	-	-	*	-
+selectraws/16616	0	11	an	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws/16616	0	12	unreliable	JJ	*	-	-	-	-	*	-
+selectraws/16616	0	13	farm	NN	*	-	-	-	-	*	-
+selectraws/16616	0	14	hand	NN	*)	-	-	-	-	*	10)
+selectraws/16616	0	15	named	VBN	(VP*	-	-	-	-	*	-
+selectraws/16616	0	16	Silas	NNP	(S(NP*)))))	-	-	-	-	(PERSON)	(10)
+selectraws/16616	0	17	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/16616	0	0	Another	DT	(TOP(S(NP(NP*	-	-	-	-	*	(6
+selectraws/16616	0	1	poem	NN	*)	-	-	-	-	*	-
+selectraws/16616	0	2	by	IN	(PP*	-	-	-	-	*	-
+selectraws/16616	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/16616	0	4	man	NN	*))	-	-	-	-	*	6)|1)
+selectraws/16616	0	5	,	,	*	-	-	-	-	*	-
+selectraws/16616	0	6	published	VBN	(VP*	-	-	-	-	*	-
+selectraws/16616	0	7	in	IN	(PP*	-	-	-	-	*	-
+selectraws/16616	0	8	North	NNP	(NP(NP*)	-	-	-	-	(LOCATION*	-
+selectraws/16616	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws/16616	0	10	Boston	NNP	(NP*)))))	-	-	-	-	*)	-
+selectraws/16616	0	11	,	,	*)	-	-	-	-	*	-
+selectraws/16616	0	12	describes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/16616	0	13	apple	NN	(NP(NP*	-	-	-	-	*	-
+selectraws/16616	0	14	trees	NNS	*)	-	-	-	-	*	-
+selectraws/16616	0	15	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/16616	0	16	will	MD	(S(VP*	-	-	-	-	*	-
+selectraws/16616	0	17	never	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/16616	0	18	eat	VB	(VP*	-	-	-	-	*	-
+selectraws/16616	0	19	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/16616	0	20	cones	NNS	*)	-	-	-	-	*	-
+selectraws/16616	0	21	of	IN	(PP*	-	-	-	-	*	-
+selectraws/16616	0	22	pine	JJ	(NP*	-	-	-	-	*	-
+selectraws/16616	0	23	trees	NNS	*)))))))))	-	-	-	-	*	-
+selectraws/16616	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/16616	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/16616	0	1	one	CD	(NP*	-	-	-	-	*	(5
+selectraws/16616	0	2	poem	NN	*))	-	-	-	-	*	5)
+selectraws/16616	0	3	,	,	*	-	-	-	-	*	-
+selectraws/16616	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/16616	0	5	man	NN	*)	-	-	-	-	*	1)
+selectraws/16616	0	6	described	VBD	(VP*	-	-	-	-	*	-
+selectraws/16616	0	7	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/16616	0	8	world	NN	*)	-	-	-	-	*	-
+selectraws/16616	0	9	ending	VBG	(VP*	-	-	-	-	*	-
+selectraws/16616	0	10	in	IN	(PP*	-	-	-	-	*	-
+selectraws/16616	0	11	either	DT	(NP*	-	-	-	-	*	-
+selectraws/16616	0	12	fire	NN	*	-	-	-	-	*	-
+selectraws/16616	0	13	or	CC	*	-	-	-	-	*	-
+selectraws/16616	0	14	ice	NN	*))))	-	-	-	-	*	-
+selectraws/16616	0	15	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/16616	0	16	another	DT	(S(NP*	-	-	-	-	*	(4
+selectraws/16616	0	17	work	NN	*)	-	-	-	-	*	4)
+selectraws/16616	0	18	states	VBZ	(VP*	-	-	-	-	*	-
+selectraws/16616	0	19	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws/16616	0	20	good	JJ	(S(NP*	-	-	-	-	*	-
+selectraws/16616	0	21	fences	NNS	*)	-	-	-	-	*	-
+selectraws/16616	0	22	make	VBP	(VP*	-	-	-	-	*	-
+selectraws/16616	0	23	good	JJ	(NP*	-	-	-	-	*	-
+selectraws/16616	0	24	neighbors	NNS	*))))))))	-	-	-	-	*	-
+selectraws/16616	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/16616	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws/16616	0	1	poet	NN	*)	-	-	-	-	*	-
+selectraws/16616	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/16616	0	3	Mending	NNP	(NP*	-	-	-	-	*	(4
+selectraws/16616	0	4	Wall	NNP	*)))	-	-	-	-	*	4)|1)
+selectraws/16616	0	5	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/16616	0	6	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/16616	0	7	work	NN	*)	-	-	-	-	*	2)
+selectraws/16616	0	8	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws/16616	0	9	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws/16616	0	10	the	DT	(S(NP*	-	-	-	-	*	(3
+selectraws/16616	0	11	speaker	NN	*)	-	-	-	-	*	3)
+selectraws/16616	0	12	chose	VBD	(VP*	-	-	-	-	*	-
+selectraws/16616	0	13	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/16616	0	14	path	NN	*)	-	-	-	-	*	-
+selectraws/16616	0	15	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/16616	0	16	was	VBD	(S(VP(VP*	-	-	-	-	*	-
+selectraws/16616	0	17	grassy	JJ	(ADJP*))	-	-	-	-	*	-
+selectraws/16616	0	18	and	CC	*	-	-	-	-	*	-
+selectraws/16616	0	19	wanted	VBD	(VP*	-	-	-	-	*	-
+selectraws/16616	0	20	wear	VB	(S(VP*)))))))))))	-	-	-	-	*	-
+selectraws/16616	0	21	,	,	*	-	-	-	-	*	-
+selectraws/16616	0	22	noting	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/16616	0	23	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws/16616	0	24	he	PRP	(S(NP*)	-	-	-	-	*	(3)
+selectraws/16616	0	25	chose	VBD	(VP*	-	-	-	-	*	-
+selectraws/16616	0	26	the	DT	(SBAR(S(NP*	-	-	-	-	*	-
+selectraws/16616	0	27	one	CD	(ADJP*	-	-	-	-	*	-
+selectraws/16616	0	28	less	JJR	*))	-	-	-	-	*	-
+selectraws/16616	0	29	traveled	VBD	(VP*	-	-	-	-	*	-
+selectraws/16616	0	30	by	IN	(PP*))))))))))	-	-	-	-	*	-
+selectraws/16616	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/16616	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/16616	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/16616	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/16616	0	3	,	,	*	-	-	-	-	*	-
+selectraws/16616	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/16616	0	5	this	DT	(S(NP(NP*	-	-	-	-	*	(1
+selectraws/16616	0	6	American	JJ	*	-	-	-	-	*	-
+selectraws/16616	0	7	poet	NN	*)	-	-	-	-	*	-
+selectraws/16616	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws/16616	0	9	The	DT	(NP*	-	-	-	-	*	(2
+selectraws/16616	0	10	Road	NNP	*)))	-	-	-	-	*	-
+selectraws/16616	0	11	Not	RB	(ADJP*	-	-	-	-	*	-
+selectraws/16616	0	12	Taken	VBN	*)))	-	-	-	-	*	2)|1)
+selectraws/16616	0	13	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

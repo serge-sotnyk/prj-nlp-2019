@@ -1,0 +1,113 @@
+#begin document (notdoneraws/14581); part 000
+
+notdoneraws/14581	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(5
+notdoneraws/14581	0	1	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	2	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/14581	0	3	author	NN	*	-	-	-	-	*	1)
+notdoneraws/14581	0	4	's	POS	*)	-	-	-	-	*	-
+notdoneraws/14581	0	5	protagonists	NNS	*)))	-	-	-	-	*	5)
+notdoneraws/14581	0	6	imagines	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14581	0	7	that	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/14581	0	8	he	PRP	(S(NP*)	-	-	-	-	*	(5)
+notdoneraws/14581	0	9	's	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14581	0	10	dying	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/14581	0	11	after	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	12	smoking	NN	(NP*	-	-	-	-	*	-
+notdoneraws/14581	0	13	marijuana	NN	*))	-	-	-	-	*	-
+notdoneraws/14581	0	14	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	15	Bobbi	NNP	(NP*))	-	-	-	-	(PERSON)	(6)
+notdoneraws/14581	0	16	during	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	17	his	PRP$	(NP*	-	-	-	-	*	(5)
+notdoneraws/14581	0	18	failed	JJ	*	-	-	-	-	*	-
+notdoneraws/14581	0	19	attempt	NN	*	-	-	-	-	*	-
+notdoneraws/14581	0	20	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/14581	0	21	become	VB	(VP*	-	-	-	-	*	-
+notdoneraws/14581	0	22	an	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/14581	0	23	adulterer	NN	*)	-	-	-	-	*	-
+notdoneraws/14581	0	24	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	25	The	DT	(NP(NP*	-	-	-	-	*	(7
+notdoneraws/14581	0	26	Last	JJ	*)	-	-	-	-	*	-
+notdoneraws/14581	0	27	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	28	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/14581	0	29	Red	NNP	*	-	-	-	-	*	-
+notdoneraws/14581	0	30	Hot	NNP	*	-	-	-	-	*	-
+notdoneraws/14581	0	31	Lovers	NNPS	*)))))))))))))))	-	-	-	-	*	7)
+notdoneraws/14581	0	32	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14581	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/14581	0	1	created	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/14581	0	2	the	DT	(NP*	-	-	-	-	*	(9
+notdoneraws/14581	0	3	waxed-fruit	JJ	*	-	-	-	-	*	-
+notdoneraws/14581	0	4	heirs	NN	*	-	-	-	-	*	9)
+notdoneraws/14581	0	5	Alan	NNP	*	-	-	-	-	*	(9|(10)
+notdoneraws/14581	0	6	and	CC	*	-	-	-	-	*	-
+notdoneraws/14581	0	7	Buddy	NNP	*	-	-	-	-	(PERSON*	(11
+notdoneraws/14581	0	8	Baker	NNP	*)	-	-	-	-	*)	11)|9)
+notdoneraws/14581	0	9	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	10	his	PRP$	(NP(NP*	-	-	-	-	*	(8|(1)
+notdoneraws/14581	0	11	first	JJ	*	-	-	-	-	*	-
+notdoneraws/14581	0	12	play	NN	*)	-	-	-	-	*	8)
+notdoneraws/14581	0	13	,	,	*	-	-	-	-	*	-
+notdoneraws/14581	0	14	Come	VBN	(VP*	-	-	-	-	*	(8
+notdoneraws/14581	0	15	Blown	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	16	Your	PRP$	(NP*	-	-	-	-	*	-
+notdoneraws/14581	0	17	Horn	NNP	*))))))	-	-	-	-	*	8)
+notdoneraws/14581	0	18	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14581	0	0	Army	NNP	(TOP(S(S(NP(NP*	-	-	-	-	(ORGANIZATION)	(13
+notdoneraws/14581	0	1	trainees	NNS	*)	-	-	-	-	*	-
+notdoneraws/14581	0	2	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	3	Mississippi	NNP	(NP*)))	-	-	-	-	(LOCATION)	13)
+notdoneraws/14581	0	4	are	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/14581	0	5	the	DT	(NP(NP*	-	-	-	-	*	(13
+notdoneraws/14581	0	6	subject	NN	*)	-	-	-	-	*	-
+notdoneraws/14581	0	7	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	8	his	PRP$	(NP*	-	-	-	-	*	(12|(1)
+notdoneraws/14581	0	9	Biloxi	NNP	*	-	-	-	-	(LOCATION*	-
+notdoneraws/14581	0	10	Blues	NNS	*)))))	-	-	-	-	*)	13)|12)
+notdoneraws/14581	0	11	,	,	*	-	-	-	-	*	-
+notdoneraws/14581	0	12	and	CC	*	-	-	-	-	*	-
+notdoneraws/14581	0	13	he	PRP	(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/14581	0	14	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/14581	0	15	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	16	the	DT	(NP(NP*	-	-	-	-	*	(14
+notdoneraws/14581	0	17	newlyweds	NNS	*	-	-	-	-	*	14)
+notdoneraws/14581	0	18	Corie	NNP	*)	-	-	-	-	(PERSON)	(14|(16)
+notdoneraws/14581	0	19	and	CC	*	-	-	-	-	*	-
+notdoneraws/14581	0	20	Paul	NNP	(NP(NP(NP*	-	-	-	-	(PERSON*	(17
+notdoneraws/14581	0	21	Bratter	NNP	*)	-	-	-	-	*)	14)|17)
+notdoneraws/14581	0	22	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	23	Barefoot	NNP	(NP*)))	-	-	-	-	(LOCATION)	(15
+notdoneraws/14581	0	24	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	25	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/14581	0	26	Park	NNP	*)))))))	-	-	-	-	*	15)
+notdoneraws/14581	0	27	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14581	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/14581	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/14581	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/14581	0	4	name	NN	(NP*)	-	-	-	-	*	-
+notdoneraws/14581	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/14581	0	6	playwright	NN	*)	-	-	-	-	*	-
+notdoneraws/14581	0	7	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/14581	0	8	wrote	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/14581	0	9	about	RB	(ADJP*	-	-	-	-	*	-
+notdoneraws/14581	0	10	unlikely	JJ	*)))))	-	-	-	-	*	(2
+notdoneraws/14581	0	11	roommates	VBZ	(VP*	-	-	-	-	*	2)
+notdoneraws/14581	0	12	Oscar	NNP	(NP*	-	-	-	-	*	(2|(3)
+notdoneraws/14581	0	13	and	CC	*	-	-	-	-	*	-
+notdoneraws/14581	0	14	Felix	NNP	*)	-	-	-	-	(PERSON)	(4)|2)|1)
+notdoneraws/14581	0	15	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14581	0	16	his	PRP$	(NP*	-	-	-	-	*	(1)
+notdoneraws/14581	0	17	The	NNP	*	-	-	-	-	*	(2
+notdoneraws/14581	0	18	Odd	NNP	*	-	-	-	-	*	-
+notdoneraws/14581	0	19	Couple	NN	*)))	-	-	-	-	*	2)
+notdoneraws/14581	0	20	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

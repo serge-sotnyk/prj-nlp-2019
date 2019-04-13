@@ -1,0 +1,154 @@
+#begin document (notdoneraws/14651); part 000
+
+notdoneraws/14651	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+notdoneraws/14651	0	1	novel	NN	*)	-	-	-	-	*	-
+notdoneraws/14651	0	2	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	3	Maria	NNP	(NP*	-	-	-	-	(PERSON*	(4
+notdoneraws/14651	0	4	Edgeworth	NNP	*)))	-	-	-	-	*)	4)|3)
+notdoneraws/14651	0	5	contrasts	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	6	Emma	NNP	(NP*	-	-	-	-	(PERSON*	(5
+notdoneraws/14651	0	7	Granby	NNP	*)	-	-	-	-	*)	5)
+notdoneraws/14651	0	8	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	9	a	DT	(NP(NP*	-	-	-	-	*	(6
+notdoneraws/14651	0	10	modern	JJ	*	-	-	-	-	*	-
+notdoneraws/14651	0	11	example	NN	*)	-	-	-	-	*	-
+notdoneraws/14651	0	12	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	13	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/14651	0	14	character	NN	*)))))	-	-	-	-	*	1)|6)
+notdoneraws/14651	0	15	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14651	0	0	Another	DT	(TOP(S(NP*	-	-	-	-	*	(7
+notdoneraws/14651	0	1	work	NN	*)	-	-	-	-	*	7)
+notdoneraws/14651	0	2	describes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	3	how	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+notdoneraws/14651	0	4	she	PRP	(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/14651	0	5	attends	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	6	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	7	her	PRP$	(NP*	-	-	-	-	*	(8|(1)
+notdoneraws/14651	0	8	father	NN	*	-	-	-	-	*	8)
+notdoneraws/14651	0	9	Janiculas	NNP	*	-	-	-	-	*	(8)
+notdoneraws/14651	0	10	sheep	NN	*))	-	-	-	-	*	-
+notdoneraws/14651	0	11	before	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	12	being	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	13	made	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	14	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	15	strip	VB	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	16	and	CC	*	-	-	-	-	*	-
+notdoneraws/14651	0	17	dress	VB	*))	-	-	-	-	*	-
+notdoneraws/14651	0	18	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	19	her	PRP$	(NP*	-	-	-	-	*	(1)
+notdoneraws/14651	0	20	wedding	NN	*)))	-	-	-	-	*	-
+notdoneraws/14651	0	21	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	22	a	DT	(NP(NP*	-	-	-	-	*	(9
+notdoneraws/14651	0	23	group	NN	*)	-	-	-	-	*	-
+notdoneraws/14651	0	24	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	25	handmaidens	NNS	(NP*))))))))))))	-	-	-	-	*	9)
+notdoneraws/14651	0	26	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14651	0	0	Her	PRP$	(TOP(S(NP*	-	-	-	-	*	(10|(1)
+notdoneraws/14651	0	1	infant	NN	*	-	-	-	-	*	-
+notdoneraws/14651	0	2	daughter	NN	*)	-	-	-	-	*	10)
+notdoneraws/14651	0	3	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	4	kidnapped	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	5	and	CC	*	-	-	-	-	*	-
+notdoneraws/14651	0	6	taken	VBN	*	-	-	-	-	*	-
+notdoneraws/14651	0	7	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	8	live	VB	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	9	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	10	Panago	NNP	(NP*))	-	-	-	-	*	(11)
+notdoneraws/14651	0	11	several	JJ	(SBAR(NP*	-	-	-	-	*	-
+notdoneraws/14651	0	12	years	NNS	*)	-	-	-	-	*	-
+notdoneraws/14651	0	13	before	IN	*	-	-	-	-	*	-
+notdoneraws/14651	0	14	she	PRP	(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/14651	0	15	bears	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	16	a	DT	(NP(NP*	-	-	-	-	*	(12
+notdoneraws/14651	0	17	son	NN	*)	-	-	-	-	*	12)
+notdoneraws/14651	0	18	,	,	*	-	-	-	-	*	-
+notdoneraws/14651	0	19	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/14651	0	20	is	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	21	similarly	RB	(VP(ADVP*)	-	-	-	-	*	-
+notdoneraws/14651	0	22	taken	VBN	*	-	-	-	-	*	-
+notdoneraws/14651	0	23	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	24	Bologna	NNP	(NP*)))))))))))))))	-	-	-	-	(LOCATION)	-
+notdoneraws/14651	0	25	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14651	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(13
+notdoneraws/14651	0	1	last	JJ	*	-	-	-	-	*	-
+notdoneraws/14651	0	2	story	NN	*)	-	-	-	-	*	-
+notdoneraws/14651	0	3	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	4	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/14651	0	5	Decameron	NNP	*)))	-	-	-	-	(LOCATION)	(14)|13)
+notdoneraws/14651	0	6	describes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	7	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/14651	0	8	travails	NNS	*)	-	-	-	-	*	-
+notdoneraws/14651	0	9	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	10	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/14651	0	11	character	NN	*)	-	-	-	-	*	1)
+notdoneraws/14651	0	12	,	,	*	-	-	-	-	*	-
+notdoneraws/14651	0	13	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/14651	0	14	is	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	15	told	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	16	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	17	her	PRP$	(NP*	-	-	-	-	*	(15|(1)
+notdoneraws/14651	0	18	husband	NN	*))	-	-	-	-	*	15)
+notdoneraws/14651	0	19	that	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/14651	0	20	he	PRP	(S(NP*)	-	-	-	-	*	(15)
+notdoneraws/14651	0	21	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	22	asking	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	23	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	24	Papal	JJ	(NP(NP*	-	-	-	-	*	-
+notdoneraws/14651	0	25	support	NN	*)	-	-	-	-	*	-
+notdoneraws/14651	0	26	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	27	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/14651	0	28	divorce	NN	*))))))))))))))))	-	-	-	-	*	-
+notdoneraws/14651	0	29	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14651	0	0	She	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/14651	0	1	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	2	eventually	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/14651	0	3	reunited	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	4	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	5	her	PRP$	(NP*	-	-	-	-	*	(16|(1)
+notdoneraws/14651	0	6	children	NNS	*))	-	-	-	-	*	16)
+notdoneraws/14651	0	7	as	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	8	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/14651	0	9	reward	NN	*)	-	-	-	-	*	-
+notdoneraws/14651	0	10	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	11	her	PRP$	(NP(NP*	-	-	-	-	*	(1)
+notdoneraws/14651	0	12	unquestioning	NN	*	-	-	-	-	*	-
+notdoneraws/14651	0	13	obedience	NN	*)	-	-	-	-	*	-
+notdoneraws/14651	0	14	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	15	her	PRP$	(NP*	-	-	-	-	*	(15|(1)
+notdoneraws/14651	0	16	husband	NN	*	-	-	-	-	*	15)
+notdoneraws/14651	0	17	Walters	NNP	*	-	-	-	-	(PERSON)	(15)
+notdoneraws/14651	0	18	tests	NNS	*))))))))	-	-	-	-	*	-
+notdoneraws/14651	0	19	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14651	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/14651	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/14651	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/14651	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/14651	0	6	subject	NN	*)	-	-	-	-	*	-
+notdoneraws/14651	0	7	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	8	Chaucers	NNP	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/14651	0	9	Clerks	NNP	*	-	-	-	-	*	-
+notdoneraws/14651	0	10	Tale	NNP	*)	-	-	-	-	*	2)|1)
+notdoneraws/14651	0	11	,	,	*	-	-	-	-	*	-
+notdoneraws/14651	0	12	a	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/14651	0	13	woman	NN	*)	-	-	-	-	*	1)
+notdoneraws/14651	0	14	renowned	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/14651	0	15	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14651	0	16	her	PRP$	(NP*	-	-	-	-	*	(1)
+notdoneraws/14651	0	17	patience	NN	*))))))))	-	-	-	-	*	-
+notdoneraws/14651	0	18	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

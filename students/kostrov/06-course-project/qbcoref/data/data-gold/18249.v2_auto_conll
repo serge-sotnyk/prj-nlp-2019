@@ -1,0 +1,150 @@
+#begin document (selectraws1/18249); part 000
+
+selectraws1/18249	0	0	According	VBG	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/18249	0	1	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/18249	0	2	Anne	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/18249	0	3	Banfield	NNP	*)))	-	-	-	-	*)	2)
+selectraws1/18249	0	4	,	,	*	-	-	-	-	*	-
+selectraws1/18249	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/18249	0	6	poet	NN	*)	-	-	-	-	*	1)
+selectraws1/18249	0	7	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	8	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/18249	0	9	first	JJ	*	-	-	-	-	*	-
+selectraws1/18249	0	10	writer	NN	*)	-	-	-	-	*	-
+selectraws1/18249	0	11	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+selectraws1/18249	0	12	develop	VB	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	13	free	JJ	(NP*	-	-	-	-	*	-
+selectraws1/18249	0	14	indirect	JJ	*	-	-	-	-	*	-
+selectraws1/18249	0	15	discourse	NN	*)))))))	-	-	-	-	*	1)
+selectraws1/18249	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18249	0	0	His	PRP$	(TOP(S(NP*	-	-	-	-	*	(3|(1)
+selectraws1/18249	0	1	self-written	JJ	*	-	-	-	-	*	-
+selectraws1/18249	0	2	epitaph	NN	*)	-	-	-	-	*	3)
+selectraws1/18249	0	3	noted	VBD	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	4	he	PRP	(SBAR(S(NP*)	-	-	-	-	*	(1)
+selectraws1/18249	0	5	divided	VBD	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	6	time	NN	(NP*)	-	-	-	-	*	-
+selectraws1/18249	0	7	into	IN	(PP*	-	-	-	-	*	-
+selectraws1/18249	0	8	two	CD	(NP(NP*	-	-	-	-	*	-
+selectraws1/18249	0	9	parts	NNS	*)	-	-	-	-	*	-
+selectraws1/18249	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/18249	0	11	one	CD	(NP(NP*)	-	-	-	-	*	-
+selectraws1/18249	0	12	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/18249	0	13	idling	VBG	(NP*)))	-	-	-	-	*	-
+selectraws1/18249	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/18249	0	15	one	CD	(NP(NP*)	-	-	-	-	*	-
+selectraws1/18249	0	16	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/18249	0	17	sleep	NN	(NP*)))))))))	-	-	-	-	*	-
+selectraws1/18249	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18249	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws1/18249	0	1	updated	VBN	(VP(VP*	-	-	-	-	*	-
+selectraws1/18249	0	2	versions	NNS	(NP(NP*)	-	-	-	-	*	(4
+selectraws1/18249	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18249	0	4	the	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/18249	0	5	stories	NNS	*)	-	-	-	-	*	-
+selectraws1/18249	0	6	of	IN	(PP(PP*	-	-	-	-	*	-
+selectraws1/18249	0	7	Adonis	NNP	(NP*))	-	-	-	-	*	(9)|5)|4)
+selectraws1/18249	0	8	and	CC	*	-	-	-	-	*	-
+selectraws1/18249	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18249	0	10	Cupid	NNP	(NP*	-	-	-	-	*	(5|(10)
+selectraws1/18249	0	11	and	CC	*	-	-	-	-	*	-
+selectraws1/18249	0	12	Psyche	NNP	*)))))))	-	-	-	-	*	(11)|5)
+selectraws1/18249	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/18249	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/18249	0	15	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	16	verse	NN	(NP(NP*	-	-	-	-	*	(12
+selectraws1/18249	0	17	tales	NNS	*)	-	-	-	-	*	12)
+selectraws1/18249	0	18	like	IN	(PP*	-	-	-	-	*	-
+selectraws1/18249	0	19	Joconde	NNP	(NP(NP*)	-	-	-	-	*	(6)
+selectraws1/18249	0	20	and	CC	*	-	-	-	-	*	-
+selectraws1/18249	0	21	The	DT	(NP*	-	-	-	-	*	(7
+selectraws1/18249	0	22	Ephesian	NNP	*	-	-	-	-	*	-
+selectraws1/18249	0	23	Matron	NNP	*)))	-	-	-	-	*	7)
+selectraws1/18249	0	24	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/18249	0	25	adapted	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/18249	0	26	fabliaux	NN	(NP*)	-	-	-	-	*	-
+selectraws1/18249	0	27	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/18249	0	28	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/18249	0	29	contemporary	JJ	*	-	-	-	-	*	-
+selectraws1/18249	0	30	audience	NN	*))))))))	-	-	-	-	*	-
+selectraws1/18249	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18249	0	0	He	PRP	(TOP(S(S(S(NP*)	-	-	-	-	*	(1)
+selectraws1/18249	0	1	's	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	2	most	RBS	(ADJP*	-	-	-	-	*	-
+selectraws1/18249	0	3	famous	JJ	*	-	-	-	-	*	-
+selectraws1/18249	0	4	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/18249	0	5	concluding	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/18249	0	6	Our	PRP$	(SBAR(S(NP*	-	-	-	-	*	-
+selectraws1/18249	0	7	destiny	NN	*)	-	-	-	-	*	-
+selectraws1/18249	0	8	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	9	met	VBN	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	10	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/18249	0	11	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18249	0	12	paths	NNS	*)	-	-	-	-	*	-
+selectraws1/18249	0	13	we	PRP	(SBAR(S(NP*)	-	-	-	-	*	-
+selectraws1/18249	0	14	take	VBP	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	15	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/18249	0	16	avoid	VB	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	17	it	PRP	(NP*)))))))))))))))))))	-	-	-	-	*	-
+selectraws1/18249	0	18	,	,	*	-	-	-	-	*	-
+selectraws1/18249	0	19	It	PRP	(S(NP*)	-	-	-	-	*	-
+selectraws1/18249	0	20	's	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	21	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18249	0	22	double	JJ	*	-	-	-	-	*	-
+selectraws1/18249	0	23	pleasure	NN	*)	-	-	-	-	*	-
+selectraws1/18249	0	24	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+selectraws1/18249	0	25	deceive	VB	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	26	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/18249	0	27	deceiver	NN	*)))))))))	-	-	-	-	*	-
+selectraws1/18249	0	28	,	,	*	-	-	-	-	*	-
+selectraws1/18249	0	29	and	CC	*	-	-	-	-	*	-
+selectraws1/18249	0	30	the	DT	(S(NP(NP*	-	-	-	-	*	-
+selectraws1/18249	0	31	opinion	NN	*)	-	-	-	-	*	-
+selectraws1/18249	0	32	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18249	0	33	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/18249	0	34	strongest	JJS	*)))	-	-	-	-	*	-
+selectraws1/18249	0	35	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	36	always	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/18249	0	37	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18249	0	38	best	JJS	*)	-	-	-	-	*	-
+selectraws1/18249	0	39	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/18249	0	40	poems	NNS	(NP(NP*)	-	-	-	-	*	(8
+selectraws1/18249	0	41	concerning	VBG	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	42	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18249	0	43	horoscope	NN	*)	-	-	-	-	*	-
+selectraws1/18249	0	44	,	,	*	-	-	-	-	*	-
+selectraws1/18249	0	45	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/18249	0	46	cock	NN	*)	-	-	-	-	*	-
+selectraws1/18249	0	47	and	CC	*	-	-	-	-	*	-
+selectraws1/18249	0	48	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/18249	0	49	fox	NN	*)	-	-	-	-	*	-
+selectraws1/18249	0	50	,	,	*	-	-	-	-	*	-
+selectraws1/18249	0	51	and	CC	*	-	-	-	-	*	-
+selectraws1/18249	0	52	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18249	0	53	wolf	NN	*)	-	-	-	-	*	-
+selectraws1/18249	0	54	and	CC	*	-	-	-	-	*	-
+selectraws1/18249	0	55	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/18249	0	56	lamb	NN	*)))))))))	-	-	-	-	*	8)
+selectraws1/18249	0	57	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18249	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/18249	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/18249	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/18249	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/18249	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/18249	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/18249	0	6	17th-century	JJ	*	-	-	-	-	*	-
+selectraws1/18249	0	7	French	JJ	*	-	-	-	-	*	-
+selectraws1/18249	0	8	fabulist	NN	*))	-	-	-	-	*	1)
+selectraws1/18249	0	9	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

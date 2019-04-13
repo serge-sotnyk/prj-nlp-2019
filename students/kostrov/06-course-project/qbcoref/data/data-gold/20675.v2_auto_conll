@@ -1,0 +1,104 @@
+#begin document (notdoneraws/20675); part 000
+
+notdoneraws/20675	0	0	One	CD	(TOP(S(S(NP(NP*	-	-	-	-	*	(4
+notdoneraws/20675	0	1	character	NN	*)	-	-	-	-	*	-
+notdoneraws/20675	0	2	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20675	0	3	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20675	0	4	novel	NN	*)))	-	-	-	-	*	4)|1)
+notdoneraws/20675	0	5	keeps	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20675	0	6	slaves	NNS	(NP*)	-	-	-	-	*	-
+notdoneraws/20675	0	7	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20675	0	8	his	PRP$	(NP(NP*	-	-	-	-	*	(4)
+notdoneraws/20675	0	9	estate	NN	*)	-	-	-	-	*	-
+notdoneraws/20675	0	10	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20675	0	11	Antigua	NNP	(NP*))))))	-	-	-	-	(LOCATION)	-
+notdoneraws/20675	0	12	,	,	*	-	-	-	-	*	-
+notdoneraws/20675	0	13	and	CC	*	-	-	-	-	*	-
+notdoneraws/20675	0	14	the	DT	(S(NP(NP*	-	-	-	-	*	(3|(5
+notdoneraws/20675	0	15	protagonist	NN	*	-	-	-	-	*	3)
+notdoneraws/20675	0	16	's	POS	*)	-	-	-	-	*	-
+notdoneraws/20675	0	17	brother	NN	*)	-	-	-	-	*	5)
+notdoneraws/20675	0	18	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20675	0	19	a	DT	(NP(NP*	-	-	-	-	*	(5
+notdoneraws/20675	0	20	sailor	NN	*)	-	-	-	-	*	5)
+notdoneraws/20675	0	21	named	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20675	0	22	William	NNP	(S(NP(NP*)	-	-	-	-	(PERSON)	(5)
+notdoneraws/20675	0	23	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/20675	0	24	is	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/20675	0	25	given	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20675	0	26	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/20675	0	27	promotion	NN	*)	-	-	-	-	*	-
+notdoneraws/20675	0	28	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20675	0	29	Henry	NNP	(NP*	-	-	-	-	(PERSON*	(6
+notdoneraws/20675	0	30	Crawford	NNP	*))	-	-	-	-	*)	6)
+notdoneraws/20675	0	31	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20675	0	32	an	DT	(NP*	-	-	-	-	*	-
+notdoneraws/20675	0	33	attempt	NN	*	-	-	-	-	*	-
+notdoneraws/20675	0	34	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/20675	0	35	ingratiate	VB	(VP*	-	-	-	-	*	-
+notdoneraws/20675	0	36	himself	PRP	(NP*)	-	-	-	-	*	(6)
+notdoneraws/20675	0	37	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/20675	0	38	the	DT	(NP*	-	-	-	-	*	(3
+notdoneraws/20675	0	39	protagonist	NN	*))	-	-	-	-	*	3)
+notdoneraws/20675	0	40	before	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20675	0	41	eloping	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/20675	0	42	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20675	0	43	Maria	NNP	(NP*))))))))))))))))))))	-	-	-	-	(PERSON)	(7)
+notdoneraws/20675	0	44	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20675	0	0	Maria	NNP	(TOP(S(NP(NP*	-	-	-	-	(ORGANIZATION)	(8|(7)
+notdoneraws/20675	0	1	's	POS	*)	-	-	-	-	*	-
+notdoneraws/20675	0	2	parents	NNS	*)	-	-	-	-	*	8)
+notdoneraws/20675	0	3	are	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/20675	0	4	Sir	NNP	(NP(NP*	-	-	-	-	*	(8|(4
+notdoneraws/20675	0	5	Thomas	NNP	*)	-	-	-	-	(PERSON)	4)
+notdoneraws/20675	0	6	and	CC	*	-	-	-	-	*	-
+notdoneraws/20675	0	7	Lady	NNP	(NP(NP*	-	-	-	-	(PERSON*	(9
+notdoneraws/20675	0	8	Bertram	NNP	*)	-	-	-	-	*)	9)|8)
+notdoneraws/20675	0	9	,	,	*	-	-	-	-	*	-
+notdoneraws/20675	0	10	the	DT	(NP(NP*	-	-	-	-	*	(8|(3|(4
+notdoneraws/20675	0	11	protagonist	NN	*	-	-	-	-	*	3)
+notdoneraws/20675	0	12	's	POS	*)	-	-	-	-	*	-
+notdoneraws/20675	0	13	uncle	NN	*	-	-	-	-	*	4)
+notdoneraws/20675	0	14	and	CC	*	-	-	-	-	*	-
+notdoneraws/20675	0	15	aunt	NN	*)	-	-	-	-	*	(9)|8)
+notdoneraws/20675	0	16	,	,	*	-	-	-	-	*	-
+notdoneraws/20675	0	17	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	(10|(8)
+notdoneraws/20675	0	18	son	NN	*)	-	-	-	-	*	10)
+notdoneraws/20675	0	19	Edmund	VBZ	(S(VP*	-	-	-	-	(PERSON)	(10)
+notdoneraws/20675	0	20	she	PRP	(SBAR(S(NP*)	-	-	-	-	*	(3)
+notdoneraws/20675	0	21	marries	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20675	0	22	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20675	0	23	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/20675	0	24	end	NN	*)	-	-	-	-	*	-
+notdoneraws/20675	0	25	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20675	0	26	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20675	0	27	work	NN	*)))))))))))))	-	-	-	-	*	1)
+notdoneraws/20675	0	28	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20675	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/20675	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/20675	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/20675	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/20675	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/20675	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/20675	0	6	Jane	NNP	*	-	-	-	-	(PERSON*	(2
+notdoneraws/20675	0	7	Austen	NNP	*	-	-	-	-	*)	2)
+notdoneraws/20675	0	8	novel	NN	*)	-	-	-	-	*	-
+notdoneraws/20675	0	9	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20675	0	10	Fanny	NNP	(NP(NP(NP*	-	-	-	-	(ORGANIZATION*	(3
+notdoneraws/20675	0	11	Price	NNP	*	-	-	-	-	*)	3)
+notdoneraws/20675	0	12	's	POS	*)	-	-	-	-	*	-
+notdoneraws/20675	0	13	time	NN	*)	-	-	-	-	*	-
+notdoneraws/20675	0	14	living	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/20675	0	15	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20675	0	16	the	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20675	0	17	title	NN	*	-	-	-	-	*	-
+notdoneraws/20675	0	18	estate	NN	*)))))))	-	-	-	-	*	1)|1)
+notdoneraws/20675	0	19	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

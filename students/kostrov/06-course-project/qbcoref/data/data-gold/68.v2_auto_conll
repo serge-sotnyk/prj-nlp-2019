@@ -1,0 +1,154 @@
+#begin document (selectraws/68); part 000
+
+selectraws/68	0	0	This	DT	(TOP(S(S(NP*	-	-	-	-	*	(1
+selectraws/68	0	1	character	NN	*)	-	-	-	-	*	1)
+selectraws/68	0	2	uses	VBZ	(VP*	-	-	-	-	*	-
+selectraws/68	0	3	a	DT	(NP*	-	-	-	-	*	-
+selectraws/68	0	4	magic	JJ	*	-	-	-	-	*	-
+selectraws/68	0	5	hair-ball	NN	*)))	-	-	-	-	*	-
+selectraws/68	0	6	he	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws/68	0	7	found	VBD	(VP*	-	-	-	-	*	-
+selectraws/68	0	8	in	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	9	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/68	0	10	stomach	NN	*)	-	-	-	-	*	-
+selectraws/68	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	12	an	DT	(NP*	-	-	-	-	*	-
+selectraws/68	0	13	ox	NN	*	-	-	-	-	*	-
+selectraws/68	0	14	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/68	0	15	prophesy	VB	(VP*	-	-	-	-	*	-
+selectraws/68	0	16	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws/68	0	17	another	DT	(S(NP*	-	-	-	-	*	(2|(6
+selectraws/68	0	18	characters	NNS	*	-	-	-	-	*	2)
+selectraws/68	0	19	father	NN	*)	-	-	-	-	*	6)
+selectraws/68	0	20	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/68	0	21	surrounded	VBN	(VP*	-	-	-	-	*	-
+selectraws/68	0	22	by	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	23	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/68	0	24	black	JJ	*	-	-	-	-	*	-
+selectraws/68	0	25	angel	NN	*)	-	-	-	-	*	-
+selectraws/68	0	26	and	CC	*	-	-	-	-	*	-
+selectraws/68	0	27	a	DT	(NP*	-	-	-	-	*	-
+selectraws/68	0	28	white	JJ	*	-	-	-	-	*	-
+selectraws/68	0	29	angel	NN	*)))))))))))))))	-	-	-	-	*	-
+selectraws/68	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/68	0	0	Another	DT	(TOP(S(NP*	-	-	-	-	*	(2
+selectraws/68	0	1	character	NN	*)	-	-	-	-	*	2)
+selectraws/68	0	2	pretends	VBZ	(VP*	-	-	-	-	*	-
+selectraws/68	0	3	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/68	0	4	be	VB	(VP*	-	-	-	-	*	-
+selectraws/68	0	5	Sarah	NNP	(S(NP(NP*	-	-	-	-	(PERSON*	(7
+selectraws/68	0	6	Williams	NNP	*)	-	-	-	-	*)	-
+selectraws/68	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	8	Hookerville	NNP	(NP*)))	-	-	-	-	*	7)
+selectraws/68	0	9	to	TO	(VP*	-	-	-	-	*	-
+selectraws/68	0	10	gather	VB	(VP*	-	-	-	-	*	-
+selectraws/68	0	11	information	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws/68	0	12	about	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	13	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/68	0	14	man	NN	*)))))))))	-	-	-	-	*	1)
+selectraws/68	0	15	after	IN	(SBAR*	-	-	-	-	*	-
+selectraws/68	0	16	he	PRP	(S(NP*)	-	-	-	-	*	(1)
+selectraws/68	0	17	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/68	0	18	injured	VBN	(VP*	-	-	-	-	*	-
+selectraws/68	0	19	from	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	20	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/68	0	21	failed	VBN	*	-	-	-	-	*	-
+selectraws/68	0	22	prank	NN	*)	-	-	-	-	*	-
+selectraws/68	0	23	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws/68	0	24	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws/68	0	25	someone	NN	(S(NP*)	-	-	-	-	*	-
+selectraws/68	0	26	put	VBD	(VP*	-	-	-	-	*	-
+selectraws/68	0	27	a	DT	(NP*	-	-	-	-	*	-
+selectraws/68	0	28	rattlesnake	JJ	*	-	-	-	-	*	-
+selectraws/68	0	29	skin	NN	*)	-	-	-	-	*	-
+selectraws/68	0	30	in	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	31	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws/68	0	32	bed	NN	*))	-	-	-	-	*	-
+selectraws/68	0	33	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/68	0	34	staying	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/68	0	35	on	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	36	Jacksons	NNPS	(NP*	-	-	-	-	(LOCATION*	-
+selectraws/68	0	37	Island	NNP	*)))))))))))))))	-	-	-	-	*)	-
+selectraws/68	0	38	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/68	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(2
+selectraws/68	0	1	novels	NNS	*	-	-	-	-	*	-
+selectraws/68	0	2	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws/68	0	3	goes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/68	0	4	to	TO	(PP*	-	-	-	-	*	-
+selectraws/68	0	5	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/68	0	6	farm	NN	*)	-	-	-	-	*	-
+selectraws/68	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	8	Sally	NNP	(NP*	-	-	-	-	(PERSON*	(8
+selectraws/68	0	9	Phelps	NNP	*))))	-	-	-	-	*)	8)
+selectraws/68	0	10	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/68	0	11	search	VB	(VP*	-	-	-	-	*	-
+selectraws/68	0	12	for	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	13	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/68	0	14	character	NN	*))	-	-	-	-	*	1)
+selectraws/68	0	15	after	IN	(SBAR*	-	-	-	-	*	-
+selectraws/68	0	16	he	PRP	(S(NP*)	-	-	-	-	*	(2)
+selectraws/68	0	17	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/68	0	18	betrayed	VBN	(VP*	-	-	-	-	*	-
+selectraws/68	0	19	by	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	20	two	CD	(NP(NP(NP*	-	-	-	-	*	-
+selectraws/68	0	21	con	JJ	*	-	-	-	-	*	-
+selectraws/68	0	22	men	NNS	*)	-	-	-	-	*	-
+selectraws/68	0	23	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/68	0	24	claim	VBP	(S(VP*	-	-	-	-	*	-
+selectraws/68	0	25	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/68	0	26	be	VB	(VP*	-	-	-	-	*	-
+selectraws/68	0	27	a	DT	(NP*	-	-	-	-	*	-
+selectraws/68	0	28	duke	NN	*))))))))	-	-	-	-	*	-
+selectraws/68	0	29	and	CC	*	-	-	-	-	*	-
+selectraws/68	0	30	the	DT	(NP*	-	-	-	-	*	-
+selectraws/68	0	31	dauphin	NN	*)))))))))))	-	-	-	-	*	-
+selectraws/68	0	32	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/68	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/68	0	1	character	NN	*)	-	-	-	-	*	1)
+selectraws/68	0	2	learns	VBZ	(VP*	-	-	-	-	*	-
+selectraws/68	0	3	Miss	NNP	(SBAR(S(NP*	-	-	-	-	(ORGANIZATION*	(3
+selectraws/68	0	4	Watsons	NNP	*)	-	-	-	-	*)	3)
+selectraws/68	0	5	will	MD	(VP*	-	-	-	-	*	-
+selectraws/68	0	6	freed	VBD	(VP*	-	-	-	-	*	-
+selectraws/68	0	7	him	PRP	(NP*)	-	-	-	-	*	-
+selectraws/68	0	8	months	NNS	(ADVP(NP*)	-	-	-	-	*	-
+selectraws/68	0	9	earlier	RB	*)	-	-	-	-	*	-
+selectraws/68	0	10	after	IN	(SBAR*	-	-	-	-	*	-
+selectraws/68	0	11	Tom	NNP	(S(NP*	-	-	-	-	(PERSON*	(4
+selectraws/68	0	12	Sawyers	NNP	*	-	-	-	-	*)	4)
+selectraws/68	0	13	escape	NN	*	-	-	-	-	*	-
+selectraws/68	0	14	plan	NN	*)	-	-	-	-	*	-
+selectraws/68	0	15	goes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/68	0	16	awry	RB	(ADVP*)))))))))	-	-	-	-	*	-
+selectraws/68	0	17	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/68	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/68	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/68	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/68	0	3	,	,	*	-	-	-	-	*	-
+selectraws/68	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/68	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/68	0	6	slave	NN	*)	-	-	-	-	*	1)
+selectraws/68	0	7	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/68	0	8	travels	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/68	0	9	with	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	10	Huck	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws/68	0	11	Finn	NNP	*))	-	-	-	-	*)	2)
+selectraws/68	0	12	in	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	13	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/68	0	14	novel	NN	*)	-	-	-	-	*	-
+selectraws/68	0	15	by	IN	(PP*	-	-	-	-	*	-
+selectraws/68	0	16	Mark	NNP	(NP*	-	-	-	-	(PERSON*	(5
+selectraws/68	0	17	Twain	NNP	*)))))))))	-	-	-	-	*)	5)
+selectraws/68	0	18	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

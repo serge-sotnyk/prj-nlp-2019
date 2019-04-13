@@ -1,0 +1,113 @@
+#begin document (selectraws1/19558); part 000
+
+selectraws1/19558	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19558	0	1	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/19558	0	2	novel	NN	*))	-	-	-	-	*	1)
+selectraws1/19558	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/19558	0	4	Klipspringer	NNP	(NP*)	-	-	-	-	(PERSON)	(4)
+selectraws1/19558	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19558	0	6	a	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/19558	0	7	freeloader	NN	*)	-	-	-	-	*	4)
+selectraws1/19558	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19558	0	9	calls	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/19558	0	10	the	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/19558	0	11	narrator	NN	*)	-	-	-	-	*	2)
+selectraws1/19558	0	12	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/19558	0	13	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19558	0	14	pair	NN	*)	-	-	-	-	*	-
+selectraws1/19558	0	15	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19558	0	16	tennis	NN	(NP*	-	-	-	-	*	-
+selectraws1/19558	0	17	shoes	NNS	*))	-	-	-	-	*	-
+selectraws1/19558	0	18	he	PRP	(SBAR(S(NP*)	-	-	-	-	*	(4)
+selectraws1/19558	0	19	may	MD	(VP*	-	-	-	-	*	-
+selectraws1/19558	0	20	have	VB	(VP*	-	-	-	-	*	-
+selectraws1/19558	0	21	left	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19558	0	22	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/19558	0	23	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/19558	0	24	now	RB	(ADJP*	-	-	-	-	*	-
+selectraws1/19558	0	25	deceased	JJ	*)	-	-	-	-	*	-
+selectraws1/19558	0	26	titular	JJ	*	-	-	-	-	*	-
+selectraws1/19558	0	27	character	NN	*	-	-	-	-	*	1)
+selectraws1/19558	0	28	's	POS	*)	-	-	-	-	*	-
+selectraws1/19558	0	29	mansion	NN	*)))))))))))))))	-	-	-	-	*	-
+selectraws1/19558	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19558	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/19558	0	1	titular	JJ	*	-	-	-	-	*	-
+selectraws1/19558	0	2	character	NN	*)	-	-	-	-	*	1)
+selectraws1/19558	0	3	had	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19558	0	4	earlier	RB	*	-	-	-	-	*	-
+selectraws1/19558	0	5	introduced	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19558	0	6	the	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/19558	0	7	narrator	NN	*)	-	-	-	-	*	2)
+selectraws1/19558	0	8	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/19558	0	9	Meyer	NNP	(NP(NP*	-	-	-	-	(PERSON*	(5
+selectraws1/19558	0	10	Wolfsheim	NNP	*)	-	-	-	-	*)	5)
+selectraws1/19558	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/19558	0	12	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19558	0	13	claims	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/19558	0	14	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/19558	0	15	he	PRP	(S(NP*)	-	-	-	-	*	(5)
+selectraws1/19558	0	16	fixed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19558	0	17	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/19558	0	18	World	NNP	*	-	-	-	-	*	-
+selectraws1/19558	0	19	Series	NNP	*))))))))))))	-	-	-	-	*	-
+selectraws1/19558	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19558	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(2
+selectraws1/19558	0	1	narrator	NN	*)	-	-	-	-	*	2)
+selectraws1/19558	0	2	becomes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19558	0	3	romantically	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/19558	0	4	involved	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19558	0	5	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/19558	0	6	Jordan	NNP	(NP(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/19558	0	7	Baker	NNP	*)	-	-	-	-	*)	6)
+selectraws1/19558	0	8	,	,	*	-	-	-	-	*	-
+selectraws1/19558	0	9	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19558	0	10	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/19558	0	11	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19558	0	12	friend	NN	*)	-	-	-	-	*	-
+selectraws1/19558	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19558	0	14	Daisy	NNP	(NP*	-	-	-	-	(PERSON*	(7
+selectraws1/19558	0	15	Buchanan	NNP	*))))))))))	-	-	-	-	*)	7)
+selectraws1/19558	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19558	0	0	Daisy	NNP	(TOP(S(S(NP*)	-	-	-	-	*	(7)
+selectraws1/19558	0	1	hits	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19558	0	2	and	CC	*	-	-	-	-	*	-
+selectraws1/19558	0	3	kills	VBZ	*	-	-	-	-	*	-
+selectraws1/19558	0	4	Myrtle	NNP	(NP*	-	-	-	-	(PERSON*	(8
+selectraws1/19558	0	5	Wilson	NNP	*)))	-	-	-	-	*)	8)
+selectraws1/19558	0	6	but	CC	*	-	-	-	-	*	-
+selectraws1/19558	0	7	the	DT	(S(NP*	-	-	-	-	*	(1
+selectraws1/19558	0	8	titular	JJ	*	-	-	-	-	*	-
+selectraws1/19558	0	9	character	NN	*)	-	-	-	-	*	1)
+selectraws1/19558	0	10	takes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19558	0	11	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/19558	0	12	blame	NN	*)	-	-	-	-	*	-
+selectraws1/19558	0	13	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19558	0	14	,	,	(PRN*	-	-	-	-	*	-
+selectraws1/19558	0	15	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/19558	0	16	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/19558	0	17	points	NNS	*))	-	-	-	-	*	-
+selectraws1/19558	0	18	,	,	*)	-	-	-	-	*	-
+selectraws1/19558	0	19	what	WP	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/19558	0	20	novel	NN	*)	-	-	-	-	*	(1)
+selectraws1/19558	0	21	narrated	VBN	(S(VP(VP*	-	-	-	-	*	-
+selectraws1/19558	0	22	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19558	0	23	Nick	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/19558	0	24	Carraway	NNP	*)))	-	-	-	-	*)	2)
+selectraws1/19558	0	25	and	CC	*	-	-	-	-	*	-
+selectraws1/19558	0	26	written	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19558	0	27	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19558	0	28	F.	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/19558	0	29	Scott	NNP	*	-	-	-	-	*	-
+selectraws1/19558	0	30	Fitzgerald	NNP	*)))))))))	-	-	-	-	*)	3)
+selectraws1/19558	0	31	?	.	*))	-	-	-	-	*	-
+
+
+#end document
+

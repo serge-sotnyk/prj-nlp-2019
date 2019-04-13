@@ -1,0 +1,139 @@
+#begin document (notdoneraws/18880); part 000
+
+notdoneraws/18880	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/18880	0	1	poem	NN	*)	-	-	-	-	*	1)
+notdoneraws/18880	0	2	imagines	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	3	something	NN	(S(NP*)	-	-	-	-	*	-
+notdoneraws/18880	0	4	that	DT	(NP*)	-	-	-	-	*	-
+notdoneraws/18880	0	5	''	''	*	-	-	-	-	*	-
+notdoneraws/18880	0	6	watered	VBD	(VP(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	7	heaven	NN	(NP*)	-	-	-	-	*	-
+notdoneraws/18880	0	8	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18880	0	9	tears	NNS	(NP*))	-	-	-	-	*	-
+notdoneraws/18880	0	10	''	''	*)	-	-	-	-	*	-
+notdoneraws/18880	0	11	and	CC	*	-	-	-	-	*	-
+notdoneraws/18880	0	12	asks	VBZ	(VP*)))	-	-	-	-	*	-
+notdoneraws/18880	0	13	''	''	*	-	-	-	-	*	-
+notdoneraws/18880	0	14	what	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/18880	0	15	art	NN	(S(NP*)	-	-	-	-	*	-
+notdoneraws/18880	0	16	could	MD	(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	17	twist	VB	(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	18	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/18880	0	19	sinews	NNS	*)	-	-	-	-	*	-
+notdoneraws/18880	0	20	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18880	0	21	thy	JJ	(NP*	-	-	-	-	*	-
+notdoneraws/18880	0	22	heart	NN	*))))))))	-	-	-	-	*	-
+notdoneraws/18880	0	23	?	.	*	-	-	-	-	*	-
+notdoneraws/18880	0	24	''	''	*))	-	-	-	-	*	-
+
+
+notdoneraws/18880	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/18880	0	1	poem	NN	*)	-	-	-	-	*	1)
+notdoneraws/18880	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	3	often	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/18880	0	4	considered	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	5	the	DT	(S(NP(NP*	-	-	-	-	*	(1
+notdoneraws/18880	0	6	counterpart	NN	*)	-	-	-	-	*	-
+notdoneraws/18880	0	7	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18880	0	8	another	DT	(NP(NP*	-	-	-	-	*	(3
+notdoneraws/18880	0	9	poem	NN	*)	-	-	-	-	*	3)|1)
+notdoneraws/18880	0	10	that	DT	(SBAR(S(NP*	-	-	-	-	*	-
+notdoneraws/18880	0	11	state	NN	*	-	-	-	-	*	-
+notdoneraws/18880	0	12	''	''	*	-	-	-	-	*	-
+notdoneraws/18880	0	13	God	NNP	*)	-	-	-	-	*	-
+notdoneraws/18880	0	14	gave	VBD	(VP(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	15	thee	VB	(S(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	16	such	JJ	(NP*	-	-	-	-	*	-
+notdoneraws/18880	0	17	a	DT	*	-	-	-	-	*	-
+notdoneraws/18880	0	18	tender	NN	*	-	-	-	-	*	-
+notdoneraws/18880	0	19	voice	NN	*)))	-	-	-	-	*	-
+notdoneraws/18880	0	20	''	''	*)	-	-	-	-	*	-
+notdoneraws/18880	0	21	and	CC	*	-	-	-	-	*	-
+notdoneraws/18880	0	22	repeats	VBZ	(VP*)))))))	-	-	-	-	*	-
+notdoneraws/18880	0	23	''	''	*	-	-	-	-	*	-
+notdoneraws/18880	0	24	God	NNP	(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	25	Bless	NNP	(NP*	-	-	-	-	*	-
+notdoneraws/18880	0	26	Thee	NNP	*)))))	-	-	-	-	*	-
+notdoneraws/18880	0	27	!	.	*	-	-	-	-	*	-
+notdoneraws/18880	0	28	''	''	*))	-	-	-	-	*	-
+
+
+notdoneraws/18880	0	0	Asking	VBG	(TOP(S(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	1	''	''	*	-	-	-	-	*	-
+notdoneraws/18880	0	2	What	WP	(SBARQ(WHNP*)	-	-	-	-	*	-
+notdoneraws/18880	0	3	the	DT	(SQ(NP*)	-	-	-	-	*	-
+notdoneraws/18880	0	4	hammer	VB	(VP*))	-	-	-	-	*	-
+notdoneraws/18880	0	5	?	.	*))))	-	-	-	-	*	-
+
+
+notdoneraws/18880	0	0	What	WP	(TOP(SBARQ(SBARQ(WHNP*)	-	-	-	-	*	-
+notdoneraws/18880	0	1	the	DT	(S(NP*	-	-	-	-	*	-
+notdoneraws/18880	0	2	chain	NN	*))	-	-	-	-	*	-
+notdoneraws/18880	0	3	?	.	*	-	-	-	-	*	-
+notdoneraws/18880	0	4	''	''	*)	-	-	-	-	*	-
+notdoneraws/18880	0	5	and	CC	*	-	-	-	-	*	-
+notdoneraws/18880	0	6	''	''	*	-	-	-	-	*	-
+notdoneraws/18880	0	7	Did	VBD	(SQ*	-	-	-	-	*	-
+notdoneraws/18880	0	8	he	PRP	(NP*)	-	-	-	-	*	-
+notdoneraws/18880	0	9	who	WP	(WHNP*)	-	-	-	-	*	-
+notdoneraws/18880	0	10	make	VB	(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	11	the	DT	(NP*)	-	-	-	-	*	-
+notdoneraws/18880	0	12	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+notdoneraws/18880	0	13	\*	SYM	(X*)	-	-	-	-	*	-
+notdoneraws/18880	0	14	-RRB-	-RRB-	*))	-	-	-	-	*	-
+notdoneraws/18880	0	15	lamb	NN	(NP*)	-	-	-	-	*	-
+notdoneraws/18880	0	16	make	VB	(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	17	thee	JJ	(S(ADJP(ADJP*)	-	-	-	-	*	-
+notdoneraws/18880	0	18	,	,	*	-	-	-	-	*	-
+notdoneraws/18880	0	19	''	''	*)	-	-	-	-	*	-
+notdoneraws/18880	0	20	this	DT	(SBAR(S(NP*	-	-	-	-	*	(1
+notdoneraws/18880	0	21	poem	NN	*)	-	-	-	-	*	1)
+notdoneraws/18880	0	22	concludes	VBZ	(VP*))))	-	-	-	-	*	-
+notdoneraws/18880	0	23	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18880	0	24	inquiring	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	25	''	''	*	-	-	-	-	*	-
+notdoneraws/18880	0	26	What	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/18880	0	27	immortal	JJ	(S(NP*	-	-	-	-	*	-
+notdoneraws/18880	0	28	hand	NN	*	-	-	-	-	*	-
+notdoneraws/18880	0	29	or	CC	*	-	-	-	-	*	-
+notdoneraws/18880	0	30	eye	NN	*)	-	-	-	-	*	-
+notdoneraws/18880	0	31	could	MD	(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	32	frame	VB	(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	33	they	PRP	(NP*)	-	-	-	-	*	-
+notdoneraws/18880	0	34	fearful	JJ	(NP*	-	-	-	-	*	-
+notdoneraws/18880	0	35	symmetry	NN	*))))))))))	-	-	-	-	*	-
+notdoneraws/18880	0	36	?	.	*	-	-	-	-	*	-
+notdoneraws/18880	0	37	''	''	*))	-	-	-	-	*	-
+
+
+notdoneraws/18880	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/18880	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/18880	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/18880	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/18880	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	5	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/18880	0	6	poem	NN	*)	-	-	-	-	*	-
+notdoneraws/18880	0	7	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18880	0	8	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/18880	0	9	creature	NN	*)	-	-	-	-	*	-
+notdoneraws/18880	0	10	''	''	*	-	-	-	-	*	-
+notdoneraws/18880	0	11	burning	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	12	bright	JJ	(NP*))	-	-	-	-	*	-
+notdoneraws/18880	0	13	,	,	*	-	-	-	-	*	-
+notdoneraws/18880	0	14	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18880	0	15	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/18880	0	16	forests	NNS	*)	-	-	-	-	*	-
+notdoneraws/18880	0	17	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18880	0	18	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/18880	0	19	night	NN	*))))	-	-	-	-	*	-
+notdoneraws/18880	0	20	,	,	*	-	-	-	-	*	-
+notdoneraws/18880	0	21	''	''	*	-	-	-	-	*	1)
+notdoneraws/18880	0	22	written	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/18880	0	23	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18880	0	24	William	NNP	(NP*	-	-	-	-	(PERSON*	(2
+notdoneraws/18880	0	25	Blake	NNP	*))))))	-	-	-	-	*)	2)
+notdoneraws/18880	0	26	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

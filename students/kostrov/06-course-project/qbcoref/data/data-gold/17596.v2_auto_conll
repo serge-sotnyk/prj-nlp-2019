@@ -1,0 +1,98 @@
+#begin document (notdoneraws/17596); part 000
+
+notdoneraws/17596	0	0	Thea	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(4
+notdoneraws/17596	0	1	Kronborg	NNP	*)	-	-	-	-	*)	4)
+notdoneraws/17596	0	2	becomes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17596	0	3	and	CC	*	-	-	-	-	*	-
+notdoneraws/17596	0	4	opera	VBZ	*	-	-	-	-	*	-
+notdoneraws/17596	0	5	singer	NN	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/17596	0	6	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17596	0	7	this	DT	(NP(NP(NP*	-	-	-	-	*	(1|(5
+notdoneraws/17596	0	8	author	NN	*	-	-	-	-	*	1)
+notdoneraws/17596	0	9	's	POS	*)	-	-	-	-	*	-
+notdoneraws/17596	0	10	novel	NN	*)	-	-	-	-	*	5)
+notdoneraws/17596	0	11	,	,	*	-	-	-	-	*	-
+notdoneraws/17596	0	12	Song	NN	(NP(NP*)	-	-	-	-	*	(5
+notdoneraws/17596	0	13	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17596	0	14	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/17596	0	15	Lark	NNP	*)))))))	-	-	-	-	*	5)
+notdoneraws/17596	0	16	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17596	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/17596	0	1	one	CD	(NP(NP*)	-	-	-	-	*	(2
+notdoneraws/17596	0	2	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17596	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/17596	0	4	writer	NN	*	-	-	-	-	*	1)
+notdoneraws/17596	0	5	's	POS	*)	-	-	-	-	*	-
+notdoneraws/17596	0	6	novels	NNS	*))))	-	-	-	-	*	2)
+notdoneraws/17596	0	7	,	,	*	-	-	-	-	*	-
+notdoneraws/17596	0	8	Lena	NNP	(NP*	-	-	-	-	(PERSON*	(6
+notdoneraws/17596	0	9	Lingard	NNP	*)	-	-	-	-	*)	6)
+notdoneraws/17596	0	10	becomes	VBZ	(VP(VP*	-	-	-	-	*	-
+notdoneraws/17596	0	11	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/17596	0	12	dressmaker	NN	*))	-	-	-	-	*	-
+notdoneraws/17596	0	13	and	CC	*	-	-	-	-	*	-
+notdoneraws/17596	0	14	has	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17596	0	15	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/17596	0	16	brief	JJ	*	-	-	-	-	*	-
+notdoneraws/17596	0	17	affair	NN	*)	-	-	-	-	*	-
+notdoneraws/17596	0	18	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17596	0	19	Jim	NNP	(NP(NP*	-	-	-	-	(PERSON*	(7
+notdoneraws/17596	0	20	Burden	NNP	*)	-	-	-	-	*)	7)
+notdoneraws/17596	0	21	,	,	*	-	-	-	-	*	-
+notdoneraws/17596	0	22	a	DT	(NP(NP*	-	-	-	-	*	(7
+notdoneraws/17596	0	23	childhood	NN	*	-	-	-	-	*	-
+notdoneraws/17596	0	24	friend	NN	*)	-	-	-	-	*	-
+notdoneraws/17596	0	25	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17596	0	26	the	DT	(NP(NP*	-	-	-	-	*	(8
+notdoneraws/17596	0	27	title	NN	*	-	-	-	-	*	-
+notdoneraws/17596	0	28	girl	NN	*)	-	-	-	-	*	-
+notdoneraws/17596	0	29	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17596	0	30	Black	NNP	(NP*	-	-	-	-	*	-
+notdoneraws/17596	0	31	Hawk	NNP	*))))))))))	-	-	-	-	*	8)|7)
+notdoneraws/17596	0	32	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17596	0	0	She	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/17596	0	1	wrote	VBD	(VP(VP*	-	-	-	-	*	-
+notdoneraws/17596	0	2	another	DT	(NP*	-	-	-	-	*	(3
+notdoneraws/17596	0	3	novel	NN	*)	-	-	-	-	*	3)
+notdoneraws/17596	0	4	where	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+notdoneraws/17596	0	5	Carl	NNP	(S(NP*	-	-	-	-	(PERSON*	(9
+notdoneraws/17596	0	6	Linstrum	NNP	*)	-	-	-	-	*)	9)
+notdoneraws/17596	0	7	returns	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17596	0	8	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/17596	0	9	Nebraska	NNP	(NP*))	-	-	-	-	(LOCATION)	-
+notdoneraws/17596	0	10	after	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17596	0	11	living	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/17596	0	12	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17596	0	13	Alaska	NNP	(NP*)))))))))	-	-	-	-	(LOCATION)	-
+notdoneraws/17596	0	14	and	CC	*	-	-	-	-	*	-
+notdoneraws/17596	0	15	eventually	RB	(VP(ADVP*)	-	-	-	-	*	-
+notdoneraws/17596	0	16	decides	VBZ	*	-	-	-	-	*	-
+notdoneraws/17596	0	17	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/17596	0	18	marry	VB	(VP*	-	-	-	-	*	-
+notdoneraws/17596	0	19	Alexandra	NNP	(NP*	-	-	-	-	(PERSON*	(10
+notdoneraws/17596	0	20	Bergson	NNP	*))))))	-	-	-	-	*)	10)
+notdoneraws/17596	0	21	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17596	0	0	For	IN	(TOP(SBARQ(PP*	-	-	-	-	*	-
+notdoneraws/17596	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/17596	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/17596	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/17596	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/17596	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/17596	0	6	author	NN	*)	-	-	-	-	*	-
+notdoneraws/17596	0	7	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17596	0	8	My	PRP$	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/17596	0	9	ntonia	NN	*)	-	-	-	-	*	2)
+notdoneraws/17596	0	10	and	CC	*	-	-	-	-	*	-
+notdoneraws/17596	0	11	O	NNP	(NP*	-	-	-	-	*	(3
+notdoneraws/17596	0	12	Pioneers	NNP	*)))))	-	-	-	-	*	-
+notdoneraws/17596	0	13	!	.	*))	-	-	-	-	*	3)|1)
+
+
+#end document
+

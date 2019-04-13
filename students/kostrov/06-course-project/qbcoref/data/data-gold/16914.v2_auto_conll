@@ -1,0 +1,121 @@
+#begin document (selectraws1/16914); part 000
+
+selectraws1/16914	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(5
+selectraws1/16914	0	1	speaker	NN	*)	-	-	-	-	*	-
+selectraws1/16914	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	3	one	CD	(NP(NP*)	-	-	-	-	*	(2
+selectraws1/16914	0	4	his	PRP$	(SBAR(S(NP*	-	-	-	-	*	(1)
+selectraws1/16914	0	5	poems	NNS	*)	-	-	-	-	*	5)|2)
+selectraws1/16914	0	6	saw	VBD	(VP*))))))	-	-	-	-	*	-
+selectraws1/16914	0	7	askant	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16914	0	8	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16914	0	9	armies	NNS	*)	-	-	-	-	*	-
+selectraws1/16914	0	10	and	CC	*	-	-	-	-	*	-
+selectraws1/16914	0	11	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16914	0	12	carnage	NN	*))	-	-	-	-	*	-
+selectraws1/16914	0	13	following	VBG	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	14	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16914	0	15	battle	NN	*))	-	-	-	-	*	-
+selectraws1/16914	0	16	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	17	crying	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/16914	0	18	approach	NN	(NP*)	-	-	-	-	*	-
+selectraws1/16914	0	19	,	,	*	-	-	-	-	*	-
+selectraws1/16914	0	20	strong	JJ	(INTJ*	-	-	-	-	*	-
+selectraws1/16914	0	21	Deliveress	NN	*	-	-	-	-	*	-
+selectraws1/16914	0	22	!	.	*)	-	-	-	-	*	-
+selectraws1/16914	0	23	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	24	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16914	0	25	death	NN	*	-	-	-	-	*	-
+selectraws1/16914	0	26	carol	NN	*)	-	-	-	-	*	-
+selectraws1/16914	0	27	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	28	its	PRP$	(NP*	-	-	-	-	*	(2)
+selectraws1/16914	0	29	sixteenth	NN	*	-	-	-	-	*	-
+selectraws1/16914	0	30	section	NN	*))))))))	-	-	-	-	*	-
+selectraws1/16914	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16914	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16914	0	1	another	DT	(NP(NP*)	-	-	-	-	*	(7
+selectraws1/16914	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	3	his	PRP$	(NP*	-	-	-	-	*	(6|(1)
+selectraws1/16914	0	4	works	NNS	*))))	-	-	-	-	*	7)|6)
+selectraws1/16914	0	5	,	,	*	-	-	-	-	*	-
+selectraws1/16914	0	6	the	DT	(NP*	-	-	-	-	*	(8
+selectraws1/16914	0	7	speaker	NN	*)	-	-	-	-	*	8)
+selectraws1/16914	0	8	exclaims	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16914	0	9	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	10	a	DT	(FRAG(NP(NP(NP*	-	-	-	-	*	(12
+selectraws1/16914	0	11	woman	NN	*	-	-	-	-	*	12)
+selectraws1/16914	0	12	's	POS	*)	-	-	-	-	*	-
+selectraws1/16914	0	13	Body	NN	*)	-	-	-	-	*	-
+selectraws1/16914	0	14	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	15	auction	NN	(NP*)))	-	-	-	-	*	-
+selectraws1/16914	0	16	!	.	*))	-	-	-	-	*	-
+selectraws1/16914	0	17	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	18	asserting	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/16914	0	19	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16914	0	20	the	DT	(S(NP(NP*	-	-	-	-	*	-
+selectraws1/16914	0	21	armies	NNS	*)	-	-	-	-	*	-
+selectraws1/16914	0	22	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	23	those	DT	(NP(NP*)	-	-	-	-	*	-
+selectraws1/16914	0	24	I	PRP	(SBAR(S(NP*)	-	-	-	-	*	(8)
+selectraws1/16914	0	25	love	VBP	(VP*))))))	-	-	-	-	*	-
+selectraws1/16914	0	26	engirth	VBP	(VP*	-	-	-	-	*	-
+selectraws1/16914	0	27	me	PRP	(NP*))))))))	-	-	-	-	*	(8)
+selectraws1/16914	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16914	0	0	Besides	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16914	0	1	those	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws1/16914	0	2	poems	NNS	*)	-	-	-	-	*	9)
+selectraws1/16914	0	3	and	CC	*	-	-	-	-	*	-
+selectraws1/16914	0	4	his	PRP$	(NP*	-	-	-	-	*	(10|(1)
+selectraws1/16914	0	5	Calamus	NNP	*	-	-	-	-	*	(11)
+selectraws1/16914	0	6	poems	NNS	*)))	-	-	-	-	*	10)
+selectraws1/16914	0	7	,	,	*	-	-	-	-	*	-
+selectraws1/16914	0	8	he	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws1/16914	0	9	began	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16914	0	10	his	PRP$	(NP*	-	-	-	-	*	(3|(1)
+selectraws1/16914	0	11	best-known	JJS	*	-	-	-	-	*	3)
+selectraws1/16914	0	12	poem	NN	*)	-	-	-	-	*	-
+selectraws1/16914	0	13	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	14	declaring	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/16914	0	15	I	PRP	(S(NP*)	-	-	-	-	*	(1)
+selectraws1/16914	0	16	celebrate	VBP	(VP(VP*	-	-	-	-	*	-
+selectraws1/16914	0	17	myself	PRP	(NP*))	-	-	-	-	*	(1)
+selectraws1/16914	0	18	,	,	*	-	-	-	-	*	-
+selectraws1/16914	0	19	and	CC	*	-	-	-	-	*	-
+selectraws1/16914	0	20	sing	VB	(VP*	-	-	-	-	*	-
+selectraws1/16914	0	21	myself	PRP	(NP*))))))))	-	-	-	-	*	(1)
+selectraws1/16914	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16914	0	0	FTP	NNP	(TOP(S(NP(NP*)	-	-	-	-	*	-
+selectraws1/16914	0	1	,	,	*	-	-	-	-	*	-
+selectraws1/16914	0	2	name	VB	(NP(S(VP*	-	-	-	-	*	-
+selectraws1/16914	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16914	0	4	poet	NN	*)	-	-	-	-	*	-
+selectraws1/16914	0	5	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	6	When	WRB	(SBAR(WHADVP*)	-	-	-	-	*	(2
+selectraws1/16914	0	7	Lilacs	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/16914	0	8	Last	JJ	(ADVP*	-	-	-	-	*	-
+selectraws1/16914	0	9	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	10	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16914	0	11	Door-yard	NNP	*	-	-	-	-	*	-
+selectraws1/16914	0	12	Bloom	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/16914	0	13	'd	NNP	*))))))))))	-	-	-	-	*)	2)
+selectraws1/16914	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/16914	0	15	Song	NN	(NP(NP*)	-	-	-	-	(ORGANIZATION*	(3
+selectraws1/16914	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	17	Myself	NNP	(NP*))))	-	-	-	-	*)	(1)|3)|1)
+selectraws1/16914	0	18	,	,	*)	-	-	-	-	*	-
+selectraws1/16914	0	19	collected	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16914	0	20	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	21	Leaves	NNS	(NP(NP*)	-	-	-	-	*	(4
+selectraws1/16914	0	22	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16914	0	23	Grass	NNP	(NP*)))))	-	-	-	-	*	4)
+selectraws1/16914	0	24	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

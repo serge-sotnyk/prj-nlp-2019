@@ -1,0 +1,106 @@
+#begin document (selectraws1/19217); part 000
+
+selectraws1/19217	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(4
+selectraws1/19217	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws1/19217	0	2	created	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19217	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/19217	0	5	man	NN	*))))	-	-	-	-	*	1)|4)
+selectraws1/19217	0	6	founds	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/19217	0	7	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19217	0	8	Church	NN	*)	-	-	-	-	(ORGANIZATION*	-
+selectraws1/19217	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	10	God	NNP	(NP*)))	-	-	-	-	*	-
+selectraws1/19217	0	11	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/19217	0	12	Utterly	NNP	*	-	-	-	-	*	-
+selectraws1/19217	0	13	Indifferent	NNP	*))	-	-	-	-	*)	-
+selectraws1/19217	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/19217	0	15	predicts	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19217	0	16	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19217	0	17	future	NN	*)	-	-	-	-	*	-
+selectraws1/19217	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	19	Malachi	NNP	(NP*	-	-	-	-	*	(5
+selectraws1/19217	0	20	Constant	NNP	*)))))	-	-	-	-	*	5)
+selectraws1/19217	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19217	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/19217	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws1/19217	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	3	novels	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws1/19217	0	4	such	JJ	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	5	as	IN	*	-	-	-	-	*	-
+selectraws1/19217	0	6	Galapagos	NNP	(NP*	-	-	-	-	*	(6)
+selectraws1/19217	0	7	and	CC	*	-	-	-	-	*	-
+selectraws1/19217	0	8	Timequake	NNP	*)))))	-	-	-	-	*	(7)|1)
+selectraws1/19217	0	9	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19217	0	10	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/19217	0	11	novel	NN	*)	-	-	-	-	*	-
+selectraws1/19217	0	12	taking	VBG	(VP*	-	-	-	-	*	-
+selectraws1/19217	0	13	place	NN	(NP*)	-	-	-	-	*	-
+selectraws1/19217	0	14	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	15	San	NNP	(NP(NP*	-	-	-	-	(LOCATION*	-
+selectraws1/19217	0	16	Lorenzo	NNP	*)	-	-	-	-	*)	2)
+selectraws1/19217	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/19217	0	18	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19217	0	19	home	NN	*)	-	-	-	-	*	-
+selectraws1/19217	0	20	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	21	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19217	0	22	religion	NN	*)	-	-	-	-	*	-
+selectraws1/19217	0	23	known	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19217	0	24	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	25	Bokononism	NNP	(NP*)))))))))))	-	-	-	-	*	-
+selectraws1/19217	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19217	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19217	0	1	another	DT	(NP(NP*)	-	-	-	-	*	(3
+selectraws1/19217	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	3	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/19217	0	4	novels	NNS	*))))	-	-	-	-	*	3)
+selectraws1/19217	0	5	,	,	*	-	-	-	-	*	-
+selectraws1/19217	0	6	Montana	NNP	(NP*	-	-	-	-	(PERSON*	(8
+selectraws1/19217	0	7	Wildhack	NNP	*)	-	-	-	-	*)	8)
+selectraws1/19217	0	8	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19217	0	9	imprisoned	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19217	0	10	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	11	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19217	0	12	zoo	NN	*)	-	-	-	-	*	-
+selectraws1/19217	0	13	along	IN	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	14	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	15	the	DT	(NP*	-	-	-	-	*	(9
+selectraws1/19217	0	16	protagonist	NN	*)))))	-	-	-	-	*	9)
+selectraws1/19217	0	17	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	18	the	DT	(NP*	-	-	-	-	*	(10
+selectraws1/19217	0	19	Tramalfadorians	NNPS	*))))	-	-	-	-	*	10)
+selectraws1/19217	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19217	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	(9
+selectraws1/19217	0	1	protagonist	NN	*)	-	-	-	-	*	9)
+selectraws1/19217	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19217	0	3	Billy	NNP	(NP*	-	-	-	-	(PERSON*	(9
+selectraws1/19217	0	4	Pilgrim	NNP	*))	-	-	-	-	*)	9)
+selectraws1/19217	0	5	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19217	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19217	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/19217	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/19217	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/19217	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/19217	0	5	this	DT	(NP(NP(NP*	-	-	-	-	*	(1
+selectraws1/19217	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws1/19217	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19217	0	8	Cat	NNP	(NP(NP*	-	-	-	-	*	(2
+selectraws1/19217	0	9	's	POS	*)	-	-	-	-	*	-
+selectraws1/19217	0	10	Cradle	NNP	*	-	-	-	-	*	2)
+selectraws1/19217	0	11	and	CC	*	-	-	-	-	*	-
+selectraws1/19217	0	12	Slaughterhouse	NNP	*)))	-	-	-	-	*	(3
+selectraws1/19217	0	13	-	:	*	-	-	-	-	*	-
+selectraws1/19217	0	14	Five	CD	(NP*)))	-	-	-	-	*	3)|1)
+selectraws1/19217	0	15	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

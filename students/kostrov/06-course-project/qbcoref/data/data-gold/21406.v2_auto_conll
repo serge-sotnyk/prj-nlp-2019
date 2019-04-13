@@ -1,0 +1,123 @@
+#begin document (selectraws/21406); part 000
+
+selectraws/21406	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/21406	0	1	work	NN	*)	-	-	-	-	*	1)
+selectraws/21406	0	2	sees	VBZ	(VP*	-	-	-	-	*	-
+selectraws/21406	0	3	Ciacco	NNP	(S(NP*)	-	-	-	-	*	(3)
+selectraws/21406	0	4	predicting	VBG	(VP*	-	-	-	-	*	-
+selectraws/21406	0	5	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/21406	0	6	expulsion	NN	*)	-	-	-	-	*	-
+selectraws/21406	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/21406	0	8	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/21406	0	9	White	NNP	*	-	-	-	-	*	-
+selectraws/21406	0	10	party	NN	*)	-	-	-	-	*	-
+selectraws/21406	0	11	,	,	*	-	-	-	-	*	-
+selectraws/21406	0	12	to	TO	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws/21406	0	13	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws/21406	0	14	the	DT	(S(NP*	-	-	-	-	*	(2
+selectraws/21406	0	15	author	NN	*)	-	-	-	-	*	2)
+selectraws/21406	0	16	belonged	VBD	(VP*)))))))))	-	-	-	-	*	-
+selectraws/21406	0	17	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/21406	0	0	Locations	NNS	(TOP(S(NP(NP*)	-	-	-	-	*	-
+selectraws/21406	0	1	named	VBN	(VP*	-	-	-	-	*	-
+selectraws/21406	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws/21406	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/21406	0	4	work	NN	*))))	-	-	-	-	*	1)
+selectraws/21406	0	5	include	VBP	(VP*	-	-	-	-	*	-
+selectraws/21406	0	6	Caina	NNP	(NP(NP(NP*)	-	-	-	-	(LOCATION)	-
+selectraws/21406	0	7	,	,	*	-	-	-	-	*	-
+selectraws/21406	0	8	Artenora	NNP	(NP*)	-	-	-	-	(LOCATION)	-
+selectraws/21406	0	9	,	,	*	-	-	-	-	*	-
+selectraws/21406	0	10	Ptolomaea	NNP	(NP*)	-	-	-	-	(LOCATION)	-
+selectraws/21406	0	11	,	,	*	-	-	-	-	*	-
+selectraws/21406	0	12	and	CC	*	-	-	-	-	*	-
+selectraws/21406	0	13	Judecca	NNP	(NP*))	-	-	-	-	(PERSON)	-
+selectraws/21406	0	14	,	,	*	-	-	-	-	*	-
+selectraws/21406	0	15	as	RB	(CONJP*	-	-	-	-	*	-
+selectraws/21406	0	16	well	RB	*	-	-	-	-	*	-
+selectraws/21406	0	17	as	IN	*)	-	-	-	-	*	-
+selectraws/21406	0	18	10	CD	(NP(NP*	-	-	-	-	*	-
+selectraws/21406	0	19	bolgias	NNS	*)	-	-	-	-	*	-
+selectraws/21406	0	20	,	,	*	-	-	-	-	*	-
+selectraws/21406	0	21	where	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws/21406	0	22	the	DT	(S(NP*	-	-	-	-	*	(2
+selectraws/21406	0	23	narrator	NN	*)	-	-	-	-	*	2)
+selectraws/21406	0	24	meets	VBZ	(VP*	-	-	-	-	*	-
+selectraws/21406	0	25	Muhammad	NNP	(NP*)))))))	-	-	-	-	*	(4)
+selectraws/21406	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/21406	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(2
+selectraws/21406	0	1	narrator	NN	*)	-	-	-	-	*	2)
+selectraws/21406	0	2	describes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/21406	0	3	being	VBG	(VP*	-	-	-	-	*	-
+selectraws/21406	0	4	attacked	VBN	(VP*	-	-	-	-	*	-
+selectraws/21406	0	5	by	IN	(PP*	-	-	-	-	*	-
+selectraws/21406	0	6	three	CD	(NP*	-	-	-	-	*	(5
+selectraws/21406	0	7	beasts	NNS	*))	-	-	-	-	*	5)
+selectraws/21406	0	8	at	IN	(PP*	-	-	-	-	*	-
+selectraws/21406	0	9	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/21406	0	10	beginning	NN	*)	-	-	-	-	*	-
+selectraws/21406	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws/21406	0	12	the	DT	(NP*	-	-	-	-	*	(1
+selectraws/21406	0	13	work	NN	*))))	-	-	-	-	*	1)
+selectraws/21406	0	14	,	,	*	-	-	-	-	*	-
+selectraws/21406	0	15	before	IN	(PP*	-	-	-	-	*	-
+selectraws/21406	0	16	passing	VBG	(S(VP(VP*	-	-	-	-	*	-
+selectraws/21406	0	17	through	IN	(PP*	-	-	-	-	*	-
+selectraws/21406	0	18	the	DT	(NP*	-	-	-	-	*	-
+selectraws/21406	0	19	Vestibule	NNP	*)))	-	-	-	-	*	-
+selectraws/21406	0	20	and	CC	*	-	-	-	-	*	-
+selectraws/21406	0	21	reaching	VBG	(VP*	-	-	-	-	*	-
+selectraws/21406	0	22	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/21406	0	23	river	NN	*	-	-	-	-	*	-
+selectraws/21406	0	24	Acheron	NNP	*)	-	-	-	-	*	-
+selectraws/21406	0	25	,	,	*	-	-	-	-	*	-
+selectraws/21406	0	26	where	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws/21406	0	27	he	PRP	(S(NP*)	-	-	-	-	*	(2)
+selectraws/21406	0	28	was	VBD	(VP*	-	-	-	-	*	-
+selectraws/21406	0	29	ferried	VBN	(VP*	-	-	-	-	*	-
+selectraws/21406	0	30	into	IN	(PP*	-	-	-	-	*	-
+selectraws/21406	0	31	the	DT	(NP*	-	-	-	-	*	(1
+selectraws/21406	0	32	titular	JJ	*	-	-	-	-	*	-
+selectraws/21406	0	33	location	NN	*))	-	-	-	-	*	1)
+selectraws/21406	0	34	by	IN	(PP*	-	-	-	-	*	-
+selectraws/21406	0	35	Charon	NNP	(NP*))	-	-	-	-	(PERSON)	(6)
+selectraws/21406	0	36	along	IN	(PP*	-	-	-	-	*	-
+selectraws/21406	0	37	with	IN	(PP*	-	-	-	-	*	-
+selectraws/21406	0	38	his	PRP$	(NP(NP*	-	-	-	-	*	(7|(2)
+selectraws/21406	0	39	guide	NN	*)	-	-	-	-	*	7)
+selectraws/21406	0	40	,	,	*	-	-	-	-	*	-
+selectraws/21406	0	41	Virgil	NNP	(NP*))))))))))))))))	-	-	-	-	(PERSON)	(7)
+selectraws/21406	0	42	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/21406	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/21406	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/21406	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/21406	0	3	,	,	*	-	-	-	-	*	-
+selectraws/21406	0	4	identify	VB	(VP*	-	-	-	-	*	-
+selectraws/21406	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/21406	0	6	epic	NN	*	-	-	-	-	*	-
+selectraws/21406	0	7	poem	NN	*)	-	-	-	-	*	1)
+selectraws/21406	0	8	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/21406	0	9	describes	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/21406	0	10	the	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/21406	0	11	narrator	NN	*	-	-	-	-	*	2)
+selectraws/21406	0	12	's	POS	*)	-	-	-	-	*	-
+selectraws/21406	0	13	passage	NN	*)	-	-	-	-	*	-
+selectraws/21406	0	14	through	IN	(PP*	-	-	-	-	*	-
+selectraws/21406	0	15	hell	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws/21406	0	16	,	,	*	-	-	-	-	*	-
+selectraws/21406	0	17	a	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/21406	0	18	work	NN	*)	-	-	-	-	*	-
+selectraws/21406	0	19	of	IN	(PP*	-	-	-	-	*	-
+selectraws/21406	0	20	Dante	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(2
+selectraws/21406	0	21	Alighieri	NNP	*))))))))))	-	-	-	-	*)	1)|2)
+selectraws/21406	0	22	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

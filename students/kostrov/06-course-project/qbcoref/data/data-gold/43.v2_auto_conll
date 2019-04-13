@@ -1,0 +1,164 @@
+#begin document (selectraws/43); part 000
+
+selectraws/43	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(2
+selectraws/43	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	2	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/43	0	3	book	NN	*	-	-	-	-	*	1)
+selectraws/43	0	4	's	POS	*)	-	-	-	-	*	-
+selectraws/43	0	5	characters	NNS	*)))	-	-	-	-	*	2)
+selectraws/43	0	6	purchases	VBZ	(VP*	-	-	-	-	*	-
+selectraws/43	0	7	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/43	0	8	freedom	NN	*)	-	-	-	-	*	-
+selectraws/43	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	10	the	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws/43	0	11	son	NN	*)	-	-	-	-	*	-
+selectraws/43	0	12	of	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	13	Euricius	NNP	(NP*)))))	-	-	-	-	*	(4)|3)
+selectraws/43	0	14	after	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	15	having	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/43	0	16	obtained	VBN	(VP*	-	-	-	-	*	-
+selectraws/43	0	17	permission	NN	(NP*	-	-	-	-	*	-
+selectraws/43	0	18	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/43	0	19	go	VB	(VP*	-	-	-	-	*	-
+selectraws/43	0	20	to	TO	(PP*	-	-	-	-	*	-
+selectraws/43	0	21	Antium	NNP	(NP*))	-	-	-	-	*	-
+selectraws/43	0	22	because	IN	(SBAR*	-	-	-	-	*	-
+selectraws/43	0	23	the	DT	(S(NP*	-	-	-	-	*	(15
+selectraws/43	0	24	royal	JJ	*	-	-	-	-	*	-
+selectraws/43	0	25	infant	NN	*)	-	-	-	-	*	15)
+selectraws/43	0	26	died	VBD	(VP*))))))))))))	-	-	-	-	*	-
+selectraws/43	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/43	0	0	Two	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(16
+selectraws/43	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	2	its	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws/43	0	3	characters	NNS	*)))	-	-	-	-	*	16)
+selectraws/43	0	4	are	VBP	(VP*	-	-	-	-	*	-
+selectraws/43	0	5	imprisoned	VBN	(VP*	-	-	-	-	*	-
+selectraws/43	0	6	in	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	7	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/43	0	8	location	NN	*)	-	-	-	-	*	-
+selectraws/43	0	9	called	VBN	(VP*	-	-	-	-	*	-
+selectraws/43	0	10	the	DT	(S(NP*	-	-	-	-	*	-
+selectraws/43	0	11	Putrid	NNP	*	-	-	-	-	*	-
+selectraws/43	0	12	Pits	NNPS	*)))))	-	-	-	-	*	-
+selectraws/43	0	13	after	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	14	having	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/43	0	15	been	VBN	(VP*	-	-	-	-	*	-
+selectraws/43	0	16	put	VBN	(VP*	-	-	-	-	*	-
+selectraws/43	0	17	into	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	18	the	DT	(NP*	-	-	-	-	*	-
+selectraws/43	0	19	Mamertine	NNP	*	-	-	-	-	(LOCATION*	-
+selectraws/43	0	20	Prison	NNP	*)))))))))	-	-	-	-	*)	-
+selectraws/43	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/43	0	0	Its	PRP$	(TOP(S(NP*	-	-	-	-	*	(5|(1)
+selectraws/43	0	1	protagonist	NN	*)	-	-	-	-	*	5)
+selectraws/43	0	2	hires	VBZ	(VP*	-	-	-	-	*	-
+selectraws/43	0	3	Croton	NNP	(S(NP*)	-	-	-	-	*	(13)
+selectraws/43	0	4	to	TO	(VP*	-	-	-	-	*	-
+selectraws/43	0	5	rescue	VB	(VP*	-	-	-	-	*	-
+selectraws/43	0	6	a	DT	(NP*	-	-	-	-	*	(7
+selectraws/43	0	7	different	JJ	*	-	-	-	-	*	-
+selectraws/43	0	8	character	NN	*)	-	-	-	-	*	7)
+selectraws/43	0	9	after	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	10	listening	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/43	0	11	to	TO	(PP*	-	-	-	-	*	-
+selectraws/43	0	12	a	DT	(NP(NP*	-	-	-	-	*	(14
+selectraws/43	0	13	giant	JJ	*	-	-	-	-	*	-
+selectraws/43	0	14	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/43	0	15	\*	SYM	(X*)	-	-	-	-	*	-
+selectraws/43	0	16	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws/43	0	17	Christian	NNP	*)	-	-	-	-	*	14)
+selectraws/43	0	18	named	VBN	(VP*	-	-	-	-	*	-
+selectraws/43	0	19	Urban	NNP	(S(NP*)	-	-	-	-	*	(14)
+selectraws/43	0	20	discuss	VB	(VP*	-	-	-	-	*	-
+selectraws/43	0	21	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/43	0	22	meeting	NN	*)	-	-	-	-	*	-
+selectraws/43	0	23	at	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	24	Ostranium	NNP	(NP*)))))))))))))))	-	-	-	-	*	-
+selectraws/43	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/43	0	0	Eunice	NNP	(TOP(S(NP*)	-	-	-	-	(PERSON)	(6)
+selectraws/43	0	1	has	VBZ	(VP*	-	-	-	-	*	-
+selectraws/43	0	2	her	PRP$	(NP(NP*	-	-	-	-	*	(6)
+selectraws/43	0	3	vein	NN	*	-	-	-	-	*	-
+selectraws/43	0	4	slit	NN	*)	-	-	-	-	*	-
+selectraws/43	0	5	like	IN	(SBAR(SBAR*	-	-	-	-	*	-
+selectraws/43	0	6	her	PRP$	(S(NP*	-	-	-	-	*	(8|(6)
+selectraws/43	0	7	master	NN	*)	-	-	-	-	*	8)
+selectraws/43	0	8	does	VBZ	(VP*)))	-	-	-	-	*	-
+selectraws/43	0	9	,	,	*	-	-	-	-	*	-
+selectraws/43	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/43	0	11	had	VBD	(S(VP*	-	-	-	-	*	-
+selectraws/43	0	12	fallen	VBN	(VP*	-	-	-	-	*	-
+selectraws/43	0	13	prey	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/43	0	14	to	TO	(PP*	-	-	-	-	*	-
+selectraws/43	0	15	Tigellinus	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION)	(12)
+selectraws/43	0	16	's	POS	*)	-	-	-	-	*	-
+selectraws/43	0	17	schemes	NNS	*)))))))))	-	-	-	-	*	-
+selectraws/43	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/43	0	0	Although	IN	(TOP(S(SBAR*	-	-	-	-	*	-
+selectraws/43	0	1	Marcus	NNP	(S(NP*	-	-	-	-	(PERSON*	(5
+selectraws/43	0	2	Vinicius	NNP	*)	-	-	-	-	*)	5)
+selectraws/43	0	3	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/43	0	4	able	JJ	(ADJP*	-	-	-	-	*	-
+selectraws/43	0	5	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/43	0	6	come	VB	(VP(VP*	-	-	-	-	*	-
+selectraws/43	0	7	to	TO	(PP*	-	-	-	-	*	-
+selectraws/43	0	8	terms	NNS	(NP*))	-	-	-	-	*	-
+selectraws/43	0	9	with	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	10	Ligia	NNP	(NP(NP*	-	-	-	-	(PERSON)	(7)
+selectraws/43	0	11	's	POS	*)	-	-	-	-	*	-
+selectraws/43	0	12	death	NN	*)))	-	-	-	-	*	-
+selectraws/43	0	13	and	CC	*	-	-	-	-	*	-
+selectraws/43	0	14	meet	VB	(VP*	-	-	-	-	*	-
+selectraws/43	0	15	her	PRP	(NP*)	-	-	-	-	*	(7)
+selectraws/43	0	16	in	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	17	heaven	NN	(NP*))))))))))	-	-	-	-	*	-
+selectraws/43	0	18	,	,	*	-	-	-	-	*	-
+selectraws/43	0	19	Ursus	NNP	(NP*)	-	-	-	-	(ORGANIZATION)	(11)
+selectraws/43	0	20	saves	VBZ	(VP*	-	-	-	-	*	-
+selectraws/43	0	21	her	PRP	(NP*)	-	-	-	-	*	(7)
+selectraws/43	0	22	while	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	23	in	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	24	the	DT	(NP*	-	-	-	-	*	-
+selectraws/43	0	25	Coliseum	NNP	*))))	-	-	-	-	*	-
+selectraws/43	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/43	0	0	Closing	NN	(TOP(NP(NP*)	-	-	-	-	*	-
+selectraws/43	0	1	with	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	2	Petronius	NNP	(NP(NP(NP*	-	-	-	-	*	(8)
+selectraws/43	0	3	's	POS	*)	-	-	-	-	*	-
+selectraws/43	0	4	death	NN	*)	-	-	-	-	*	-
+selectraws/43	0	5	,	,	*	-	-	-	-	*	-
+selectraws/43	0	6	for	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws/43	0	7	10	CD	(WHNP(NP*	-	-	-	-	*	-
+selectraws/43	0	8	points	NNS	*)	-	-	-	-	*	-
+selectraws/43	0	9	,	,	*	-	-	-	-	*	-
+selectraws/43	0	10	name	NN	*))	-	-	-	-	*	-
+selectraws/43	0	11	this	DT	(S(NP*	-	-	-	-	*	(1
+selectraws/43	0	12	novel	NN	*)	-	-	-	-	*	-
+selectraws/43	0	13	set	VBN	(VP*	-	-	-	-	*	-
+selectraws/43	0	14	during	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	15	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/43	0	16	reign	NN	*)	-	-	-	-	*	-
+selectraws/43	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	18	Nero	NNP	(NP*))))	-	-	-	-	*	(9)
+selectraws/43	0	19	by	IN	(PP*	-	-	-	-	*	-
+selectraws/43	0	20	Henryk	NNP	(NP*	-	-	-	-	(PERSON*	(10
+selectraws/43	0	21	Sienkiewicz	NNP	*	-	-	-	-	*)	10)|1)
+selectraws/43	0	22	.	.	*	-	-	-	-	*	-
+selectraws/43	0	23	[	NNP	*	-	-	-	-	*	-
+selectraws/43	0	24	Ike	NNP	*)))))))	-	-	-	-	*	-
+selectraws/43	0	25	]	SYM	(X*)))	-	-	-	-	*	-
+
+
+#end document
+

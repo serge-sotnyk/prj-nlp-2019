@@ -1,0 +1,116 @@
+#begin document (selectraws/64); part 000
+
+selectraws/64	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/64	0	1	one	CD	(NP*	-	-	-	-	*	(13
+selectraws/64	0	2	novel	NN	*))	-	-	-	-	*	-
+selectraws/64	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws/64	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/64	0	5	author	NN	*))	-	-	-	-	*	13)|1)
+selectraws/64	0	6	,	,	*	-	-	-	-	*	-
+selectraws/64	0	7	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/64	0	8	fraught	JJ	*	-	-	-	-	*	-
+selectraws/64	0	9	marriage	NN	*)	-	-	-	-	*	-
+selectraws/64	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws/64	0	11	Bonnie	NNP	(NP(NP*	-	-	-	-	(PERSON*	(9
+selectraws/64	0	12	Dee	NNP	*	-	-	-	-	*	-
+selectraws/64	0	13	Peacock	NNP	*)	-	-	-	-	*)	9)
+selectraws/64	0	14	to	TO	(PP*	-	-	-	-	*	-
+selectraws/64	0	15	Daniel	NNP	(NP*)))))	-	-	-	-	(PERSON)	(10)
+selectraws/64	0	16	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/64	0	17	played	VBN	(VP*	-	-	-	-	*	-
+selectraws/64	0	18	for	IN	(PP*	-	-	-	-	*	-
+selectraws/64	0	19	comedic	JJ	(NP*	-	-	-	-	*	-
+selectraws/64	0	20	effect	NN	*))))	-	-	-	-	*	-
+selectraws/64	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/64	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	(7
+selectraws/64	0	1	short	JJ	*	-	-	-	-	*	-
+selectraws/64	0	2	story	NN	*)	-	-	-	-	*	7)
+selectraws/64	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws/64	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/64	0	5	author	NN	*)))	-	-	-	-	*	1)
+selectraws/64	0	6	describes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/64	0	7	Phoenix	NNP	(NP(NP(NP*	-	-	-	-	(PERSON*	(12
+selectraws/64	0	8	Jackson	NNP	*	-	-	-	-	*)	12)
+selectraws/64	0	9	's	POS	*)	-	-	-	-	*	-
+selectraws/64	0	10	long	JJ	*	-	-	-	-	*	-
+selectraws/64	0	11	walk	NN	*)	-	-	-	-	*	-
+selectraws/64	0	12	to	TO	(PP*	-	-	-	-	*	-
+selectraws/64	0	13	town	NN	(NP*))	-	-	-	-	*	-
+selectraws/64	0	14	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/64	0	15	get	VB	(VP*	-	-	-	-	*	-
+selectraws/64	0	16	medicine	NN	(NP*)	-	-	-	-	*	-
+selectraws/64	0	17	for	IN	(PP*	-	-	-	-	*	-
+selectraws/64	0	18	her	PRP$	(NP*	-	-	-	-	*	(12)
+selectraws/64	0	19	grandson	NN	*)))))))	-	-	-	-	*	-
+selectraws/64	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/64	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws/64	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws/64	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/64	0	3	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/64	0	4	novel	NN	*)	-	-	-	-	*	-
+selectraws/64	0	5	The	DT	(NP*	-	-	-	-	*	(13
+selectraws/64	0	6	Ponder	NNP	*	-	-	-	-	*	-
+selectraws/64	0	7	Heart	NNP	*))))	-	-	-	-	*	13)|1)
+selectraws/64	0	8	included	VBD	(VP*	-	-	-	-	*	-
+selectraws/64	0	9	the	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws/64	0	10	story	NN	*)	-	-	-	-	*	7)
+selectraws/64	0	11	A	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws/64	0	12	Worn	NNP	*	-	-	-	-	*	-
+selectraws/64	0	13	Path	NN	*)	-	-	-	-	*	7)
+selectraws/64	0	14	in	IN	(PP*	-	-	-	-	*	-
+selectraws/64	0	15	her	PRP$	(NP(NP(NP*	-	-	-	-	*	(4|(1)
+selectraws/64	0	16	book	NN	*)	-	-	-	-	*	4)
+selectraws/64	0	17	A	NNP	(NP*	-	-	-	-	*	(4
+selectraws/64	0	18	Curtain	NNP	*))	-	-	-	-	(ORGANIZATION*	-
+selectraws/64	0	19	of	IN	(PP*	-	-	-	-	*	-
+selectraws/64	0	20	Green	NNP	(NP*)))))))	-	-	-	-	*)	4)
+selectraws/64	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/64	0	0	Troy	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(16
+selectraws/64	0	1	Flavin	NNP	*)	-	-	-	-	*)	16)
+selectraws/64	0	2	marries	VBZ	(VP*	-	-	-	-	*	-
+selectraws/64	0	3	Dabney	NNP	(NP(NP(NP*	-	-	-	-	(PERSON*	(17
+selectraws/64	0	4	Fairchild	NNP	*)	-	-	-	-	*)	17)
+selectraws/64	0	5	in	IN	(PP*	-	-	-	-	*	-
+selectraws/64	0	6	the	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/64	0	7	title	NN	*	-	-	-	-	*	-
+selectraws/64	0	8	event	NN	*)	-	-	-	-	*	-
+selectraws/64	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws/64	0	10	her	PRP$	(NP*	-	-	-	-	*	(2|(1)
+selectraws/64	0	11	best-known	JJS	*	-	-	-	-	*	-
+selectraws/64	0	12	novel	NN	*)))))	-	-	-	-	*	2)|2)
+selectraws/64	0	13	,	,	*	-	-	-	-	*	-
+selectraws/64	0	14	Delta	NNP	(NP*	-	-	-	-	(ORGANIZATION)	(2
+selectraws/64	0	15	Wedding	NN	*)))	-	-	-	-	*	2)
+selectraws/64	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/64	0	0	FTP	VB	(TOP(S(VP*	-	-	-	-	*	-
+selectraws/64	0	1	who	WP	(SBAR(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/64	0	2	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/64	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/64	0	4	Southern	JJ	*	-	-	-	-	(ORGANIZATION)	-
+selectraws/64	0	5	author	NN	*)	-	-	-	-	*	-
+selectraws/64	0	6	of	IN	(PP*	-	-	-	-	*	-
+selectraws/64	0	7	the	DT	(NP(NP*	-	-	-	-	*	(18
+selectraws/64	0	8	short	JJ	*	-	-	-	-	*	-
+selectraws/64	0	9	stories	NNS	*)	-	-	-	-	*	18)
+selectraws/64	0	10	Petrified	NNP	(NP*	-	-	-	-	*	(14|(18
+selectraws/64	0	11	Man	NNP	*)))))))	-	-	-	-	*	14)
+selectraws/64	0	12	and	CC	*	-	-	-	-	*	-
+selectraws/64	0	13	Why	WRB	(SBAR(WHADVP*)	-	-	-	-	*	(15
+selectraws/64	0	14	I	PRP	(S(NP*)	-	-	-	-	*	-
+selectraws/64	0	15	Live	VBD	(VP*	-	-	-	-	*	-
+selectraws/64	0	16	at	IN	(PP*	-	-	-	-	*	-
+selectraws/64	0	17	the	DT	(NP*	-	-	-	-	*	-
+selectraws/64	0	18	P.O.	NNP	*)))))))	-	-	-	-	(LOCATION)	15)|1)|18)
+selectraws/64	0	19	?	.	*))	-	-	-	-	*	-
+
+
+#end document
+

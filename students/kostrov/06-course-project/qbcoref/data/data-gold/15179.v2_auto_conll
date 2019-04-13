@@ -1,0 +1,126 @@
+#begin document (selectraws1/15179); part 000
+
+selectraws1/15179	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/15179	0	1	man	NN	*)	-	-	-	-	*	1)
+selectraws1/15179	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/15179	0	3	a	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/15179	0	4	novella	NN	*)	-	-	-	-	*	3)
+selectraws1/15179	0	5	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/15179	0	6	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/15179	0	7	a	DT	(S(NP*	-	-	-	-	*	(4
+selectraws1/15179	0	8	man	NN	*)	-	-	-	-	*	4)
+selectraws1/15179	0	9	talks	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/15179	0	10	to	TO	(PP*))	-	-	-	-	*	-
+selectraws1/15179	0	11	and	CC	*	-	-	-	-	*	-
+selectraws1/15179	0	12	ultimately	RB	*	-	-	-	-	*	-
+selectraws1/15179	0	13	decides	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15179	0	14	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/15179	0	15	keep	VB	(VP*	-	-	-	-	*	-
+selectraws1/15179	0	16	an	DT	(NP(NP(NP*	-	-	-	-	*	-
+selectraws1/15179	0	17	object	NN	*)	-	-	-	-	*	-
+selectraws1/15179	0	18	he	PRP	(SBAR(S(NP*)	-	-	-	-	*	(4)
+selectraws1/15179	0	19	had	VBD	(VP*	-	-	-	-	*	-
+selectraws1/15179	0	20	borrowed	VBN	(VP*)))))	-	-	-	-	*	-
+selectraws1/15179	0	21	,	,	*	-	-	-	-	*	-
+selectraws1/15179	0	22	a	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/15179	0	23	woman	NN	*	-	-	-	-	*	5)
+selectraws1/15179	0	24	's	POS	*)	-	-	-	-	*	-
+selectraws1/15179	0	25	right	JJ	*	-	-	-	-	*	-
+selectraws1/15179	0	26	arm	NN	*)))))))))))	-	-	-	-	*	-
+selectraws1/15179	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15179	0	0	Many	JJ	(TOP(S(NP(NP*)	-	-	-	-	*	-
+selectraws1/15179	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15179	0	2	his	PRP$	(NP*	-	-	-	-	*	(6|(1)
+selectraws1/15179	0	3	short	JJ	*	-	-	-	-	*	-
+selectraws1/15179	0	4	stories	NNS	*)))	-	-	-	-	*	6)
+selectraws1/15179	0	5	are	VBP	(VP*	-	-	-	-	*	-
+selectraws1/15179	0	6	collected	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15179	0	7	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15179	0	8	Palm-of-the-Hand	JJ	(NP*	-	-	-	-	*	(7
+selectraws1/15179	0	9	Stories	NNPS	*))))	-	-	-	-	*	7)
+selectraws1/15179	0	10	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15179	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/15179	0	1	one	CD	(NP(NP*	-	-	-	-	*	(8
+selectraws1/15179	0	2	work	NN	*)	-	-	-	-	*	-
+selectraws1/15179	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15179	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/15179	0	5	man	NN	*))))	-	-	-	-	*	8)|1)
+selectraws1/15179	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/15179	0	7	a	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws1/15179	0	8	family	NN	*	-	-	-	-	*	-
+selectraws1/15179	0	9	patriarch	NN	*)	-	-	-	-	*	9)
+selectraws1/15179	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/15179	0	11	Shingo	NNP	(NP*)	-	-	-	-	(PERSON)	(9)
+selectraws1/15179	0	12	,	,	*)	-	-	-	-	*	-
+selectraws1/15179	0	13	hears	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15179	0	14	noises	NNS	(NP*	-	-	-	-	*	-
+selectraws1/15179	0	15	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/15179	0	16	he	PRP	(S(NP*)	-	-	-	-	*	(9)
+selectraws1/15179	0	17	takes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15179	0	18	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/15179	0	19	omens	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws1/15179	0	20	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15179	0	21	death	NN	(NP*))	-	-	-	-	*	-
+selectraws1/15179	0	22	,	,	*	-	-	-	-	*	-
+selectraws1/15179	0	23	including	VBG	(PP*	-	-	-	-	*	-
+selectraws1/15179	0	24	the	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws1/15179	0	25	title	NN	*	-	-	-	-	*	8)
+selectraws1/15179	0	26	Sound	NN	*)	-	-	-	-	*	(8
+selectraws1/15179	0	27	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15179	0	28	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/15179	0	29	Mountain	NNP	*)))))))))))	-	-	-	-	(ORGANIZATION)	8)
+selectraws1/15179	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15179	0	0	His	PRP$	(TOP(S(NP*	-	-	-	-	*	(2|(1)
+selectraws1/15179	0	1	most	RBS	(ADJP*	-	-	-	-	*	-
+selectraws1/15179	0	2	famous	JJ	*)	-	-	-	-	*	-
+selectraws1/15179	0	3	work	NN	*)	-	-	-	-	*	2)
+selectraws1/15179	0	4	centers	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15179	0	5	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/15179	0	6	the	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/15179	0	7	ballet	JJ	*	-	-	-	-	*	-
+selectraws1/15179	0	8	critic	NN	*	-	-	-	-	*	10)
+selectraws1/15179	0	9	Shimamura	NNP	*)	-	-	-	-	(PERSON)	(10)
+selectraws1/15179	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/15179	0	11	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/15179	0	12	takes	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/15179	0	13	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/15179	0	14	train	NN	*)	-	-	-	-	*	-
+selectraws1/15179	0	15	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/15179	0	16	the	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/15179	0	17	title	NN	*	-	-	-	-	*	-
+selectraws1/15179	0	18	location	NN	*)	-	-	-	-	*	2)
+selectraws1/15179	0	19	,	,	*	-	-	-	-	*	-
+selectraws1/15179	0	20	where	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/15179	0	21	he	PRP	(S(NP*)	-	-	-	-	*	(10)
+selectraws1/15179	0	22	has	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15179	0	23	an	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/15179	0	24	affair	NN	*)	-	-	-	-	*	-
+selectraws1/15179	0	25	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/15179	0	26	Komako	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(11)
+selectraws1/15179	0	27	,	,	*	-	-	-	-	*	-
+selectraws1/15179	0	28	a	DT	(NP*	-	-	-	-	*	(11
+selectraws1/15179	0	29	geisha	NN	*))))))))))))))))	-	-	-	-	*	11)
+selectraws1/15179	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15179	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/15179	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/15179	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/15179	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/15179	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/15179	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/15179	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws1/15179	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15179	0	8	Snow	NNP	(NP*	-	-	-	-	*	(2
+selectraws1/15179	0	9	Country	NNP	*)))	-	-	-	-	*	2)|1)
+selectraws1/15179	0	10	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

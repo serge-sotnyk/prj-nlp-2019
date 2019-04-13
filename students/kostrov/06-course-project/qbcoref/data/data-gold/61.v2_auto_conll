@@ -1,0 +1,110 @@
+#begin document (selectraws/61); part 000
+
+selectraws/61	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(2
+selectraws/61	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws/61	0	2	with	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/61	0	4	surname	NN	*)	-	-	-	-	*	2)|1)
+selectraws/61	0	5	is	VBZ	*)))	-	-	-	-	*	-
+selectraws/61	0	6	has	VBZ	(VP*	-	-	-	-	*	-
+selectraws/61	0	7	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/61	0	8	vision	NN	*)	-	-	-	-	*	-
+selectraws/61	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	10	the	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws/61	0	11	Devil	NNP	*)	-	-	-	-	*	8)
+selectraws/61	0	12	,	,	*	-	-	-	-	*	-
+selectraws/61	0	13	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/61	0	14	mocks	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/61	0	15	him	PRP	(NP*)	-	-	-	-	*	(2)
+selectraws/61	0	16	for	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	17	asserting	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/61	0	18	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws/61	0	19	all	DT	(S(NP*	-	-	-	-	*	-
+selectraws/61	0	20	men	NNS	*)	-	-	-	-	*	-
+selectraws/61	0	21	will	MD	(VP*	-	-	-	-	*	-
+selectraws/61	0	22	unite	VB	(VP*	-	-	-	-	*	-
+selectraws/61	0	23	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/61	0	24	take	VB	(VP*	-	-	-	-	*	-
+selectraws/61	0	25	from	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	26	life	NN	(NP*))	-	-	-	-	*	-
+selectraws/61	0	27	all	DT	(NP(NP*)	-	-	-	-	*	-
+selectraws/61	0	28	it	PRP	(SBAR(S(NP*)	-	-	-	-	*	-
+selectraws/61	0	29	can	MD	(VP*	-	-	-	-	*	-
+selectraws/61	0	30	give	VB	(VP*))))))))))))))))))))))	-	-	-	-	*	-
+selectraws/61	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/61	0	0	Another	DT	(TOP(NP(NP*	-	-	-	-	*	(3
+selectraws/61	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws/61	0	2	with	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/61	0	4	surname	JJ	*	-	-	-	-	*	3)|1)
+selectraws/61	0	5	studies	NNS	*)	-	-	-	-	*	-
+selectraws/61	0	6	with	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	7	Father	NNP	(NP*	-	-	-	-	*	(9
+selectraws/61	0	8	Zossima	NNP	*))))	-	-	-	-	*	9)
+selectraws/61	0	9	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/61	0	0	One	CD	(TOP(S(NP*)	-	-	-	-	*	(2)
+selectraws/61	0	1	tells	VBZ	(VP*	-	-	-	-	*	-
+selectraws/61	0	2	the	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws/61	0	3	story	NN	*)	-	-	-	-	*	-
+selectraws/61	0	4	of	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	5	The	DT	(NP*	-	-	-	-	*	(4
+selectraws/61	0	6	Grand	NNP	*	-	-	-	-	*	-
+selectraws/61	0	7	Inquisitor	NNP	*)))	-	-	-	-	*	4)|5)
+selectraws/61	0	8	,	,	*	-	-	-	-	*	-
+selectraws/61	0	9	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/61	0	10	another	DT	(S(NP(NP*	-	-	-	-	*	(6
+selectraws/61	0	11	member	NN	*)	-	-	-	-	*	-
+selectraws/61	0	12	of	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	13	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/61	0	14	family	NN	*)))	-	-	-	-	*	6)|1)
+selectraws/61	0	15	desperately	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws/61	0	16	pursues	VBZ	*	-	-	-	-	*	-
+selectraws/61	0	17	Grushenka	NNP	(NP*)	-	-	-	-	*	(7)
+selectraws/61	0	18	before	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	19	being	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/61	0	20	falsely	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws/61	0	21	convicted	VBN	*	-	-	-	-	*	-
+selectraws/61	0	22	for	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	23	Smerdyakov	NNP	(NP(NP(NP*	-	-	-	-	(ORGANIZATION)	(10)
+selectraws/61	0	24	's	POS	*)	-	-	-	-	*	-
+selectraws/61	0	25	murder	NN	*)	-	-	-	-	*	-
+selectraws/61	0	26	of	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	27	Fyodor	NNP	(NP*))))))))))))	-	-	-	-	*	(11)
+selectraws/61	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/61	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/61	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/61	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/61	0	3	,	,	*	-	-	-	-	*	-
+selectraws/61	0	4	Aloysha	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(3)
+selectraws/61	0	5	,	,	*	-	-	-	-	*	-
+selectraws/61	0	6	Dmitri	NNP	(NP*)	-	-	-	-	(PERSON)	(6)
+selectraws/61	0	7	,	,	*	-	-	-	-	*	-
+selectraws/61	0	8	and	CC	*	-	-	-	-	*	-
+selectraws/61	0	9	Ivan	NNP	(NP*))	-	-	-	-	(PERSON)	(2)
+selectraws/61	0	10	are	VBP	(VP*	-	-	-	-	*	-
+selectraws/61	0	11	all	DT	(NP(NP(NP*	-	-	-	-	*	-
+selectraws/61	0	12	members	NNS	*)	-	-	-	-	*	-
+selectraws/61	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	14	what	WDT	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws/61	0	15	family	NN	*))))	-	-	-	-	*	(1)
+selectraws/61	0	16	,	,	*	-	-	-	-	*	-
+selectraws/61	0	17	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/61	0	18	appears	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/61	0	19	in	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	20	a	DT	(NP(NP*	-	-	-	-	*	(13
+selectraws/61	0	21	namesake	NN	*	-	-	-	-	*	-
+selectraws/61	0	22	novel	NN	*)	-	-	-	-	*	-
+selectraws/61	0	23	by	IN	(PP*	-	-	-	-	*	-
+selectraws/61	0	24	Fyodor	NNP	(NP*	-	-	-	-	(PERSON*	(12
+selectraws/61	0	25	Dostoevsky	NNP	*)))))))))	-	-	-	-	*)	12)|13)
+selectraws/61	0	26	?	.	*))	-	-	-	-	*	-
+
+
+#end document
+

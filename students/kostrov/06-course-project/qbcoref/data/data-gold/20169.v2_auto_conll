@@ -1,0 +1,142 @@
+#begin document (selectraws1/20169); part 000
+
+selectraws1/20169	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/20169	0	1	writer	NN	*)	-	-	-	-	*	1)
+selectraws1/20169	0	2	depicts	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20169	0	3	Michael	NNP	(NP*	-	-	-	-	(PERSON*	(4
+selectraws1/20169	0	4	Furey	NNP	*)	-	-	-	-	*)	4)
+selectraws1/20169	0	5	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/20169	0	6	the	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/20169	0	7	lover	NN	*)	-	-	-	-	*	-
+selectraws1/20169	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20169	0	9	Gretta	NNP	(NP*))	-	-	-	-	(PERSON)	(5)|4)
+selectraws1/20169	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	*	(5)
+selectraws1/20169	0	11	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/20169	0	12	the	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/20169	0	13	wife	NN	*)	-	-	-	-	*	-
+selectraws1/20169	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20169	0	15	Gabriel	NNP	(NP(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/20169	0	16	Conroy	NNP	*)	-	-	-	-	*)	5)|6)
+selectraws1/20169	0	17	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20169	0	18	one	CD	(NP*	-	-	-	-	*	(10
+selectraws1/20169	0	19	short	JJ	*	-	-	-	-	*	-
+selectraws1/20169	0	20	story	NN	*)))))))))))	-	-	-	-	*	10)
+selectraws1/20169	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20169	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20169	0	1	another	DT	(NP*	-	-	-	-	*	(11
+selectraws1/20169	0	2	novel	NN	*))	-	-	-	-	*	11)
+selectraws1/20169	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/20169	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/20169	0	5	writer	NN	*)	-	-	-	-	*	1)
+selectraws1/20169	0	6	depicts	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20169	0	7	a	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws1/20169	0	8	character	NN	*)	-	-	-	-	*	9)
+selectraws1/20169	0	9	who	WP	(SBAR(WHNP*)	-	-	-	-	*	(9)
+selectraws1/20169	0	10	resembles	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/20169	0	11	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20169	0	12	broken	VBN	*	-	-	-	-	*	-
+selectraws1/20169	0	13	shell	NN	*)	-	-	-	-	*	-
+selectraws1/20169	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20169	0	15	Humpty	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/20169	0	16	Dumpty	NNP	*)	-	-	-	-	*)	-
+selectraws1/20169	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/20169	0	18	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20169	0	19	Humphrey	NNP	(S(NP*	-	-	-	-	(PERSON*	(9
+selectraws1/20169	0	20	Earwicker	NNP	*)))))))))))	-	-	-	-	*)	9)
+selectraws1/20169	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20169	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20169	0	1	one	CD	(NP*	-	-	-	-	*	-
+selectraws1/20169	0	2	novel	NN	*))	-	-	-	-	*	-
+selectraws1/20169	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/20169	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/20169	0	5	writer	NN	*)	-	-	-	-	*	1)
+selectraws1/20169	0	6	depicts	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20169	0	7	a	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws1/20169	0	8	character	NN	*)	-	-	-	-	*	8)
+selectraws1/20169	0	9	,	,	*	-	-	-	-	*	-
+selectraws1/20169	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	*	(8)
+selectraws1/20169	0	11	despises	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/20169	0	12	anyone	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/20169	0	13	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/20169	0	14	views	NNS	*)	-	-	-	-	*	-
+selectraws1/20169	0	15	oppose	VBP	(S(VP*	-	-	-	-	*	-
+selectraws1/20169	0	16	her	PRP$	(NP*	-	-	-	-	*	(8)
+selectraws1/20169	0	17	own	JJ	*))))))))	-	-	-	-	*	-
+selectraws1/20169	0	18	,	,	*	-	-	-	-	*	-
+selectraws1/20169	0	19	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20169	0	20	Dante	NNP	(S(NP*	-	-	-	-	(PERSON*	(8
+selectraws1/20169	0	21	Riordan	NNP	*)))))	-	-	-	-	*)	8)
+selectraws1/20169	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20169	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20169	0	1	yet	RB	(NP*	-	-	-	-	*	(13
+selectraws1/20169	0	2	another	DT	*	-	-	-	-	*	-
+selectraws1/20169	0	3	novel	NN	*))	-	-	-	-	*	13)
+selectraws1/20169	0	4	,	,	*	-	-	-	-	*	-
+selectraws1/20169	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/20169	0	6	writer	NN	*)	-	-	-	-	*	1)
+selectraws1/20169	0	7	depicts	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20169	0	8	the	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws1/20169	0	9	Jewish	JJ	*	-	-	-	-	*	-
+selectraws1/20169	0	10	salesman	NN	*)	-	-	-	-	*	7)
+selectraws1/20169	0	11	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20169	0	12	Leopold	NNP	(S(NP*	-	-	-	-	(PERSON*	(7
+selectraws1/20169	0	13	Bloom	NNP	*)))))	-	-	-	-	*)	7)
+selectraws1/20169	0	14	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20169	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws1/20169	0	1	also	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/20169	0	2	portrayed	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20169	0	3	James	NNP	(NP(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/20169	0	4	Flynn	NNP	*)	-	-	-	-	*)	2)
+selectraws1/20169	0	5	and	CC	*	-	-	-	-	*	-
+selectraws1/20169	0	6	Stephen	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/20169	0	7	Dedalus	NNP	*))	-	-	-	-	*)	3)
+selectraws1/20169	0	8	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20169	0	9	his	PRP$	(NP*	-	-	-	-	*	-
+selectraws1/20169	0	10	many	JJ	*	-	-	-	-	*	-
+selectraws1/20169	0	11	novels	NNS	*)))	-	-	-	-	*	-
+selectraws1/20169	0	12	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20169	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20169	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/20169	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/20169	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/20169	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/20169	0	5	this	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20169	0	6	Irish	JJ	*	-	-	-	-	*	-
+selectraws1/20169	0	7	writer	NN	*)	-	-	-	-	*	-
+selectraws1/20169	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/20169	0	9	wrote	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/20169	0	10	The	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/20169	0	11	Dead	NNP	(NAC*	-	-	-	-	*	10)
+selectraws1/20169	0	12	,	,	*	-	-	-	-	*	-
+selectraws1/20169	0	13	Dubliners	NNP	*	-	-	-	-	(ORGANIZATION)	(14)
+selectraws1/20169	0	14	,	,	*)	-	-	-	-	*	-
+selectraws1/20169	0	15	Finnegans	NNP	*	-	-	-	-	*	(11
+selectraws1/20169	0	16	Wake	NNP	*)	-	-	-	-	*	11)
+selectraws1/20169	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/20169	0	18	A	DT	(NP(NP*	-	-	-	-	*	(12
+selectraws1/20169	0	19	Portrait	NN	*)	-	-	-	-	*	-
+selectraws1/20169	0	20	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20169	0	21	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20169	0	22	Artist	NN	*))	-	-	-	-	*	-
+selectraws1/20169	0	23	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/20169	0	24	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/20169	0	25	Young	NNP	*	-	-	-	-	*	-
+selectraws1/20169	0	26	Man	NN	*)))	-	-	-	-	*	12)
+selectraws1/20169	0	27	,	,	*	-	-	-	-	*	-
+selectraws1/20169	0	28	and	CC	*	-	-	-	-	*	-
+selectraws1/20169	0	29	Ulysses	NNP	(NP*)))))))	-	-	-	-	(PERSON)	(13)
+selectraws1/20169	0	30	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

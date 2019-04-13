@@ -1,0 +1,181 @@
+#begin document (notdoneraws/15165); part 000
+
+notdoneraws/15165	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	-
+notdoneraws/15165	0	1	central	JJ	*	-	-	-	-	*	-
+notdoneraws/15165	0	2	institution	NN	*)	-	-	-	-	*	-
+notdoneraws/15165	0	3	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/15165	0	5	work	NN	*)))	-	-	-	-	*	1)
+notdoneraws/15165	0	6	was	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	7	founded	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	8	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	9	a	DT	(NP(NP*	-	-	-	-	*	(3
+notdoneraws/15165	0	10	wealthy	JJ	*	-	-	-	-	*	-
+notdoneraws/15165	0	11	widow	NN	*)	-	-	-	-	*	3)
+notdoneraws/15165	0	12	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/15165	0	13	had	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	14	been	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	15	an	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15165	0	16	admirer	NN	*)	-	-	-	-	*	-
+notdoneraws/15165	0	17	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	18	Garibaldi	NNP	(NP*)))))))))	-	-	-	-	(PERSON)	(4)
+notdoneraws/15165	0	19	before	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/15165	0	20	she	PRP	(S(NP*)	-	-	-	-	*	(3)
+notdoneraws/15165	0	21	died	VBD	(VP*)))))	-	-	-	-	*	-
+notdoneraws/15165	0	22	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15165	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	1	one	CD	(NP*	-	-	-	-	*	-
+notdoneraws/15165	0	2	scene	NN	*))	-	-	-	-	*	-
+notdoneraws/15165	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/15165	0	4	a	DT	(NP*	-	-	-	-	*	(5
+notdoneraws/15165	0	5	character	NN	*)	-	-	-	-	*	5)
+notdoneraws/15165	0	6	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	7	coaxed	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	8	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	9	sip	VB	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	10	tea	NN	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/15165	0	11	well	RB	(ADJP*	-	-	-	-	*	-
+notdoneraws/15165	0	12	sugared	JJ	*))	-	-	-	-	*	-
+notdoneraws/15165	0	13	after	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	14	being	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	15	accosted	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	16	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	17	a	DT	(NP(NP*	-	-	-	-	*	(6
+notdoneraws/15165	0	18	man	NN	*)	-	-	-	-	*	6)
+notdoneraws/15165	0	19	during	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	20	Easter	NNP	(NP*	-	-	-	-	*	-
+notdoneraws/15165	0	21	holiday	NN	*))	-	-	-	-	*	-
+notdoneraws/15165	0	22	joyfully	RB	(VP(ADVP*)	-	-	-	-	*	-
+notdoneraws/15165	0	23	exposing	VBG	*	-	-	-	-	*	-
+notdoneraws/15165	0	24	himself	PRP	(NP*)	-	-	-	-	*	(6)
+notdoneraws/15165	0	25	beside	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	26	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15165	0	27	Water	NNP	*)	-	-	-	-	*	-
+notdoneraws/15165	0	28	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	29	Leith	NNP	(NP*))))))))))))))))	-	-	-	-	(PERSON)	-
+notdoneraws/15165	0	30	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15165	0	0	Later	RB	(TOP(S(ADVP*)	-	-	-	-	*	-
+notdoneraws/15165	0	1	,	,	*	-	-	-	-	*	-
+notdoneraws/15165	0	2	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/15165	0	3	novel	NN	*)	-	-	-	-	*	1)
+notdoneraws/15165	0	4	reveals	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	5	that	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/15165	0	6	Joyce	NNP	(S(NP*	-	-	-	-	(PERSON*	(7
+notdoneraws/15165	0	7	Hammond	NNP	*)	-	-	-	-	*)	7)
+notdoneraws/15165	0	8	was	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	9	killed	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	10	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	11	Spain	NNP	(NP*))	-	-	-	-	(LOCATION)	-
+notdoneraws/15165	0	12	,	,	*	-	-	-	-	*	-
+notdoneraws/15165	0	13	where	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+notdoneraws/15165	0	14	her	PRP$	(S(NP*	-	-	-	-	*	(7)
+notdoneraws/15165	0	15	brother	NN	*)	-	-	-	-	*	-
+notdoneraws/15165	0	16	was	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	17	fighting	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	18	the	DT	(NP*	-	-	-	-	*	(8
+notdoneraws/15165	0	19	fascists	NNS	*))))))))))	-	-	-	-	*	8)
+notdoneraws/15165	0	20	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15165	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(9
+notdoneraws/15165	0	1	title	NN	*	-	-	-	-	*	-
+notdoneraws/15165	0	2	character	NN	*)	-	-	-	-	*	9)
+notdoneraws/15165	0	3	has	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	4	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15165	0	5	brief	JJ	*	-	-	-	-	*	-
+notdoneraws/15165	0	6	affair	NN	*)	-	-	-	-	*	-
+notdoneraws/15165	0	7	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	8	Gordon	NNP	(NP(NP*	-	-	-	-	(PERSON*	(10
+notdoneraws/15165	0	9	Lowther	NNP	*)	-	-	-	-	*)	10)
+notdoneraws/15165	0	10	rather	RB	(CONJP*	-	-	-	-	*	-
+notdoneraws/15165	0	11	than	IN	*)	-	-	-	-	*	-
+notdoneraws/15165	0	12	the	DT	(NP*	-	-	-	-	*	(11
+notdoneraws/15165	0	13	one-armed	JJ	*	-	-	-	-	*	-
+notdoneraws/15165	0	14	Teddy	NNP	*	-	-	-	-	(ORGANIZATION*	-
+notdoneraws/15165	0	15	Lloyd	NNP	*)))))	-	-	-	-	*)	11)
+notdoneraws/15165	0	16	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15165	0	0	Miss	NNP	(TOP(S(NP*	-	-	-	-	*	(12
+notdoneraws/15165	0	1	Mackay	NNP	*)	-	-	-	-	(PERSON)	12)
+notdoneraws/15165	0	2	hates	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	3	this	DT	(NP(NP(NP*	-	-	-	-	*	(9|(1
+notdoneraws/15165	0	4	novella	NN	*	-	-	-	-	*	1)
+notdoneraws/15165	0	5	's	POS	*)	-	-	-	-	*	-
+notdoneraws/15165	0	6	title	NN	*	-	-	-	-	*	-
+notdoneraws/15165	0	7	character	NN	*)	-	-	-	-	*	9)
+notdoneraws/15165	0	8	,	,	*	-	-	-	-	*	-
+notdoneraws/15165	0	9	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/15165	0	10	is	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	11	revealed	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	12	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	13	be	VB	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	14	the	DT	(NP(NP*	-	-	-	-	*	(9
+notdoneraws/15165	0	15	inspiration	NN	*)	-	-	-	-	*	-
+notdoneraws/15165	0	16	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	17	The	DT	(NP(NP(NP*	-	-	-	-	*	(13
+notdoneraws/15165	0	18	Transfiguration	NNP	*)	-	-	-	-	*	-
+notdoneraws/15165	0	19	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	20	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/15165	0	21	Commonplace	NNP	*)))	-	-	-	-	*	13)|9)
+notdoneraws/15165	0	22	,	,	*	-	-	-	-	*	-
+notdoneraws/15165	0	23	written	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	24	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	25	her	PRP$	(NP*	-	-	-	-	*	(14|(9)
+notdoneraws/15165	0	26	former	JJ	*	-	-	-	-	*	-
+notdoneraws/15165	0	27	student	NN	*	-	-	-	-	*	14)
+notdoneraws/15165	0	28	Sister	NNP	*	-	-	-	-	*	(14
+notdoneraws/15165	0	29	Helena	NNP	*)))))))))))))))	-	-	-	-	(PERSON)	14)
+notdoneraws/15165	0	30	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15165	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(9
+notdoneraws/15165	0	1	title	NN	*	-	-	-	-	*	-
+notdoneraws/15165	0	2	character	NN	*)	-	-	-	-	*	9)
+notdoneraws/15165	0	3	teaches	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	4	Rose	NNP	(NP(NP*	-	-	-	-	*	(15)
+notdoneraws/15165	0	5	,	,	*	-	-	-	-	*	-
+notdoneraws/15165	0	6	Mary	NNP	*	-	-	-	-	(PERSON)	(16)
+notdoneraws/15165	0	7	,	,	*	-	-	-	-	*	-
+notdoneraws/15165	0	8	Monica	NNP	*	-	-	-	-	(LOCATION)	(17)
+notdoneraws/15165	0	9	,	,	*	-	-	-	-	*	-
+notdoneraws/15165	0	10	Eunice	NNP	*)	-	-	-	-	(ORGANIZATION)	(18)
+notdoneraws/15165	0	11	,	,	*	-	-	-	-	*	-
+notdoneraws/15165	0	12	Jenny	NNP	(NP*)	-	-	-	-	(PERSON)	(5)
+notdoneraws/15165	0	13	,	,	*	-	-	-	-	*	-
+notdoneraws/15165	0	14	and	CC	*	-	-	-	-	*	-
+notdoneraws/15165	0	15	Sandy	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(14)
+notdoneraws/15165	0	16	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	17	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15165	0	18	Marcia	NNP	*	-	-	-	-	(PERSON*	(3
+notdoneraws/15165	0	19	Blaine	NNP	*	-	-	-	-	*	3)
+notdoneraws/15165	0	20	School	NNP	*)	-	-	-	-	*)	-
+notdoneraws/15165	0	21	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	22	Girls	NNPS	(NP*)))))))	-	-	-	-	*	-
+notdoneraws/15165	0	23	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15165	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/15165	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/15165	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/15165	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/15165	0	5	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/15165	0	6	book	NN	*)	-	-	-	-	*	-
+notdoneraws/15165	0	7	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	8	an	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15165	0	9	Edinburgh	NNP	*	-	-	-	-	(LOCATION)	-
+notdoneraws/15165	0	10	school	NN	*	-	-	-	-	*	-
+notdoneraws/15165	0	11	teacher	NN	*)	-	-	-	-	*	-
+notdoneraws/15165	0	12	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15165	0	13	Muriel	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(2
+notdoneraws/15165	0	14	Spark	NNP	*)))))	-	-	-	-	*)	2)|1)
+notdoneraws/15165	0	15	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

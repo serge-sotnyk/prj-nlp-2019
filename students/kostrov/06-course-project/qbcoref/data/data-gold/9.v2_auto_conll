@@ -1,0 +1,117 @@
+#begin document (selectraws1/9); part 000
+
+selectraws1/9	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/9	0	1	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/9	0	2	novel	NN	*))	-	-	-	-	*	1)
+selectraws1/9	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/9	0	4	the	DT	(NP*	-	-	-	-	*	(4
+selectraws1/9	0	5	Saint-Mrans	NNPS	*)	-	-	-	-	*	4)
+selectraws1/9	0	6	are	VBP	(VP*	-	-	-	-	*	-
+selectraws1/9	0	7	the	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/9	0	8	first	JJ	*	-	-	-	-	*	-
+selectraws1/9	0	9	victims	NNS	*)	-	-	-	-	*	-
+selectraws1/9	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/9	0	11	Hlose	NNP	(NP(NP*	-	-	-	-	*	(5)
+selectraws1/9	0	12	's	POS	*)	-	-	-	-	*	-
+selectraws1/9	0	13	poisoning	NN	*	-	-	-	-	*	-
+selectraws1/9	0	14	rampage	NN	*))))	-	-	-	-	*	4)
+selectraws1/9	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/9	0	0	Barrois	NNP	(TOP(S(NP*)	-	-	-	-	*	(6)
+selectraws1/9	0	1	drinks	NNS	(VP*	-	-	-	-	*	-
+selectraws1/9	0	2	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/9	0	3	bromine	NN	*)	-	-	-	-	*	-
+selectraws1/9	0	4	meant	VBN	(VP*	-	-	-	-	*	-
+selectraws1/9	0	5	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/9	0	6	Valentine	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION)	(8|(7)
+selectraws1/9	0	7	's	POS	*)	-	-	-	-	*	-
+selectraws1/9	0	8	paralyzed	JJ	*	-	-	-	-	*	-
+selectraws1/9	0	9	grandfather	NN	*)))))	-	-	-	-	*	8)
+selectraws1/9	0	10	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/9	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(2
+selectraws1/9	0	1	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws1/9	0	2	saves	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/9	0	3	Valentine	NNP	(NP*)	-	-	-	-	(ORGANIZATION)	(7)
+selectraws1/9	0	4	after	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/9	0	5	Maximilien	NNP	(S(NP*)	-	-	-	-	(PERSON)	(9)
+selectraws1/9	0	6	confesses	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/9	0	7	his	PRP$	(NP*	-	-	-	-	*	(9)
+selectraws1/9	0	8	love	NN	*)))))	-	-	-	-	*	-
+selectraws1/9	0	9	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/9	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(2
+selectraws1/9	0	1	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws1/9	0	2	falls	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/9	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/9	0	4	love	NN	(NP*))	-	-	-	-	*	-
+selectraws1/9	0	5	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/9	0	6	Hayde	NNP	(NP*)))	-	-	-	-	*	(10)
+selectraws1/9	0	7	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/9	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(11
+selectraws1/9	0	1	Count	NNP	*)	-	-	-	-	*	-
+selectraws1/9	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/9	0	3	Morcerf	NNP	(NP*)))	-	-	-	-	*	11)
+selectraws1/9	0	4	,	,	*	-	-	-	-	*	-
+selectraws1/9	0	5	also	RB	(S(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/9	0	6	known	VBN	*	-	-	-	-	*	-
+selectraws1/9	0	7	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/9	0	8	Fernand	NNP	(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/9	0	9	Mondego	NNP	*))))	-	-	-	-	*)	11)
+selectraws1/9	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/9	0	11	marries	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/9	0	12	Mercds	NNS	(NP*))	-	-	-	-	*	(12)
+selectraws1/9	0	13	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/9	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(2
+selectraws1/9	0	1	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws1/9	0	2	discovers	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/9	0	3	Abb	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	(13
+selectraws1/9	0	4	Faria	NNP	*	-	-	-	-	*)	13)
+selectraws1/9	0	5	's	POS	*)	-	-	-	-	*	-
+selectraws1/9	0	6	fortune	NN	*))	-	-	-	-	*	-
+selectraws1/9	0	7	and	CC	*	-	-	-	-	*	-
+selectraws1/9	0	8	adopts	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/9	0	9	the	DT	(SBAR(S(NP*	-	-	-	-	*	(1
+selectraws1/9	0	10	title	NN	*)	-	-	-	-	*	-
+selectraws1/9	0	11	alias	VBZ	(VP*	-	-	-	-	*	1)
+selectraws1/9	0	12	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/9	0	13	seeking	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/9	0	14	revenge	NN	(NP*)	-	-	-	-	*	-
+selectraws1/9	0	15	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/9	0	16	false	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws1/9	0	17	imprisonment	NN	*)	-	-	-	-	*	-
+selectraws1/9	0	18	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/9	0	19	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/9	0	20	Chteau	NNP	*	-	-	-	-	*	-
+selectraws1/9	0	21	d'If	NN	*)	-	-	-	-	*	-
+selectraws1/9	0	22	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/9	0	23	Villefort	NNP	(NP*))))))))))))))	-	-	-	-	*	(14)
+selectraws1/9	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/9	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/9	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/9	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/9	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/9	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/9	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/9	0	6	novel	NN	*)	-	-	-	-	*	-
+selectraws1/9	0	7	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/9	0	8	Edmond	NNP	(NP(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/9	0	9	Dants	NNP	*)	-	-	-	-	*)	2)
+selectraws1/9	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/9	0	11	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/9	0	12	Alexander	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/9	0	13	Dumas	NNP	*)))))	-	-	-	-	*)	3)|1)
+selectraws1/9	0	14	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

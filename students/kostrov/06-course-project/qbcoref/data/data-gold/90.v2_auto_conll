@@ -1,0 +1,104 @@
+#begin document (selectraws1/90); part 000
+
+selectraws1/90	0	0	This	DT	(TOP(S(S(NP*	-	-	-	-	*	(1
+selectraws1/90	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws1/90	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/90	0	3	a	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/90	0	4	play	NN	*)	-	-	-	-	*	5)
+selectraws1/90	0	5	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/90	0	6	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/90	0	7	the	DT	(S(NP(NP*	-	-	-	-	*	(6
+selectraws1/90	0	8	queen	NN	*	-	-	-	-	*	6)
+selectraws1/90	0	9	Atossa	NNP	*)	-	-	-	-	(PERSON)	(6)
+selectraws1/90	0	10	and	CC	*	-	-	-	-	*	-
+selectraws1/90	0	11	the	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws1/90	0	12	ghost	NN	*)	-	-	-	-	*	-
+selectraws1/90	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/90	0	14	Darius	NNP	(NP*))))	-	-	-	-	*	(8)|7)
+selectraws1/90	0	15	react	VBP	(VP*	-	-	-	-	*	-
+selectraws1/90	0	16	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/90	0	17	news	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/90	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/90	0	19	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/90	0	20	military	JJ	*	-	-	-	-	*	-
+selectraws1/90	0	21	defeat	NN	*))))))))))	-	-	-	-	*	-
+selectraws1/90	0	22	;	:	*	-	-	-	-	*	-
+selectraws1/90	0	23	that	DT	(S(NP*	-	-	-	-	*	(5
+selectraws1/90	0	24	play	NN	*)	-	-	-	-	*	5)
+selectraws1/90	0	25	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/90	0	26	the	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/90	0	27	only	JJ	*	-	-	-	-	*	-
+selectraws1/90	0	28	classical	JJ	*	-	-	-	-	*	-
+selectraws1/90	0	29	tragedy	NN	*)	-	-	-	-	*	-
+selectraws1/90	0	30	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/90	0	31	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/90	0	32	contemporary	JJ	(ADJP(ADJP*)	-	-	-	-	*	-
+selectraws1/90	0	33	,	,	*	-	-	-	-	*	-
+selectraws1/90	0	34	rather	RB	(CONJP*	-	-	-	-	*	-
+selectraws1/90	0	35	than	IN	*)	-	-	-	-	*	-
+selectraws1/90	0	36	mythical	JJ	(ADJP*))	-	-	-	-	*	-
+selectraws1/90	0	37	,	,	*	-	-	-	-	*	-
+selectraws1/90	0	38	subject	NN	*)))))	-	-	-	-	*	5)
+selectraws1/90	0	39	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/90	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/90	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws1/90	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/90	0	3	The	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws1/90	0	4	Suppliants	NNPS	*)	-	-	-	-	*	9)
+selectraws1/90	0	5	and	CC	*	-	-	-	-	*	-
+selectraws1/90	0	6	The	DT	(NP*	-	-	-	-	*	(5
+selectraws1/90	0	7	Persians	NNPS	*))))	-	-	-	-	*	1)|5)
+selectraws1/90	0	8	also	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/90	0	9	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/90	0	10	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/90	0	11	a	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/90	0	12	man	NN	*)	-	-	-	-	*	10)
+selectraws1/90	0	13	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/90	0	14	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/90	0	15	pursued	VBN	(VP*	-	-	-	-	*	-
+selectraws1/90	0	16	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/90	0	17	Athens	NNP	(NP*))	-	-	-	-	(LOCATION)	-
+selectraws1/90	0	18	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/90	0	19	stand	VB	(VP*	-	-	-	-	*	-
+selectraws1/90	0	20	trial	NN	(NP*)	-	-	-	-	*	-
+selectraws1/90	0	21	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/90	0	22	murdering	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/90	0	23	Clytemnestra	NNP	(NP(NP*)	-	-	-	-	*	(11)
+selectraws1/90	0	24	,	,	*	-	-	-	-	*	-
+selectraws1/90	0	25	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/90	0	26	happens	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/90	0	27	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/90	0	28	The	DT	(NP(NP*	-	-	-	-	*	(12
+selectraws1/90	0	29	Libation	NNP	*)	-	-	-	-	*	-
+selectraws1/90	0	30	-	:	*	-	-	-	-	*	-
+selectraws1/90	0	31	Bearers	NNP	(NP*))))))))))))))))))))	-	-	-	-	*	12)
+selectraws1/90	0	32	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/90	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/90	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/90	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/90	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/90	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/90	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/90	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws1/90	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/90	0	8	The	DT	(NP(NP(NP*	-	-	-	-	*	(2
+selectraws1/90	0	9	Eumenides	NNPS	*)	-	-	-	-	*	2)
+selectraws1/90	0	10	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/90	0	11	yoo-MEN-id-eez	NNP	(NP*)	-	-	-	-	*	-
+selectraws1/90	0	12	-RRB-	-RRB-	*))	-	-	-	-	*	-
+selectraws1/90	0	13	and	CC	*	-	-	-	-	*	-
+selectraws1/90	0	14	Agamemnon	NNP	(NP(NP*)	-	-	-	-	*	(3)|1)
+selectraws1/90	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/90	0	16	part	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/90	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/90	0	18	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/90	0	19	Oresteia	NN	*)))))))	-	-	-	-	*	(4)
+selectraws1/90	0	20	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

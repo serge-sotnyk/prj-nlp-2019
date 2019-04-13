@@ -1,0 +1,116 @@
+#begin document (selectraws1/18255); part 000
+
+selectraws1/18255	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/18255	0	1	character	NN	*)	-	-	-	-	*	1)
+selectraws1/18255	0	2	asks	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	3	another	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/18255	0	4	man	NN	*)	-	-	-	-	*	4)
+selectraws1/18255	0	5	why	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/18255	0	6	clouds	NNS	(S(NP*)	-	-	-	-	*	-
+selectraws1/18255	0	7	still	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/18255	0	8	hang	VBP	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	9	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/18255	0	10	you	PRP	(NP*))	-	-	-	-	*	(4)
+selectraws1/18255	0	11	only	RB	(S(ADVP*)	-	-	-	-	*	-
+selectraws1/18255	0	12	to	TO	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	13	be	VB	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	14	given	VBN	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	15	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18255	0	16	reply	NN	*)	-	-	-	-	*	-
+selectraws1/18255	0	17	I	PRP	(SBAR(S(NP*)	-	-	-	-	*	(4)
+selectraws1/18255	0	18	am	VBP	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	19	too	RB	(NP(NP*	-	-	-	-	*	-
+selectraws1/18255	0	20	much	JJ	*)	-	-	-	-	*	-
+selectraws1/18255	0	21	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/18255	0	22	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/18255	0	23	sun	NN	*))))))))))))))))	-	-	-	-	*	-
+selectraws1/18255	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18255	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(5
+selectraws1/18255	0	1	play	NN	*)	-	-	-	-	*	5)
+selectraws1/18255	0	2	The	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/18255	0	3	Murder	NN	*)	-	-	-	-	*	-
+selectraws1/18255	0	4	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18255	0	5	Gonzago	NNP	(NP*))))	-	-	-	-	*	(6)|5)
+selectraws1/18255	0	6	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	7	put	VBN	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	8	on	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/18255	0	9	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/18255	0	10	an	DT	(NP*	-	-	-	-	*	-
+selectraws1/18255	0	11	effort	NN	*	-	-	-	-	*	-
+selectraws1/18255	0	12	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/18255	0	13	prove	VB	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	14	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18255	0	15	guilt	NN	*)	-	-	-	-	*	-
+selectraws1/18255	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18255	0	17	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/18255	0	18	man	NN	*)	-	-	-	-	*	1)
+selectraws1/18255	0	19	,	,	*	-	-	-	-	*	-
+selectraws1/18255	0	20	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/18255	0	21	proposes	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/18255	0	22	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18255	0	23	fencing	JJ	*	-	-	-	-	*	-
+selectraws1/18255	0	24	match	NN	*)	-	-	-	-	*	-
+selectraws1/18255	0	25	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/18255	0	26	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/18255	0	27	one	CD	(S(NP(NP*)	-	-	-	-	*	-
+selectraws1/18255	0	28	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18255	0	29	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/18255	0	30	sword	NN	*	-	-	-	-	*	-
+selectraws1/18255	0	31	tips	NNS	*)))	-	-	-	-	*	-
+selectraws1/18255	0	32	has	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	33	been	VBN	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	34	poisoned	VBN	(VP*)))))))))))))))))))	-	-	-	-	*	-
+selectraws1/18255	0	35	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18255	0	0	During	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/18255	0	1	that	DT	(NP*	-	-	-	-	*	-
+selectraws1/18255	0	2	match	NN	*))	-	-	-	-	*	-
+selectraws1/18255	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/18255	0	4	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18255	0	5	glass	NN	*)	-	-	-	-	*	-
+selectraws1/18255	0	6	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18255	0	7	poisoned	VBN	(NP*	-	-	-	-	*	-
+selectraws1/18255	0	8	wine	NN	*)))	-	-	-	-	*	-
+selectraws1/18255	0	9	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	10	inadvertently	RB	(ADJP*	-	-	-	-	*	-
+selectraws1/18255	0	11	drunk	JJ	*	-	-	-	-	*	-
+selectraws1/18255	0	12	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/18255	0	13	this	DT	(NP*	-	-	-	-	*	(1|(2
+selectraws1/18255	0	14	mans	NNS	*	-	-	-	-	*	1)
+selectraws1/18255	0	15	newlywed	JJ	(NX*	-	-	-	-	*	-
+selectraws1/18255	0	16	wife	NN	*	-	-	-	-	*	2)
+selectraws1/18255	0	17	Gertrude	NNP	*)))))	-	-	-	-	(PERSON)	(2)
+selectraws1/18255	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18255	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/18255	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/18255	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/18255	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/18255	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/18255	0	6	man	NN	*)	-	-	-	-	*	1)
+selectraws1/18255	0	7	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/18255	0	8	uses	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/18255	0	9	ear	NN	(NP*	-	-	-	-	*	-
+selectraws1/18255	0	10	poison	NN	*)	-	-	-	-	*	-
+selectraws1/18255	0	11	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/18255	0	12	murder	NN	(VP*	-	-	-	-	*	-
+selectraws1/18255	0	13	the	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/18255	0	14	king	NN	*)	-	-	-	-	*	-
+selectraws1/18255	0	15	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18255	0	16	Denmark	NNP	(NP(NP*)	-	-	-	-	(LOCATION)	3)
+selectraws1/18255	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/18255	0	18	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/18255	0	19	primary	JJ	*	-	-	-	-	*	-
+selectraws1/18255	0	20	villain	NN	*)	-	-	-	-	*	-
+selectraws1/18255	0	21	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/18255	0	22	Hamlet	NNP	(NP*))))))))))))))	-	-	-	-	(LOCATION)	(4)|1)
+selectraws1/18255	0	23	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

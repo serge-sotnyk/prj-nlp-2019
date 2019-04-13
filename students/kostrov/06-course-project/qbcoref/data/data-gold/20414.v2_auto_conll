@@ -1,0 +1,78 @@
+#begin document (notdoneraws/20414); part 000
+
+notdoneraws/20414	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/20414	0	1	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20414	0	2	novel	NN	*))	-	-	-	-	*	1)
+notdoneraws/20414	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/20414	0	4	the	DT	(S(NP*	-	-	-	-	*	-
+notdoneraws/20414	0	5	Grand	NNP	*	-	-	-	-	(ORGANIZATION*	-
+notdoneraws/20414	0	6	Academy	NNP	*)	-	-	-	-	*)	-
+notdoneraws/20414	0	7	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20414	0	8	located	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20414	0	9	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20414	0	10	Balnibari	NNP	(NP*)))))	-	-	-	-	(LOCATION)	-
+notdoneraws/20414	0	11	,	,	*	-	-	-	-	*	-
+notdoneraws/20414	0	12	magicians	NNS	(S(NP*)	-	-	-	-	*	-
+notdoneraws/20414	0	13	appear	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/20414	0	14	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20414	0	15	Glubbdubdrib	NNP	(NP*))	-	-	-	-	*	-
+notdoneraws/20414	0	16	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+notdoneraws/20414	0	17	GLUB	SYM	(X(X*)	-	-	-	-	*	-
+notdoneraws/20414	0	18	-	:	*	-	-	-	-	*	-
+notdoneraws/20414	0	19	dub-drib	JJ	*)	-	-	-	-	*	-
+notdoneraws/20414	0	20	-RRB-	-RRB-	*)))	-	-	-	-	*	-
+notdoneraws/20414	0	21	,	,	*	-	-	-	-	*	-
+notdoneraws/20414	0	22	and	CC	*	-	-	-	-	*	-
+notdoneraws/20414	0	23	Struldburgs	NNP	(S(NP(NP*)	-	-	-	-	*	(3)
+notdoneraws/20414	0	24	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+notdoneraws/20414	0	25	STRULED-burgs	NNP	(NP*)	-	-	-	-	*	-
+notdoneraws/20414	0	26	-RRB-	-RRB-	*))	-	-	-	-	*	-
+notdoneraws/20414	0	27	appear	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/20414	0	28	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20414	0	29	Luggnagg	NNP	(NP*))	-	-	-	-	*	-
+notdoneraws/20414	0	30	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+notdoneraws/20414	0	31	LUG-nag	NNP	(NP*)	-	-	-	-	*	-
+notdoneraws/20414	0	32	-RRB-	-RRB-	*)))	-	-	-	-	*	-
+notdoneraws/20414	0	33	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20414	0	0	Humans	NNS	(TOP(S(NP(NP*)	-	-	-	-	*	-
+notdoneraws/20414	0	1	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20414	0	2	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20414	0	3	novel	NN	*)))	-	-	-	-	*	1)
+notdoneraws/20414	0	4	are	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/20414	0	5	ruled	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20414	0	6	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20414	0	7	horses	NNS	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/20414	0	8	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20414	0	9	Houyhnhnm	NNP	(NP*))	-	-	-	-	*	-
+notdoneraws/20414	0	10	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+notdoneraws/20414	0	11	WHEE-num	NNP	(NP*)	-	-	-	-	*	-
+notdoneraws/20414	0	12	-RRB-	-RRB-	*)))))	-	-	-	-	*	-
+notdoneraws/20414	0	13	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20414	0	0	The	DT	(TOP(SQ(S(NP*	-	-	-	-	*	(4
+notdoneraws/20414	0	1	Yahoos	NNP	(NAC*	-	-	-	-	*	4)
+notdoneraws/20414	0	2	,	,	*	-	-	-	-	*	-
+notdoneraws/20414	0	3	Laputa	NNP	*	-	-	-	-	(LOCATION)	(5)
+notdoneraws/20414	0	4	,	,	*)	-	-	-	-	*	-
+notdoneraws/20414	0	5	and	CC	*	-	-	-	-	*	-
+notdoneraws/20414	0	6	Lilliput	NNP	*)	-	-	-	-	(LOCATION)	(6)
+notdoneraws/20414	0	7	appear	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/20414	0	8	in	IN	(ADVP*)	-	-	-	-	*	-
+notdoneraws/20414	0	9	,	,	*	-	-	-	-	*	-
+notdoneraws/20414	0	10	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20414	0	11	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/20414	0	12	points	NNS	*))))	-	-	-	-	*	-
+notdoneraws/20414	0	13	,	,	*	-	-	-	-	*	-
+notdoneraws/20414	0	14	what	WP	(WHNP*)	-	-	-	-	*	(1
+notdoneraws/20414	0	15	novel	JJ	(ADJP*	-	-	-	-	*	-
+notdoneraws/20414	0	16	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20414	0	17	Jonathan	NNP	(NP*	-	-	-	-	(PERSON*	(2
+notdoneraws/20414	0	18	Swift	NNP	*)))	-	-	-	-	*)	2)|1)
+notdoneraws/20414	0	19	?	.	*))	-	-	-	-	*	-
+
+
+#end document
+

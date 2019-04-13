@@ -1,0 +1,146 @@
+#begin document (notdoneraws/19336); part 000
+
+notdoneraws/19336	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1|(5
+notdoneraws/19336	0	1	man	NN	*	-	-	-	-	*	1)
+notdoneraws/19336	0	2	's	POS	*)	-	-	-	-	*	-
+notdoneraws/19336	0	3	father-in-law	NN	*	-	-	-	-	*	5)
+notdoneraws/19336	0	4	Idas	NNPS	*)	-	-	-	-	*	(5)
+notdoneraws/19336	0	5	kidnapped	VBD	(VP(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	6	Marpessa	NNP	(NP*))	-	-	-	-	(LOCATION)	(6)
+notdoneraws/19336	0	7	and	CC	*	-	-	-	-	*	-
+notdoneraws/19336	0	8	killed	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	9	Castor	NNP	(NP*)))	-	-	-	-	*	(7)
+notdoneraws/19336	0	10	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19336	0	0	According	VBG	(TOP(S(S(PP*	-	-	-	-	*	-
+notdoneraws/19336	0	1	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/19336	0	2	some	DT	(NP*	-	-	-	-	*	-
+notdoneraws/19336	0	3	accounts	NNS	*)))	-	-	-	-	*	-
+notdoneraws/19336	0	4	,	,	*	-	-	-	-	*	-
+notdoneraws/19336	0	5	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/19336	0	6	man	NN	*)	-	-	-	-	*	1)
+notdoneraws/19336	0	7	killed	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	8	the	DT	(NP*	-	-	-	-	*	(8
+notdoneraws/19336	0	9	centaurs	NNS	*	-	-	-	-	*	8)
+notdoneraws/19336	0	10	Hylaeus	NNP	*	-	-	-	-	*	(8|(9)
+notdoneraws/19336	0	11	and	CC	*	-	-	-	-	*	-
+notdoneraws/19336	0	12	Rhaecus	NNP	*)))	-	-	-	-	*	(10)|8)
+notdoneraws/19336	0	13	,	,	*	-	-	-	-	*	-
+notdoneraws/19336	0	14	and	CC	*	-	-	-	-	*	-
+notdoneraws/19336	0	15	his	PRP$	(S(NP*	-	-	-	-	*	(11|(1)
+notdoneraws/19336	0	16	father	NN	*)	-	-	-	-	*	11)
+notdoneraws/19336	0	17	may	MD	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	18	have	VB	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	19	been	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	20	the	DT	(NP(NP*	-	-	-	-	*	(11
+notdoneraws/19336	0	21	man	NN	*)	-	-	-	-	*	11)
+notdoneraws/19336	0	22	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	23	introduce	VB	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	24	viniculture	NN	(NP*)	-	-	-	-	*	-
+notdoneraws/19336	0	25	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/19336	0	26	Aetolia	NNP	(NP(NP*)	-	-	-	-	(LOCATION)	-
+notdoneraws/19336	0	27	,	,	*	-	-	-	-	*	-
+notdoneraws/19336	0	28	Oeneus	NNP	(NP*))))))))))))	-	-	-	-	*	(11)
+notdoneraws/19336	0	29	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19336	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	*	-
+notdoneraws/19336	0	1	was	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	2	Oeneus	NNP	(NP(NP(NP*	-	-	-	-	*	(11)
+notdoneraws/19336	0	3	's	POS	*)	-	-	-	-	*	-
+notdoneraws/19336	0	4	omission	NN	*)	-	-	-	-	*	-
+notdoneraws/19336	0	5	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19336	0	6	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/19336	0	7	sacrifice	NN	*)	-	-	-	-	*	-
+notdoneraws/19336	0	8	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/19336	0	9	Artemis	NNP	(NP*))	-	-	-	-	(ORGANIZATION)	(3)
+notdoneraws/19336	0	10	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/19336	0	11	led	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	12	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/19336	0	13	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/19336	0	14	man	NN	*	-	-	-	-	*	1)
+notdoneraws/19336	0	15	's	POS	*)	-	-	-	-	*	-
+notdoneraws/19336	0	16	greatest	JJS	*	-	-	-	-	*	-
+notdoneraws/19336	0	17	feat	NN	*)))))))))	-	-	-	-	*	-
+notdoneraws/19336	0	18	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19336	0	0	He	PRP	(TOP(S(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/19336	0	1	killed	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	2	his	PRP$	(NP*	-	-	-	-	*	(12|(1)
+notdoneraws/19336	0	3	uncles	NNS	*)	-	-	-	-	*	12)
+notdoneraws/19336	0	4	Toxeus	NNP	(NP*	-	-	-	-	*	(12|(13)
+notdoneraws/19336	0	5	and	CC	*	-	-	-	-	*	-
+notdoneraws/19336	0	6	Plexippus	NNP	*)	-	-	-	-	*	(14)|12)
+notdoneraws/19336	0	7	after	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/19336	0	8	they	PRP	(S(NP*)	-	-	-	-	*	(12)
+notdoneraws/19336	0	9	were	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	10	angry	JJ	(ADJP*	-	-	-	-	*	-
+notdoneraws/19336	0	11	that	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/19336	0	12	he	PRP	(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/19336	0	13	gave	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	14	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/19336	0	15	hunting	NN	*	-	-	-	-	*	-
+notdoneraws/19336	0	16	prize	NN	*)	-	-	-	-	*	-
+notdoneraws/19336	0	17	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/19336	0	18	his	PRP$	(NP*	-	-	-	-	*	(2|(1)
+notdoneraws/19336	0	19	love	NN	*)))))))))))	-	-	-	-	*	2)
+notdoneraws/19336	0	20	;	:	*	-	-	-	-	*	-
+notdoneraws/19336	0	21	this	DT	(S(NP*)	-	-	-	-	*	-
+notdoneraws/19336	0	22	led	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	23	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/19336	0	24	his	PRP$	(NP*	-	-	-	-	*	(1)
+notdoneraws/19336	0	25	own	JJ	*	-	-	-	-	*	-
+notdoneraws/19336	0	26	death	NN	*))	-	-	-	-	*	-
+notdoneraws/19336	0	27	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+notdoneraws/19336	0	28	his	PRP$	(S(NP(NP*	-	-	-	-	*	(15|(1)
+notdoneraws/19336	0	29	mother	NN	*)	-	-	-	-	*	15)
+notdoneraws/19336	0	30	,	,	*	-	-	-	-	*	-
+notdoneraws/19336	0	31	Althaea	NNP	(NP*)	-	-	-	-	(LOCATION)	(15)
+notdoneraws/19336	0	32	,	,	*)	-	-	-	-	*	-
+notdoneraws/19336	0	33	then	RB	(VP(ADVP*)	-	-	-	-	*	-
+notdoneraws/19336	0	34	cast	VBD	*	-	-	-	-	*	-
+notdoneraws/19336	0	35	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/19336	0	36	log	NN	*)	-	-	-	-	*	-
+notdoneraws/19336	0	37	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/19336	0	38	kept	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	39	him	PRP	(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/19336	0	40	alive	JJ	(ADJP*	-	-	-	-	*	-
+notdoneraws/19336	0	41	onto	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19336	0	42	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/19336	0	43	fire	NN	*)))))))))))))	-	-	-	-	*	-
+notdoneraws/19336	0	44	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19336	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/19336	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/19336	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/19336	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/19336	0	4	name	VB	(VP(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/19336	0	6	Greek	JJ	*	-	-	-	-	*	-
+notdoneraws/19336	0	7	hero	NN	*)	-	-	-	-	*	1)
+notdoneraws/19336	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/19336	0	9	loved	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	10	Atalanta	NNP	(NP*))))))	-	-	-	-	(LOCATION)	(2)
+notdoneraws/19336	0	11	and	CC	*	-	-	-	-	*	-
+notdoneraws/19336	0	12	slew	NN	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	13	the	DT	(NP(NP*	-	-	-	-	*	(4
+notdoneraws/19336	0	14	animal	NN	*)	-	-	-	-	*	4)
+notdoneraws/19336	0	15	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/19336	0	16	Artemis	NNP	(S(NP*)	-	-	-	-	(ORGANIZATION)	(3)
+notdoneraws/19336	0	17	sent	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	18	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	19	ravage	VB	(VP*	-	-	-	-	*	-
+notdoneraws/19336	0	20	his	PRP$	(NP(NP*	-	-	-	-	*	(1)
+notdoneraws/19336	0	21	kingdom	NN	*)	-	-	-	-	*	-
+notdoneraws/19336	0	22	,	,	*	-	-	-	-	*	-
+notdoneraws/19336	0	23	the	DT	(NP*	-	-	-	-	*	(4
+notdoneraws/19336	0	24	Calydonian	NNP	*	-	-	-	-	*	-
+notdoneraws/19336	0	25	Boar	NNP	*)))))))))))	-	-	-	-	*	4)
+notdoneraws/19336	0	26	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

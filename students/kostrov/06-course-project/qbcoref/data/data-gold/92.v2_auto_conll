@@ -1,0 +1,148 @@
+#begin document (selectraws/92); part 000
+
+selectraws/92	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/92	0	1	one	CD	(NP(NP*	-	-	-	-	*	-
+selectraws/92	0	2	scene	NN	*)	-	-	-	-	*	-
+selectraws/92	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/92	0	5	novel	NN	*))))	-	-	-	-	*	1)
+selectraws/92	0	6	,	,	*	-	-	-	-	*	-
+selectraws/92	0	7	the	DT	(NP(NP*	-	-	-	-	*	(2|(3
+selectraws/92	0	8	protagonist	NN	*	-	-	-	-	*	2)
+selectraws/92	0	9	's	POS	*)	-	-	-	-	*	-
+selectraws/92	0	10	son	NN	*)	-	-	-	-	*	3)
+selectraws/92	0	11	does	VBZ	(VP*	-	-	-	-	*	-
+selectraws/92	0	12	n't	RB	*	-	-	-	-	*	-
+selectraws/92	0	13	get	VB	(VP*	-	-	-	-	*	-
+selectraws/92	0	14	a	DT	(NP*	-	-	-	-	*	-
+selectraws/92	0	15	chance	NN	*	-	-	-	-	*	-
+selectraws/92	0	16	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/92	0	17	eat	VB	(VP*	-	-	-	-	*	-
+selectraws/92	0	18	any	DT	(NP(NP*)	-	-	-	-	*	-
+selectraws/92	0	19	of	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	20	a	DT	(NP*	-	-	-	-	*	-
+selectraws/92	0	21	castle-shaped	JJ	*	-	-	-	-	*	-
+selectraws/92	0	22	jelly	JJ	*	-	-	-	-	*	-
+selectraws/92	0	23	dessert	NN	*)))))))))	-	-	-	-	*	-
+selectraws/92	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/92	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(2
+selectraws/92	0	1	protagonist	NN	*)	-	-	-	-	*	-
+selectraws/92	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/92	0	4	novel	NN	*)))	-	-	-	-	*	1)|2)
+selectraws/92	0	5	contemplates	VBZ	(VP*	-	-	-	-	*	-
+selectraws/92	0	6	death	NN	(NP*)	-	-	-	-	*	-
+selectraws/92	0	7	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/92	0	8	looking	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/92	0	9	at	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	10	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/92	0	11	painting	NN	*)	-	-	-	-	*	-
+selectraws/92	0	12	called	VBN	(VP*	-	-	-	-	*	-
+selectraws/92	0	13	Death	NN	(S(NP(NP*)	-	-	-	-	*	-
+selectraws/92	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	15	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/92	0	16	Just	RB	*	-	-	-	-	*	-
+selectraws/92	0	17	Man	NN	*)	-	-	-	-	*	-
+selectraws/92	0	18	in	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	19	a	DT	(NP*	-	-	-	-	*	-
+selectraws/92	0	20	library	NN	*)))))))))))))	-	-	-	-	*	-
+selectraws/92	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/92	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/92	0	1	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/92	0	2	final	JJ	*	-	-	-	-	*	-
+selectraws/92	0	3	scene	NN	*)	-	-	-	-	*	-
+selectraws/92	0	4	of	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/92	0	6	novel	NN	*))))	-	-	-	-	*	1)
+selectraws/92	0	7	,	,	*	-	-	-	-	*	-
+selectraws/92	0	8	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/92	0	9	embalmed	JJ	*	-	-	-	-	*	-
+selectraws/92	0	10	corpse	NN	*)	-	-	-	-	*	-
+selectraws/92	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	12	a	DT	(NP*	-	-	-	-	*	-
+selectraws/92	0	13	dog	NN	*)))	-	-	-	-	*	-
+selectraws/92	0	14	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/92	0	15	thrown	VBN	(VP*	-	-	-	-	*	-
+selectraws/92	0	16	out	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	18	a	DT	(NP*	-	-	-	-	*	-
+selectraws/92	0	19	window	NN	*)))	-	-	-	-	*	-
+selectraws/92	0	20	because	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	21	of	IN	*	-	-	-	-	*	-
+selectraws/92	0	22	Concetta	NNP	(NP(NP(NP*	-	-	-	-	(ORGANIZATION)	(5)
+selectraws/92	0	23	's	POS	*)	-	-	-	-	*	-
+selectraws/92	0	24	anger	NN	*)	-	-	-	-	*	-
+selectraws/92	0	25	at	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	26	Tancredi	NNP	(NP(NP*)	-	-	-	-	(LOCATION)	(4)
+selectraws/92	0	27	,	,	*	-	-	-	-	*	-
+selectraws/92	0	28	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/92	0	29	marries	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/92	0	30	Angelica	NNP	(NP*)	-	-	-	-	(PERSON)	(6)
+selectraws/92	0	31	instead	RB	(PP*	-	-	-	-	*	-
+selectraws/92	0	32	of	IN	*	-	-	-	-	*	-
+selectraws/92	0	33	her	PRP	(NP*)))))))))))	-	-	-	-	*	(5)
+selectraws/92	0	34	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/92	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(2
+selectraws/92	0	1	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws/92	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/92	0	3	annoyed	VBN	(VP*	-	-	-	-	*	-
+selectraws/92	0	4	at	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	5	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/92	0	6	newly	RB	(ADJP*	-	-	-	-	*	-
+selectraws/92	0	7	acquired	VBN	*)	-	-	-	-	*	-
+selectraws/92	0	8	wealth	NN	*)	-	-	-	-	*	-
+selectraws/92	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	10	Don	NNP	(NP(NP*	-	-	-	-	(PERSON*	(7
+selectraws/92	0	11	Calogero	NNP	*)	-	-	-	-	*)	7)
+selectraws/92	0	12	,	,	*	-	-	-	-	*	-
+selectraws/92	0	13	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/92	0	14	fought	VBD	(S(VP*	-	-	-	-	*	-
+selectraws/92	0	15	under	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	16	Garibaldi	NNP	(NP*)))))))))))	-	-	-	-	(PERSON)	(8)
+selectraws/92	0	17	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/92	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(2
+selectraws/92	0	1	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws/92	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/92	0	3	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/92	0	4	Sicilian	NNP	*	-	-	-	-	*	-
+selectraws/92	0	5	nobleman	NN	*)	-	-	-	-	*	2)
+selectraws/92	0	6	,	,	*	-	-	-	-	*	-
+selectraws/92	0	7	Don	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws/92	0	8	Fabrizio	NNP	*)	-	-	-	-	*)	2)
+selectraws/92	0	9	,	,	*	-	-	-	-	*	-
+selectraws/92	0	10	whose	WP$	(SBAR(WHNP(WHNP*	-	-	-	-	*	-
+selectraws/92	0	11	coat	NN	*)	-	-	-	-	*	-
+selectraws/92	0	12	of	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	13	arms	NNS	(NP*)))	-	-	-	-	*	-
+selectraws/92	0	14	depicts	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/92	0	15	the	DT	(NP*	-	-	-	-	*	(1
+selectraws/92	0	16	title	NN	*	-	-	-	-	*	-
+selectraws/92	0	17	animal	NN	*))))))	-	-	-	-	*	1)
+selectraws/92	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/92	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/92	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/92	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/92	0	3	,	,	*	-	-	-	-	*	-
+selectraws/92	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/92	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/92	0	6	novel	NN	*)	-	-	-	-	*	-
+selectraws/92	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws/92	0	8	Giuseppe	NNP	(NP*	-	-	-	-	(PERSON*	(9
+selectraws/92	0	9	Tomasi	NNP	*	-	-	-	-	*)	-
+selectraws/92	0	10	di	FW	*	-	-	-	-	*	-
+selectraws/92	0	11	Lampedusa	NNP	*)))	-	-	-	-	(LOCATION)	1)|9)
+selectraws/92	0	12	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

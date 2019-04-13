@@ -1,0 +1,119 @@
+#begin document (selectraws/18473); part 000
+
+selectraws/18473	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(6
+selectraws/18473	0	1	author	NN	*)	-	-	-	-	*	6)
+selectraws/18473	0	2	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/18473	0	3	wrote	VBD	(S(VP*	-	-	-	-	*	-
+selectraws/18473	0	4	in	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/18473	0	6	language	NN	*))))))	-	-	-	-	*	1)
+selectraws/18473	0	7	parodied	VBD	(VP*	-	-	-	-	*	-
+selectraws/18473	0	8	Don	NNP	(NP(NP(NP*	-	-	-	-	(PERSON*	(7
+selectraws/18473	0	9	Quixote	NNP	*)	-	-	-	-	*)	7)
+selectraws/18473	0	10	in	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	11	The	DT	(NP*	-	-	-	-	*	(8
+selectraws/18473	0	12	Brief	NNP	*	-	-	-	-	*	-
+selectraws/18473	0	13	Travels	NNPS	*)))	-	-	-	-	*	-
+selectraws/18473	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	15	Benjamin	NNP	(NP*)))	-	-	-	-	*	(16
+selectraws/18473	0	16	the	DT	(NP*	-	-	-	-	*	-
+selectraws/18473	0	17	Third	JJ	*))	-	-	-	-	*	8)|16)
+selectraws/18473	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/18473	0	0	Short	JJ	(TOP(S(NP(NP*	-	-	-	-	*	-
+selectraws/18473	0	1	stories	NNS	*)	-	-	-	-	*	-
+selectraws/18473	0	2	written	VBN	(VP*	-	-	-	-	*	-
+selectraws/18473	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/18473	0	5	language	NN	*))))	-	-	-	-	*	1)
+selectraws/18473	0	6	include	VBP	(VP(VP*	-	-	-	-	*	-
+selectraws/18473	0	7	Bontsche	NNP	(NP(NP*	-	-	-	-	*	(9
+selectraws/18473	0	8	the	DT	*	-	-	-	-	*	-
+selectraws/18473	0	9	Silent	NNP	*)	-	-	-	-	*	9)
+selectraws/18473	0	10	and	CC	*	-	-	-	-	*	-
+selectraws/18473	0	11	one	CD	(NP(NP*)	-	-	-	-	*	-
+selectraws/18473	0	12	about	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	13	a	DT	(NP(NP*	-	-	-	-	*	(14
+selectraws/18473	0	14	baker	NN	*)	-	-	-	-	*	14)
+selectraws/18473	0	15	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/18473	0	16	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/18473	0	17	tempted	VBN	(VP*	-	-	-	-	*	-
+selectraws/18473	0	18	by	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	19	the	DT	(NP(NP*	-	-	-	-	*	(15
+selectraws/18473	0	20	Spirit	NNP	*)	-	-	-	-	*	-
+selectraws/18473	0	21	of	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	22	Evil	NNP	(NP*))))	-	-	-	-	*	15)
+selectraws/18473	0	23	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/18473	0	24	include	VB	(VP*	-	-	-	-	*	-
+selectraws/18473	0	25	urine	NN	(NP*)	-	-	-	-	*	-
+selectraws/18473	0	26	in	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	27	loaves	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws/18473	0	28	of	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	29	bread	NN	(NP*))))))))))))))))	-	-	-	-	*	-
+selectraws/18473	0	30	,	,	*	-	-	-	-	*	-
+selectraws/18473	0	31	but	CC	*	-	-	-	-	*	-
+selectraws/18473	0	32	later	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws/18473	0	33	buries	VBZ	*	-	-	-	-	*	-
+selectraws/18473	0	34	them	PRP	(NP*)))	-	-	-	-	*	-
+selectraws/18473	0	35	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/18473	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws/18473	0	1	language	NN	*)	-	-	-	-	*	-
+selectraws/18473	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	3	the	DT	(NP(NP(NP*	-	-	-	-	*	(10
+selectraws/18473	0	4	novel	NN	*	-	-	-	-	*	10)
+selectraws/18473	0	5	Satan	NN	*)	-	-	-	-	*	(10|(15)
+selectraws/18473	0	6	in	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	7	Goray	NNP	(NP*)))	-	-	-	-	(DATE)	10)
+selectraws/18473	0	8	and	CC	*	-	-	-	-	*	-
+selectraws/18473	0	9	the	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws/18473	0	10	short	JJ	*	-	-	-	-	*	-
+selectraws/18473	0	11	story	NN	*)	-	-	-	-	*	11)
+selectraws/18473	0	12	Gimpel	IN	(PP*	-	-	-	-	(PERSON)	(11
+selectraws/18473	0	13	the	DT	(NP*	-	-	-	-	*	-
+selectraws/18473	0	14	Fool	NNP	*))))))	-	-	-	-	*	11)|1)
+selectraws/18473	0	15	,	,	*	-	-	-	-	*	-
+selectraws/18473	0	16	it	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws/18473	0	17	was	VBD	(VP*	-	-	-	-	*	-
+selectraws/18473	0	18	also	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws/18473	0	19	used	VBN	*	-	-	-	-	*	-
+selectraws/18473	0	20	in	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	21	works	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws/18473	0	22	about	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	23	Anatevka	NNP	(NP(NP*)	-	-	-	-	(LOCATION)	(12)
+selectraws/18473	0	24	and	CC	*	-	-	-	-	*	-
+selectraws/18473	0	25	the	DT	(NP*	-	-	-	-	*	(13
+selectraws/18473	0	26	dairyman	JJ	*	-	-	-	-	*	13)
+selectraws/18473	0	27	Tevye	NNP	*)))))))	-	-	-	-	*	(13)
+selectraws/18473	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/18473	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/18473	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/18473	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/18473	0	3	,	,	*	-	-	-	-	*	-
+selectraws/18473	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/18473	0	5	this	DT	(S(NP*	-	-	-	-	*	(1
+selectraws/18473	0	6	language	NN	*)	-	-	-	-	*	-
+selectraws/18473	0	7	used	VBN	(VP*	-	-	-	-	*	-
+selectraws/18473	0	8	by	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	9	Sholom	NNP	(NP(NP*	-	-	-	-	(PERSON*	(2
+selectraws/18473	0	10	Aleichem	NNP	*)	-	-	-	-	*)	2)
+selectraws/18473	0	11	and	CC	*	-	-	-	-	*	-
+selectraws/18473	0	12	Isaac	NNP	(NP(NP*	-	-	-	-	(PERSON*	(3
+selectraws/18473	0	13	Bashevis	NNP	*	-	-	-	-	*	-
+selectraws/18473	0	14	Singer	NNP	*)	-	-	-	-	*)	3)|1)
+selectraws/18473	0	15	,	,	*	-	-	-	-	*	-
+selectraws/18473	0	16	a	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/18473	0	17	combination	NN	*)	-	-	-	-	*	-
+selectraws/18473	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws/18473	0	19	German	NNP	(NP*	-	-	-	-	*	(5)
+selectraws/18473	0	20	and	CC	*	-	-	-	-	*	-
+selectraws/18473	0	21	Hebrew	NNP	*)))))))))	-	-	-	-	(ORGANIZATION)	(4)|1)
+selectraws/18473	0	22	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

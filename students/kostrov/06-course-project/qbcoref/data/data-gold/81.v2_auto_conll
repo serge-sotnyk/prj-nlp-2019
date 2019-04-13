@@ -1,0 +1,156 @@
+#begin document (selectraws/81); part 000
+
+selectraws/81	0	0	Three	CD	(TOP(S(NP(NP*)	-	-	-	-	*	-
+selectraws/81	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	2	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	3	sections	NNS	*)	-	-	-	-	*	-
+selectraws/81	0	4	of	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/81	0	6	work	NN	*)))))	-	-	-	-	*	1)
+selectraws/81	0	7	are	VBP	(VP*	-	-	-	-	*	-
+selectraws/81	0	8	followed	VBN	(VP*	-	-	-	-	*	-
+selectraws/81	0	9	by	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	10	epigrammatic	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	11	workpoints	NNS	*)	-	-	-	-	*	-
+selectraws/81	0	12	,	,	*	-	-	-	-	*	-
+selectraws/81	0	13	including	VBG	(PP*	-	-	-	-	*	-
+selectraws/81	0	14	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	15	series	NN	*)	-	-	-	-	*	-
+selectraws/81	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	17	character-squeezes	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws/81	0	18	describing	VBG	(VP(VP*	-	-	-	-	*	-
+selectraws/81	0	19	Teresa	NNP	(NP*	-	-	-	-	(PERSON*	-
+selectraws/81	0	20	di	FW	*	-	-	-	-	*	-
+selectraws/81	0	21	Petromonti	NNP	*)	-	-	-	-	*)	-
+selectraws/81	0	22	as	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	23	a	DT	(NP*	-	-	-	-	*	-
+selectraws/81	0	24	farded	JJ	*	-	-	-	-	*	-
+selectraws/81	0	25	Berenice	NNP	*)))	-	-	-	-	(PERSON)	-
+selectraws/81	0	26	and	CC	*	-	-	-	-	*	-
+selectraws/81	0	27	Fuad	NNP	(VP*	-	-	-	-	(ORGANIZATION*	-
+selectraws/81	0	28	El	NNP	(NP*	-	-	-	-	*	-
+selectraws/81	0	29	Said	NNP	*)))))))))	-	-	-	-	*)	-
+selectraws/81	0	30	as	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	31	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	32	black	JJ	*	-	-	-	-	*	-
+selectraws/81	0	33	moon	NN	*)	-	-	-	-	*	-
+selectraws/81	0	34	-	:	*	-	-	-	-	*	-
+selectraws/81	0	35	pearl	FW	*))))	-	-	-	-	*	-
+selectraws/81	0	36	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/81	0	0	Its	PRP$	(TOP(S(NP*	-	-	-	-	*	-
+selectraws/81	0	1	third	JJ	*	-	-	-	-	*	-
+selectraws/81	0	2	section	NN	*)	-	-	-	-	*	-
+selectraws/81	0	3	climaxes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/81	0	4	with	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	5	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	6	confrontation	NN	*)	-	-	-	-	*	-
+selectraws/81	0	7	between	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	8	Narouz	NNP	(NP*	-	-	-	-	(PERSON)	(2)
+selectraws/81	0	9	and	CC	*	-	-	-	-	*	-
+selectraws/81	0	10	Nessim	NNP	*))))	-	-	-	-	(PERSON)	(3)
+selectraws/81	0	11	,	,	*	-	-	-	-	*	-
+selectraws/81	0	12	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/81	0	13	the	DT	(S(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	14	climax	NN	*)	-	-	-	-	*	-
+selectraws/81	0	15	of	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	16	its	PRP$	(NP*	-	-	-	-	*	-
+selectraws/81	0	17	first	JJ	*	-	-	-	-	*	-
+selectraws/81	0	18	section	NN	*)))	-	-	-	-	*	-
+selectraws/81	0	19	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/81	0	20	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	21	supposed	JJ	*	-	-	-	-	*	-
+selectraws/81	0	22	death	NN	*)	-	-	-	-	*	-
+selectraws/81	0	23	of	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	24	Capodistria	NNP	(NP*))	-	-	-	-	*	(4)
+selectraws/81	0	25	during	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	26	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	27	duck-shoot	NN	*)	-	-	-	-	*	-
+selectraws/81	0	28	on	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	29	Lake	NNP	(NP*	-	-	-	-	*	-
+selectraws/81	0	30	Mareotis	NNP	*)))))))))	-	-	-	-	*	-
+selectraws/81	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/81	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws/81	0	1	title	NN	*	-	-	-	-	*	-
+selectraws/81	0	2	character	NN	*)	-	-	-	-	*	1)
+selectraws/81	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	4	its	PRP$	(NP*	-	-	-	-	*	-
+selectraws/81	0	5	first	JJ	*	-	-	-	-	*	-
+selectraws/81	0	6	section	NN	*)))	-	-	-	-	*	-
+selectraws/81	0	7	is	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws/81	0	8	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	9	subject	NN	*)	-	-	-	-	*	-
+selectraws/81	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	11	Arnauti	NNP	(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	12	's	POS	*)	-	-	-	-	*	-
+selectraws/81	0	13	novel	NN	*	-	-	-	-	*	-
+selectraws/81	0	14	Moeurs	NNS	*))))	-	-	-	-	(PERSON)	-
+selectraws/81	0	15	and	CC	*	-	-	-	-	*	-
+selectraws/81	0	16	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/81	0	17	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	18	lover	NN	*)	-	-	-	-	*	-
+selectraws/81	0	19	of	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	20	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	21	narrator	NN	*)	-	-	-	-	*	-
+selectraws/81	0	22	of	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	23	much	JJ	(NP(NP(NP*)	-	-	-	-	*	-
+selectraws/81	0	24	of	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	25	this	DT	(NP*	-	-	-	-	*	-
+selectraws/81	0	26	work	NN	*)))	-	-	-	-	*	-
+selectraws/81	0	27	,	,	*	-	-	-	-	*	-
+selectraws/81	0	28	L.G.	NNP	(NP*))))))))))	-	-	-	-	(PERSON)	-
+
+
+selectraws/81	0	0	Darley	NNP	(TOP(S(NP*)	-	-	-	-	(PERSON)	-
+selectraws/81	0	1	,	,	*	-	-	-	-	*	-
+selectraws/81	0	2	like	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	3	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	4	title	NN	*	-	-	-	-	*	-
+selectraws/81	0	5	character	NN	*)	-	-	-	-	*	-
+selectraws/81	0	6	of	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	7	its	PRP$	(NP*	-	-	-	-	*	-
+selectraws/81	0	8	last	JJ	*	-	-	-	-	*	-
+selectraws/81	0	9	section	NN	*))))	-	-	-	-	*	-
+selectraws/81	0	10	,	,	*	-	-	-	-	*	-
+selectraws/81	0	11	Clea	VBP	(VP*)	-	-	-	-	(LOCATION)	-
+selectraws/81	0	12	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/81	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/81	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/81	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/81	0	3	,	,	*	-	-	-	-	*	-
+selectraws/81	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/81	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/81	0	6	series	NN	*)	-	-	-	-	*	1)
+selectraws/81	0	7	also	RB	(PP(ADVP*)	-	-	-	-	*	-
+selectraws/81	0	8	including	VBG	*	-	-	-	-	*	-
+selectraws/81	0	9	the	DT	(NP(NP(NP*	-	-	-	-	*	-
+selectraws/81	0	10	novels	NNS	*	-	-	-	-	*	-
+selectraws/81	0	11	Justine	NNP	*)	-	-	-	-	(PERSON)	-
+selectraws/81	0	12	,	,	*	-	-	-	-	*	-
+selectraws/81	0	13	Balthasar	NNP	(NP*)	-	-	-	-	(PERSON)	-
+selectraws/81	0	14	,	,	*)	-	-	-	-	*	-
+selectraws/81	0	15	and	CC	*	-	-	-	-	*	-
+selectraws/81	0	16	Mountolive	NNP	(NP(NP*)	-	-	-	-	*	-
+selectraws/81	0	17	,	,	*	-	-	-	-	*	-
+selectraws/81	0	18	a	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/81	0	19	novel	JJ	*	-	-	-	-	*	-
+selectraws/81	0	20	cycle	NN	*)	-	-	-	-	*	-
+selectraws/81	0	21	by	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	22	Lawrence	NNP	(NP*	-	-	-	-	(PERSON*	-
+selectraws/81	0	23	Durrell	NNP	*)))))))	-	-	-	-	*)	1)
+selectraws/81	0	24	taking	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/81	0	25	place	NN	(NP*)	-	-	-	-	*	-
+selectraws/81	0	26	in	IN	(PP*	-	-	-	-	*	-
+selectraws/81	0	27	the	DT	(NP*	-	-	-	-	*	-
+selectraws/81	0	28	title	NN	*	-	-	-	-	*	-
+selectraws/81	0	29	city	NN	*)))))	-	-	-	-	*	-
+selectraws/81	0	30	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

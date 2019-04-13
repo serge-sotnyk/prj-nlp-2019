@@ -1,0 +1,118 @@
+#begin document (selectraws1/20615); part 000
+
+selectraws1/20615	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/20615	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws1/20615	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20615	0	3	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20615	0	4	work	NN	*)	-	-	-	-	*	-
+selectraws1/20615	0	5	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/20615	0	6	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/20615	0	7	the	DT	(S(NP(NP*	-	-	-	-	*	-
+selectraws1/20615	0	8	absence	NN	*)	-	-	-	-	*	-
+selectraws1/20615	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	10	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/20615	0	11	can	NN	*)))	-	-	-	-	*	-
+selectraws1/20615	0	12	prevents	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20615	0	13	Sarah	NNP	(NP(NP*	-	-	-	-	(PERSON*	(10
+selectraws1/20615	0	14	Casey	NNP	*)	-	-	-	-	*)	10)
+selectraws1/20615	0	15	and	CC	*	-	-	-	-	*	-
+selectraws1/20615	0	16	Michael	NNP	(NP(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/20615	0	17	Byrne	NNP	*	-	-	-	-	*)	11)
+selectraws1/20615	0	18	's	POS	*)	-	-	-	-	*	-
+selectraws1/20615	0	19	wedding	NN	*)))))))	-	-	-	-	*	-
+selectraws1/20615	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20615	0	0	In	IN	(TOP(S(PP(PP*	-	-	-	-	*	-
+selectraws1/20615	0	1	addition	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/20615	0	2	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	3	The	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/20615	0	4	Tinker	NNP	*	-	-	-	-	*	-
+selectraws1/20615	0	5	's	POS	*)	-	-	-	-	*	-
+selectraws1/20615	0	6	Wedding	NN	*))))	-	-	-	-	*	2)
+selectraws1/20615	0	7	and	CC	*	-	-	-	-	*	-
+selectraws1/20615	0	8	In	IN	(PP*	-	-	-	-	*	(3
+selectraws1/20615	0	9	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20615	0	10	Shadow	NNP	*)	-	-	-	-	*	-
+selectraws1/20615	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	12	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20615	0	13	Glen	NNP	*)))))	-	-	-	-	(PERSON)	3)
+selectraws1/20615	0	14	,	,	*	-	-	-	-	*	-
+selectraws1/20615	0	15	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/20615	0	16	author	NN	*)	-	-	-	-	*	1)
+selectraws1/20615	0	17	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20615	0	18	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	19	Conchubor	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION)	(11)
+selectraws1/20615	0	20	's	POS	*)	-	-	-	-	*	-
+selectraws1/20615	0	21	failed	VBN	*	-	-	-	-	*	-
+selectraws1/20615	0	22	attempt	NN	*	-	-	-	-	*	-
+selectraws1/20615	0	23	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/20615	0	24	wed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20615	0	25	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20615	0	26	title	NN	*	-	-	-	-	*	(4
+selectraws1/20615	0	27	character	NN	*)	-	-	-	-	*	4)
+selectraws1/20615	0	28	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	29	Deirdre	NNP	(NP(NP(NP*)	-	-	-	-	*	(12|(4)
+selectraws1/20615	0	30	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	31	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20615	0	32	Sorrows	NNPS	*)))	-	-	-	-	*	12)
+selectraws1/20615	0	33	and	CC	*	-	-	-	-	*	-
+selectraws1/20615	0	34	Bartley	NNP	(NP*))))))))	-	-	-	-	(PERSON)	(13)
+selectraws1/20615	0	35	returning	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20615	0	36	drowned	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20615	0	37	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	38	his	PRP$	(NP(NP(NP*	-	-	-	-	*	(14|(13)
+selectraws1/20615	0	39	mother	NN	*)	-	-	-	-	*	14)
+selectraws1/20615	0	40	Maurya	NNP	(NP*))	-	-	-	-	*	(14)
+selectraws1/20615	0	41	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	42	Riders	NNPS	(NP*))))	-	-	-	-	*	(9
+selectraws1/20615	0	43	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	44	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20615	0	45	Sea	NNP	*))))))	-	-	-	-	*	9)
+selectraws1/20615	0	46	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20615	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws1/20615	0	1	may	MD	(VP*	-	-	-	-	*	-
+selectraws1/20615	0	2	be	VB	(VP*	-	-	-	-	*	-
+selectraws1/20615	0	3	best	RBS	(VP*	-	-	-	-	*	-
+selectraws1/20615	0	4	remembered	VBN	*	-	-	-	-	*	-
+selectraws1/20615	0	5	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	6	a	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/20615	0	7	play	NN	*)	-	-	-	-	*	5)
+selectraws1/20615	0	8	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/20615	0	9	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/20615	0	10	Pegeen	NNP	(S(NP*)	-	-	-	-	(PERSON)	(6)
+selectraws1/20615	0	11	breaks	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20615	0	12	her	PRP$	(NP*	-	-	-	-	*	(6)
+selectraws1/20615	0	13	engagement	NN	*)	-	-	-	-	*	-
+selectraws1/20615	0	14	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	15	Shawn	NNP	(NP*	-	-	-	-	(PERSON*	(7
+selectraws1/20615	0	16	Keogh	NNP	*))	-	-	-	-	*)	7)
+selectraws1/20615	0	17	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	18	wed	NNP	(NP*	-	-	-	-	*	-
+selectraws1/20615	0	19	Christy	NNP	*	-	-	-	-	(PERSON*	(8
+selectraws1/20615	0	20	Mahon	NNP	*))))))))))	-	-	-	-	*)	8)
+selectraws1/20615	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20615	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20615	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/20615	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/20615	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/20615	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/20615	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/20615	0	6	Irish	JJ	*	-	-	-	-	*	-
+selectraws1/20615	0	7	playwright	NN	*)	-	-	-	-	*	-
+selectraws1/20615	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	9	The	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/20615	0	10	Playboy	NNP	*)	-	-	-	-	*	-
+selectraws1/20615	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20615	0	12	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20615	0	13	Western	NNP	*	-	-	-	-	*	-
+selectraws1/20615	0	14	World	NNP	*))))))	-	-	-	-	*	1)|5)
+selectraws1/20615	0	15	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

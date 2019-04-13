@@ -1,0 +1,123 @@
+#begin document (selectraws/15133); part 000
+
+selectraws/15133	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/15133	0	1	narrative	NN	*	-	-	-	-	*	-
+selectraws/15133	0	2	poem	NN	*)	-	-	-	-	*	1)
+selectraws/15133	0	3	uses	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15133	0	4	its	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws/15133	0	5	ancient	JJ	*	-	-	-	-	*	-
+selectraws/15133	0	6	setting	NN	*)	-	-	-	-	*	-
+selectraws/15133	0	7	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/15133	0	8	obscure	VB	(VP*	-	-	-	-	*	-
+selectraws/15133	0	9	such	JJ	(NP*	-	-	-	-	*	-
+selectraws/15133	0	10	daring	JJ	*	-	-	-	-	*	-
+selectraws/15133	0	11	sentiments	NNS	*)	-	-	-	-	*	-
+selectraws/15133	0	12	as	IN	(PP*	-	-	-	-	*	-
+selectraws/15133	0	13	labeling	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15133	0	14	God	NNP	(NP*)	-	-	-	-	*	(8)
+selectraws/15133	0	15	the	DT	(NP*	-	-	-	-	*	-
+selectraws/15133	0	16	supreme	JJ	*	-	-	-	-	*	-
+selectraws/15133	0	17	evil	NN	*))))))))	-	-	-	-	*	-
+selectraws/15133	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15133	0	0	One	CD	(TOP(S(NP*	-	-	-	-	*	(3
+selectraws/15133	0	1	character	NN	*)	-	-	-	-	*	3)
+selectraws/15133	0	2	dreams	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws/15133	0	3	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15133	0	4	a	DT	(S(NP*	-	-	-	-	*	-
+selectraws/15133	0	5	fire	NN	*)	-	-	-	-	*	-
+selectraws/15133	0	6	started	VBD	(VP*	-	-	-	-	*	-
+selectraws/15133	0	7	without	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15133	0	8	heat	NN	(S(NP*)	-	-	-	-	*	-
+selectraws/15133	0	9	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15133	0	10	put	VBN	(VP*	-	-	-	-	*	-
+selectraws/15133	0	11	out	RP	(PRT*)	-	-	-	-	*	-
+selectraws/15133	0	12	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15133	0	13	love	NN	(NP*))))))))))	-	-	-	-	*	-
+selectraws/15133	0	14	and	CC	*	-	-	-	-	*	-
+selectraws/15133	0	15	rebukes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15133	0	16	the	DT	(NP*	-	-	-	-	*	-
+selectraws/15133	0	17	chorus	NN	*)	-	-	-	-	*	-
+selectraws/15133	0	18	for	IN	(PP*	-	-	-	-	*	-
+selectraws/15133	0	19	trying	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15133	0	20	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/15133	0	21	comfort	VB	(VP*	-	-	-	-	*	-
+selectraws/15133	0	22	her	PRP$	(NP*	-	-	-	-	*	(3)
+selectraws/15133	0	23	pain	NN	*)))))))))	-	-	-	-	*	-
+selectraws/15133	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15133	0	0	Two	CD	(TOP(S(NP(NP*	-	-	-	-	*	(4
+selectraws/15133	0	1	men	NNS	*)	-	-	-	-	*	4)
+selectraws/15133	0	2	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15133	0	3	are	VBP	(S(VP*	-	-	-	-	*	-
+selectraws/15133	0	4	chastised	VBN	(VP*	-	-	-	-	*	-
+selectraws/15133	0	5	for	IN	(PP*	-	-	-	-	*	-
+selectraws/15133	0	6	obscuring	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15133	0	7	their	PRP$	(NP*	-	-	-	-	*	(4)
+selectraws/15133	0	8	deeds	NNS	*)	-	-	-	-	*	-
+selectraws/15133	0	9	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15133	0	10	talk	NN	(NP*)))	-	-	-	-	*	-
+selectraws/15133	0	11	,	,	*))))	-	-	-	-	*	-
+selectraws/15133	0	12	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/15133	0	13	\*	SYM	(X*)	-	-	-	-	*	-
+selectraws/15133	0	14	-RRB-	-RRB-	*)))	-	-	-	-	*	-
+selectraws/15133	0	15	Toxeus	NNP	(NP*	-	-	-	-	*	(4|(5)
+selectraws/15133	0	16	and	CC	*	-	-	-	-	*	-
+selectraws/15133	0	17	Plexippus	NNP	*)	-	-	-	-	*	(6)|4)
+selectraws/15133	0	18	,	,	*)	-	-	-	-	*	-
+selectraws/15133	0	19	die	VBP	(VP*	-	-	-	-	*	-
+selectraws/15133	0	20	during	IN	(PP*	-	-	-	-	*	-
+selectraws/15133	0	21	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15133	0	22	central	JJ	*	-	-	-	-	*	-
+selectraws/15133	0	23	action	NN	*)	-	-	-	-	*	-
+selectraws/15133	0	24	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15133	0	25	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/15133	0	26	poem	NN	*)	-	-	-	-	*	1)
+selectraws/15133	0	27	,	,	*	-	-	-	-	*	-
+selectraws/15133	0	28	after	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws/15133	0	29	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws/15133	0	30	a	DT	(S(NP(NP*	-	-	-	-	*	-
+selectraws/15133	0	31	head	NN	*)	-	-	-	-	*	-
+selectraws/15133	0	32	and	CC	*	-	-	-	-	*	-
+selectraws/15133	0	33	hide	VB	(NP*))	-	-	-	-	*	-
+selectraws/15133	0	34	are	VBP	(VP*	-	-	-	-	*	-
+selectraws/15133	0	35	awarded	VBN	(VP*	-	-	-	-	*	-
+selectraws/15133	0	36	to	TO	(PP*	-	-	-	-	*	-
+selectraws/15133	0	37	the	DT	(NP*	-	-	-	-	*	(7
+selectraws/15133	0	38	female	JJ	*	-	-	-	-	*	-
+selectraws/15133	0	39	title	NN	*	-	-	-	-	*	-
+selectraws/15133	0	40	figure	NN	*)))))))))))	-	-	-	-	*	7)
+selectraws/15133	0	41	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15133	0	0	Althea	NNP	(TOP(S(NP*)	-	-	-	-	*	(3)
+selectraws/15133	0	1	avengers	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15133	0	2	her	PRP$	(NP*	-	-	-	-	*	(4|(3)
+selectraws/15133	0	3	brothers	NNS	*)	-	-	-	-	*	4)
+selectraws/15133	0	4	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15133	0	5	burning	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15133	0	6	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15133	0	7	brand	NN	*)	-	-	-	-	*	-
+selectraws/15133	0	8	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15133	0	9	controls	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15133	0	10	Meleager	NNP	(NP(NP*	-	-	-	-	*	(9)
+selectraws/15133	0	11	's	POS	*)	-	-	-	-	*	-
+selectraws/15133	0	12	life	NN	*)))))	-	-	-	-	*	-
+selectraws/15133	0	13	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15133	0	14	,	,	(PRN*	-	-	-	-	*	-
+selectraws/15133	0	15	for	IN	(PP*	-	-	-	-	*	-
+selectraws/15133	0	16	10	CD	(NP*	-	-	-	-	*	-
+selectraws/15133	0	17	points	NNS	*))	-	-	-	-	*	-
+selectraws/15133	0	18	,	,	*)	-	-	-	-	*	-
+selectraws/15133	0	19	what	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15133	0	20	poem	VBN	(S(VP*	-	-	-	-	*	(1
+selectraws/15133	0	21	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15133	0	22	Algernon	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws/15133	0	23	Swinburne	NNP	*))))))))))	-	-	-	-	*)	2)|1)
+selectraws/15133	0	24	?	.	*))	-	-	-	-	*	-
+
+
+#end document
+

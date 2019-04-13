@@ -1,0 +1,136 @@
+#begin document (notdoneraws/20805); part 000
+
+notdoneraws/20805	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	1	a	DT	(NP(NP*	-	-	-	-	*	(3
+notdoneraws/20805	0	2	poem	NN	*)	-	-	-	-	*	-
+notdoneraws/20805	0	3	written	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	4	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	5	Horace	NNP	(NP*	-	-	-	-	(PERSON*	(4
+notdoneraws/20805	0	6	Smith	NNP	*)))))	-	-	-	-	*)	4)
+notdoneraws/20805	0	7	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	8	response	NN	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/20805	0	9	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	10	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20805	0	11	poem	NN	*))))	-	-	-	-	*	1)|3)
+notdoneraws/20805	0	12	,	,	*	-	-	-	-	*	-
+notdoneraws/20805	0	13	Smith	NNP	(X*	-	-	-	-	(PERSON)	(4)
+notdoneraws/20805	0	14	wonders	NNP	*	-	-	-	-	*	-
+notdoneraws/20805	0	15	''	''	*)	-	-	-	-	*	-
+notdoneraws/20805	0	16	What	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/20805	0	17	powerful	JJ	(S(NP(ADJP*	-	-	-	-	*	-
+notdoneraws/20805	0	18	but	CC	*	-	-	-	-	*	-
+notdoneraws/20805	0	19	unrecorded	JJ	*)	-	-	-	-	*	-
+notdoneraws/20805	0	20	race	NN	*)	-	-	-	-	*	-
+notdoneraws/20805	0	21	/	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	22	Once	RB	(ADVP*	-	-	-	-	*	-
+notdoneraws/20805	0	23	dwelt	RB	*)	-	-	-	-	*	-
+notdoneraws/20805	0	24	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	25	that	DT	(NP*)))))	-	-	-	-	*	-
+notdoneraws/20805	0	26	annihilated	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	27	place	NN	(NP*))	-	-	-	-	*	-
+notdoneraws/20805	0	28	.	.	*	-	-	-	-	*	-
+notdoneraws/20805	0	29	''	''	*))	-	-	-	-	*	-
+
+
+notdoneraws/20805	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1|(5
+notdoneraws/20805	0	1	poem	NN	*	-	-	-	-	*	1)
+notdoneraws/20805	0	2	's	POS	*)	-	-	-	-	*	-
+notdoneraws/20805	0	3	narrator	NN	*)	-	-	-	-	*	5)
+notdoneraws/20805	0	4	recalls	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	5	how	WRB	(SBAR(SBAR(WHADVP*)	-	-	-	-	*	-
+notdoneraws/20805	0	6	he	PRP	(S(NP*)	-	-	-	-	*	(5)
+notdoneraws/20805	0	7	met	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	8	''	''	*	-	-	-	-	*	-
+notdoneraws/20805	0	9	a	DT	(NP*	-	-	-	-	*	(6
+notdoneraws/20805	0	10	traveler	NN	*)	-	-	-	-	*	-
+notdoneraws/20805	0	11	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	12	an	DT	(NP*	-	-	-	-	*	-
+notdoneraws/20805	0	13	antique	JJ	*	-	-	-	-	*	-
+notdoneraws/20805	0	14	land	NN	*)))))	-	-	-	-	*	6)
+notdoneraws/20805	0	15	,	,	*	-	-	-	-	*	-
+notdoneraws/20805	0	16	''	''	*	-	-	-	-	*	-
+notdoneraws/20805	0	17	and	CC	*	-	-	-	-	*	-
+notdoneraws/20805	0	18	how	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+notdoneraws/20805	0	19	that	DT	(S(NP*	-	-	-	-	*	(6
+notdoneraws/20805	0	20	traveler	NN	*)	-	-	-	-	*	6)
+notdoneraws/20805	0	21	told	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	22	him	PRP	(NP*)	-	-	-	-	*	(5)
+notdoneraws/20805	0	23	about	RB	(ADVP*	-	-	-	-	*	-
+notdoneraws/20805	0	24	a	DT	*	-	-	-	-	*	-
+notdoneraws/20805	0	25	''	''	*)	-	-	-	-	*	-
+notdoneraws/20805	0	26	wrinkled	JJ	(NP(NP*	-	-	-	-	*	-
+notdoneraws/20805	0	27	lip	JJ	*	-	-	-	-	*	-
+notdoneraws/20805	0	28	''	''	*	-	-	-	-	*	-
+notdoneraws/20805	0	29	and	CC	*	-	-	-	-	*	-
+notdoneraws/20805	0	30	a	FW	(NX*)	-	-	-	-	*	-
+notdoneraws/20805	0	31	''	''	*	-	-	-	-	*	-
+notdoneraws/20805	0	32	sneer	NN	*)	-	-	-	-	*	-
+notdoneraws/20805	0	33	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	34	cold	JJ	(NP(NP*	-	-	-	-	*	-
+notdoneraws/20805	0	35	command	NN	*)	-	-	-	-	*	-
+notdoneraws/20805	0	36	''	''	*	-	-	-	-	*	-
+notdoneraws/20805	0	37	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/20805	0	38	are	VBP	(S(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	39	captured	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	40	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	41	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/20805	0	42	emotions	NNS	*)	-	-	-	-	*	-
+notdoneraws/20805	0	43	conveyed	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	44	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	45	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/20805	0	46	statue	NN	*)	-	-	-	-	*	-
+notdoneraws/20805	0	47	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	48	the	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20805	0	49	titular	NN	*	-	-	-	-	*	-
+notdoneraws/20805	0	50	figure	NN	*)))))))))))))))))))	-	-	-	-	*	1)
+notdoneraws/20805	0	51	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20805	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/20805	0	1	poem	NN	*)	-	-	-	-	*	1)
+notdoneraws/20805	0	2	describes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	3	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/20805	0	4	statue	NN	*)	-	-	-	-	*	-
+notdoneraws/20805	0	5	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+notdoneraws/20805	0	6	pedestal	JJ	*	-	-	-	-	*	-
+notdoneraws/20805	0	7	states	NNS	(NP*)	-	-	-	-	*	-
+notdoneraws/20805	0	8	''	''	*)	-	-	-	-	*	-
+notdoneraws/20805	0	9	Look	VB	(S(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	10	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	11	my	PRP$	(NP(NP*	-	-	-	-	*	(1)
+notdoneraws/20805	0	12	works	NNS	*)	-	-	-	-	*	-
+notdoneraws/20805	0	13	,	,	*	-	-	-	-	*	-
+notdoneraws/20805	0	14	ye	NN	(NP*	-	-	-	-	*	-
+notdoneraws/20805	0	15	Mighty	NN	*)	-	-	-	-	*	-
+notdoneraws/20805	0	16	,	,	*	-	-	-	-	*	-
+notdoneraws/20805	0	17	and	CC	*	-	-	-	-	*	-
+notdoneraws/20805	0	18	despair	NN	(NP*))))))))	-	-	-	-	*	-
+notdoneraws/20805	0	19	!	.	*	-	-	-	-	*	-
+notdoneraws/20805	0	20	''	''	*))	-	-	-	-	*	-
+
+
+notdoneraws/20805	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/20805	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/20805	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/20805	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/20805	0	6	poem	NN	*)	-	-	-	-	*	-
+notdoneraws/20805	0	7	inspired	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	8	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	9	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/20805	0	10	sculpture	NN	*)	-	-	-	-	*	-
+notdoneraws/20805	0	11	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	12	an	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/20805	0	13	Egyptian	JJ	*	-	-	-	-	*	-
+notdoneraws/20805	0	14	pharaoh	NN	*)	-	-	-	-	*	1)|1)
+notdoneraws/20805	0	15	,	,	*	-	-	-	-	*	-
+notdoneraws/20805	0	16	written	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20805	0	17	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20805	0	18	Percy	NNP	(NP*	-	-	-	-	(PERSON*	(2
+notdoneraws/20805	0	19	Shelley	NNP	*))))))))))	-	-	-	-	*)	2)
+notdoneraws/20805	0	20	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

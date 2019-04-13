@@ -1,0 +1,126 @@
+#begin document (selectraws1/19215); part 000
+
+selectraws1/19215	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/19215	0	1	poet	NN	*)	-	-	-	-	*	1)
+selectraws1/19215	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19215	0	3	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/19215	0	4	''	''	(S*	-	-	-	-	*	-
+selectraws1/19215	0	5	Dust	NNP	(NP(NP*	-	-	-	-	*	-
+selectraws1/19215	0	6	thou	NN	*	-	-	-	-	*	-
+selectraws1/19215	0	7	art	NN	*)	-	-	-	-	*	-
+selectraws1/19215	0	8	,	,	(PRN*	-	-	-	-	*	-
+selectraws1/19215	0	9	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/19215	0	10	dust	NN	(NP*	-	-	-	-	*	-
+selectraws1/19215	0	11	returnest	NN	*))	-	-	-	-	*	-
+selectraws1/19215	0	12	,	,	*))	-	-	-	-	*	-
+selectraws1/19215	0	13	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19215	0	14	not	RB	*	-	-	-	-	*	-
+selectraws1/19215	0	15	spoken	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19215	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19215	0	17	the	DT	(NP(NP(NP(NP*	-	-	-	-	*	-
+selectraws1/19215	0	18	soul	NN	*)	-	-	-	-	*	-
+selectraws1/19215	0	19	''	''	*	-	-	-	-	*	-
+selectraws1/19215	0	20	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19215	0	21	the	DT	(NP*	-	-	-	-	*	(6
+selectraws1/19215	0	22	poem	NN	*))	-	-	-	-	*	6)
+selectraws1/19215	0	23	''	''	*)	-	-	-	-	*	-
+selectraws1/19215	0	24	A	DT	(NP*	-	-	-	-	*	(6
+selectraws1/19215	0	25	Psalm	NNP	*))	-	-	-	-	*	-
+selectraws1/19215	0	26	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19215	0	27	Life	NNP	(NP*)))))))))	-	-	-	-	*	6)
+selectraws1/19215	0	28	.	.	*	-	-	-	-	*	-
+selectraws1/19215	0	29	''	''	*))	-	-	-	-	*	-
+
+
+selectraws1/19215	0	0	His	PRP$	(TOP(S(NP*	-	-	-	-	*	(7|(1)
+selectraws1/19215	0	1	poem	NN	*	-	-	-	-	*	7)
+selectraws1/19215	0	2	''	''	*	-	-	-	-	*	-
+selectraws1/19215	0	3	Mezzo	NNP	(NX*	-	-	-	-	*	(7
+selectraws1/19215	0	4	Cammin	NNP	*)	-	-	-	-	*	7)
+selectraws1/19215	0	5	''	''	*)	-	-	-	-	*	-
+selectraws1/19215	0	6	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19215	0	7	inspired	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19215	0	8	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19215	0	9	his	PRP$	(NP(NP*	-	-	-	-	*	(8|(1)
+selectraws1/19215	0	10	translation	NN	*)	-	-	-	-	*	-
+selectraws1/19215	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19215	0	12	the	DT	(NP*	-	-	-	-	*	(9
+selectraws1/19215	0	13	Divine	NNP	*	-	-	-	-	*	-
+selectraws1/19215	0	14	Comedy	NNP	*))))))	-	-	-	-	*	8)|9)
+selectraws1/19215	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19215	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws1/19215	0	1	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19215	0	2	an	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/19215	0	3	epic	NN	*	-	-	-	-	*	-
+selectraws1/19215	0	4	poem	NN	*)	-	-	-	-	*	10)
+selectraws1/19215	0	5	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/19215	0	6	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/19215	0	7	Gabriel	NNP	(S(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/19215	0	8	Lajeunesse	NNP	*)	-	-	-	-	*)	11)
+selectraws1/19215	0	9	loves	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19215	0	10	the	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/19215	0	11	title	NN	*	-	-	-	-	*	-
+selectraws1/19215	0	12	character	NN	*)	-	-	-	-	*	10)
+selectraws1/19215	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/19215	0	14	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19215	0	15	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/19215	0	16	expelled	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19215	0	17	along	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/19215	0	18	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/19215	0	19	the	DT	(NP(NP*	-	-	-	-	*	(12
+selectraws1/19215	0	20	rest	NN	*)	-	-	-	-	*	-
+selectraws1/19215	0	21	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19215	0	22	the	DT	(NP*	-	-	-	-	*	(13
+selectraws1/19215	0	23	Acadians	NNPS	*))))))))))))))	-	-	-	-	*	12)|13)
+selectraws1/19215	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19215	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/19215	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws1/19215	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19215	0	3	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/19215	0	4	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws1/19215	0	5	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws1/19215	0	6	Evangeline	NNP	(NP*)))	-	-	-	-	(PERSON)	(10)|1)
+selectraws1/19215	0	7	also	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/19215	0	8	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19215	0	9	an	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/19215	0	10	epic	NN	*	-	-	-	-	*	-
+selectraws1/19215	0	11	poem	NN	*)	-	-	-	-	*	2)
+selectraws1/19215	0	12	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/19215	0	13	title	NN	*	-	-	-	-	*	(3
+selectraws1/19215	0	14	character	NN	*)	-	-	-	-	*	3)
+selectraws1/19215	0	15	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/19215	0	16	the	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/19215	0	17	lover	NN	*)	-	-	-	-	*	-
+selectraws1/19215	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19215	0	19	Minnehaha	NNP	(NP*))))))))	-	-	-	-	(LOCATION)	(14)|3)
+selectraws1/19215	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19215	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19215	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/19215	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/19215	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/19215	0	4	name	VBP	(VP*	-	-	-	-	*	-
+selectraws1/19215	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/19215	0	6	poet	NN	*)	-	-	-	-	*	-
+selectraws1/19215	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19215	0	8	The	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/19215	0	9	Song	NN	*)	-	-	-	-	*	-
+selectraws1/19215	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19215	0	11	Hiawatha	NNP	(NP*	-	-	-	-	*	(3)|2)
+selectraws1/19215	0	12	and	CC	*	-	-	-	-	*	-
+selectraws1/19215	0	13	''	''	*	-	-	-	-	*	(4
+selectraws1/19215	0	14	Paul	NNP	(NP*	-	-	-	-	(PERSON*	(5
+selectraws1/19215	0	15	Revere	NNP	*	-	-	-	-	*)	5)
+selectraws1/19215	0	16	's	POS	*)	-	-	-	-	*	-
+selectraws1/19215	0	17	Ride	NNP	*))))))	-	-	-	-	*	4)
+selectraws1/19215	0	18	.	.	*	-	-	-	-	*	-
+selectraws1/19215	0	19	''	''	*))	-	-	-	-	*	1)
+
+
+#end document
+

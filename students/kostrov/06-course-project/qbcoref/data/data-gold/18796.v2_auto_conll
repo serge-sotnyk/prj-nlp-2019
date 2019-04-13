@@ -1,0 +1,124 @@
+#begin document (notdoneraws/18796); part 000
+
+notdoneraws/18796	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/18796	0	1	is	VBZ	(VP(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	2	unsuccessful	JJ	(ADJP*	-	-	-	-	*	-
+notdoneraws/18796	0	3	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18796	0	4	refusing	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	5	Heck	NNP	(NP(NP*	-	-	-	-	(PERSON*	(7
+notdoneraws/18796	0	6	Tate	NNP	*	-	-	-	-	*)	7)
+notdoneraws/18796	0	7	's	POS	*)	-	-	-	-	*	-
+notdoneraws/18796	0	8	bid	NN	*	-	-	-	-	*	-
+notdoneraws/18796	0	9	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	10	get	VB	(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	11	his	PRP$	(NP*	-	-	-	-	*	(8|(7)
+notdoneraws/18796	0	12	son	NN	*)	-	-	-	-	*	8)
+notdoneraws/18796	0	13	off	RP	(PRT*)	-	-	-	-	*	-
+notdoneraws/18796	0	14	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18796	0	15	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/18796	0	16	potential	JJ	*	-	-	-	-	*	-
+notdoneraws/18796	0	17	crime	NN	*)))))))))))	-	-	-	-	*	-
+notdoneraws/18796	0	18	,	,	*	-	-	-	-	*	-
+notdoneraws/18796	0	19	and	CC	*	-	-	-	-	*	-
+notdoneraws/18796	0	20	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	21	known	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	22	throughout	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18796	0	23	his	PRP$	(NP*	-	-	-	-	*	(1)
+notdoneraws/18796	0	24	community	NN	*))	-	-	-	-	*	-
+notdoneraws/18796	0	25	as	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18796	0	26	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/18796	0	27	deadly	JJ	*	-	-	-	-	*	-
+notdoneraws/18796	0	28	shot	NN	*)))))	-	-	-	-	*	-
+notdoneraws/18796	0	29	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/18796	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/18796	0	1	is	VBZ	(VP(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	2	also	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/18796	0	3	a	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/18796	0	4	noted	VBN	*	-	-	-	-	*	-
+notdoneraws/18796	0	5	checker	NN	*	-	-	-	-	*	-
+notdoneraws/18796	0	6	player	NN	*))	-	-	-	-	*	1)
+notdoneraws/18796	0	7	,	,	*	-	-	-	-	*	-
+notdoneraws/18796	0	8	and	CC	*	-	-	-	-	*	-
+notdoneraws/18796	0	9	forced	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	10	his	PRP$	(S(NP*	-	-	-	-	*	(3|(1)
+notdoneraws/18796	0	11	son	NN	*)	-	-	-	-	*	3)
+notdoneraws/18796	0	12	to	TO	(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	13	read	VB	(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	14	Ivanhoe	NNP	(NP*)	-	-	-	-	*	(9)
+notdoneraws/18796	0	15	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/18796	0	16	Mrs.	NNP	(NP*	-	-	-	-	(PERSON*	(10
+notdoneraws/18796	0	17	Dubose	NNP	*)))))))	-	-	-	-	*)	10)
+notdoneraws/18796	0	18	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/18796	0	0	A	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/18796	0	1	fifty-year-old	JJ	*	-	-	-	-	*	-
+notdoneraws/18796	0	2	widower	NN	*	-	-	-	-	*	1)
+notdoneraws/18796	0	3	and	CC	*	-	-	-	-	*	-
+notdoneraws/18796	0	4	state	NN	*	-	-	-	-	*	(1
+notdoneraws/18796	0	5	representative	NN	*)	-	-	-	-	*	1)
+notdoneraws/18796	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/18796	0	7	he	PRP	(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/18796	0	8	disagrees	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	9	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18796	0	10	his	PRP$	(NP*	-	-	-	-	*	(11|(1)
+notdoneraws/18796	0	11	sister	NN	*))	-	-	-	-	*	11)
+notdoneraws/18796	0	12	Alexandria	NNP	(NP(NP*	-	-	-	-	(LOCATION)	(11)
+notdoneraws/18796	0	13	's	POS	*)	-	-	-	-	*	-
+notdoneraws/18796	0	14	opinions	NNS	*)	-	-	-	-	*	-
+notdoneraws/18796	0	15	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18796	0	16	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/18796	0	17	raising	NN	*)	-	-	-	-	*	-
+notdoneraws/18796	0	18	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18796	0	19	his	PRP$	(NP*	-	-	-	-	*	(2|(1)
+notdoneraws/18796	0	20	daughter	NN	*))))))	-	-	-	-	*	2)
+notdoneraws/18796	0	21	,	,	*	-	-	-	-	*	-
+notdoneraws/18796	0	22	and	CC	*	-	-	-	-	*	-
+notdoneraws/18796	0	23	he	PRP	(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/18796	0	24	has	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	25	Calpurnia	NNP	(S(NP*)	-	-	-	-	(LOCATION)	(12)
+notdoneraws/18796	0	26	raise	VB	(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	27	his	PRP$	(NP*	-	-	-	-	*	(13|(1)
+notdoneraws/18796	0	28	children	NNS	*)))))	-	-	-	-	*	13)
+notdoneraws/18796	0	29	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/18796	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/18796	0	1	ten	JJ	(NP*	-	-	-	-	*	-
+notdoneraws/18796	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/18796	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/18796	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/18796	0	6	Maycomb	NNP	(NAC*	-	-	-	-	(LOCATION)	-
+notdoneraws/18796	0	7	,	,	*	-	-	-	-	*	-
+notdoneraws/18796	0	8	Alabama	NNP	*)	-	-	-	-	(LOCATION)	-
+notdoneraws/18796	0	9	attorney	NN	*)	-	-	-	-	*	1)
+notdoneraws/18796	0	10	,	,	*	-	-	-	-	*	-
+notdoneraws/18796	0	11	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/18796	0	12	is	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	13	appointed	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	14	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	15	defend	VB	(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	16	Tom	NNP	(NP(NP*	-	-	-	-	(PERSON*	(6
+notdoneraws/18796	0	17	Robinson	NNP	*)	-	-	-	-	*)	6)
+notdoneraws/18796	0	18	,	,	*	-	-	-	-	*	-
+notdoneraws/18796	0	19	father	NN	(NP(NP*)	-	-	-	-	*	(1
+notdoneraws/18796	0	20	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18796	0	21	Scout	NNP	(NP*	-	-	-	-	*	(13|(2)
+notdoneraws/18796	0	22	and	CC	*	-	-	-	-	*	-
+notdoneraws/18796	0	23	Jem	NNP	*))))	-	-	-	-	(PERSON*	(3)|13)
+notdoneraws/18796	0	24	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18796	0	25	Harper	NNP	(NP*	-	-	-	-	*	(5|(4
+notdoneraws/18796	0	26	Lee	NNP	*	-	-	-	-	*)	5)
+notdoneraws/18796	0	27	's	POS	*))	-	-	-	-	*	-
+notdoneraws/18796	0	28	To	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	29	Kill	VB	(VP*	-	-	-	-	*	-
+notdoneraws/18796	0	30	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/18796	0	31	Mockingbird	NN	*)))))))))))))	-	-	-	-	*	4)|1)
+notdoneraws/18796	0	32	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

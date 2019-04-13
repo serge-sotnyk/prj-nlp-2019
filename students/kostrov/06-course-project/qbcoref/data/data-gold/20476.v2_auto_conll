@@ -1,0 +1,123 @@
+#begin document (selectraws1/20476); part 000
+
+selectraws1/20476	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	(4
+selectraws1/20476	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws1/20476	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20476	0	3	this	DT	(NP*)))	-	-	-	-	*	(1
+selectraws1/20476	0	4	play	VBP	(VP*	-	-	-	-	*	1)|4)
+selectraws1/20476	0	5	us	PRP	(S(NP*)	-	-	-	-	*	-
+selectraws1/20476	0	6	invited	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20476	0	7	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/20476	0	8	be	VB	(VP*	-	-	-	-	*	-
+selectraws1/20476	0	9	the	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/20476	0	10	thirteenth	JJ	*	-	-	-	-	*	-
+selectraws1/20476	0	11	guest	NN	*)	-	-	-	-	*	4)
+selectraws1/20476	0	12	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/20476	0	13	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20476	0	14	dinner	NN	*	-	-	-	-	*	-
+selectraws1/20476	0	15	party	NN	*)	-	-	-	-	*	-
+selectraws1/20476	0	16	,	,	*	-	-	-	-	*	-
+selectraws1/20476	0	17	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/20476	0	18	dismays	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/20476	0	19	the	DT	(NP(NP*	-	-	-	-	*	(2|(5
+selectraws1/20476	0	20	protagonist	NN	*	-	-	-	-	*	2)
+selectraws1/20476	0	21	's	POS	*)	-	-	-	-	*	-
+selectraws1/20476	0	22	father	NN	*)))))))	-	-	-	-	*	5)
+selectraws1/20476	0	23	because	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/20476	0	24	he	PRP	(S(NP*)	-	-	-	-	*	(5)
+selectraws1/20476	0	25	had	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20476	0	26	previously	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/20476	0	27	ruined	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20476	0	28	that	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/20476	0	29	guest	NN	*	-	-	-	-	*	4)
+selectraws1/20476	0	30	's	POS	*)	-	-	-	-	*	-
+selectraws1/20476	0	31	family	NN	*)))))))))))	-	-	-	-	*	-
+selectraws1/20476	0	32	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20476	0	0	Gina	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/20476	0	1	Hansen	NNP	*)	-	-	-	-	*)	6)
+selectraws1/20476	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20476	0	3	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20476	0	4	former	JJ	*	-	-	-	-	*	-
+selectraws1/20476	0	5	maid	NN	*)	-	-	-	-	*	-
+selectraws1/20476	0	6	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20476	0	7	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/20476	0	8	play	NN	*)	-	-	-	-	*	1)
+selectraws1/20476	0	9	,	,	*	-	-	-	-	*	-
+selectraws1/20476	0	10	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/20476	0	11	daughter	NN	*)	-	-	-	-	*	(8)
+selectraws1/20476	0	12	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/20476	0	13	going	VBG	(VP*	-	-	-	-	*	-
+selectraws1/20476	0	14	blind	JJ	(ADJP*)))))))))	-	-	-	-	*	-
+selectraws1/20476	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20476	0	0	Dr.	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(7
+selectraws1/20476	0	1	Relling	NNP	*)	-	-	-	-	*)	7)
+selectraws1/20476	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20476	0	3	the	DT	(NP(NP(NP*	-	-	-	-	*	(2|(7
+selectraws1/20476	0	4	protagonist	NN	*	-	-	-	-	*	2)
+selectraws1/20476	0	5	's	POS	*)	-	-	-	-	*	-
+selectraws1/20476	0	6	roommate	NN	*)	-	-	-	-	*	7)
+selectraws1/20476	0	7	,	,	*	-	-	-	-	*	-
+selectraws1/20476	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/20476	0	9	knows	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/20476	0	10	his	PRP$	(NP*	-	-	-	-	*	(2)
+selectraws1/20476	0	11	reputation	NN	*)	-	-	-	-	*	-
+selectraws1/20476	0	12	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/20476	0	13	meddling	NN	(NP*)))))))	-	-	-	-	*	-
+selectraws1/20476	0	14	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20476	0	0	The	DT	(TOP(S(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/20476	0	1	title	NN	*	-	-	-	-	*	-
+selectraws1/20476	0	2	animal	NN	*)	-	-	-	-	*	1)
+selectraws1/20476	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20476	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/20476	0	5	play	NN	*)))	-	-	-	-	*	1)
+selectraws1/20476	0	6	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20476	0	7	shot	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20476	0	8	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/20476	0	9	the	DT	(NP(NP*	-	-	-	-	*	(5|(5
+selectraws1/20476	0	10	protagonist	NN	*	-	-	-	-	*	5)
+selectraws1/20476	0	11	's	POS	*)	-	-	-	-	*	-
+selectraws1/20476	0	12	father	NN	*)))))	-	-	-	-	*	5)
+selectraws1/20476	0	13	;	:	*	-	-	-	-	*	-
+selectraws1/20476	0	14	instead	RB	(S(PP*	-	-	-	-	*	-
+selectraws1/20476	0	15	of	IN	*	-	-	-	-	*	-
+selectraws1/20476	0	16	Ekdal	NNP	(S(NP*)	-	-	-	-	*	(9)
+selectraws1/20476	0	17	shooting	VBG	(VP*	-	-	-	-	*	-
+selectraws1/20476	0	18	it	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws1/20476	0	19	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/20476	0	20	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20476	0	21	end	NN	*)))))	-	-	-	-	*	-
+selectraws1/20476	0	22	,	,	*	-	-	-	-	*	-
+selectraws1/20476	0	23	Hedvig	NNP	(NP*)	-	-	-	-	(ORGANIZATION)	(8)
+selectraws1/20476	0	24	commits	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20476	0	25	suicide	NN	(NP*)))	-	-	-	-	*	-
+selectraws1/20476	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20476	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20476	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/20476	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/20476	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/20476	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/20476	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/20476	0	6	play	NN	*)	-	-	-	-	*	-
+selectraws1/20476	0	7	featuring	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20476	0	8	Gregers	NNPS	(NP(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/20476	0	9	Werle	NNP	*)	-	-	-	-	*)	2)
+selectraws1/20476	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/20476	0	11	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/20476	0	12	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/20476	0	13	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws1/20476	0	14	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws1/20476	0	15	Henrik	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/20476	0	16	Ibsen	NNP	*))))))	-	-	-	-	*)	1)|3)
+selectraws1/20476	0	17	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,118 @@
+#begin document (selectraws1/15118); part 000
+
+selectraws1/15118	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(8
+selectraws1/15118	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15118	0	2	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/15118	0	3	author	NN	*	-	-	-	-	*	1)
+selectraws1/15118	0	4	's	POS	*)	-	-	-	-	*	-
+selectraws1/15118	0	5	stories	NNS	*)))	-	-	-	-	*	8)
+selectraws1/15118	0	6	includes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15118	0	7	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/15118	0	8	crucifixion	NN	*)	-	-	-	-	*	-
+selectraws1/15118	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15118	0	10	Peachey	NNP	(NP*	-	-	-	-	*	(6
+selectraws1/15118	0	11	Carnehan	NNP	*))	-	-	-	-	*	6)
+selectraws1/15118	0	12	between	IN	(PP*	-	-	-	-	*	-
+selectraws1/15118	0	13	two	CD	(NP(NP*	-	-	-	-	*	-
+selectraws1/15118	0	14	trees	NNS	*)	-	-	-	-	*	-
+selectraws1/15118	0	15	and	CC	*	-	-	-	-	*	-
+selectraws1/15118	0	16	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/15118	0	17	death	NN	*)	-	-	-	-	*	-
+selectraws1/15118	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15118	0	19	Dan	NNP	(NP(NP*	-	-	-	-	(PERSON*	(7
+selectraws1/15118	0	20	Dravot	NNP	*)	-	-	-	-	*)	7)
+selectraws1/15118	0	21	,	,	*	-	-	-	-	*	-
+selectraws1/15118	0	22	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/15118	0	23	died	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/15118	0	24	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/15118	0	25	a	DT	(S(NP*	-	-	-	-	*	-
+selectraws1/15118	0	26	rope	NN	*	-	-	-	-	*	-
+selectraws1/15118	0	27	bridge	NN	*)	-	-	-	-	*	-
+selectraws1/15118	0	28	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/15118	0	29	cut	VBN	(VP*))))))))))))))	-	-	-	-	*	-
+selectraws1/15118	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15118	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/15118	0	1	another	DT	(NP(NP*)	-	-	-	-	*	(10
+selectraws1/15118	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15118	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/15118	0	4	author	NN	*	-	-	-	-	*	1)
+selectraws1/15118	0	5	's	POS	*)	-	-	-	-	*	-
+selectraws1/15118	0	6	works	NNS	*))))	-	-	-	-	*	10)
+selectraws1/15118	0	7	,	,	*	-	-	-	-	*	-
+selectraws1/15118	0	8	Mr.	NNP	(NP*	-	-	-	-	(PERSON*	(9
+selectraws1/15118	0	9	Lurgan	NNP	*)	-	-	-	-	*)	9)
+selectraws1/15118	0	10	uses	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15118	0	11	jewels	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws1/15118	0	12	and	CC	*	-	-	-	-	*	-
+selectraws1/15118	0	13	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/15118	0	14	copper	NN	*	-	-	-	-	*	-
+selectraws1/15118	0	15	tray	NN	*))	-	-	-	-	*	-
+selectraws1/15118	0	16	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/15118	0	17	improve	VB	(VP*	-	-	-	-	*	-
+selectraws1/15118	0	18	the	DT	(NP(NP(NP*	-	-	-	-	*	(10
+selectraws1/15118	0	19	title	NN	*	-	-	-	-	*	-
+selectraws1/15118	0	20	character	NN	*	-	-	-	-	*	10)
+selectraws1/15118	0	21	's	POS	*)	-	-	-	-	*	-
+selectraws1/15118	0	22	memory	NN	*)	-	-	-	-	*	-
+selectraws1/15118	0	23	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15118	0	24	Simla	NNP	(NP*)))))))	-	-	-	-	(LOCATION)	-
+selectraws1/15118	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15118	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/15118	0	1	addition	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/15118	0	2	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/15118	0	3	Kim	NNP	(NP*))))	-	-	-	-	*	(10)
+selectraws1/15118	0	4	,	,	*	-	-	-	-	*	-
+selectraws1/15118	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/15118	0	6	author	NN	*)	-	-	-	-	*	1)
+selectraws1/15118	0	7	created	VBD	(VP*	-	-	-	-	*	-
+selectraws1/15118	0	8	a	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws1/15118	0	9	regimental	JJ	*	-	-	-	-	*	-
+selectraws1/15118	0	10	bhisti	NN	*)	-	-	-	-	*	11)
+selectraws1/15118	0	11	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15118	0	12	his	PRP$	(NP*	-	-	-	-	*	(12|(1)
+selectraws1/15118	0	13	Barrack-Room	JJ	*	-	-	-	-	*	-
+selectraws1/15118	0	14	Ballads	NNP	*	-	-	-	-	*	12)
+selectraws1/15118	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/15118	0	16	Gunga	NNP	*	-	-	-	-	(ORGANIZATION*	(11
+selectraws1/15118	0	17	Din	NNP	*))))	-	-	-	-	*)	11)
+selectraws1/15118	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15118	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/15118	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/15118	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/15118	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/15118	0	4	identify	VB	(VP*	-	-	-	-	*	-
+selectraws1/15118	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/15118	0	6	author	NN	*)	-	-	-	-	*	1)
+selectraws1/15118	0	7	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/15118	0	8	explained	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/15118	0	9	How	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/15118	0	10	the	DT	(S(NP*	-	-	-	-	*	-
+selectraws1/15118	0	11	Leopard	NNP	*)	-	-	-	-	*	-
+selectraws1/15118	0	12	Got	VBD	(VP*	-	-	-	-	*	-
+selectraws1/15118	0	13	His	PRP$	(NP*	-	-	-	-	*	-
+selectraws1/15118	0	14	Spots	NNS	*)	-	-	-	-	*	-
+selectraws1/15118	0	15	in	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/15118	0	16	Just	RB	(PP(ADVP*)	-	-	-	-	*	(2
+selectraws1/15118	0	17	So	IN	*	-	-	-	-	*	-
+selectraws1/15118	0	18	Stories	NNS	(NP(NP*)	-	-	-	-	*	2)
+selectraws1/15118	0	19	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/15118	0	20	wrote	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/15118	0	21	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/15118	0	22	Rikki-Tikki-Tavi	NNP	(NP(NP*)	-	-	-	-	*	(3)
+selectraws1/15118	0	23	and	CC	*	-	-	-	-	*	-
+selectraws1/15118	0	24	Mowgli	NNP	*))	-	-	-	-	(ORGANIZATION)	(4)
+selectraws1/15118	0	25	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15118	0	26	The	DT	(NP*	-	-	-	-	*	(5
+selectraws1/15118	0	27	Jungle	NNP	*	-	-	-	-	*	-
+selectraws1/15118	0	28	Book	NNP	*)))))))))))))))	-	-	-	-	*	5)
+selectraws1/15118	0	29	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

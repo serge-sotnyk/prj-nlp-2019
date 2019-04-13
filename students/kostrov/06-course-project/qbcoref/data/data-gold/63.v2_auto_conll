@@ -1,0 +1,99 @@
+#begin document (selectraws/63); part 000
+
+selectraws/63	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/63	0	1	one	CD	(NP*	-	-	-	-	*	-
+selectraws/63	0	2	play	NN	*))	-	-	-	-	*	-
+selectraws/63	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws/63	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/63	0	5	author	NN	*))	-	-	-	-	*	1)
+selectraws/63	0	6	,	,	*	-	-	-	-	*	-
+selectraws/63	0	7	Hugo	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws/63	0	8	Barine	NNP	*)	-	-	-	-	*)	3)
+selectraws/63	0	9	kills	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws/63	0	10	Hoederer	NNP	(NP(NP*)	-	-	-	-	*	(4)
+selectraws/63	0	11	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/63	0	12	HOY-dur-er	NNP	(NP*)	-	-	-	-	*	-
+selectraws/63	0	13	-RRB-	-RRB-	*)))	-	-	-	-	*	-
+selectraws/63	0	14	,	,	*	-	-	-	-	*	-
+selectraws/63	0	15	but	CC	*	-	-	-	-	*	-
+selectraws/63	0	16	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/63	0	17	unaware	JJ	(ADJP*	-	-	-	-	*	-
+selectraws/63	0	18	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws/63	0	19	the	DT	(S(NP*	-	-	-	-	*	(5
+selectraws/63	0	20	Party	NNP	*)	-	-	-	-	*	5)
+selectraws/63	0	21	wants	VBZ	(VP*	-	-	-	-	*	-
+selectraws/63	0	22	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/63	0	23	create	VB	(VP*	-	-	-	-	*	-
+selectraws/63	0	24	a	DT	(NP*	-	-	-	-	*	-
+selectraws/63	0	25	martyr	NN	*))))))))))	-	-	-	-	*	-
+selectraws/63	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/63	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws/63	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws/63	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/63	0	3	Dirty	NNP	(NP*	-	-	-	-	*	(2
+selectraws/63	0	4	Hands	NNP	*)))	-	-	-	-	*	2)|1)
+selectraws/63	0	5	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/63	0	6	about	IN	(PP*	-	-	-	-	*	-
+selectraws/63	0	7	the	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws/63	0	8	sweetish	JJ	*	-	-	-	-	*	-
+selectraws/63	0	9	sickness	NN	*)	-	-	-	-	*	8)
+selectraws/63	0	10	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/63	0	11	afflicts	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/63	0	12	Antoine	NNP	(NP*	-	-	-	-	(PERSON*	(7
+selectraws/63	0	13	Roquentin	NNP	*))))))	-	-	-	-	*)	7)
+selectraws/63	0	14	in	IN	(PP*	-	-	-	-	*	-
+selectraws/63	0	15	his	PRP$	(NP*	-	-	-	-	*	(8|(1)
+selectraws/63	0	16	novel	JJ	*	-	-	-	-	*	8)
+selectraws/63	0	17	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/63	0	18	\*	SYM	(X*)	-	-	-	-	*	-
+selectraws/63	0	19	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws/63	0	20	Nausea	NN	*)))	-	-	-	-	*	(8)
+selectraws/63	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/63	0	0	His	PRP$	(TOP(S(NP(NP*	-	-	-	-	*	(9|(1)
+selectraws/63	0	1	play	NN	*)	-	-	-	-	*	9)
+selectraws/63	0	2	about	IN	(PP*	-	-	-	-	*	-
+selectraws/63	0	3	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/63	0	4	interactions	NNS	*)	-	-	-	-	*	-
+selectraws/63	0	5	of	IN	(PP*	-	-	-	-	*	-
+selectraws/63	0	6	Ines	NNP	(NP(NP*)	-	-	-	-	*	(12)
+selectraws/63	0	7	,	,	*	-	-	-	-	*	-
+selectraws/63	0	8	Garcin	NNP	(NP*)	-	-	-	-	(PERSON)	(13)
+selectraws/63	0	9	,	,	*	-	-	-	-	*	-
+selectraws/63	0	10	and	CC	*	-	-	-	-	*	-
+selectraws/63	0	11	Estelle	NNP	(NP*))))))	-	-	-	-	(PERSON)	(14)
+selectraws/63	0	12	inspired	VBD	(VP*	-	-	-	-	*	-
+selectraws/63	0	13	the	DT	(SBAR(S(NP*	-	-	-	-	*	-
+selectraws/63	0	14	saying	VBG	*	-	-	-	-	*	-
+selectraws/63	0	15	''	''	*	-	-	-	-	*	-
+selectraws/63	0	16	Hell	NNP	*)	-	-	-	-	*	-
+selectraws/63	0	17	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/63	0	18	other	JJ	(NP*	-	-	-	-	*	-
+selectraws/63	0	19	people	NNS	*)))))	-	-	-	-	*	-
+selectraws/63	0	20	.	.	*	-	-	-	-	*	-
+selectraws/63	0	21	''	''	*))	-	-	-	-	*	-
+
+
+selectraws/63	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/63	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/63	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/63	0	3	,	,	*	-	-	-	-	*	-
+selectraws/63	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/63	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/63	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws/63	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/63	0	8	No	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws/63	0	9	Exit	NN	*)	-	-	-	-	*	9)
+selectraws/63	0	10	and	CC	*	-	-	-	-	*	-
+selectraws/63	0	11	other	JJ	(NP*	-	-	-	-	*	-
+selectraws/63	0	12	French	JJ	*	-	-	-	-	*	-
+selectraws/63	0	13	existentialist	NN	*	-	-	-	-	*	-
+selectraws/63	0	14	works	NNS	*))))	-	-	-	-	*	1)
+selectraws/63	0	15	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

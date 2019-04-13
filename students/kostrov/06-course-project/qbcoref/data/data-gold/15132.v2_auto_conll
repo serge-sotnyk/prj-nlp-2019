@@ -1,0 +1,124 @@
+#begin document (selectraws/15132); part 000
+
+selectraws/15132	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/15132	0	1	character	NN	*)	-	-	-	-	*	1)
+selectraws/15132	0	2	is	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws/15132	0	3	enslaved	VBN	(VP*	-	-	-	-	*	-
+selectraws/15132	0	4	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	5	Turks	NNPS	(NP(NP*)	-	-	-	-	*	-
+selectraws/15132	0	6	at	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	7	Sallee	NNP	(NP*))))	-	-	-	-	(PERSON)	-
+selectraws/15132	0	8	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	9	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws/15132	0	10	early	JJ	*	-	-	-	-	*	-
+selectraws/15132	0	11	life	NN	*))))	-	-	-	-	*	-
+selectraws/15132	0	12	,	,	*	-	-	-	-	*	-
+selectraws/15132	0	13	and	CC	*	-	-	-	-	*	-
+selectraws/15132	0	14	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15132	0	15	later	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/15132	0	16	put	VBN	(VP*	-	-	-	-	*	-
+selectraws/15132	0	17	ashore	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/15132	0	18	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	19	China	NNP	(NP*))	-	-	-	-	(LOCATION)	-
+selectraws/15132	0	20	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	21	shipmates	NNS	(NP(NP*)	-	-	-	-	*	(3)
+selectraws/15132	0	22	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15132	0	23	are	VBP	(S(VP*	-	-	-	-	*	-
+selectraws/15132	0	24	annoyed	VBN	(VP*	-	-	-	-	*	-
+selectraws/15132	0	25	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	26	his	PRP$	(NP(NP*)	-	-	-	-	*	(1)
+selectraws/15132	0	27	chastising	VBG	(VP*	-	-	-	-	*	-
+selectraws/15132	0	28	them	PRP	(NP*)	-	-	-	-	*	(3)
+selectraws/15132	0	29	over	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	30	a	DT	(NP*	-	-	-	-	*	-
+selectraws/15132	0	31	massacre	NN	*))))))))))))))	-	-	-	-	*	-
+selectraws/15132	0	32	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15132	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws/15132	0	1	encounters	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15132	0	2	a	DT	(NP*	-	-	-	-	*	(6
+selectraws/15132	0	3	Spaniard	NN	*)	-	-	-	-	*	6)
+selectraws/15132	0	4	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15132	0	5	investigating	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15132	0	6	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15132	0	7	report	NN	*)	-	-	-	-	*	-
+selectraws/15132	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	9	cannibalism	NN	(NP*))	-	-	-	-	*	-
+selectraws/15132	0	10	,	,	*	-	-	-	-	*	-
+selectraws/15132	0	11	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15132	0	12	he	PRP	(S(NP*)	-	-	-	-	*	(1)
+selectraws/15132	0	13	hears	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15132	0	14	from	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	15	a	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws/15132	0	16	figure	NN	*)	-	-	-	-	*	7)
+selectraws/15132	0	17	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15132	0	18	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15132	0	19	eventually	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/15132	0	20	killed	VBN	(VP*	-	-	-	-	*	-
+selectraws/15132	0	21	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	22	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15132	0	23	battle	NN	*)	-	-	-	-	*	-
+selectraws/15132	0	24	near	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	25	Brazil	NNP	(NP*))))))))))))))))))	-	-	-	-	(LOCATION)	-
+selectraws/15132	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15132	0	0	This	DT	(TOP(S(S(NP*	-	-	-	-	*	(1
+selectraws/15132	0	1	man	NN	*)	-	-	-	-	*	1)
+selectraws/15132	0	2	was	VBD	(VP*	-	-	-	-	*	-
+selectraws/15132	0	3	based	VBN	(VP*	-	-	-	-	*	-
+selectraws/15132	0	4	on	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	5	the	DT	(NP*	-	-	-	-	*	(4
+selectraws/15132	0	6	actual	JJ	*	-	-	-	-	*	-
+selectraws/15132	0	7	Alexander	NNP	*	-	-	-	-	(PERSON)	-
+selectraws/15132	0	8	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/15132	0	9	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws/15132	0	10	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws/15132	0	11	Selkirk	NNP	*)))))	-	-	-	-	*	4)
+selectraws/15132	0	12	,	,	*	-	-	-	-	*	-
+selectraws/15132	0	13	and	CC	*	-	-	-	-	*	-
+selectraws/15132	0	14	his	PRP$	(S(NP*	-	-	-	-	*	(1)
+selectraws/15132	0	15	adventure	NN	*)	-	-	-	-	*	-
+selectraws/15132	0	16	takes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15132	0	17	a	DT	(NP*	-	-	-	-	*	-
+selectraws/15132	0	18	turn	NN	*)	-	-	-	-	*	-
+selectraws/15132	0	19	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	20	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15132	0	21	seventeenth	JJ	*	-	-	-	-	*	-
+selectraws/15132	0	22	year	NN	*)	-	-	-	-	*	-
+selectraws/15132	0	23	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws/15132	0	24	he	PRP	(S(NP*)	-	-	-	-	*	(1)
+selectraws/15132	0	25	meets	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15132	0	26	Friday	NNP	(NP*))))))))	-	-	-	-	(DATE)	(5)
+selectraws/15132	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15132	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15132	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/15132	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/15132	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15132	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/15132	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/15132	0	6	sailor	NN	*)	-	-	-	-	*	-
+selectraws/15132	0	7	created	VBN	(VP*	-	-	-	-	*	-
+selectraws/15132	0	8	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	9	Daniel	NNP	(NP(NP*	-	-	-	-	(PERSON*	(2
+selectraws/15132	0	10	Defoe	NNP	*)	-	-	-	-	*)	2)|1)
+selectraws/15132	0	11	,	,	*	-	-	-	-	*	-
+selectraws/15132	0	12	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15132	0	13	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15132	0	14	marooned	VBN	(VP*	-	-	-	-	*	-
+selectraws/15132	0	15	on	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	16	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15132	0	17	remote	JJ	*	-	-	-	-	*	-
+selectraws/15132	0	18	island	NN	*)	-	-	-	-	*	-
+selectraws/15132	0	19	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15132	0	20	a	DT	(NP*	-	-	-	-	*	(1
+selectraws/15132	0	21	namesake	NN	*	-	-	-	-	*	-
+selectraws/15132	0	22	novel	NN	*)))))))))))))	-	-	-	-	*	1)
+selectraws/15132	0	23	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

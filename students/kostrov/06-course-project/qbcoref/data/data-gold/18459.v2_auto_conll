@@ -1,0 +1,103 @@
+#begin document (selectraws/18459); part 000
+
+selectraws/18459	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/18459	0	1	country	NN	*)	-	-	-	-	*	1)
+selectraws/18459	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/18459	0	3	home	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws/18459	0	4	to	TO	(PP*	-	-	-	-	*	-
+selectraws/18459	0	5	the	DT	(NP*	-	-	-	-	*	(2
+selectraws/18459	0	6	French-born	JJ	*	-	-	-	-	*	-
+selectraws/18459	0	7	journalist	NN	*	-	-	-	-	*	-
+selectraws/18459	0	8	and	CC	*	-	-	-	-	*	-
+selectraws/18459	0	9	author	NN	*	-	-	-	-	*	2)
+selectraws/18459	0	10	Elena	NNP	*	-	-	-	-	(PERSON*	(2
+selectraws/18459	0	11	Poniatowska	NNP	*))))	-	-	-	-	*)	2)
+selectraws/18459	0	12	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/18459	0	0	Another	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+selectraws/18459	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws/18459	0	2	from	IN	(PP*	-	-	-	-	*	-
+selectraws/18459	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/18459	0	4	country	NN	*)))	-	-	-	-	*	3)|1)
+selectraws/18459	0	5	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/18459	0	6	a	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws/18459	0	7	novel	NN	*)	-	-	-	-	*	5)
+selectraws/18459	0	8	about	IN	(PP*	-	-	-	-	*	-
+selectraws/18459	0	9	Juan	NNP	(NP(NP*	-	-	-	-	(PERSON*	(4
+selectraws/18459	0	10	Preciado	NNP	*	-	-	-	-	*)	4)
+selectraws/18459	0	11	's	POS	*)	-	-	-	-	*	-
+selectraws/18459	0	12	return	NN	*)))	-	-	-	-	*	-
+selectraws/18459	0	13	to	TO	(PP*	-	-	-	-	*	-
+selectraws/18459	0	14	Comala	NNP	(NP*	-	-	-	-	*	-
+selectraws/18459	0	15	entitled	NNP	*	-	-	-	-	*	-
+selectraws/18459	0	16	Pedro	NNP	*	-	-	-	-	(PERSON*	(5
+selectraws/18459	0	17	Pramo	NNP	*)))	-	-	-	-	*)	5)
+selectraws/18459	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/18459	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/18459	0	1	country	NN	*)	-	-	-	-	*	1)
+selectraws/18459	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/18459	0	3	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/18459	0	4	setting	NN	*)	-	-	-	-	*	-
+selectraws/18459	0	5	of	IN	(PP*	-	-	-	-	*	-
+selectraws/18459	0	6	Laura	NNP	(NP(NP*	-	-	-	-	(PERSON*	(6
+selectraws/18459	0	7	Esquivel	NNP	*	-	-	-	-	*)	6)
+selectraws/18459	0	8	's	POS	*)	-	-	-	-	*	-
+selectraws/18459	0	9	Like	IN	(PP*	-	-	-	-	*	(7
+selectraws/18459	0	10	Water	NNP	(NP(NP*)	-	-	-	-	*	-
+selectraws/18459	0	11	for	IN	(PP*	-	-	-	-	*	-
+selectraws/18459	0	12	Chocolate	NNP	(NP*))))))))	-	-	-	-	*	7)
+selectraws/18459	0	13	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/18459	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(8
+selectraws/18459	0	1	writer	NN	*)	-	-	-	-	*	-
+selectraws/18459	0	2	from	IN	(PP*	-	-	-	-	*	-
+selectraws/18459	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/18459	0	4	country	NN	*)))	-	-	-	-	*	8)|1)
+selectraws/18459	0	5	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/18459	0	6	a	DT	(NP(NP*	-	-	-	-	*	(9
+selectraws/18459	0	7	novel	NN	*)	-	-	-	-	*	9)
+selectraws/18459	0	8	about	IN	(PP*	-	-	-	-	*	-
+selectraws/18459	0	9	the	DT	(NP(NP(NP*	-	-	-	-	*	-
+selectraws/18459	0	10	death	NN	*)	-	-	-	-	*	-
+selectraws/18459	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws/18459	0	12	Ambrose	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(10
+selectraws/18459	0	13	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/18459	0	14	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws/18459	0	15	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws/18459	0	16	Bierce	NNP	(NP*))))	-	-	-	-	*	10)
+selectraws/18459	0	17	and	CC	*	-	-	-	-	*	-
+selectraws/18459	0	18	another	DT	(NP(NP*)	-	-	-	-	*	(11)
+selectraws/18459	0	19	about	IN	(PP*	-	-	-	-	*	-
+selectraws/18459	0	20	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/18459	0	21	death	NN	*)	-	-	-	-	*	-
+selectraws/18459	0	22	of	IN	(PP*	-	-	-	-	*	-
+selectraws/18459	0	23	Artemio	NNP	(NP*	-	-	-	-	(PERSON*	(12
+selectraws/18459	0	24	Cruz	NNP	*)))))))))	-	-	-	-	*)	12)
+selectraws/18459	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/18459	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/18459	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/18459	0	2	point	NN	*))	-	-	-	-	*	-
+selectraws/18459	0	3	,	,	*	-	-	-	-	*	-
+selectraws/18459	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/18459	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/18459	0	6	country	NN	*)	-	-	-	-	*	1)
+selectraws/18459	0	7	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/18459	0	8	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/18459	0	9	home	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws/18459	0	10	to	TO	(PP*	-	-	-	-	*	-
+selectraws/18459	0	11	Carlos	NNP	(NP(NP*	-	-	-	-	(PERSON*	(8
+selectraws/18459	0	12	Fuentes	NNP	*)	-	-	-	-	*)	8)
+selectraws/18459	0	13	and	CC	*	-	-	-	-	*	-
+selectraws/18459	0	14	Octavio	NNP	(NP*	-	-	-	-	(PERSON*	(13
+selectraws/18459	0	15	Paz	NNP	*)))))))))	-	-	-	-	*)	13)
+selectraws/18459	0	16	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

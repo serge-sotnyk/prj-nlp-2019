@@ -1,0 +1,151 @@
+#begin document (notdoneraws/16438); part 000
+
+notdoneraws/16438	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(4
+notdoneraws/16438	0	1	character	NN	*)	-	-	-	-	*	-
+notdoneraws/16438	0	2	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	3	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/16438	0	4	book	NN	*)))	-	-	-	-	*	4)|1)
+notdoneraws/16438	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	6	the	DT	(NP(NP*	-	-	-	-	*	(4
+notdoneraws/16438	0	7	mistress	NN	*)	-	-	-	-	*	-
+notdoneraws/16438	0	8	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	9	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16438	0	10	land-owner	NN	*)))	-	-	-	-	*	4)
+notdoneraws/16438	0	11	while	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/16438	0	12	the	DT	(S(NP(NP*	-	-	-	-	*	(5|(3
+notdoneraws/16438	0	13	main	JJ	*	-	-	-	-	*	-
+notdoneraws/16438	0	14	characters	NNS	*	-	-	-	-	*	3)
+notdoneraws/16438	0	15	friends	NNS	*)	-	-	-	-	*	5)
+notdoneraws/16438	0	16	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	17	Oxford	NNP	(NP*)))	-	-	-	-	(ORGANIZATION)	-
+notdoneraws/16438	0	18	include	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	19	Boy	NNP	(NP(NP*	-	-	-	-	*	(6
+notdoneraws/16438	0	20	Mulcaster	NNP	*)	-	-	-	-	*	6)
+notdoneraws/16438	0	21	and	CC	*	-	-	-	-	*	-
+notdoneraws/16438	0	22	Anthony	NNP	(NP*	-	-	-	-	(PERSON*	(7
+notdoneraws/16438	0	23	Blance	NNP	*))))))	-	-	-	-	*)	7)
+notdoneraws/16438	0	24	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16438	0	0	Most	JJS	(TOP(S(NP(NP*)	-	-	-	-	*	-
+notdoneraws/16438	0	1	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	2	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16438	0	3	second	JJ	*	-	-	-	-	*	-
+notdoneraws/16438	0	4	half	NN	*)))	-	-	-	-	*	-
+notdoneraws/16438	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	6	centered	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	7	around	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	8	another	DT	(NP(NP(NP*	-	-	-	-	*	(8
+notdoneraws/16438	0	9	main	JJ	*	-	-	-	-	*	-
+notdoneraws/16438	0	10	character	NN	*	-	-	-	-	*	8)
+notdoneraws/16438	0	11	's	POS	*)	-	-	-	-	*	-
+notdoneraws/16438	0	12	relationship	NN	*)	-	-	-	-	*	-
+notdoneraws/16438	0	13	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	14	Cordelia	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(9)
+notdoneraws/16438	0	15	,	,	*	-	-	-	-	*	-
+notdoneraws/16438	0	16	the	DT	(NP(NP*	-	-	-	-	*	(9
+notdoneraws/16438	0	17	sister	NN	*)	-	-	-	-	*	-
+notdoneraws/16438	0	18	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	19	his	PRP$	(NP*	-	-	-	-	*	(8|(3)
+notdoneraws/16438	0	20	friend	NN	*))	-	-	-	-	*	-
+notdoneraws/16438	0	21	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	22	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16438	0	23	first	JJ	*	-	-	-	-	*	-
+notdoneraws/16438	0	24	half	NN	*)))))))))	-	-	-	-	*	8)|9)
+notdoneraws/16438	0	25	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16438	0	0	Rex	NNP	(TOP(S(NP*)	-	-	-	-	*	(10)
+notdoneraws/16438	0	1	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	2	revealed	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	3	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	4	have	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	5	divorced	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	6	a	DT	(NP*	-	-	-	-	*	(11
+notdoneraws/16438	0	7	previous	JJ	*	-	-	-	-	*	-
+notdoneraws/16438	0	8	wife	NN	*)	-	-	-	-	*	11)
+notdoneraws/16438	0	9	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	10	Canada	NNP	(NP*))	-	-	-	-	(LOCATION)	-
+notdoneraws/16438	0	11	,	,	*	-	-	-	-	*	-
+notdoneraws/16438	0	12	forcing	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	13	his	PRP$	(NP*	-	-	-	-	*	(10)
+notdoneraws/16438	0	14	marriage	NN	*)	-	-	-	-	*	-
+notdoneraws/16438	0	15	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	16	Julia	NNP	(NP*))	-	-	-	-	(PERSON)	(12)
+notdoneraws/16438	0	17	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	18	take	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	19	place	NN	(NP*)	-	-	-	-	*	-
+notdoneraws/16438	0	20	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	21	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16438	0	22	Protestant	JJ	*	-	-	-	-	*	-
+notdoneraws/16438	0	23	church	NN	*)))))))))))))	-	-	-	-	*	-
+notdoneraws/16438	0	24	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16438	0	0	This	DT	(TOP(S(S(NP*	-	-	-	-	*	(1
+notdoneraws/16438	0	1	works	NNS	*	-	-	-	-	*	1)
+notdoneraws/16438	0	2	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+notdoneraws/16438	0	3	\*	SYM	(X*)	-	-	-	-	*	-
+notdoneraws/16438	0	4	-RRB-	-RRB-	*)	-	-	-	-	*	-
+notdoneraws/16438	0	5	title	NN	*	-	-	-	-	*	-
+notdoneraws/16438	0	6	residence	NN	*)	-	-	-	-	*	-
+notdoneraws/16438	0	7	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	8	owned	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	9	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	10	the	DT	(NP*	-	-	-	-	*	(13
+notdoneraws/16438	0	11	Catholic	NNP	*	-	-	-	-	(PERSON*	-
+notdoneraws/16438	0	12	Marchmain	NNP	*	-	-	-	-	*)	-
+notdoneraws/16438	0	13	family	NN	*)))))	-	-	-	-	*	13)
+notdoneraws/16438	0	14	and	CC	*	-	-	-	-	*	-
+notdoneraws/16438	0	15	the	DT	(S(NP*	-	-	-	-	*	(1
+notdoneraws/16438	0	16	book	NN	*)	-	-	-	-	*	1)
+notdoneraws/16438	0	17	begins	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	18	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	19	the	DT	(NP*	-	-	-	-	*	(14
+notdoneraws/16438	0	20	section	NN	*))	-	-	-	-	*	14)
+notdoneraws/16438	0	21	''	''	*	-	-	-	-	*	-
+notdoneraws/16438	0	22	Nostalgia	NNP	(NP*)	-	-	-	-	*	(14
+notdoneraws/16438	0	23	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	24	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16438	0	25	Vanished	NNP	*	-	-	-	-	*	-
+notdoneraws/16438	0	26	Past	NNP	*	-	-	-	-	*	14)
+notdoneraws/16438	0	27	''	''	*)	-	-	-	-	*	-
+notdoneraws/16438	0	28	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+notdoneraws/16438	0	29	which	WDT	(WHNP*))	-	-	-	-	*	-
+notdoneraws/16438	0	30	Charles	NNP	(S(NP*	-	-	-	-	(PERSON*	(3
+notdoneraws/16438	0	31	Ryder	NNP	*)	-	-	-	-	*)	3)
+notdoneraws/16438	0	32	goes	VBZ	(VP(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	33	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	34	Oxford	NNP	(NP*)))	-	-	-	-	(ORGANIZATION)	-
+notdoneraws/16438	0	35	and	CC	*	-	-	-	-	*	-
+notdoneraws/16438	0	36	meets	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	37	Sebastian	NNP	(NP*	-	-	-	-	(PERSON*	(8
+notdoneraws/16438	0	38	Flyte	NNP	*)))))))))	-	-	-	-	*)	8)
+notdoneraws/16438	0	39	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16438	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	1	ten	JJ	(NP*	-	-	-	-	*	-
+notdoneraws/16438	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/16438	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/16438	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	5	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/16438	0	6	novel	NN	*)	-	-	-	-	*	-
+notdoneraws/16438	0	7	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	8	Evelyn	NNP	(NP(NP*	-	-	-	-	(PERSON*	(2
+notdoneraws/16438	0	9	Waugh	NNP	*)	-	-	-	-	*)	2)|1)
+notdoneraws/16438	0	10	,	,	*	-	-	-	-	*	-
+notdoneraws/16438	0	11	titled	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16438	0	12	after	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	13	Ryder	NNP	(NP(NP*	-	-	-	-	(PERSON)	(3)
+notdoneraws/16438	0	14	's	POS	*)	-	-	-	-	*	-
+notdoneraws/16438	0	15	return	NN	*))	-	-	-	-	*	-
+notdoneraws/16438	0	16	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/16438	0	17	his	PRP$	(NP*	-	-	-	-	*	(3)
+notdoneraws/16438	0	18	family	NN	*	-	-	-	-	*	-
+notdoneraws/16438	0	19	estate	NN	*))))))	-	-	-	-	*	-
+notdoneraws/16438	0	20	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

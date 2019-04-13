@@ -1,0 +1,142 @@
+#begin document (notdoneraws/17078); part 000
+
+notdoneraws/17078	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	1	one	CD	(NP*	-	-	-	-	*	(5
+notdoneraws/17078	0	2	novel	NN	*))	-	-	-	-	*	-
+notdoneraws/17078	0	3	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/17078	0	5	author	NN	*))	-	-	-	-	*	5)|1)
+notdoneraws/17078	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/17078	0	7	the	DT	(NP*	-	-	-	-	*	(6
+notdoneraws/17078	0	8	professor	NN	*	-	-	-	-	*	6)
+notdoneraws/17078	0	9	Eugene	NNP	*	-	-	-	-	(PERSON*	(6
+notdoneraws/17078	0	10	Debs	NNP	*	-	-	-	-	*	-
+notdoneraws/17078	0	11	Hartke	NNP	*)	-	-	-	-	*)	6)
+notdoneraws/17078	0	12	becomes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	13	the	DT	(NP(NP*	-	-	-	-	*	(6
+notdoneraws/17078	0	14	warden	NN	*)	-	-	-	-	*	-
+notdoneraws/17078	0	15	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	16	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/17078	0	17	prison	NN	*))))	-	-	-	-	*	6)
+notdoneraws/17078	0	18	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17078	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/17078	0	1	author	NN	*)	-	-	-	-	*	1)
+notdoneraws/17078	0	2	created	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	3	an	DT	(NP(NP*	-	-	-	-	*	(7
+notdoneraws/17078	0	4	American	JJ	*	-	-	-	-	*	-
+notdoneraws/17078	0	5	spy	NN	*)	-	-	-	-	*	-
+notdoneraws/17078	0	6	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	7	WWII	NNP	(NP*))	-	-	-	-	*	7)
+notdoneraws/17078	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/17078	0	9	becomes	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	10	a	DT	(NP*	-	-	-	-	*	(7
+notdoneraws/17078	0	11	Nazi	JJ	*	-	-	-	-	*	-
+notdoneraws/17078	0	12	propagandist	NN	*))))))	-	-	-	-	*	7)
+notdoneraws/17078	0	13	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17078	0	0	Another	DT	(TOP(S(NP(NP*	-	-	-	-	*	(8
+notdoneraws/17078	0	1	work	NN	*)	-	-	-	-	*	-
+notdoneraws/17078	0	2	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	3	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/17078	0	4	author	NN	*)))	-	-	-	-	*	1)|8)
+notdoneraws/17078	0	5	is	VBZ	(VP(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	6	set	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	7	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	8	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/17078	0	9	completely	RB	(ADJP*	-	-	-	-	*	-
+notdoneraws/17078	0	10	automated	JJ	*)	-	-	-	-	*	-
+notdoneraws/17078	0	11	world	NN	*))))	-	-	-	-	*	-
+notdoneraws/17078	0	12	and	CC	*	-	-	-	-	*	-
+notdoneraws/17078	0	13	centers	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	14	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	15	Anita	NNP	(NP(NP*)	-	-	-	-	*	(9)
+notdoneraws/17078	0	16	and	CC	*	-	-	-	-	*	-
+notdoneraws/17078	0	17	Paul	NNP	(NP*	-	-	-	-	(PERSON*	(10
+notdoneraws/17078	0	18	Proteus	NNP	*)))))	-	-	-	-	*)	10)
+notdoneraws/17078	0	19	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17078	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	1	addition	NN	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/17078	0	2	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	3	writing	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	4	Hocus	NNP	(NP(NP*	-	-	-	-	*	(5
+notdoneraws/17078	0	5	Pocus	NNP	*)	-	-	-	-	*	5)
+notdoneraws/17078	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/17078	0	7	Mother	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(11
+notdoneraws/17078	0	8	Night	NNP	*)	-	-	-	-	*	11)
+notdoneraws/17078	0	9	and	CC	*	-	-	-	-	*	-
+notdoneraws/17078	0	10	Player	NNP	(NP*	-	-	-	-	*	(8
+notdoneraws/17078	0	11	Piano	NNP	*)))))))	-	-	-	-	*)	8)
+notdoneraws/17078	0	12	,	,	*	-	-	-	-	*	-
+notdoneraws/17078	0	13	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/17078	0	14	author	NN	*)	-	-	-	-	*	1)
+notdoneraws/17078	0	15	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	16	a	DT	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/17078	0	17	work	NN	*)	-	-	-	-	*	2)
+notdoneraws/17078	0	18	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/17078	0	19	ends	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	20	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+notdoneraws/17078	0	21	the	DT	(S(NP(NP*	-	-	-	-	*	-
+notdoneraws/17078	0	22	body	NN	*)	-	-	-	-	*	-
+notdoneraws/17078	0	23	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	24	the	DT	(NP(NP*	-	-	-	-	*	(12
+notdoneraws/17078	0	25	president	NN	*)	-	-	-	-	*	-
+notdoneraws/17078	0	26	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	27	San	NNP	(NP*	-	-	-	-	(LOCATION*	-
+notdoneraws/17078	0	28	Lorenzo	NNP	*)))))	-	-	-	-	*)	12)
+notdoneraws/17078	0	29	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	30	thrown	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	31	into	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	32	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/17078	0	33	ocean	NN	*))))))))))	-	-	-	-	*	-
+notdoneraws/17078	0	34	after	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/17078	0	35	the	DT	(S(NP*	-	-	-	-	*	-
+notdoneraws/17078	0	36	world	NN	*)	-	-	-	-	*	-
+notdoneraws/17078	0	37	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	38	consumed	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	39	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	40	ice	NN	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/17078	0	41	-	:	*	-	-	-	-	*	-
+notdoneraws/17078	0	42	nine	CD	(NP*))))))))	-	-	-	-	*	-
+notdoneraws/17078	0	43	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17078	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/17078	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/17078	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/17078	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	5	this	DT	(NP(NP(NP*	-	-	-	-	*	(1
+notdoneraws/17078	0	6	novelist	NN	*)	-	-	-	-	*	1)
+notdoneraws/17078	0	7	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/17078	0	8	created	VBD	(S(VP(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	9	the	DT	(NP*	-	-	-	-	*	(13
+notdoneraws/17078	0	10	religion	NN	*	-	-	-	-	*	13)
+notdoneraws/17078	0	11	Bokononism	NNP	*)	-	-	-	-	*	(13)
+notdoneraws/17078	0	12	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	13	Cat	NNP	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/17078	0	14	's	POS	*)	-	-	-	-	*	-
+notdoneraws/17078	0	15	Cradle	NNP	*)))	-	-	-	-	*	2)
+notdoneraws/17078	0	16	and	CC	*	-	-	-	-	*	-
+notdoneraws/17078	0	17	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/17078	0	18	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	19	Billy	NNP	(NP(NP*	-	-	-	-	(PERSON*	(3
+notdoneraws/17078	0	20	Pilgrim	NNP	*)	-	-	-	-	*)	3)
+notdoneraws/17078	0	21	and	CC	*	-	-	-	-	*	-
+notdoneraws/17078	0	22	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/17078	0	23	firebombing	NN	*)	-	-	-	-	*	-
+notdoneraws/17078	0	24	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	25	Dresden	NNP	(NP*)))))	-	-	-	-	(LOCATION)	-
+notdoneraws/17078	0	26	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17078	0	27	Slaughterhouse	NNP	(NP*)))))))	-	-	-	-	*	(4
+notdoneraws/17078	0	28	-	:	*	-	-	-	-	*	-
+notdoneraws/17078	0	29	Five	CD	(NP*)))	-	-	-	-	*	4)
+notdoneraws/17078	0	30	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

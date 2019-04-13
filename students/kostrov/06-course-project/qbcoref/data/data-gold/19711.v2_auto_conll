@@ -1,0 +1,155 @@
+#begin document (selectraws1/19711); part 000
+
+selectraws1/19711	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19711	0	1	one	CD	(NP(NP*)	-	-	-	-	*	(3
+selectraws1/19711	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/19711	0	4	mans	NNS	*	-	-	-	-	*	1)
+selectraws1/19711	0	5	plays	NNS	*))))	-	-	-	-	*	3)
+selectraws1/19711	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/19711	0	7	a	DT	(NP*	-	-	-	-	*	(4
+selectraws1/19711	0	8	girl	NN	*)	-	-	-	-	*	4)
+selectraws1/19711	0	9	shows	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/19711	0	10	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19711	0	11	sketch	JJ	*	-	-	-	-	*	-
+selectraws1/19711	0	12	pad	NN	*)	-	-	-	-	*	-
+selectraws1/19711	0	13	full	JJ	(ADJP*	-	-	-	-	*	-
+selectraws1/19711	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	15	pictures	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws1/19711	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	17	her	PRP$	(NP(NP*	-	-	-	-	*	(5|(4)
+selectraws1/19711	0	18	neighbor	NN	*)	-	-	-	-	*	5)
+selectraws1/19711	0	19	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	20	a	DT	(NP*	-	-	-	-	*	(6
+selectraws1/19711	0	21	nude	JJ	*	-	-	-	-	*	-
+selectraws1/19711	0	22	model	NN	*)))))))))	-	-	-	-	*	6)
+selectraws1/19711	0	23	and	CC	*	-	-	-	-	*	-
+selectraws1/19711	0	24	expresses	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19711	0	25	hope	NN	(NP*	-	-	-	-	*	-
+selectraws1/19711	0	26	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/19711	0	27	everyone	NN	(S(NP(NP*)	-	-	-	-	*	-
+selectraws1/19711	0	28	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	29	heaven	NN	(NP*)))	-	-	-	-	*	-
+selectraws1/19711	0	30	looks	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19711	0	31	like	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	32	that	DT	(NP*	-	-	-	-	*	(5
+selectraws1/19711	0	33	woman	NN	*))))))))	-	-	-	-	*	5)
+selectraws1/19711	0	34	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19711	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/19711	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws1/19711	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19711	0	3	a	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws1/19711	0	4	play	NN	*)	-	-	-	-	*	7)
+selectraws1/19711	0	5	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/19711	0	6	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/19711	0	7	Bruces	NNP	(S(NP*	-	-	-	-	*	(9|(8)
+selectraws1/19711	0	8	fianc	FW	*	-	-	-	-	*	9)
+selectraws1/19711	0	9	Marie	NNP	*)	-	-	-	-	(PERSON)	(9)
+selectraws1/19711	0	10	has	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19711	0	11	an	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19711	0	12	affair	NN	*)	-	-	-	-	*	-
+selectraws1/19711	0	13	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	14	Turk	NNP	(NP(NP*)	-	-	-	-	*	(10)
+selectraws1/19711	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/19711	0	16	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19711	0	17	infuriates	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/19711	0	18	alcoholic	JJ	(NP*	-	-	-	-	*	(11
+selectraws1/19711	0	19	chiropractor	NN	*	-	-	-	-	*	11)
+selectraws1/19711	0	20	Doc	NNP	*	-	-	-	-	(PERSON*	(11
+selectraws1/19711	0	21	Delaney	NNP	*))))))))))))	-	-	-	-	*)	11)
+selectraws1/19711	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19711	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/19711	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws1/19711	0	2	also	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/19711	0	3	won	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19711	0	4	an	DT	(NP*	-	-	-	-	*	-
+selectraws1/19711	0	5	Academy	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/19711	0	6	Award	NNP	*)	-	-	-	-	*)	-
+selectraws1/19711	0	7	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	8	a	DT	(NP(NP*	-	-	-	-	*	(12
+selectraws1/19711	0	9	screenplay	NN	*)	-	-	-	-	*	-
+selectraws1/19711	0	10	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	11	oil	NN	(NP(NP(NP*	-	-	-	-	*	(13
+selectraws1/19711	0	12	heir	NN	*	-	-	-	-	*	13)
+selectraws1/19711	0	13	Bud	NNP	*	-	-	-	-	(PERSON*	(13
+selectraws1/19711	0	14	Stamper	NNP	*	-	-	-	-	*)	13)
+selectraws1/19711	0	15	's	POS	*)	-	-	-	-	*	-
+selectraws1/19711	0	16	love	NN	*)	-	-	-	-	*	-
+selectraws1/19711	0	17	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	18	Deanie	NNP	(NP(NP*	-	-	-	-	(PERSON*	(14
+selectraws1/19711	0	19	Loomis	NNP	*)	-	-	-	-	*)	14)|12)
+selectraws1/19711	0	20	,	,	*	-	-	-	-	*	-
+selectraws1/19711	0	21	the	DT	(NP(NP*	-	-	-	-	*	(12
+selectraws1/19711	0	22	Elia	NNP	*	-	-	-	-	(PERSON*	(15
+selectraws1/19711	0	23	Kazan	NNP	*	-	-	-	-	*)	15)
+selectraws1/19711	0	24	film	NN	*	-	-	-	-	*	12)
+selectraws1/19711	0	25	Splendor	NN	*)	-	-	-	-	*	(12
+selectraws1/19711	0	26	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	27	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/19711	0	28	Grass	NNP	*))))))))))	-	-	-	-	*	12)
+selectraws1/19711	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19711	0	0	Elma	NNP	(TOP(S(NP(NP*	-	-	-	-	(PERSON*	(16
+selectraws1/19711	0	1	Duckworth	NNP	*)	-	-	-	-	*)	16)
+selectraws1/19711	0	2	and	CC	*	-	-	-	-	*	-
+selectraws1/19711	0	3	Dr.	NNP	(NP*	-	-	-	-	(PERSON*	(17
+selectraws1/19711	0	4	Lyman	NNP	*))	-	-	-	-	*)	-
+selectraws1/19711	0	5	perform	VBP	(VP*	-	-	-	-	*	17)
+selectraws1/19711	0	6	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/19711	0	7	scene	NN	*)	-	-	-	-	*	-
+selectraws1/19711	0	8	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	9	Romeo	NNP	(NP*	-	-	-	-	(PERSON)	(18
+selectraws1/19711	0	10	and	CC	*	-	-	-	-	*	-
+selectraws1/19711	0	11	Juliet	NNP	*))	-	-	-	-	(PERSON)	18)
+selectraws1/19711	0	12	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	13	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19711	0	14	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/19711	0	15	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws1/19711	0	16	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws1/19711	0	17	diner	NN	*)	-	-	-	-	*	-
+selectraws1/19711	0	18	near	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	19	Kansas	NNP	(NP*	-	-	-	-	(LOCATION*	-
+selectraws1/19711	0	20	City	NNP	*))))	-	-	-	-	*)	-
+selectraws1/19711	0	21	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	22	another	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/19711	0	23	work	NN	*)	-	-	-	-	*	-
+selectraws1/19711	0	24	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	25	this	DT	(NP(NP(NP*	-	-	-	-	*	(1
+selectraws1/19711	0	26	author	NN	*)	-	-	-	-	*	-
+selectraws1/19711	0	27	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	28	Come	NNP	(NP*	-	-	-	-	*	(7
+selectraws1/19711	0	29	Back	NNP	*)))	-	-	-	-	*	-
+selectraws1/19711	0	30	,	,	*	-	-	-	-	*	-
+selectraws1/19711	0	31	Little	NNP	(NP*	-	-	-	-	(LOCATION*	-
+selectraws1/19711	0	32	Sheba	NNP	*))))))	-	-	-	-	*)	2)|1)|7)
+selectraws1/19711	0	33	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19711	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19711	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/19711	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/19711	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/19711	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/19711	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/19711	0	6	playwright	NN	*)	-	-	-	-	*	1)
+selectraws1/19711	0	7	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19711	0	8	used	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/19711	0	9	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/19711	0	10	native	JJ	*	-	-	-	-	*	-
+selectraws1/19711	0	11	Kansas	NNP	*)	-	-	-	-	(LOCATION)	-
+selectraws1/19711	0	12	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	13	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19711	0	14	setting	NN	*)	-	-	-	-	*	-
+selectraws1/19711	0	15	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/19711	0	16	Bus	NN	(NP*	-	-	-	-	*	(2
+selectraws1/19711	0	17	Stop	NN	*)))))))))	-	-	-	-	*	2)
+selectraws1/19711	0	18	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

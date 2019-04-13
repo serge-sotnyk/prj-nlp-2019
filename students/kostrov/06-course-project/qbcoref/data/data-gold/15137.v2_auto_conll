@@ -1,0 +1,149 @@
+#begin document (selectraws/15137); part 000
+
+selectraws/15137	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	-
+selectraws/15137	0	1	events	NNS	*)	-	-	-	-	*	-
+selectraws/15137	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15137	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15137	0	4	novel	NN	*)))	-	-	-	-	*	1)
+selectraws/15137	0	5	are	VBP	(VP*	-	-	-	-	*	-
+selectraws/15137	0	6	turned	VBN	(VP*	-	-	-	-	*	-
+selectraws/15137	0	7	into	IN	(PP*	-	-	-	-	*	-
+selectraws/15137	0	8	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15137	0	9	ballade	NN	*)	-	-	-	-	*	-
+selectraws/15137	0	10	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15137	0	11	the	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws/15137	0	12	final	JJ	*	-	-	-	-	*	-
+selectraws/15137	0	13	chapter	NN	*)	-	-	-	-	*	3)
+selectraws/15137	0	14	,	,	*	-	-	-	-	*	-
+selectraws/15137	0	15	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15137	0	16	sees	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15137	0	17	the	DT	(NP*	-	-	-	-	*	(1
+selectraws/15137	0	18	titular	JJ	*	-	-	-	-	*	-
+selectraws/15137	0	19	character	NN	*)	-	-	-	-	*	1)
+selectraws/15137	0	20	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15137	0	21	the	DT	(NP*	-	-	-	-	*	-
+selectraws/15137	0	22	Darbies	NNPS	*)))))))))))	-	-	-	-	*	-
+selectraws/15137	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15137	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/15137	0	1	protagonist	NN	*)	-	-	-	-	*	1)
+selectraws/15137	0	2	is	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws/15137	0	3	initially	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/15137	0	4	hated	VBN	(VP*	-	-	-	-	*	-
+selectraws/15137	0	5	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15137	0	6	Red	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(4
+selectraws/15137	0	7	Whiskers	NNP	*))))	-	-	-	-	*)	4)
+selectraws/15137	0	8	but	CC	*	-	-	-	-	*	-
+selectraws/15137	0	9	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15137	0	10	eventually	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/15137	0	11	made	VBN	(VP*	-	-	-	-	*	-
+selectraws/15137	0	12	amenable	JJ	(S(ADJP*	-	-	-	-	*	-
+selectraws/15137	0	13	to	TO	(PP*	-	-	-	-	*	-
+selectraws/15137	0	14	him	PRP	(NP*))))	-	-	-	-	*	(1)
+selectraws/15137	0	15	because	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15137	0	16	he	PRP	(S(NP*)	-	-	-	-	*	(1)
+selectraws/15137	0	17	hits	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15137	0	18	him	PRP	(NP*)))))))	-	-	-	-	*	(4)
+selectraws/15137	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15137	0	0	At	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15137	0	1	one	CD	(NP*	-	-	-	-	*	-
+selectraws/15137	0	2	point	NN	*))	-	-	-	-	*	-
+selectraws/15137	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15137	0	4	an	DT	(NP*	-	-	-	-	*	(5
+selectraws/15137	0	5	afterguardsman	NN	*)	-	-	-	-	*	5)
+selectraws/15137	0	6	tries	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15137	0	7	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/15137	0	8	bribe	VB	(VP*	-	-	-	-	*	-
+selectraws/15137	0	9	the	DT	(NP*	-	-	-	-	*	(1
+selectraws/15137	0	10	title	NN	*	-	-	-	-	*	-
+selectraws/15137	0	11	character	NN	*)	-	-	-	-	*	1)
+selectraws/15137	0	12	at	IN	(PP*	-	-	-	-	*	-
+selectraws/15137	0	13	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15137	0	14	balcony	NN	*)	-	-	-	-	*	-
+selectraws/15137	0	15	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15137	0	16	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15137	0	17	pair	NN	*)	-	-	-	-	*	-
+selectraws/15137	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15137	0	19	coins	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws/15137	0	20	before	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws/15137	0	21	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws/15137	0	22	one	CD	(S(NP(NP*	-	-	-	-	*	(6|(7
+selectraws/15137	0	23	character	NN	*	-	-	-	-	*	7)
+selectraws/15137	0	24	's	POS	*)	-	-	-	-	*	-
+selectraws/15137	0	25	underling	JJ	*	-	-	-	-	*	6)
+selectraws/15137	0	26	Squeak	NNP	*)	-	-	-	-	*	(6)
+selectraws/15137	0	27	convinces	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15137	0	28	his	PRP$	(NP*	-	-	-	-	*	(7|(6)
+selectraws/15137	0	29	master	NN	*	-	-	-	-	*	7)
+selectraws/15137	0	30	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15137	0	31	the	DT	(S(NP(NP*	-	-	-	-	*	(1
+selectraws/15137	0	32	protagonist	NN	*	-	-	-	-	*	1)
+selectraws/15137	0	33	's	POS	*)	-	-	-	-	*	-
+selectraws/15137	0	34	soup	NN	*	-	-	-	-	*	-
+selectraws/15137	0	35	spill	NN	*)	-	-	-	-	*	-
+selectraws/15137	0	36	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15137	0	37	no	DT	(NP*	-	-	-	-	*	-
+selectraws/15137	0	38	mere	JJ	*	-	-	-	-	*	-
+selectraws/15137	0	39	accident	NN	*))))))))))))))))))	-	-	-	-	*	-
+selectraws/15137	0	40	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15137	0	0	Dansker	NNP	(TOP(S(NP*)	-	-	-	-	*	(8)
+selectraws/15137	0	1	tries	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15137	0	2	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/15137	0	3	report	VB	(VP*	-	-	-	-	*	-
+selectraws/15137	0	4	what	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15137	0	5	's	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15137	0	6	happening	VBG	(VP*	-	-	-	-	*	-
+selectraws/15137	0	7	to	TO	(PP*	-	-	-	-	*	-
+selectraws/15137	0	8	the	DT	(NP*	-	-	-	-	*	(1
+selectraws/15137	0	9	protagonist	NN	*))	-	-	-	-	*	1)
+selectraws/15137	0	10	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15137	0	11	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/15137	0	12	tale	NN	*)	-	-	-	-	*	1)
+selectraws/15137	0	13	set	VBN	(VP*	-	-	-	-	*	-
+selectraws/15137	0	14	aboard	IN	(PP*	-	-	-	-	*	-
+selectraws/15137	0	15	the	DT	(NP*	-	-	-	-	*	-
+selectraws/15137	0	16	HMS	NNP	*	-	-	-	-	*	-
+selectraws/15137	0	17	Bellipotent	NNP	*)))))))))))))	-	-	-	-	*	-
+selectraws/15137	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15137	0	0	Captain	NNP	(TOP(S(NP*	-	-	-	-	*	(9
+selectraws/15137	0	1	Vere	NNP	*)	-	-	-	-	*	9)
+selectraws/15137	0	2	sentences	NNS	(VP*	-	-	-	-	*	-
+selectraws/15137	0	3	for	IN	(PP*	-	-	-	-	*	-
+selectraws/15137	0	4	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/15137	0	5	titular	JJ	*	-	-	-	-	*	-
+selectraws/15137	0	6	character	NN	*)	-	-	-	-	*	1)
+selectraws/15137	0	7	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+selectraws/15137	0	8	be	VB	(VP*	-	-	-	-	*	-
+selectraws/15137	0	9	hanged	VBN	(VP*	-	-	-	-	*	-
+selectraws/15137	0	10	after	IN	(PP*	-	-	-	-	*	-
+selectraws/15137	0	11	striking	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15137	0	12	John	NNP	(NP*	-	-	-	-	(PERSON*	(7
+selectraws/15137	0	13	Claggart	NNP	*))))))))))))	-	-	-	-	*)	7)
+selectraws/15137	0	14	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15137	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15137	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/15137	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/15137	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15137	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/15137	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15137	0	6	Herman	NNP	*	-	-	-	-	(PERSON*	(2
+selectraws/15137	0	7	Melville	NNP	*	-	-	-	-	*)	2)
+selectraws/15137	0	8	novel	NN	*)	-	-	-	-	*	-
+selectraws/15137	0	9	about	IN	(PP*	-	-	-	-	*	-
+selectraws/15137	0	10	the	DT	(NP*	-	-	-	-	*	(1
+selectraws/15137	0	11	titular	NN	*	-	-	-	-	*	-
+selectraws/15137	0	12	foretopman	NN	*)))	-	-	-	-	*	1)|1)
+selectraws/15137	0	13	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,135 @@
+#begin document (selectraws1/18214); part 000
+
+selectraws1/18214	0	0	This	DT	(TOP(S(S(NP*	-	-	-	-	*	(1
+selectraws1/18214	0	1	man	NN	*)	-	-	-	-	*	1)
+selectraws1/18214	0	2	appears	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18214	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/18214	0	4	a	DT	(NP(NP*	-	-	-	-	*	(13
+selectraws1/18214	0	5	work	NN	*)	-	-	-	-	*	13)
+selectraws1/18214	0	6	set	VBN	(VP*	-	-	-	-	*	-
+selectraws1/18214	0	7	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/18214	0	8	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18214	0	9	fair	JJ	*	-	-	-	-	*	-
+selectraws1/18214	0	10	oasis	NN	*)	-	-	-	-	*	-
+selectraws1/18214	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18214	0	12	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/18214	0	13	purest	JJS	*	-	-	-	-	*	-
+selectraws1/18214	0	14	desert	NN	*)))))))))	-	-	-	-	*	-
+selectraws1/18214	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/18214	0	16	and	CC	*	-	-	-	-	*	-
+selectraws1/18214	0	17	a	DT	(S(NP(NP*	-	-	-	-	*	(14
+selectraws1/18214	0	18	novel	NN	*)	-	-	-	-	*	-
+selectraws1/18214	0	19	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/18214	0	20	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/18214	0	21	title	NN	*)))	-	-	-	-	*	14)|1)
+selectraws1/18214	0	22	sees	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18214	0	23	Miriam	NNP	(S(NP(NP*	-	-	-	-	(PERSON)	(8|(7)
+selectraws1/18214	0	24	's	POS	*)	-	-	-	-	*	-
+selectraws1/18214	0	25	father	NN	*)	-	-	-	-	*	8)
+selectraws1/18214	0	26	come	VB	(VP*	-	-	-	-	*	-
+selectraws1/18214	0	27	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/18214	0	28	grips	NNS	(NP*))	-	-	-	-	*	-
+selectraws1/18214	0	29	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/18214	0	30	his	PRP$	(NP(NP*	-	-	-	-	*	(9|(8)
+selectraws1/18214	0	31	son	NN	*)	-	-	-	-	*	9)
+selectraws1/18214	0	32	Menuchim	IN	(PP*	-	-	-	-	*	(9)
+selectraws1/18214	0	33	being	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/18214	0	34	retarded	JJ	(ADJP*))))))))))	-	-	-	-	*	-
+selectraws1/18214	0	35	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18214	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/18214	0	1	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/18214	0	2	third	JJ	*	-	-	-	-	*	(4
+selectraws1/18214	0	3	work	NN	*))	-	-	-	-	*	4)
+selectraws1/18214	0	4	,	,	*	-	-	-	-	*	-
+selectraws1/18214	0	5	another	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/18214	0	6	character	NN	*)	-	-	-	-	*	-
+selectraws1/18214	0	7	based	VBN	(VP*	-	-	-	-	*	-
+selectraws1/18214	0	8	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/18214	0	9	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/18214	0	10	man	NN	*))))	-	-	-	-	*	1)|4)
+selectraws1/18214	0	11	meets	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18214	0	12	a	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/18214	0	13	downtrodden	JJ	*	-	-	-	-	*	-
+selectraws1/18214	0	14	balloon	NN	*	-	-	-	-	*	-
+selectraws1/18214	0	15	seller	NN	*)	-	-	-	-	*	10)
+selectraws1/18214	0	16	and	CC	*	-	-	-	-	*	-
+selectraws1/18214	0	17	a	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws1/18214	0	18	sardonic	JJ	*	-	-	-	-	*	-
+selectraws1/18214	0	19	popcorn	NN	*	-	-	-	-	*	-
+selectraws1/18214	0	20	vender	NN	*)	-	-	-	-	*	11)
+selectraws1/18214	0	21	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/18214	0	22	Zuss	NNP	(S(NP*	-	-	-	-	*	(10)
+selectraws1/18214	0	23	and	CC	*	-	-	-	-	*	-
+selectraws1/18214	0	24	Nickles	NNP	*)))))	-	-	-	-	(PERSON)	(11)
+selectraws1/18214	0	25	,	,	*	-	-	-	-	*	-
+selectraws1/18214	0	26	respectively	RB	(ADVP*))	-	-	-	-	*	-
+selectraws1/18214	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18214	0	0	Robert	NNP	(TOP(S(NP(NP(NP*	-	-	-	-	(PERSON*	(13|(12
+selectraws1/18214	0	1	Frost	NNP	*	-	-	-	-	*)	12)
+selectraws1/18214	0	2	's	POS	*)	-	-	-	-	*	-
+selectraws1/18214	0	3	blank	JJ	*	-	-	-	-	*	-
+selectraws1/18214	0	4	verse	NN	*	-	-	-	-	*	-
+selectraws1/18214	0	5	comedy	NN	*	-	-	-	-	*	13)
+selectraws1/18214	0	6	A	NNP	*	-	-	-	-	*	(13
+selectraws1/18214	0	7	Masque	NNP	*)	-	-	-	-	(ORGANIZATION*	-
+selectraws1/18214	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18214	0	9	Reason	NNP	(NP*)))	-	-	-	-	*)	13)
+selectraws1/18214	0	10	focuses	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18214	0	11	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/18214	0	12	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/18214	0	13	man	NN	*))	-	-	-	-	*	1)
+selectraws1/18214	0	14	,	,	*	-	-	-	-	*	-
+selectraws1/18214	0	15	as	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/18214	0	16	does	VBZ	(SINV*	-	-	-	-	*	-
+selectraws1/18214	0	17	Joseph	NNP	(NP(NP(NP*	-	-	-	-	(PERSON*	(14|(6
+selectraws1/18214	0	18	Roth	NNP	*	-	-	-	-	*)	6)
+selectraws1/18214	0	19	's	POS	*)	-	-	-	-	*	-
+selectraws1/18214	0	20	novel	NN	*)	-	-	-	-	*	-
+selectraws1/18214	0	21	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/18214	0	22	Mendel	NNP	(NP*	-	-	-	-	(PERSON)	(8
+selectraws1/18214	0	23	Singer	NNP	*))))))	-	-	-	-	*	8)|14)
+selectraws1/18214	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18214	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/18214	0	1	man	NN	*)	-	-	-	-	*	1)
+selectraws1/18214	0	2	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/18214	0	3	sees	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/18214	0	4	his	PRP$	(S(NP*	-	-	-	-	*	(5|(1)
+selectraws1/18214	0	5	children	NNS	*)	-	-	-	-	*	5)
+selectraws1/18214	0	6	killed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/18214	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/18214	0	8	war	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/18214	0	9	,	,	*	-	-	-	-	*	-
+selectraws1/18214	0	10	drunk	JJ	(NP*	-	-	-	-	*	-
+selectraws1/18214	0	11	drivers	NNS	*)	-	-	-	-	*	-
+selectraws1/18214	0	12	and	CC	*	-	-	-	-	*	-
+selectraws1/18214	0	13	murderers	NNS	(NP*)))))))))	-	-	-	-	*	-
+selectraws1/18214	0	14	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18214	0	15	based	VBN	(VP*	-	-	-	-	*	-
+selectraws1/18214	0	16	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/18214	0	17	,	,	(PRN*	-	-	-	-	*	-
+selectraws1/18214	0	18	FTP	NNP	*	-	-	-	-	*	-
+selectraws1/18214	0	19	,	,	*)	-	-	-	-	*	-
+selectraws1/18214	0	20	what	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/18214	0	21	Biblical	NN	(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/18214	0	22	character	NN	*)	-	-	-	-	*	1)
+selectraws1/18214	0	23	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/18214	0	24	story	NN	*)	-	-	-	-	*	(2)
+selectraws1/18214	0	25	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/18214	0	26	retold	JJ	(ADJP*	-	-	-	-	*	-
+selectraws1/18214	0	27	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/18214	0	28	Archibald	NNP	(NP(NP*	-	-	-	-	(PERSON*	(4|(3
+selectraws1/18214	0	29	Macleish	NNP	*	-	-	-	-	*)	3)
+selectraws1/18214	0	30	's	POS	*)	-	-	-	-	*	-
+selectraws1/18214	0	31	play	NN	*)))))))	-	-	-	-	*	4)
+selectraws1/18214	0	32	J.B.	VBP	(VP*))))))	-	-	-	-	(LOCATION)	(4)
+selectraws1/18214	0	33	?	.	*))	-	-	-	-	*	-
+
+
+#end document
+

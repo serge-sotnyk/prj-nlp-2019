@@ -1,0 +1,133 @@
+#begin document (selectraws/15900); part 000
+
+selectraws/15900	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15900	0	1	one	CD	(NP(NP*	-	-	-	-	*	(2
+selectraws/15900	0	2	play	NN	*)	-	-	-	-	*	-
+selectraws/15900	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15900	0	5	man	NN	*))))	-	-	-	-	*	1)|2)
+selectraws/15900	0	6	Lyuba	NNP	(NP*)	-	-	-	-	(PERSON)	(3)
+selectraws/15900	0	7	sleeps	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15900	0	8	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	9	a	DT	(NP*	-	-	-	-	*	(4
+selectraws/15900	0	10	doctor	NN	*))	-	-	-	-	*	4)
+selectraws/15900	0	11	,	,	*	-	-	-	-	*	-
+selectraws/15900	0	12	Mereshchun	UH	(INTJ*)	-	-	-	-	(PERSON)	(5)
+selectraws/15900	0	13	,	,	*	-	-	-	-	*	-
+selectraws/15900	0	14	against	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	15	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15900	0	16	will	NN	*)	-	-	-	-	*	-
+selectraws/15900	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	18	Nemov	NNP	(NP*)))))	-	-	-	-	(PERSON)	(6)
+selectraws/15900	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15900	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15900	0	1	addition	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws/15900	0	2	to	TO	(PP*	-	-	-	-	*	-
+selectraws/15900	0	3	The	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/15900	0	4	Love-Girl	NNP	*)	-	-	-	-	*	-
+selectraws/15900	0	5	and	CC	*	-	-	-	-	*	-
+selectraws/15900	0	6	the	DT	(NP*	-	-	-	-	*	-
+selectraws/15900	0	7	Innocent	JJ	*)))))	-	-	-	-	*	2)
+selectraws/15900	0	8	,	,	*	-	-	-	-	*	-
+selectraws/15900	0	9	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15900	0	10	author	NN	*)	-	-	-	-	*	1)
+selectraws/15900	0	11	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/15900	0	12	about	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15900	0	13	the	DT	(X(NP*	-	-	-	-	*	-
+selectraws/15900	0	14	rape	NN	*	-	-	-	-	*	-
+selectraws/15900	0	15	and	CC	*	-	-	-	-	*	-
+selectraws/15900	0	16	murder	NN	*)	-	-	-	-	*	-
+selectraws/15900	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	18	a	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws/15900	0	19	young	JJ	*	-	-	-	-	*	-
+selectraws/15900	0	20	woman	NN	*)	-	-	-	-	*	7)
+selectraws/15900	0	21	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	22	soldiers	NNS	(NP*))	-	-	-	-	*	-
+selectraws/15900	0	23	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	24	his	PRP$	(NP*	-	-	-	-	*	(8|(1)
+selectraws/15900	0	25	poem	NN	*))))	-	-	-	-	*	8)
+selectraws/15900	0	26	[	SYM	(X*)	-	-	-	-	*	-
+selectraws/15900	0	27	\*	SYM	(X*)	-	-	-	-	*	-
+selectraws/15900	0	28	]	SYM	(X*)	-	-	-	-	*	-
+selectraws/15900	0	29	Prussian	NNP	*	-	-	-	-	*	(8
+selectraws/15900	0	30	Nights	NNPS	*	-	-	-	-	*	8)
+selectraws/15900	0	31	and	CC	*	-	-	-	-	*	-
+selectraws/15900	0	32	about	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	33	Oleg	NNP	(NP(NP*	-	-	-	-	(PERSON*	(9
+selectraws/15900	0	34	Kostoglotov	NNP	*)	-	-	-	-	*)	9)
+selectraws/15900	0	35	,	,	*	-	-	-	-	*	-
+selectraws/15900	0	36	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15900	0	37	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15900	0	38	shocked	VBN	(VP*	-	-	-	-	*	-
+selectraws/15900	0	39	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	40	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15900	0	41	state	NN	*)	-	-	-	-	*	-
+selectraws/15900	0	42	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	43	life	NN	(NP*))	-	-	-	-	*	-
+selectraws/15900	0	44	outside	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	45	the	DT	(NP*	-	-	-	-	*	-
+selectraws/15900	0	46	titular	JJ	*	-	-	-	-	*	(10
+selectraws/15900	0	47	location	NN	*)))))))))))))	-	-	-	-	*	10)
+selectraws/15900	0	48	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15900	0	0	Another	DT	(TOP(S(NP(NP*)	-	-	-	-	*	(11
+selectraws/15900	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	2	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws/15900	0	3	works	NNS	*)))	-	-	-	-	*	11)
+selectraws/15900	0	4	details	NNS	(VP*	-	-	-	-	*	-
+selectraws/15900	0	5	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15900	0	6	life	NN	*)	-	-	-	-	*	-
+selectraws/15900	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	8	a	DT	(NP(NP*	-	-	-	-	*	(12
+selectraws/15900	0	9	man	NN	*)	-	-	-	-	*	12)
+selectraws/15900	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15900	0	11	has	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15900	0	12	been	VBN	(VP*	-	-	-	-	*	-
+selectraws/15900	0	13	falsely	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws/15900	0	14	accused	VBN	*	-	-	-	-	*	-
+selectraws/15900	0	15	and	CC	*	-	-	-	-	*	-
+selectraws/15900	0	16	imprisoned	VBN	*	-	-	-	-	*	-
+selectraws/15900	0	17	for	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	18	being	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15900	0	19	a	DT	(NP*	-	-	-	-	*	(12
+selectraws/15900	0	20	German	JJ	*	-	-	-	-	*	-
+selectraws/15900	0	21	spy	NN	*)))))))))))))	-	-	-	-	*	12)
+selectraws/15900	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15900	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15900	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/15900	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/15900	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15900	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/15900	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/15900	0	6	Soviet	JJ	*	-	-	-	-	*	-
+selectraws/15900	0	7	dissident	NN	*)	-	-	-	-	*	1)
+selectraws/15900	0	8	,	,	*	-	-	-	-	*	-
+selectraws/15900	0	9	the	DT	(NP(NP(NP*	-	-	-	-	*	(1
+selectraws/15900	0	10	author	NN	*)	-	-	-	-	*	-
+selectraws/15900	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	12	Cancer	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	(10
+selectraws/15900	0	13	Ward	NNP	*)	-	-	-	-	*)	10)
+selectraws/15900	0	14	,	,	*	-	-	-	-	*	-
+selectraws/15900	0	15	One	CD	(NP(NP*	-	-	-	-	*	(11
+selectraws/15900	0	16	Day	NN	*)	-	-	-	-	*	-
+selectraws/15900	0	17	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	18	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15900	0	19	Life	NNP	*)	-	-	-	-	*	-
+selectraws/15900	0	20	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15900	0	21	Ivan	NNP	(NP*	-	-	-	-	(PERSON*	-
+selectraws/15900	0	22	Denisovich	NNP	*)))))	-	-	-	-	*)	11)
+selectraws/15900	0	23	,	,	*)))	-	-	-	-	*	-
+selectraws/15900	0	24	and	CC	*	-	-	-	-	*	-
+selectraws/15900	0	25	The	DT	(NP*	-	-	-	-	(ORGANIZATION*	-
+selectraws/15900	0	26	Gulag	NNP	*	-	-	-	-	*	-
+selectraws/15900	0	27	Archipelago	NNP	*))))	-	-	-	-	*)	1)
+selectraws/15900	0	28	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,152 @@
+#begin document (selectraws1/18007); part 000
+
+selectraws1/18007	0	0	At	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/18007	0	1	one	CD	(NP(NP*	-	-	-	-	*	-
+selectraws1/18007	0	2	point	NN	*)	-	-	-	-	*	-
+selectraws1/18007	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/18007	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/18007	0	5	work	NN	*))))	-	-	-	-	*	1)
+selectraws1/18007	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/18007	0	7	one	CD	(NP*	-	-	-	-	*	(2
+selectraws1/18007	0	8	character	NN	*)	-	-	-	-	*	2)
+selectraws1/18007	0	9	tells	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	10	how	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/18007	0	11	a	DT	(S(NP*	-	-	-	-	*	-
+selectraws1/18007	0	12	bull	NN	*)	-	-	-	-	*	-
+selectraws1/18007	0	13	was	VBD	(VP(VP*	-	-	-	-	*	-
+selectraws1/18007	0	14	slaughtered	VBN	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	15	over	IN	(PP*	-	-	-	-	*	-
+selectraws1/18007	0	16	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/18007	0	17	black	JJ	*	-	-	-	-	*	-
+selectraws1/18007	0	18	shield	NN	*))))	-	-	-	-	*	-
+selectraws1/18007	0	19	,	,	*	-	-	-	-	*	-
+selectraws1/18007	0	20	and	CC	*	-	-	-	-	*	-
+selectraws1/18007	0	21	dipped	VBD	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	22	their	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/18007	0	23	hands	NNS	*)	-	-	-	-	*	-
+selectraws1/18007	0	24	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/18007	0	25	its	PRP$	(NP(NP*	-	-	-	-	*	-
+selectraws1/18007	0	26	blood	NN	*)	-	-	-	-	*	-
+selectraws1/18007	0	27	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/18007	0	28	honor	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/18007	0	29	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18007	0	30	Mars	NNP	(NP*	-	-	-	-	*	(18)
+selectraws1/18007	0	31	,	,	*	-	-	-	-	*	-
+selectraws1/18007	0	32	Enyo	NNP	*	-	-	-	-	*	(17)
+selectraws1/18007	0	33	and	CC	*	-	-	-	-	*	-
+selectraws1/18007	0	34	Fear	NN	*)))))))))))	-	-	-	-	*	(16)
+selectraws1/18007	0	35	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18007	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/18007	0	1	play	NN	*)	-	-	-	-	*	1)
+selectraws1/18007	0	2	begins	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	3	with	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/18007	0	4	one	CD	(S(NP*	-	-	-	-	*	(9
+selectraws1/18007	0	5	character	NN	*)	-	-	-	-	*	9)
+selectraws1/18007	0	6	learning	VBG	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	7	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/18007	0	8	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18007	0	9	surprise	NN	*	-	-	-	-	*	-
+selectraws1/18007	0	10	attack	NN	*)	-	-	-	-	*	-
+selectraws1/18007	0	11	during	IN	(PP*	-	-	-	-	*	-
+selectraws1/18007	0	12	nighttime	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/18007	0	13	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/18007	0	14	a	DT	(NP*	-	-	-	-	*	(8
+selectraws1/18007	0	15	seer	NN	*))))))))))	-	-	-	-	*	8)
+selectraws1/18007	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18007	0	0	The	DT	(TOP(S(S(NP*	-	-	-	-	*	(1
+selectraws1/18007	0	1	title	NN	*	-	-	-	-	*	-
+selectraws1/18007	0	2	characters	NNS	*)	-	-	-	-	*	1)
+selectraws1/18007	0	3	never	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/18007	0	4	speak	VBP	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	5	any	DT	(NP*	-	-	-	-	*	-
+selectraws1/18007	0	6	lines	NNS	*)	-	-	-	-	*	-
+selectraws1/18007	0	7	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/18007	0	8	stage	NN	(NP*))))	-	-	-	-	*	-
+selectraws1/18007	0	9	,	,	*	-	-	-	-	*	-
+selectraws1/18007	0	10	and	CC	*	-	-	-	-	*	-
+selectraws1/18007	0	11	it	PRP	(S(NP*)	-	-	-	-	*	-
+selectraws1/18007	0	12	forms	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	13	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18007	0	14	trilogy	NN	*)	-	-	-	-	*	-
+selectraws1/18007	0	15	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/18007	0	16	its	PRP$	(NP(NP*	-	-	-	-	*	(10|(1)
+selectraws1/18007	0	17	author	NN	*	-	-	-	-	*	10)
+selectraws1/18007	0	18	's	POS	*)	-	-	-	-	*	-
+selectraws1/18007	0	19	Laius	NNP	*	-	-	-	-	*	(11)
+selectraws1/18007	0	20	and	CC	*	-	-	-	-	*	-
+selectraws1/18007	0	21	Oedipus	NNP	*)))))	-	-	-	-	*	(12)
+selectraws1/18007	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18007	0	0	This	DT	(TOP(S(S(NP*	-	-	-	-	*	(1
+selectraws1/18007	0	1	drama	NN	*)	-	-	-	-	*	1)
+selectraws1/18007	0	2	ends	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	3	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/18007	0	4	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18007	0	5	herald	NN	*)	-	-	-	-	*	-
+selectraws1/18007	0	6	telling	VBG	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	7	a	DT	(NP*	-	-	-	-	*	(7
+selectraws1/18007	0	8	woman	NN	*)	-	-	-	-	*	7)
+selectraws1/18007	0	9	not	RB	(S*	-	-	-	-	*	-
+selectraws1/18007	0	10	to	TO	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	11	disobey	VB	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	12	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/18007	0	13	newly	RB	(ADJP*	-	-	-	-	*	-
+selectraws1/18007	0	14	passed	VBN	*)	-	-	-	-	*	-
+selectraws1/18007	0	15	law	NN	*)))))))))	-	-	-	-	*	-
+selectraws1/18007	0	16	,	,	*	-	-	-	-	*	-
+selectraws1/18007	0	17	but	CC	*	-	-	-	-	*	-
+selectraws1/18007	0	18	she	PRP	(S(NP*)	-	-	-	-	*	(7)
+selectraws1/18007	0	19	insists	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	20	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/18007	0	21	she	PRP	(S(NP*)	-	-	-	-	*	-
+selectraws1/18007	0	22	will	MD	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	23	bury	VB	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	24	her	PRP$	(NP*	-	-	-	-	*	(7)
+selectraws1/18007	0	25	brother	NN	*)))))))	-	-	-	-	*	-
+selectraws1/18007	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18007	0	0	Its	PRP$	(TOP(S(NP*	-	-	-	-	*	-
+selectraws1/18007	0	1	cast	NN	*)	-	-	-	-	*	-
+selectraws1/18007	0	2	includes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	3	an	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18007	0	4	unnamed	JJ	*	-	-	-	-	*	(2
+selectraws1/18007	0	5	spy	NN	*)	-	-	-	-	*	2)
+selectraws1/18007	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/18007	0	7	Ismene	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(6)
+selectraws1/18007	0	8	,	,	*	-	-	-	-	*	-
+selectraws1/18007	0	9	Antigone	NNP	(NP*)	-	-	-	-	(LOCATION)	(7)
+selectraws1/18007	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/18007	0	11	and	CC	*	-	-	-	-	*	-
+selectraws1/18007	0	12	her	PRP$	(NP*	-	-	-	-	*	-
+selectraws1/18007	0	13	brother	NN	*	-	-	-	-	*	-
+selectraws1/18007	0	14	Eteocles	NNP	*))))	-	-	-	-	*	(9)
+selectraws1/18007	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18007	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/18007	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/18007	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/18007	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/18007	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/18007	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/18007	0	6	play	NN	*)	-	-	-	-	*	-
+selectraws1/18007	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/18007	0	8	Aeschylus	NNP	(NP*))	-	-	-	-	*	(10)|1)
+selectraws1/18007	0	9	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/18007	0	10	titular	JJ	*	-	-	-	-	*	(1
+selectraws1/18007	0	11	group	NN	*)	-	-	-	-	*	1)
+selectraws1/18007	0	12	includes	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/18007	0	13	Amphiaraus	NNP	(NP*	-	-	-	-	*	(3)
+selectraws1/18007	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/18007	0	15	Adrastus	NNP	*))))))	-	-	-	-	*	(4)
+selectraws1/18007	0	16	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,155 @@
+#begin document (selectraws1/14749); part 000
+
+selectraws1/14749	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/14749	0	1	one	CD	(NP*	-	-	-	-	*	(7
+selectraws1/14749	0	2	play	NN	*))	-	-	-	-	*	-
+selectraws1/14749	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/14749	0	5	author	NN	*))	-	-	-	-	*	7)|1)
+selectraws1/14749	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/14749	0	7	three	CD	(NP(NP*	-	-	-	-	*	(8
+selectraws1/14749	0	8	characters	NNS	*)	-	-	-	-	*	8)
+selectraws1/14749	0	9	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	10	large	JJ	(NP*	-	-	-	-	*	-
+selectraws1/14749	0	11	urns	NNS	*)))	-	-	-	-	*	-
+selectraws1/14749	0	12	talk	NN	(VP*	-	-	-	-	*	-
+selectraws1/14749	0	13	deliver	VB	(VP*	-	-	-	-	*	-
+selectraws1/14749	0	14	rapid-fire	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws1/14749	0	15	monologues	NNS	*)	-	-	-	-	*	-
+selectraws1/14749	0	16	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	17	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/14749	0	18	love	NN	*	-	-	-	-	*	-
+selectraws1/14749	0	19	affair	NN	*)))))	-	-	-	-	*	-
+selectraws1/14749	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14749	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/14749	0	1	another	DT	(NP*))	-	-	-	-	*	(9)
+selectraws1/14749	0	2	,	,	*	-	-	-	-	*	-
+selectraws1/14749	0	3	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/14749	0	4	only	JJ	*	-	-	-	-	*	-
+selectraws1/14749	0	5	part	NN	*)	-	-	-	-	*	-
+selectraws1/14749	0	6	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	7	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/14749	0	8	stage	NN	*)	-	-	-	-	*	-
+selectraws1/14749	0	9	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/14749	0	10	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/14749	0	11	illuminated	VBN	(VP*)))))))	-	-	-	-	*	-
+selectraws1/14749	0	12	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/14749	0	13	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/14749	0	14	mouth	NN	*)	-	-	-	-	*	-
+selectraws1/14749	0	15	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	16	a	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/14749	0	17	character	NN	*)	-	-	-	-	*	10)
+selectraws1/14749	0	18	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/14749	0	19	describes	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/14749	0	20	events	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws1/14749	0	21	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	22	her	PRP$	(NP*	-	-	-	-	*	(10)
+selectraws1/14749	0	23	life	NN	*))))))))))	-	-	-	-	*	-
+selectraws1/14749	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14749	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/14749	0	1	one	CD	(NP*	-	-	-	-	*	(2
+selectraws1/14749	0	2	play	NN	*))	-	-	-	-	*	2)
+selectraws1/14749	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/14749	0	4	he	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws1/14749	0	5	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/14749	0	6	about	IN	(NP(NP*	-	-	-	-	*	-
+selectraws1/14749	0	7	two	CD	*	-	-	-	-	*	(11
+selectraws1/14749	0	8	legless	JJ	*	-	-	-	-	*	-
+selectraws1/14749	0	9	characters	NNS	*)	-	-	-	-	*	11)
+selectraws1/14749	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/14749	0	11	live	VBP	(S(VP*	-	-	-	-	*	-
+selectraws1/14749	0	12	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	13	trash	NN	(NP(NP*	-	-	-	-	*	-
+selectraws1/14749	0	14	cans	NNS	*)	-	-	-	-	*	-
+selectraws1/14749	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/14749	0	16	Nagg	NNP	(NP*)	-	-	-	-	*	(11|(13)
+selectraws1/14749	0	17	and	CC	*	-	-	-	-	*	-
+selectraws1/14749	0	18	Nell	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(14)|11)
+selectraws1/14749	0	19	,	,	*	-	-	-	-	*	-
+selectraws1/14749	0	20	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/14749	0	21	are	VBP	(S(VP*	-	-	-	-	*	-
+selectraws1/14749	0	22	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/14749	0	23	parents	NNS	*)	-	-	-	-	*	-
+selectraws1/14749	0	24	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	25	the	DT	(NP*	-	-	-	-	*	(12
+selectraws1/14749	0	26	blind	JJ	*	-	-	-	-	*	-
+selectraws1/14749	0	27	old	JJ	*	-	-	-	-	*	-
+selectraws1/14749	0	28	man	NN	*	-	-	-	-	*	12)
+selectraws1/14749	0	29	Hamm	NNP	*))))))))))))))	-	-	-	-	(PERSON)	(12)
+selectraws1/14749	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14749	0	0	Another	DT	(TOP(S(NP(NP*	-	-	-	-	*	(5
+selectraws1/14749	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws1/14749	0	2	created	VBN	(VP*	-	-	-	-	*	-
+selectraws1/14749	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/14749	0	5	author	NN	*))))	-	-	-	-	*	5)|1)
+selectraws1/14749	0	6	is	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/14749	0	7	addicted	VBN	(VP*	-	-	-	-	*	-
+selectraws1/14749	0	8	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	9	bananas	NNS	(NP*))))	-	-	-	-	*	-
+selectraws1/14749	0	10	and	CC	*	-	-	-	-	*	-
+selectraws1/14749	0	11	listens	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/14749	0	12	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	13	recordings	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws1/14749	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	15	himself	PRP	(NP*))))	-	-	-	-	*	(5)
+selectraws1/14749	0	16	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	17	his	PRP$	(NP*	-	-	-	-	*	(5)
+selectraws1/14749	0	18	sixth-ninth	JJ	*	-	-	-	-	*	-
+selectraws1/14749	0	19	birthday	NN	*))))	-	-	-	-	*	-
+selectraws1/14749	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14749	0	0	His	PRP$	(TOP(S(NP*	-	-	-	-	*	(4|(1)
+selectraws1/14749	0	1	most	RBS	(ADJP*	-	-	-	-	*	-
+selectraws1/14749	0	2	famous	JJ	*)	-	-	-	-	*	-
+selectraws1/14749	0	3	work	NN	*)	-	-	-	-	*	4)
+selectraws1/14749	0	4	sees	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/14749	0	5	Pozzo	NNP	(NP*	-	-	-	-	*	(15)
+selectraws1/14749	0	6	command	NN	*)	-	-	-	-	*	-
+selectraws1/14749	0	7	his	PRP$	(S(NP*	-	-	-	-	*	(16|(15)
+selectraws1/14749	0	8	slave	NN	*)	-	-	-	-	*	16)
+selectraws1/14749	0	9	Lucky	JJ	(ADJP*)	-	-	-	-	*	(16)
+selectraws1/14749	0	10	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/14749	0	11	dance	VB	(VP*	-	-	-	-	*	-
+selectraws1/14749	0	12	in	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/14749	0	13	order	NN	*	-	-	-	-	*	-
+selectraws1/14749	0	14	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/14749	0	15	entertain	VB	(VP*	-	-	-	-	*	-
+selectraws1/14749	0	16	Vladimir	NNP	(NP*	-	-	-	-	(PERSON)	(17)
+selectraws1/14749	0	17	and	CC	*	-	-	-	-	*	-
+selectraws1/14749	0	18	Estragon	NNP	*))))))))))	-	-	-	-	*	(18)
+selectraws1/14749	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14749	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/14749	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/14749	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/14749	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/14749	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/14749	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/14749	0	6	Irish	JJ	*	-	-	-	-	*	-
+selectraws1/14749	0	7	playwright	NN	*)	-	-	-	-	*	-
+selectraws1/14749	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	9	Endgame	NNP	(NP(NP*)	-	-	-	-	*	(2)
+selectraws1/14749	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/14749	0	11	Krapp	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION)	(3|(5)
+selectraws1/14749	0	12	's	POS	*)	-	-	-	-	*	-
+selectraws1/14749	0	13	Last	JJ	*	-	-	-	-	*	-
+selectraws1/14749	0	14	Tape	NNP	*)	-	-	-	-	*	3)
+selectraws1/14749	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/14749	0	16	and	CC	*	-	-	-	-	*	-
+selectraws1/14749	0	17	Waiting	NNP	(NP*))))	-	-	-	-	*	(4
+selectraws1/14749	0	18	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/14749	0	19	Godot	NNP	(NP*)))	-	-	-	-	*	(6)|1)|4)
+selectraws1/14749	0	20	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

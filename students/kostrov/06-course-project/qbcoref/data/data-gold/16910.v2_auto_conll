@@ -1,0 +1,142 @@
+#begin document (selectraws1/16910); part 000
+
+selectraws1/16910	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16910	0	1	one	CD	(NP(NP*)	-	-	-	-	*	(4
+selectraws1/16910	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16910	0	4	writer	NN	*	-	-	-	-	*	1)
+selectraws1/16910	0	5	's	POS	*)	-	-	-	-	*	-
+selectraws1/16910	0	6	works	NNS	*))))	-	-	-	-	*	4)
+selectraws1/16910	0	7	,	,	*	-	-	-	-	*	-
+selectraws1/16910	0	8	Yvette	NNP	(NP*)	-	-	-	-	(PERSON)	(5)
+selectraws1/16910	0	9	leaves	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/16910	0	10	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16910	0	11	vicarage	NN	*))	-	-	-	-	*	-
+selectraws1/16910	0	12	and	CC	*	-	-	-	-	*	-
+selectraws1/16910	0	13	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16910	0	14	saved	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16910	0	15	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	16	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16910	0	17	flood	NN	*))	-	-	-	-	*	-
+selectraws1/16910	0	18	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	19	a	DT	(NP*	-	-	-	-	*	(6
+selectraws1/16910	0	20	gypsy	NN	*)))))	-	-	-	-	*	6)
+selectraws1/16910	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16910	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16910	0	1	another	DT	(NP(NP*)	-	-	-	-	*	(7
+selectraws1/16910	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16910	0	4	writer	NN	*	-	-	-	-	*	1)
+selectraws1/16910	0	5	's	POS	*)	-	-	-	-	*	-
+selectraws1/16910	0	6	works	NNS	*))))	-	-	-	-	*	7)
+selectraws1/16910	0	7	,	,	*	-	-	-	-	*	-
+selectraws1/16910	0	8	Cresswell	NNP	(NP*	-	-	-	-	(PERSON)	(8)
+selectraws1/16910	0	9	and	CC	*	-	-	-	-	*	-
+selectraws1/16910	0	10	Bassett	NNP	*)	-	-	-	-	(PERSON)	(9)
+selectraws1/16910	0	11	earn	VBP	(VP*	-	-	-	-	*	-
+selectraws1/16910	0	12	money	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/16910	0	13	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	14	Paul	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(7)
+selectraws1/16910	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/16910	0	16	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/16910	0	17	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/16910	0	18	able	JJ	(ADJP*	-	-	-	-	*	-
+selectraws1/16910	0	19	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/16910	0	20	gain	VB	(VP*	-	-	-	-	*	-
+selectraws1/16910	0	21	knowledge	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/16910	0	22	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	23	the	DT	(NP*	-	-	-	-	*	(11
+selectraws1/16910	0	24	titular	JJ	*	-	-	-	-	*	-
+selectraws1/16910	0	25	toy	NN	*))))))))))))))	-	-	-	-	*	11)
+selectraws1/16910	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16910	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/16910	0	1	writer	NN	*)	-	-	-	-	*	1)
+selectraws1/16910	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	3	The	DT	(NP(NP*	-	-	-	-	(ORGANIZATION*	(4
+selectraws1/16910	0	4	Virgin	NNP	*)	-	-	-	-	*)	-
+selectraws1/16910	0	5	and	CC	*	-	-	-	-	*	-
+selectraws1/16910	0	6	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16910	0	7	Gypsy	NNP	*)	-	-	-	-	*	4)
+selectraws1/16910	0	8	and	CC	*	-	-	-	-	*	-
+selectraws1/16910	0	9	The	DT	(NP*	-	-	-	-	(ORGANIZATION*	(11|(7
+selectraws1/16910	0	10	Rocking-Horse	NNP	*	-	-	-	-	*	11)
+selectraws1/16910	0	11	Winner	NNP	*)))))	-	-	-	-	*)	7)
+selectraws1/16910	0	12	also	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/16910	0	13	penned	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16910	0	14	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/16910	0	15	novel	NN	*)	-	-	-	-	*	2)
+selectraws1/16910	0	16	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/16910	0	17	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/16910	0	18	Clifford	NNP	(S(NP(NP*	-	-	-	-	(ORGANIZATION)	(10)
+selectraws1/16910	0	19	's	POS	*)	-	-	-	-	*	-
+selectraws1/16910	0	20	paralysis	NN	*)	-	-	-	-	*	-
+selectraws1/16910	0	21	forces	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16910	0	22	Constance	NNP	(S(NP*)	-	-	-	-	*	(12)
+selectraws1/16910	0	23	to	TO	(VP*	-	-	-	-	*	-
+selectraws1/16910	0	24	seek	VB	(VP*	-	-	-	-	*	-
+selectraws1/16910	0	25	an	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16910	0	26	affair	NN	*)	-	-	-	-	*	-
+selectraws1/16910	0	27	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	28	Oliver	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/16910	0	29	Mellows	NNP	*)))))))))))	-	-	-	-	*)	2)
+selectraws1/16910	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16910	0	0	At	IN	(TOP(SINV(PP*	-	-	-	-	*	-
+selectraws1/16910	0	1	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16910	0	2	center	NN	*)	-	-	-	-	*	-
+selectraws1/16910	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	4	another	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/16910	0	5	novel	NN	*)	-	-	-	-	*	-
+selectraws1/16910	0	6	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	7	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16910	0	8	writer	NN	*))))))	-	-	-	-	*	1)|3)
+selectraws1/16910	0	9	is	VBZ	(VP*)	-	-	-	-	*	-
+selectraws1/16910	0	10	a	DT	(NP(NP*	-	-	-	-	*	(13
+selectraws1/16910	0	11	man	NN	*)	-	-	-	-	*	13)
+selectraws1/16910	0	12	whose	WP$	(SBAR(WHNP(WHNP*	-	-	-	-	*	-
+selectraws1/16910	0	13	love	NN	*)	-	-	-	-	*	-
+selectraws1/16910	0	14	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	15	Clara	NNP	(NP*	-	-	-	-	(PERSON*	(14
+selectraws1/16910	0	16	Dawes	NNPS	*)))	-	-	-	-	*)	14)
+selectraws1/16910	0	17	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/16910	0	18	not	RB	*	-	-	-	-	*	-
+selectraws1/16910	0	19	strong	JJ	(ADJP*	-	-	-	-	*	-
+selectraws1/16910	0	20	enough	RB	*	-	-	-	-	*	-
+selectraws1/16910	0	21	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/16910	0	22	stop	VB	(VP*	-	-	-	-	*	-
+selectraws1/16910	0	23	him	PRP	(NP*)	-	-	-	-	*	(13)
+selectraws1/16910	0	24	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	25	returning	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/16910	0	26	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	27	Mrs.	NNP	(NP*	-	-	-	-	(PERSON*	(15
+selectraws1/16910	0	28	Morel	NNP	*)))))))))))))	-	-	-	-	*)	15)
+selectraws1/16910	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16910	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16910	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/16910	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/16910	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/16910	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/16910	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16910	0	6	English	JJ	*	-	-	-	-	*	-
+selectraws1/16910	0	7	writer	NN	*)	-	-	-	-	*	-
+selectraws1/16910	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16910	0	9	Lady	NNP	(NP(NP*	-	-	-	-	*	(2|(12
+selectraws1/16910	0	10	Chatterly	NNP	*	-	-	-	-	*	12)
+selectraws1/16910	0	11	's	POS	*)	-	-	-	-	*	-
+selectraws1/16910	0	12	Lover	NNP	*	-	-	-	-	*	2)
+selectraws1/16910	0	13	and	CC	*	-	-	-	-	*	-
+selectraws1/16910	0	14	Sons	NNP	*	-	-	-	-	*	(3
+selectraws1/16910	0	15	and	CC	*	-	-	-	-	*	-
+selectraws1/16910	0	16	Lovers	NNPS	*)))	-	-	-	-	*	3)|1)
+selectraws1/16910	0	17	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

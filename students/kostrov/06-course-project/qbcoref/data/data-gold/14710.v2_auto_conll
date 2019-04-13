@@ -1,0 +1,131 @@
+#begin document (notdoneraws/14710); part 000
+
+notdoneraws/14710	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/14710	0	1	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/14710	0	2	work	NN	*))	-	-	-	-	*	1)
+notdoneraws/14710	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/14710	0	4	one	CD	(NP*	-	-	-	-	*	(5
+notdoneraws/14710	0	5	character	NN	*)	-	-	-	-	*	5)
+notdoneraws/14710	0	6	is	VBZ	(VP(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	7	accused	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	8	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14710	0	9	playing	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	10	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14710	0	11	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/14710	0	12	cut-glass	JJ	*	-	-	-	-	*	-
+notdoneraws/14710	0	13	punch	NN	*	-	-	-	-	*	-
+notdoneraws/14710	0	14	bowl	NN	*)))))))	-	-	-	-	*	-
+notdoneraws/14710	0	15	and	CC	*	-	-	-	-	*	-
+notdoneraws/14710	0	16	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	17	referred	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	18	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/14710	0	19	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/14710	0	20	rehab	NN	*	-	-	-	-	*	-
+notdoneraws/14710	0	21	center	NN	*)	-	-	-	-	*	-
+notdoneraws/14710	0	22	,	,	*	-	-	-	-	*	-
+notdoneraws/14710	0	23	Rainbow	NNP	(NP*	-	-	-	-	(ORGANIZATION*	-
+notdoneraws/14710	0	24	Hill	NNP	*))))))	-	-	-	-	*)	-
+notdoneraws/14710	0	25	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14710	0	0	Another	DT	(TOP(S(NP*	-	-	-	-	*	(2
+notdoneraws/14710	0	1	character	NN	*)	-	-	-	-	*	2)
+notdoneraws/14710	0	2	recounts	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	3	a	DT	(NP(NP*	-	-	-	-	*	(6
+notdoneraws/14710	0	4	story	NN	*)	-	-	-	-	*	-
+notdoneraws/14710	0	5	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14710	0	6	a	DT	(NP(NP*	-	-	-	-	*	(7
+notdoneraws/14710	0	7	couple	NN	*)	-	-	-	-	*	7)|6)
+notdoneraws/14710	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/14710	0	9	went	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	10	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/14710	0	11	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/14710	0	12	zoo	NN	*))	-	-	-	-	*	-
+notdoneraws/14710	0	13	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14710	0	14	their	PRP$	(NP*	-	-	-	-	*	(8|(7)
+notdoneraws/14710	0	15	son	NN	*))))))))	-	-	-	-	*	8)
+notdoneraws/14710	0	16	,	,	*	-	-	-	-	*	-
+notdoneraws/14710	0	17	only	RB	(S(ADVP*)	-	-	-	-	*	-
+notdoneraws/14710	0	18	to	TO	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	19	see	VB	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	20	two	CD	(NP*	-	-	-	-	*	-
+notdoneraws/14710	0	21	aroused	VBN	*	-	-	-	-	*	-
+notdoneraws/14710	0	22	elephants	NNS	*)))))	-	-	-	-	*	-
+notdoneraws/14710	0	23	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14710	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	(9
+notdoneraws/14710	0	1	servant	NN	*)	-	-	-	-	*	9)
+notdoneraws/14710	0	2	named	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	3	Sookie	NNP	(S(NP*))))	-	-	-	-	(PERSON)	(9)
+notdoneraws/14710	0	4	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	5	seen	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	6	as	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/14710	0	7	Dr.	NNP	(S(NP(NP*	-	-	-	-	(PERSON*	(10
+notdoneraws/14710	0	8	Baugh	NNP	*)	-	-	-	-	*)	10)
+notdoneraws/14710	0	9	and	CC	*	-	-	-	-	*	-
+notdoneraws/14710	0	10	Reverend	NNP	(NP*	-	-	-	-	*	(11
+notdoneraws/14710	0	11	Tooker	NNP	*))	-	-	-	-	*	11)
+notdoneraws/14710	0	12	deliver	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	13	some	DT	(NP*	-	-	-	-	*	-
+notdoneraws/14710	0	14	bad	JJ	*	-	-	-	-	*	-
+notdoneraws/14710	0	15	news	NN	*))))))	-	-	-	-	*	-
+notdoneraws/14710	0	16	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14710	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/14710	0	1	play	NN	*)	-	-	-	-	*	1)
+notdoneraws/14710	0	2	tells	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	3	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/14710	0	4	story	NN	*)	-	-	-	-	*	-
+notdoneraws/14710	0	5	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14710	0	6	a	DT	(NP*	-	-	-	-	*	(12
+notdoneraws/14710	0	7	Southern	NNP	*	-	-	-	-	*	-
+notdoneraws/14710	0	8	family	NN	*))	-	-	-	-	*	12)
+notdoneraws/14710	0	9	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/14710	0	10	features	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	11	the	DT	(NP*	-	-	-	-	*	(4
+notdoneraws/14710	0	12	sexually	RB	(ADJP*	-	-	-	-	*	-
+notdoneraws/14710	0	13	frustrated	VBN	*)	-	-	-	-	*	-
+notdoneraws/14710	0	14	Maggie	NNP	*	-	-	-	-	(PERSON)	4)
+notdoneraws/14710	0	15	and	CC	*	-	-	-	-	*	-
+notdoneraws/14710	0	16	Brick	NNP	*	-	-	-	-	(PERSON*	(5
+notdoneraws/14710	0	17	Pollitt	NNP	*))))))	-	-	-	-	*)	5)
+notdoneraws/14710	0	18	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14710	0	0	Name	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/14710	0	1	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/14710	0	2	work	NN	*))	-	-	-	-	*	1)
+notdoneraws/14710	0	3	that	DT	(NP*)	-	-	-	-	*	-
+notdoneraws/14710	0	4	also	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/14710	0	5	concerns	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	6	the	DT	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/14710	0	7	cancer-plagued	JJ	*	-	-	-	-	*	-
+notdoneraws/14710	0	8	Big	NNP	*	-	-	-	-	(ORGANIZATION*	-
+notdoneraws/14710	0	9	Daddy	NNP	*)	-	-	-	-	*)	2)
+notdoneraws/14710	0	10	,	,	*	-	-	-	-	*	-
+notdoneraws/14710	0	11	a	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/14710	0	12	work	NN	*)	-	-	-	-	*	-
+notdoneraws/14710	0	13	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14710	0	14	Tennessee	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(3
+notdoneraws/14710	0	15	Williams	NNP	*))	-	-	-	-	*)	1)|3)
+notdoneraws/14710	0	16	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+notdoneraws/14710	0	17	which	WDT	(WHNP*))	-	-	-	-	*	-
+notdoneraws/14710	0	18	Maggie	NNP	(S(NP*)	-	-	-	-	(PERSON)	(4)
+notdoneraws/14710	0	19	claims	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	20	that	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/14710	0	21	there	EX	(S(NP*)	-	-	-	-	*	-
+notdoneraws/14710	0	22	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14710	0	23	nothing	NN	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/14710	0	24	more	RBR	(ADJP(ADJP*	-	-	-	-	*	-
+notdoneraws/14710	0	25	determined	JJ	*)	-	-	-	-	*	-
+notdoneraws/14710	0	26	than	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14710	0	27	the	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/14710	0	28	title	NN	*	-	-	-	-	*	-
+notdoneraws/14710	0	29	animal	NN	*)))))))))))))	-	-	-	-	*	1)
+notdoneraws/14710	0	30	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

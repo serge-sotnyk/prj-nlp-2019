@@ -1,0 +1,108 @@
+#begin document (notdoneraws/21113); part 000
+
+notdoneraws/21113	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+notdoneraws/21113	0	1	poet	NN	*)	-	-	-	-	*	-
+notdoneraws/21113	0	2	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	3	the	DT	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/21113	0	4	collection	NN	*)	-	-	-	-	*	2)
+notdoneraws/21113	0	5	Deaths	NNP	(NP*	-	-	-	-	*	(2
+notdoneraws/21113	0	6	and	CC	*	-	-	-	-	*	-
+notdoneraws/21113	0	7	Entrances	NNP	*))))	-	-	-	-	*	2)|1)
+notdoneraws/21113	0	8	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/21113	0	9	that	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/21113	0	10	time	NN	(S(NP*)	-	-	-	-	*	-
+notdoneraws/21113	0	11	held	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/21113	0	12	me	PRP	(NP*)	-	-	-	-	*	(1)
+notdoneraws/21113	0	13	green	JJ	(UCP(ADJP*)	-	-	-	-	*	-
+notdoneraws/21113	0	14	and	CC	*	-	-	-	-	*	-
+notdoneraws/21113	0	15	dying	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/21113	0	16	/	SYM	(NP*)	-	-	-	-	*	-
+notdoneraws/21113	0	17	though	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/21113	0	18	I	PRP	(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/21113	0	19	sang	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/21113	0	20	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	21	my	PRP$	(NP*	-	-	-	-	*	-
+notdoneraws/21113	0	22	chains	NNS	*))	-	-	-	-	*	-
+notdoneraws/21113	0	23	like	IN	(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	24	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/21113	0	25	sea	NN	*))	-	-	-	-	*	-
+notdoneraws/21113	0	26	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	27	Fern	NNP	(NP*	-	-	-	-	(LOCATION*	-
+notdoneraws/21113	0	28	Hill	NNP	*)))))))))))	-	-	-	-	*)	-
+notdoneraws/21113	0	29	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/21113	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/21113	0	1	depicted	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/21113	0	2	the	DT	(NP(NP*	-	-	-	-	*	(3
+notdoneraws/21113	0	3	inhabitants	NNS	*)	-	-	-	-	*	-
+notdoneraws/21113	0	4	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	5	Llareggub	NNP	(NP*)))	-	-	-	-	*	3)
+notdoneraws/21113	0	6	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	7	the	DT	(NP(NP*	-	-	-	-	*	(4
+notdoneraws/21113	0	8	play	NN	*)	-	-	-	-	*	4)
+notdoneraws/21113	0	9	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	10	voices	NNS	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/21113	0	11	Under	IN	(PP*	-	-	-	-	*	(4
+notdoneraws/21113	0	12	Milk	NNP	(NP*	-	-	-	-	*	-
+notdoneraws/21113	0	13	Wood	NNP	*))))))	-	-	-	-	*	4)
+notdoneraws/21113	0	14	,	,	*	-	-	-	-	*	-
+notdoneraws/21113	0	15	and	CC	*	-	-	-	-	*	-
+notdoneraws/21113	0	16	eulogized	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/21113	0	17	his	PRP$	(NP*	-	-	-	-	*	(5|(1)
+notdoneraws/21113	0	18	father	NN	*)	-	-	-	-	*	5)
+notdoneraws/21113	0	19	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	20	a	DT	(NP(NP*	-	-	-	-	*	(6
+notdoneraws/21113	0	21	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+notdoneraws/21113	0	22	\*	SYM	(X*)	-	-	-	-	*	-
+notdoneraws/21113	0	23	-RRB-	-RRB-	*)	-	-	-	-	*	-
+notdoneraws/21113	0	24	villanelle	NN	*)	-	-	-	-	*	6)
+notdoneraws/21113	0	25	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/21113	0	26	claimed	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/21113	0	27	,	,	*	-	-	-	-	*	-
+notdoneraws/21113	0	28	Old	NNP	(SBAR*	-	-	-	-	*	-
+notdoneraws/21113	0	29	age	NN	(S(NP*)	-	-	-	-	*	-
+notdoneraws/21113	0	30	should	MD	(VP*	-	-	-	-	*	-
+notdoneraws/21113	0	31	burn	VB	(VP*	-	-	-	-	*	-
+notdoneraws/21113	0	32	and	CC	*	-	-	-	-	*	-
+notdoneraws/21113	0	33	rave	VB	(VP*	-	-	-	-	*	-
+notdoneraws/21113	0	34	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	35	close	JJ	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/21113	0	36	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	37	day	NN	(NP*))))))))))))))))	-	-	-	-	*	-
+notdoneraws/21113	0	38	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/21113	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/21113	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/21113	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/21113	0	4	name	NN	(NP*)	-	-	-	-	*	-
+notdoneraws/21113	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/21113	0	6	Welsh	NNP	*	-	-	-	-	*	-
+notdoneraws/21113	0	7	poet	NN	*)	-	-	-	-	*	1)
+notdoneraws/21113	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/21113	0	9	wrote	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/21113	0	10	Rage	NN	(NP*	-	-	-	-	*	-
+notdoneraws/21113	0	11	,	,	*	-	-	-	-	*	-
+notdoneraws/21113	0	12	rage	NN	*)	-	-	-	-	*	-
+notdoneraws/21113	0	13	against	IN	(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	14	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/21113	0	15	dying	VBG	*)	-	-	-	-	*	-
+notdoneraws/21113	0	16	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	17	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/21113	0	18	light	NN	*))))	-	-	-	-	*	-
+notdoneraws/21113	0	19	in	RP	(PRT*)))))	-	-	-	-	*	-
+notdoneraws/21113	0	20	Do	VBP	(VP*	-	-	-	-	*	(6
+notdoneraws/21113	0	21	Not	RB	*	-	-	-	-	*	-
+notdoneraws/21113	0	22	Go	VB	(VP*	-	-	-	-	*	-
+notdoneraws/21113	0	23	Gentle	NNP	(NP*)	-	-	-	-	*	-
+notdoneraws/21113	0	24	into	IN	(PP*	-	-	-	-	*	-
+notdoneraws/21113	0	25	That	DT	(NP*	-	-	-	-	*	-
+notdoneraws/21113	0	26	Good	NNP	*	-	-	-	-	*	-
+notdoneraws/21113	0	27	Night	NNP	*))))	-	-	-	-	*	6)
+notdoneraws/21113	0	28	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

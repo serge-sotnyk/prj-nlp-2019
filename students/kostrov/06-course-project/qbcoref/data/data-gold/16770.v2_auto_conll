@@ -1,0 +1,145 @@
+#begin document (notdoneraws/16770); part 000
+
+notdoneraws/16770	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	-
+notdoneraws/16770	0	1	major	JJ	*	-	-	-	-	*	-
+notdoneraws/16770	0	2	plot	NN	*	-	-	-	-	*	-
+notdoneraws/16770	0	3	device	NN	*)	-	-	-	-	*	-
+notdoneraws/16770	0	4	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	5	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/16770	0	6	novel	NN	*)))	-	-	-	-	*	1)
+notdoneraws/16770	0	7	was	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	8	inspired	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	9	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	10	an	DT	(NP(NP*	-	-	-	-	*	(3
+notdoneraws/16770	0	11	editorial	NN	*)	-	-	-	-	*	-
+notdoneraws/16770	0	12	written	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	13	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	14	Alexander	NNP	(NP*	-	-	-	-	(PERSON*	(4
+notdoneraws/16770	0	15	Manly	NNP	*)))))))	-	-	-	-	*)	4)|3)
+notdoneraws/16770	0	16	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16770	0	0	During	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	1	its	PRP$	(NP*	-	-	-	-	*	(1)
+notdoneraws/16770	0	2	climax	NN	*))	-	-	-	-	*	-
+notdoneraws/16770	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/16770	0	4	Josh	NNP	(NP*	-	-	-	-	(PERSON*	(5
+notdoneraws/16770	0	5	Green	NNP	*)	-	-	-	-	*)	5)
+notdoneraws/16770	0	6	plunges	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	7	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16770	0	8	knife	NN	*)	-	-	-	-	*	-
+notdoneraws/16770	0	9	into	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	10	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16770	0	11	body	NN	*)	-	-	-	-	*	-
+notdoneraws/16770	0	12	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	13	his	PRP$	(NP(NP(NP*	-	-	-	-	*	(6|(5)
+notdoneraws/16770	0	14	father	NN	*	-	-	-	-	*	-
+notdoneraws/16770	0	15	's	POS	*)	-	-	-	-	*	-
+notdoneraws/16770	0	16	killer	NN	*)	-	-	-	-	*	6)
+notdoneraws/16770	0	17	,	,	*	-	-	-	-	*	-
+notdoneraws/16770	0	18	George	NNP	(NP*	-	-	-	-	(PERSON*	(6
+notdoneraws/16770	0	19	McBane	NNP	*)))))))	-	-	-	-	*)	6)
+notdoneraws/16770	0	20	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16770	0	0	Another	DT	(TOP(S(NP*	-	-	-	-	*	(7
+notdoneraws/16770	0	1	character	NN	*)	-	-	-	-	*	7)
+notdoneraws/16770	0	2	dresses	NNS	(VP(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	3	up	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/16770	0	4	as	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	5	his	PRP$	(NP(NP*	-	-	-	-	*	(8|(9|(7)
+notdoneraws/16770	0	6	grandfather	NN	*	-	-	-	-	*	8)
+notdoneraws/16770	0	7	's	POS	*)	-	-	-	-	*	-
+notdoneraws/16770	0	8	servant	NN	*	-	-	-	-	*	9)
+notdoneraws/16770	0	9	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	10	win	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	11	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16770	0	12	cakewalk	NN	*)))))))	-	-	-	-	*	-
+notdoneraws/16770	0	13	,	,	*	-	-	-	-	*	-
+notdoneraws/16770	0	14	and	CC	*	-	-	-	-	*	-
+notdoneraws/16770	0	15	later	RB	(VP(ADVP*)	-	-	-	-	*	-
+notdoneraws/16770	0	16	uses	VBZ	*	-	-	-	-	*	-
+notdoneraws/16770	0	17	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16770	0	18	same	JJ	*	-	-	-	-	*	-
+notdoneraws/16770	0	19	disguise	NN	*)	-	-	-	-	*	-
+notdoneraws/16770	0	20	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	21	kill	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	22	Polly	NNP	(NP(NP*	-	-	-	-	(PERSON*	(10
+notdoneraws/16770	0	23	Ochiltree	NNP	*)	-	-	-	-	*)	10)
+notdoneraws/16770	0	24	,	,	*	-	-	-	-	*	-
+notdoneraws/16770	0	25	resulting	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	26	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	27	Sandy	NNP	(NP*))))	-	-	-	-	(LOCATION)	(11)
+notdoneraws/16770	0	28	nearly	RB	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	29	being	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	30	lynched	VBN	(VP*)))))))))))	-	-	-	-	*	-
+notdoneraws/16770	0	31	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16770	0	0	At	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	1	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16770	0	2	end	NN	*)	-	-	-	-	*	-
+notdoneraws/16770	0	3	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/16770	0	5	novel	NN	*))))	-	-	-	-	*	1)
+notdoneraws/16770	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/16770	0	7	Dr.	NNP	(NP*	-	-	-	-	(PERSON*	(12
+notdoneraws/16770	0	8	Miller	NNP	*)	-	-	-	-	*)	12)
+notdoneraws/16770	0	9	agrees	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	10	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	11	operate	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	12	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	13	the	DT	(NP(NP*	-	-	-	-	*	(13
+notdoneraws/16770	0	14	son	NN	*)	-	-	-	-	*	-
+notdoneraws/16770	0	15	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	16	Major	NNP	(NP*	-	-	-	-	*	(14
+notdoneraws/16770	0	17	Carteret	NNP	*)))))))	-	-	-	-	*	14)|13)
+notdoneraws/16770	0	18	after	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/16770	0	19	a	DT	(S(NP*	-	-	-	-	*	-
+notdoneraws/16770	0	20	white	JJ	*	-	-	-	-	*	-
+notdoneraws/16770	0	21	mob	NN	*)	-	-	-	-	*	-
+notdoneraws/16770	0	22	burns	VBZ	(VP(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	23	down	RP	(PRT*)	-	-	-	-	*	-
+notdoneraws/16770	0	24	his	PRP$	(NP*	-	-	-	-	*	(12)
+notdoneraws/16770	0	25	hospital	NN	*))	-	-	-	-	*	-
+notdoneraws/16770	0	26	and	CC	*	-	-	-	-	*	-
+notdoneraws/16770	0	27	kills	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	28	his	PRP$	(NP*	-	-	-	-	*	(13|(12)
+notdoneraws/16770	0	29	son	NN	*)	-	-	-	-	*	13)
+notdoneraws/16770	0	30	during	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	31	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16770	0	32	riot	NN	*)	-	-	-	-	*	-
+notdoneraws/16770	0	33	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/16770	0	34	enables	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	35	the	DT	(S(NP*	-	-	-	-	*	-
+notdoneraws/16770	0	36	Democratic	NNP	*	-	-	-	-	*	-
+notdoneraws/16770	0	37	Party	NNP	*)	-	-	-	-	*	-
+notdoneraws/16770	0	38	to	TO	(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	39	regain	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	40	political	JJ	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16770	0	41	control	NN	*)	-	-	-	-	*	-
+notdoneraws/16770	0	42	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	43	Wellington	NNP	(NP*))))))))))))))))	-	-	-	-	(LOCATION)	-
+notdoneraws/16770	0	44	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16770	0	0	FTP	UH	(TOP(S(INTJ*)	-	-	-	-	*	-
+notdoneraws/16770	0	1	,	,	*	-	-	-	-	*	-
+notdoneraws/16770	0	2	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/16770	0	4	novel	NN	*)	-	-	-	-	*	-
+notdoneraws/16770	0	5	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16770	0	6	Charles	NNP	(NP*	-	-	-	-	(PERSON*	(2
+notdoneraws/16770	0	7	Chesnutt	NNP	*))	-	-	-	-	*)	1)|2)
+notdoneraws/16770	0	8	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/16770	0	9	fictionalizes	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/16770	0	10	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16770	0	11	1898	CD	*	-	-	-	-	(DATE)	-
+notdoneraws/16770	0	12	Wilmington	NNP	*	-	-	-	-	*	-
+notdoneraws/16770	0	13	race	NN	*	-	-	-	-	*	-
+notdoneraws/16770	0	14	riot	NN	*))))))	-	-	-	-	*	-
+notdoneraws/16770	0	15	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

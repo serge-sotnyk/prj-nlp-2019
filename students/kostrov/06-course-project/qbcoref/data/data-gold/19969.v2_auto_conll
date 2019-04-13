@@ -1,0 +1,133 @@
+#begin document (selectraws1/19969); part 000
+
+selectraws1/19969	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(5
+selectraws1/19969	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws1/19969	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19969	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/19969	0	4	novel	NN	*)))	-	-	-	-	*	5)|1)
+selectraws1/19969	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	6	blackmailed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19969	0	8	a	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/19969	0	9	man	NN	*)	-	-	-	-	*	3)
+selectraws1/19969	0	10	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	11	John	NNP	(S(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/19969	0	12	Barsad	NNP	*)))))))	-	-	-	-	*)	3)
+selectraws1/19969	0	13	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19969	0	0	Jerry	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(4
+selectraws1/19969	0	1	Cruncher	NNP	*)	-	-	-	-	*)	4)
+selectraws1/19969	0	2	nicknames	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	3	himself	PRP	(NP*	-	-	-	-	*	(4)
+selectraws1/19969	0	4	resurrection	NN	*	-	-	-	-	*	-
+selectraws1/19969	0	5	man	NN	*)	-	-	-	-	*	-
+selectraws1/19969	0	6	because	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/19969	0	7	he	PRP	(S(NP*)	-	-	-	-	*	(4)
+selectraws1/19969	0	8	steals	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	9	fresh	JJ	(NP*	-	-	-	-	*	-
+selectraws1/19969	0	10	corpses	NNS	*)	-	-	-	-	*	-
+selectraws1/19969	0	11	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/19969	0	12	sell	VB	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	13	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/19969	0	14	medical	JJ	(NP*	-	-	-	-	*	-
+selectraws1/19969	0	15	students	NNS	*)))))))))	-	-	-	-	*	-
+selectraws1/19969	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19969	0	0	One	CD	(TOP(S(NP*	-	-	-	-	*	(5
+selectraws1/19969	0	1	character	NN	*)	-	-	-	-	*	5)
+selectraws1/19969	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	3	discovered	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	4	spending	VBG	(NP*)	-	-	-	-	*	-
+selectraws1/19969	0	5	nine	CD	(NP*	-	-	-	-	*	-
+selectraws1/19969	0	6	straight	JJ	*	-	-	-	-	*	-
+selectraws1/19969	0	7	days	NNS	*)	-	-	-	-	*	-
+selectraws1/19969	0	8	making	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/19969	0	9	shoes	NNS	(NP*)	-	-	-	-	*	-
+selectraws1/19969	0	10	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19969	0	11	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19969	0	12	fit	NN	*)	-	-	-	-	*	-
+selectraws1/19969	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19969	0	14	temporary	JJ	(NP*	-	-	-	-	*	-
+selectraws1/19969	0	15	insanity	NN	*))	-	-	-	-	*	-
+selectraws1/19969	0	16	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19969	0	17	Jarvis	NNP	(NP(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/19969	0	18	Lorry	NNP	*)	-	-	-	-	*)	6)
+selectraws1/19969	0	19	,	,	*	-	-	-	-	*	-
+selectraws1/19969	0	20	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19969	0	21	works	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/19969	0	22	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/19969	0	23	Tellson	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/19969	0	24	's	POS	*)	-	-	-	-	*	-
+selectraws1/19969	0	25	Bank	NNP	*)))))))))))))	-	-	-	-	*)	-
+selectraws1/19969	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19969	0	0	That	DT	(TOP(S(S(NP*	-	-	-	-	*	(5
+selectraws1/19969	0	1	character	NN	*)	-	-	-	-	*	5)
+selectraws1/19969	0	2	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	3	unjustly	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/19969	0	4	imprisoned	VBN	*	-	-	-	-	*	-
+selectraws1/19969	0	5	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/19969	0	6	eighteen	JJ	(NP*	-	-	-	-	*	-
+selectraws1/19969	0	7	years	NNS	*))	-	-	-	-	*	-
+selectraws1/19969	0	8	because	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/19969	0	9	he	PRP	(S(NP*)	-	-	-	-	*	(5)
+selectraws1/19969	0	10	refused	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	11	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/19969	0	12	cover	VB	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	13	up	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/19969	0	14	St.	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	(7
+selectraws1/19969	0	15	Evremonde	NNP	*	-	-	-	-	*	-
+selectraws1/19969	0	16	Brothers	NNPS	*	-	-	-	-	*)	7)
+selectraws1/19969	0	17	'	POS	*)	-	-	-	-	*	-
+selectraws1/19969	0	18	rape	NN	*))))))))))	-	-	-	-	*	-
+selectraws1/19969	0	19	,	,	*	-	-	-	-	*	-
+selectraws1/19969	0	20	and	CC	*	-	-	-	-	*	-
+selectraws1/19969	0	21	Miss	NNP	(S(NP*	-	-	-	-	(PERSON*	(8
+selectraws1/19969	0	22	Pross	NNP	*)	-	-	-	-	*)	8)
+selectraws1/19969	0	23	shoots	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	24	Madame	NNP	(S(NP*	-	-	-	-	(ORGANIZATION*	(9
+selectraws1/19969	0	25	Defarge	NNP	*)	-	-	-	-	*)	9)
+selectraws1/19969	0	26	to	TO	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	27	protect	VB	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	28	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19969	0	29	secrecy	NN	*)	-	-	-	-	*	-
+selectraws1/19969	0	30	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19969	0	31	Lucie	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	(11
+selectraws1/19969	0	32	Manette	NNP	*	-	-	-	-	*)	11)
+selectraws1/19969	0	33	's	POS	*)	-	-	-	-	*	-
+selectraws1/19969	0	34	escape	NN	*)))	-	-	-	-	*	-
+selectraws1/19969	0	35	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/19969	0	36	Paris	NNP	(NP*)))))))	-	-	-	-	(LOCATION)	-
+selectraws1/19969	0	37	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19969	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19969	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/19969	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/19969	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/19969	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/19969	0	6	novel	NN	*)	-	-	-	-	*	1)
+selectraws1/19969	0	7	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/19969	0	8	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/19969	0	9	Sydney	NNP	(S(NP*	-	-	-	-	(ORGANIZATION*	(2
+selectraws1/19969	0	10	Carton	NNP	*)	-	-	-	-	*)	2)
+selectraws1/19969	0	11	takes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19969	0	12	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19969	0	13	place	NN	*)	-	-	-	-	*	-
+selectraws1/19969	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19969	0	15	the	DT	(NP*	-	-	-	-	*	(5
+selectraws1/19969	0	16	condemned	VBN	*	-	-	-	-	*	5)
+selectraws1/19969	0	17	Charles	NNP	*	-	-	-	-	(PERSON*	(5
+selectraws1/19969	0	18	Darnay	NNP	*))	-	-	-	-	*)	5)
+selectraws1/19969	0	19	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19969	0	20	Charles	NNP	(NP*	-	-	-	-	(PERSON*	(10
+selectraws1/19969	0	21	Dickens	NNP	*))))))))	-	-	-	-	*)	10)
+selectraws1/19969	0	22	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

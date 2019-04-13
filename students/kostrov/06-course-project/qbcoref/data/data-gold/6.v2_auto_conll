@@ -1,0 +1,139 @@
+#begin document (selectraws1/6); part 000
+
+selectraws1/6	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/6	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws1/6	0	2	described	VBD	(VP*	-	-	-	-	*	-
+selectraws1/6	0	3	each	DT	(NP*	-	-	-	-	*	-
+selectraws1/6	0	4	rifleshot	JJ	*	-	-	-	-	*	-
+selectraws1/6	0	5	hammerstroke	NN	*)	-	-	-	-	*	-
+selectraws1/6	0	6	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	7	another	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/6	0	8	notch	NN	*)	-	-	-	-	*	-
+selectraws1/6	0	9	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	10	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/6	0	11	silence	NN	*)	-	-	-	-	*	-
+selectraws1/6	0	12	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	13	the	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/6	0	14	title	NN	*	-	-	-	-	*	-
+selectraws1/6	0	15	poem	NN	*)	-	-	-	-	*	-
+selectraws1/6	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	17	his	PRP$	(NP(NP*	-	-	-	-	*	(4|(1)
+selectraws1/6	0	18	most	RBS	(ADJP*	-	-	-	-	*	-
+selectraws1/6	0	19	recent	JJ	*)	-	-	-	-	*	-
+selectraws1/6	0	20	poetry	NN	*	-	-	-	-	*	-
+selectraws1/6	0	21	collection	NN	*)	-	-	-	-	*	4)|3)
+selectraws1/6	0	22	,	,	*	-	-	-	-	*	-
+selectraws1/6	0	23	Typewriter	NNP	(NP*	-	-	-	-	*	(3
+selectraws1/6	0	24	Music	NNP	*))))))))))	-	-	-	-	*	3)
+selectraws1/6	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/6	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws1/6	0	1	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/6	0	2	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	3	Jim	NNP	(NP(NP*	-	-	-	-	(PERSON*	(5
+selectraws1/6	0	4	Saddler	NNP	*)	-	-	-	-	*)	5)
+selectraws1/6	0	5	,	,	*	-	-	-	-	*	-
+selectraws1/6	0	6	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/6	0	7	sees	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/6	0	8	his	PRP$	(S(NP*	-	-	-	-	*	(6|(5)
+selectraws1/6	0	9	friend	NN	*	-	-	-	-	*	6)
+selectraws1/6	0	10	Clancy	NNP	*)	-	-	-	-	(PERSON)	(6)
+selectraws1/6	0	11	killed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/6	0	12	during	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	13	World	NNP	(NP*	-	-	-	-	*	-
+selectraws1/6	0	14	War	NNP	*	-	-	-	-	*	-
+selectraws1/6	0	15	I	NNP	*)))))))	-	-	-	-	*	-
+selectraws1/6	0	16	,	,	*))	-	-	-	-	*	-
+selectraws1/6	0	17	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	18	the	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws1/6	0	19	novel	NN	*)	-	-	-	-	*	7)
+selectraws1/6	0	20	Fly	VB	(VP*	-	-	-	-	*	(7
+selectraws1/6	0	21	Away	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/6	0	22	Peter	NNP	(NP*)))))	-	-	-	-	(PERSON)	7)
+selectraws1/6	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/6	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws1/6	0	1	created	VBD	(VP*	-	-	-	-	*	-
+selectraws1/6	0	2	Digger	NNP	(S(NP(NP*	-	-	-	-	*	(8
+selectraws1/6	0	3	Keen	NNP	*)	-	-	-	-	*	8)
+selectraws1/6	0	4	and	CC	*	-	-	-	-	*	-
+selectraws1/6	0	5	Vic	NNP	(NP(NP*	-	-	-	-	(PERSON*	(9
+selectraws1/6	0	6	Curran	NNP	*)	-	-	-	-	*)	9)
+selectraws1/6	0	7	,	,	*	-	-	-	-	*	-
+selectraws1/6	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/6	0	9	were	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/6	0	10	both	DT	*	-	-	-	-	*	-
+selectraws1/6	0	11	imprisoned	VBN	(VP*	-	-	-	-	*	-
+selectraws1/6	0	12	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	13	the	DT	(NP*	-	-	-	-	*	(17
+selectraws1/6	0	14	Japanese	NNPS	*))	-	-	-	-	*	17)
+selectraws1/6	0	15	during	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	16	World	NNP	(NP*	-	-	-	-	*	-
+selectraws1/6	0	17	War	NNP	*	-	-	-	-	*	-
+selectraws1/6	0	18	II	NNP	*))))))	-	-	-	-	*	-
+selectraws1/6	0	19	,	,	*))	-	-	-	-	*	-
+selectraws1/6	0	20	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	21	his	PRP$	(NP*	-	-	-	-	*	(10|(1)
+selectraws1/6	0	22	novel	NN	*))	-	-	-	-	*	10)
+selectraws1/6	0	23	The	DT	(NP*	-	-	-	-	*	(10
+selectraws1/6	0	24	Great	NNP	*	-	-	-	-	*	-
+selectraws1/6	0	25	World	NNP	*)))	-	-	-	-	*	10)
+selectraws1/6	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/6	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/6	0	1	his	PRP$	(NP*	-	-	-	-	*	(2|(1)
+selectraws1/6	0	2	most	RBS	(ADJP*	-	-	-	-	*	-
+selectraws1/6	0	3	famous	JJ	*)	-	-	-	-	*	-
+selectraws1/6	0	4	novel	NN	*))	-	-	-	-	*	2)
+selectraws1/6	0	5	,	,	*	-	-	-	-	*	-
+selectraws1/6	0	6	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/6	0	7	lives	NNS	*)	-	-	-	-	*	-
+selectraws1/6	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	9	Lachlan	NNP	(NP(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/6	0	10	Beattie	NNP	*)	-	-	-	-	*)	11)
+selectraws1/6	0	11	and	CC	*	-	-	-	-	*	-
+selectraws1/6	0	12	his	PRP$	(NP(NP*	-	-	-	-	*	(12|(11)
+selectraws1/6	0	13	cousins	NNS	*)	-	-	-	-	*	12)
+selectraws1/6	0	14	Janet	NNP	(NP*	-	-	-	-	(PERSON)	(12|(13)
+selectraws1/6	0	15	and	CC	*	-	-	-	-	*	-
+selectraws1/6	0	16	Meg	NNP	*)))))	-	-	-	-	(PERSON)	(14)|12)
+selectraws1/6	0	17	are	VBP	(VP*	-	-	-	-	*	-
+selectraws1/6	0	18	affected	VBN	(VP*	-	-	-	-	*	-
+selectraws1/6	0	19	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/6	0	20	the	DT	(S(NP*	-	-	-	-	*	(15
+selectraws1/6	0	21	McIvor	NNP	*	-	-	-	-	(PERSON)	-
+selectraws1/6	0	22	family	NN	*)	-	-	-	-	*	15)
+selectraws1/6	0	23	takes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/6	0	24	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	25	Gemmy	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	(16
+selectraws1/6	0	26	Fairley	NNP	*)	-	-	-	-	*)	16)
+selectraws1/6	0	27	,	,	*	-	-	-	-	*	-
+selectraws1/6	0	28	an	DT	(NP(NP*	-	-	-	-	*	(16
+selectraws1/6	0	29	Englishman	NN	*)	-	-	-	-	*	16)
+selectraws1/6	0	30	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/6	0	31	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/6	0	32	stranded	VBN	(VP*	-	-	-	-	*	-
+selectraws1/6	0	33	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	34	Australia	NNP	(NP*))))))))))))))	-	-	-	-	(LOCATION)	-
+selectraws1/6	0	35	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/6	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/6	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/6	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/6	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/6	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/6	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/6	0	6	Australian	JJ	*	-	-	-	-	*	-
+selectraws1/6	0	7	author	NN	*)	-	-	-	-	*	-
+selectraws1/6	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/6	0	9	Remembering	NNP	(NP*	-	-	-	-	*	(2
+selectraws1/6	0	10	Babylon	NNP	*))))	-	-	-	-	*	2)|1)
+selectraws1/6	0	11	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

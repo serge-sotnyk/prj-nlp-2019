@@ -1,0 +1,120 @@
+#begin document (selectraws/15122); part 000
+
+selectraws/15122	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(4
+selectraws/15122	0	1	short	JJ	*	-	-	-	-	*	-
+selectraws/15122	0	2	story	NN	*)	-	-	-	-	*	-
+selectraws/15122	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15122	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15122	0	5	author	NN	*)))	-	-	-	-	*	4)|1)
+selectraws/15122	0	6	tells	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15122	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15122	0	8	how	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws/15122	0	9	the	DT	(S(NP*	-	-	-	-	*	(5
+selectraws/15122	0	10	Devil	NNP	*)	-	-	-	-	*	5)
+selectraws/15122	0	11	helped	VBD	(VP*	-	-	-	-	*	-
+selectraws/15122	0	12	Pahom	NNP	(S(NP(NP*)	-	-	-	-	*	(6)
+selectraws/15122	0	13	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/15122	0	14	pah-HOME	JJ	*	-	-	-	-	*	-
+selectraws/15122	0	15	-RRB-	-RRB-	*))	-	-	-	-	*	-
+selectraws/15122	0	16	acquire	VB	(VP*	-	-	-	-	*	-
+selectraws/15122	0	17	lots	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws/15122	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15122	0	19	real	JJ	(NP*	-	-	-	-	*	-
+selectraws/15122	0	20	estate	NN	*)))))	-	-	-	-	*	-
+selectraws/15122	0	21	,	,	*	-	-	-	-	*	-
+selectraws/15122	0	22	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15122	0	23	another	DT	(S(NP*	-	-	-	-	*	(7
+selectraws/15122	0	24	story	NN	*)	-	-	-	-	*	7)
+selectraws/15122	0	25	tells	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15122	0	26	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15122	0	27	Trukhashevsky	NNP	(NP(NP*	-	-	-	-	*	(8)
+selectraws/15122	0	28	's	POS	*)	-	-	-	-	*	-
+selectraws/15122	0	29	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/15122	0	30	TROO-kah-SHEV-skee	NNP	(NP*	-	-	-	-	*	-
+selectraws/15122	0	31	's	POS	*)	-	-	-	-	*	-
+selectraws/15122	0	32	-RRB-	-RRB-	*))))))))))	-	-	-	-	*	-
+selectraws/15122	0	33	affair	NN	(NP*)	-	-	-	-	*	-
+selectraws/15122	0	34	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15122	0	35	Pozdnishef	NNP	(NP(NP(NP*	-	-	-	-	*	(10|(9)
+selectraws/15122	0	36	's	POS	*)	-	-	-	-	*	-
+selectraws/15122	0	37	-LRB-	-LRB-	*	-	-	-	-	*	-
+selectraws/15122	0	38	''	''	*	-	-	-	-	*	-
+selectraws/15122	0	39	PAUSED	NNP	(NP*))	-	-	-	-	*	-
+selectraws/15122	0	40	''	''	(PRN*	-	-	-	-	*	-
+selectraws/15122	0	41	-	:	*	-	-	-	-	*	-
+selectraws/15122	0	42	nee-shev	NN	(NP*	-	-	-	-	*	-
+selectraws/15122	0	43	's	POS	*)	-	-	-	-	*	-
+selectraws/15122	0	44	-RRB-	-RRB-	*)))	-	-	-	-	*	-
+selectraws/15122	0	45	wife	NN	(NP*))	-	-	-	-	*	10)
+selectraws/15122	0	46	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15122	0	0	Those	DT	(TOP(S(SBAR(SBAR(S(NP*	-	-	-	-	*	-
+selectraws/15122	0	1	stories	NNS	*)	-	-	-	-	*	-
+selectraws/15122	0	2	are	VBP	(VP*)))	-	-	-	-	*	-
+selectraws/15122	0	3	''	''	*	-	-	-	-	*	-
+selectraws/15122	0	4	How	WRB	(PRN(FRAG(SBARQ(SBARQ(WHADVP*	-	-	-	-	*	(4
+selectraws/15122	0	5	Much	RB	*)	-	-	-	-	*	-
+selectraws/15122	0	6	Land	NNP	(SQ*	-	-	-	-	*	-
+selectraws/15122	0	7	Does	NNP	(NP*)	-	-	-	-	*	-
+selectraws/15122	0	8	a	DT	(NP*	-	-	-	-	*	-
+selectraws/15122	0	9	Man	NN	*	-	-	-	-	*	-
+selectraws/15122	0	10	Need	NNP	*))	-	-	-	-	*	-
+selectraws/15122	0	11	?	.	*	-	-	-	-	*	4)
+selectraws/15122	0	12	''	''	*)	-	-	-	-	*	-
+selectraws/15122	0	13	and	CC	*	-	-	-	-	*	-
+selectraws/15122	0	14	''	''	*))))	-	-	-	-	*	-
+selectraws/15122	0	15	The	NNP	(NP(NP*	-	-	-	-	*	(7
+selectraws/15122	0	16	Kreutzer	NNP	*)	-	-	-	-	(PERSON)	-
+selectraws/15122	0	17	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/15122	0	18	KROYT-zer	NNP	(NP*)	-	-	-	-	*	-
+selectraws/15122	0	19	-RRB-	-RRB-	*))	-	-	-	-	*	-
+selectraws/15122	0	20	Sonata	VBD	(VP*)	-	-	-	-	*	7)
+selectraws/15122	0	21	.	.	*	-	-	-	-	*	-
+selectraws/15122	0	22	''	''	*))	-	-	-	-	*	-
+
+
+selectraws/15122	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/15122	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws/15122	0	2	recounted	VBD	(VP*	-	-	-	-	*	-
+selectraws/15122	0	3	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15122	0	4	last	JJ	*	-	-	-	-	*	-
+selectraws/15122	0	5	days	NNS	*)	-	-	-	-	*	-
+selectraws/15122	0	6	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15122	0	7	a	DT	(NP*	-	-	-	-	*	(12
+selectraws/15122	0	8	dying	VBG	*	-	-	-	-	*	-
+selectraws/15122	0	9	judge	NN	*)))	-	-	-	-	*	12)
+selectraws/15122	0	10	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15122	0	11	The	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws/15122	0	12	Death	NN	*)	-	-	-	-	*	-
+selectraws/15122	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15122	0	14	Ivan	NNP	(NP(NP*	-	-	-	-	(PERSON*	(12
+selectraws/15122	0	15	Ilyich	NNP	*)	-	-	-	-	*)	11)|12)
+selectraws/15122	0	16	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/15122	0	17	ILL-ee-itch	NNP	(NP*)	-	-	-	-	*	-
+selectraws/15122	0	18	-RRB-	-RRB-	*))))))	-	-	-	-	*	-
+selectraws/15122	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15122	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15122	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/15122	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/15122	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15122	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/15122	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15122	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws/15122	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15122	0	8	Anna	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws/15122	0	9	Karenina	NNP	*	-	-	-	-	*)	2)
+selectraws/15122	0	10	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/15122	0	11	kah-REN-inn-uh	NNP	(NP*)	-	-	-	-	*	-
+selectraws/15122	0	12	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws/15122	0	13	and	CC	*	-	-	-	-	*	-
+selectraws/15122	0	14	War	NNP	(NP*	-	-	-	-	*	(3
+selectraws/15122	0	15	and	CC	*	-	-	-	-	*	-
+selectraws/15122	0	16	Peace	NNP	*))))	-	-	-	-	*	3)|1)
+selectraws/15122	0	17	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

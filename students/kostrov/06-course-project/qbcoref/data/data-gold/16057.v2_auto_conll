@@ -1,0 +1,117 @@
+#begin document (selectraws1/16057); part 000
+
+selectraws1/16057	0	0	Near	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16057	0	1	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16057	0	2	end	NN	*)	-	-	-	-	*	-
+selectraws1/16057	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16057	0	5	work	NN	*))))	-	-	-	-	*	1)
+selectraws1/16057	0	6	the	DT	(NP*	-	-	-	-	*	(2
+selectraws1/16057	0	7	narrator	NN	*)	-	-	-	-	*	2)
+selectraws1/16057	0	8	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16057	0	9	called	VBN	(VP(VP*)	-	-	-	-	*	-
+selectraws1/16057	0	10	and	CC	*	-	-	-	-	*	-
+selectraws1/16057	0	11	asked	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16057	0	12	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/16057	0	13	retrieve	VB	(VP*	-	-	-	-	*	-
+selectraws1/16057	0	14	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16057	0	15	pair	NN	*)	-	-	-	-	*	-
+selectraws1/16057	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	17	shoes	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws1/16057	0	18	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	19	Ewing	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(4
+selectraws1/16057	0	20	Klipspringer	NNP	*)))))))))))	-	-	-	-	*)	4)
+selectraws1/16057	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16057	0	0	Dan	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(5
+selectraws1/16057	0	1	Cody	NNP	*)	-	-	-	-	*)	5)
+selectraws1/16057	0	2	served	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16057	0	3	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	4	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16057	0	5	mentor	NN	*))	-	-	-	-	*	-
+selectraws1/16057	0	6	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	7	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16057	0	8	title	NN	*	-	-	-	-	*	-
+selectraws1/16057	0	9	character	NN	*)	-	-	-	-	*	1)
+selectraws1/16057	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/16057	0	11	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/16057	0	12	dropped	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/16057	0	13	out	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	15	St.	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/16057	0	16	Olaf	NNP	*	-	-	-	-	*	-
+selectraws1/16057	0	17	's	POS	*)	-	-	-	-	*	-
+selectraws1/16057	0	18	College	NNP	*)))	-	-	-	-	*)	-
+selectraws1/16057	0	19	before	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	20	befriending	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/16057	0	21	a	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws1/16057	0	22	gambler	NN	*)	-	-	-	-	*	6)
+selectraws1/16057	0	23	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/16057	0	24	allegedly	RB	(S(ADVP*)	-	-	-	-	*	-
+selectraws1/16057	0	25	fixed	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16057	0	26	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16057	0	27	World	NNP	*	-	-	-	-	*	-
+selectraws1/16057	0	28	Series	NNP	*))))))))))))))	-	-	-	-	*	-
+selectraws1/16057	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16057	0	0	A	DT	(TOP(S(NP*	-	-	-	-	*	(7
+selectraws1/16057	0	1	drunk	JJ	*	-	-	-	-	*	7)
+selectraws1/16057	0	2	nicknamed	VBN	*	-	-	-	-	*	-
+selectraws1/16057	0	3	Owl	NNP	*	-	-	-	-	*	(7
+selectraws1/16057	0	4	Eyes	NNS	*)	-	-	-	-	*	7)
+selectraws1/16057	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16057	0	6	one	CD	(NP(NP*)	-	-	-	-	*	-
+selectraws1/16057	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	8	three	CD	(NP*))	-	-	-	-	*	(8)
+selectraws1/16057	0	9	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/16057	0	10	attends	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/16057	0	11	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16057	0	12	funeral	NN	*)	-	-	-	-	*	-
+selectraws1/16057	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	14	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16057	0	15	title	NN	*	-	-	-	-	*	-
+selectraws1/16057	0	16	character	NN	*)	-	-	-	-	*	1)
+selectraws1/16057	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/16057	0	18	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/16057	0	19	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/16057	0	20	shot	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16057	0	21	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	22	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/16057	0	23	West	NNP	*	-	-	-	-	*	-
+selectraws1/16057	0	24	Egg	NNP	*	-	-	-	-	*	-
+selectraws1/16057	0	25	pool	NN	*))	-	-	-	-	*	-
+selectraws1/16057	0	26	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	27	George	NNP	(NP*	-	-	-	-	(PERSON*	(9
+selectraws1/16057	0	28	Wilson	NNP	*))	-	-	-	-	*)	9)
+selectraws1/16057	0	29	after	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16057	0	30	Myrtle	NNP	(S(NP*)	-	-	-	-	(LOCATION)	(10)
+selectraws1/16057	0	31	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16057	0	32	accidentally	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/16057	0	33	killed	VBN	*	-	-	-	-	*	-
+selectraws1/16057	0	34	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	35	Daisy	NNP	(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/16057	0	36	Buchanan	NNP	*))))))))))))))))))	-	-	-	-	*)	11)
+selectraws1/16057	0	37	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16057	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16057	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/16057	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/16057	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/16057	0	4	identify	VB	(VP*	-	-	-	-	*	-
+selectraws1/16057	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16057	0	6	Nick	NNP	*	-	-	-	-	(PERSON*	(2
+selectraws1/16057	0	7	Carraway	NNP	*	-	-	-	-	*)	2)
+selectraws1/16057	0	8	narrated	JJ	*	-	-	-	-	*	-
+selectraws1/16057	0	9	work	NN	*)	-	-	-	-	*	-
+selectraws1/16057	0	10	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16057	0	11	F.	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/16057	0	12	Scott	NNP	*	-	-	-	-	*	-
+selectraws1/16057	0	13	Fitzgerald	NNP	*))))	-	-	-	-	*)	3)|1)
+selectraws1/16057	0	14	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

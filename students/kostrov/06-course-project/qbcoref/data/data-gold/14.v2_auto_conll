@@ -1,0 +1,160 @@
+#begin document (selectraws1/14); part 000
+
+selectraws1/14	0	0	Friends	NNS	(TOP(S(NP(NP*)	-	-	-	-	*	(6
+selectraws1/14	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	2	this	DT	(NP(NP*	-	-	-	-	*	(1|(5
+selectraws1/14	0	3	novel	NN	*	-	-	-	-	*	1)
+selectraws1/14	0	4	's	POS	*)	-	-	-	-	*	-
+selectraws1/14	0	5	title	NN	*	-	-	-	-	*	-
+selectraws1/14	0	6	character	NN	*)))	-	-	-	-	*	6)|5)
+selectraws1/14	0	7	set	VBD	(VP*	-	-	-	-	*	-
+selectraws1/14	0	8	him	PRP	(NP*)	-	-	-	-	*	(5)
+selectraws1/14	0	9	up	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/14	0	10	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	11	a	DT	(NP(NP(NP*	-	-	-	-	*	-
+selectraws1/14	0	12	nutria	JJ	*	-	-	-	-	*	-
+selectraws1/14	0	13	farm	NN	*)	-	-	-	-	*	-
+selectraws1/14	0	14	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	15	Argentina	NNP	(NP*)))	-	-	-	-	(LOCATION)	-
+selectraws1/14	0	16	and	CC	*	-	-	-	-	*	-
+selectraws1/14	0	17	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/14	0	18	cement	NN	*	-	-	-	-	*	-
+selectraws1/14	0	19	factory	NN	*)	-	-	-	-	*	-
+selectraws1/14	0	20	,	,	*	-	-	-	-	*	-
+selectraws1/14	0	21	both	DT	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/14	0	22	of	IN	(WHPP*	-	-	-	-	*	-
+selectraws1/14	0	23	which	WDT	(WHNP*)))	-	-	-	-	*	-
+selectraws1/14	0	24	fail	VBP	(S(VP*)))))))	-	-	-	-	*	-
+selectraws1/14	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14	0	0	Its	PRP$	(TOP(S(NP*	-	-	-	-	*	(5|(1)
+selectraws1/14	0	1	title	NN	*	-	-	-	-	*	-
+selectraws1/14	0	2	character	NN	*)	-	-	-	-	*	5)
+selectraws1/14	0	3	receives	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/14	0	4	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/14	0	5	gold	JJ	*	-	-	-	-	*	-
+selectraws1/14	0	6	ring	NN	*)	-	-	-	-	*	-
+selectraws1/14	0	7	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	8	his	PRP$	(NP*	-	-	-	-	*	(14|(5)
+selectraws1/14	0	9	workers	NNS	*))	-	-	-	-	*	14)
+selectraws1/14	0	10	upon	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	11	departing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/14	0	12	Brinnlitz	NNP	(NP(NP*)	-	-	-	-	*	-
+selectraws1/14	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/14	0	14	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/14	0	15	was	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/14	0	16	operated	VBN	(VP*	-	-	-	-	*	-
+selectraws1/14	0	17	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	18	his	PRP$	(NP*	-	-	-	-	*	(13|(5)
+selectraws1/14	0	19	company	NN	*	-	-	-	-	*	13)
+selectraws1/14	0	20	Emalia	NNP	*)))))))))))	-	-	-	-	*	(13)
+selectraws1/14	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1|(7
+selectraws1/14	0	1	novel	NN	*	-	-	-	-	*	1)
+selectraws1/14	0	2	's	POS	*)	-	-	-	-	*	-
+selectraws1/14	0	3	other	JJ	*	-	-	-	-	*	-
+selectraws1/14	0	4	characters	NNS	*)	-	-	-	-	*	7)
+selectraws1/14	0	5	include	VBP	(VP*	-	-	-	-	*	-
+selectraws1/14	0	6	the	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws1/14	0	7	mistresses	NNP	*	-	-	-	-	*	8)
+selectraws1/14	0	8	Ingrid	NNP	*	-	-	-	-	(PERSON)	(8|(9)
+selectraws1/14	0	9	and	CC	*	-	-	-	-	*	-
+selectraws1/14	0	10	Victoria	NNP	*	-	-	-	-	(PERSON*	(10
+selectraws1/14	0	11	Klonowska	NNP	*)	-	-	-	-	*)	10)|8)
+selectraws1/14	0	12	,	,	*	-	-	-	-	*	-
+selectraws1/14	0	13	as	RB	(CONJP*	-	-	-	-	*	-
+selectraws1/14	0	14	well	RB	*	-	-	-	-	*	-
+selectraws1/14	0	15	as	IN	*)	-	-	-	-	*	-
+selectraws1/14	0	16	a	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws1/14	0	17	character	NN	*)	-	-	-	-	*	11)
+selectraws1/14	0	18	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/14	0	19	refuses	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/14	0	20	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	21	principle	NN	(NP*))	-	-	-	-	*	-
+selectraws1/14	0	22	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/14	0	23	have	VB	(VP*	-	-	-	-	*	-
+selectraws1/14	0	24	sex	NN	(NP*)	-	-	-	-	*	-
+selectraws1/14	0	25	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	26	Helen	NNP	(NP*	-	-	-	-	(PERSON*	(12
+selectraws1/14	0	27	Hirsch	NNP	*)))))))))))	-	-	-	-	*)	12)
+selectraws1/14	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14	0	0	Both	DT	(TOP(S(NP*	-	-	-	-	*	(15
+selectraws1/14	0	1	that	DT	(NP*	-	-	-	-	*	(11
+selectraws1/14	0	2	man	NN	*)	-	-	-	-	*	11)
+selectraws1/14	0	3	and	CC	*	-	-	-	-	*	-
+selectraws1/14	0	4	the	DT	(NP*	-	-	-	-	*	(5
+selectraws1/14	0	5	title	NN	*	-	-	-	-	*	-
+selectraws1/14	0	6	character	NN	*))	-	-	-	-	*	15)|5)
+selectraws1/14	0	7	are	VBP	(VP*	-	-	-	-	*	-
+selectraws1/14	0	8	noted	VBN	(VP*	-	-	-	-	*	-
+selectraws1/14	0	9	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	10	food-loving	NN	(NP*	-	-	-	-	*	(15
+selectraws1/14	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/14	0	12	lecherous	JJ	*	-	-	-	-	*	-
+selectraws1/14	0	13	drunkards	NNS	*))	-	-	-	-	*	15)
+selectraws1/14	0	14	,	,	*	-	-	-	-	*	-
+selectraws1/14	0	15	although	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/14	0	16	the	DT	(S(NP(NP*	-	-	-	-	*	(11
+selectraws1/14	0	17	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/14	0	18	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws1/14	0	19	-RRB-	-RRB-	*))	-	-	-	-	*	-
+selectraws1/14	0	20	Plaszw	NNP	(PP*	-	-	-	-	*	-
+selectraws1/14	0	21	commander	NN	(NP*	-	-	-	-	*	11)
+selectraws1/14	0	22	Amon	NNP	*	-	-	-	-	(PERSON*	(11
+selectraws1/14	0	23	Goeth	NNP	*)))	-	-	-	-	*)	11)
+selectraws1/14	0	24	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/14	0	25	far	RB	(ADJP*	-	-	-	-	*	-
+selectraws1/14	0	26	less	RBR	*	-	-	-	-	*	-
+selectraws1/14	0	27	humane	JJ	*))))))	-	-	-	-	*	-
+selectraws1/14	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/14	0	1	title	NN	*	-	-	-	-	*	-
+selectraws1/14	0	2	object	NN	*)	-	-	-	-	*	1)
+selectraws1/14	0	3	consists	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/14	0	4	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	5	essentially	RB	(NP(NP(ADJP*	-	-	-	-	*	-
+selectraws1/14	0	6	skilled	JJ	*)	-	-	-	-	*	-
+selectraws1/14	0	7	workers	NNS	*)	-	-	-	-	*	-
+selectraws1/14	0	8	that	IN	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/14	0	9	a	DT	(S(NP*	-	-	-	-	*	(5
+selectraws1/14	0	10	Sudeten	NNP	*	-	-	-	-	*	-
+selectraws1/14	0	11	industrialist	NN	*)	-	-	-	-	*	5)
+selectraws1/14	0	12	saved	VBD	(VP*	-	-	-	-	*	-
+selectraws1/14	0	13	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	14	death	NN	(NP*))	-	-	-	-	*	-
+selectraws1/14	0	15	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	16	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/14	0	17	concentration	NN	*	-	-	-	-	*	-
+selectraws1/14	0	18	camps	NNS	*))))))))	-	-	-	-	*	-
+selectraws1/14	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/14	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/14	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/14	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/14	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/14	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/14	0	6	novel	NN	*)	-	-	-	-	*	-
+selectraws1/14	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	8	Thomas	NNP	(NP(NP*	-	-	-	-	(PERSON*	(4
+selectraws1/14	0	9	Keneally	NNP	*)	-	-	-	-	*)	4)|1)
+selectraws1/14	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/14	0	11	later	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/14	0	12	adapted	VBN	*	-	-	-	-	*	-
+selectraws1/14	0	13	into	IN	(PP*	-	-	-	-	*	-
+selectraws1/14	0	14	a	DT	(NP*	-	-	-	-	*	(2
+selectraws1/14	0	15	Spielberg	NNP	*	-	-	-	-	(PERSON)	(3)
+selectraws1/14	0	16	movie	NN	*))))))	-	-	-	-	*	2)
+selectraws1/14	0	17	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

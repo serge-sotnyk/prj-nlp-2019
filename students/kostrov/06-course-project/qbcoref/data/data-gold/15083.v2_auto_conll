@@ -1,0 +1,124 @@
+#begin document (notdoneraws/15083); part 000
+
+notdoneraws/15083	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	1	a	DT	(NP(NP*	-	-	-	-	*	(3
+notdoneraws/15083	0	2	poem	NN	*)	-	-	-	-	*	-
+notdoneraws/15083	0	3	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/15083	0	5	man	NN	*))))	-	-	-	-	*	3)|1)
+notdoneraws/15083	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/15083	0	7	the	DT	(NP*	-	-	-	-	*	(4
+notdoneraws/15083	0	8	speaker	NN	*)	-	-	-	-	*	4)
+notdoneraws/15083	0	9	regards	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15083	0	10	autumn	NN	(NP*)	-	-	-	-	*	-
+notdoneraws/15083	0	11	as	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	12	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15083	0	13	blind	JJ	*	-	-	-	-	*	-
+notdoneraws/15083	0	14	giant	NN	*)	-	-	-	-	*	-
+notdoneraws/15083	0	15	and	CC	*	-	-	-	-	*	-
+notdoneraws/15083	0	16	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/15083	0	17	faceless	NN	*	-	-	-	-	*	-
+notdoneraws/15083	0	18	man	NN	*)))	-	-	-	-	*	-
+notdoneraws/15083	0	19	while	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/15083	0	20	sitting	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/15083	0	21	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	22	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15083	0	23	caf	NN	*)	-	-	-	-	*	-
+notdoneraws/15083	0	24	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	25	two	CD	(NP*	-	-	-	-	*	(5
+notdoneraws/15083	0	26	friends	NNS	*))))))))	-	-	-	-	*	5)
+notdoneraws/15083	0	27	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15083	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	1	addition	NN	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/15083	0	2	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	3	Clear	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(3
+notdoneraws/15083	0	4	Night	NNP	*))))	-	-	-	-	*)	3)
+notdoneraws/15083	0	5	,	,	*	-	-	-	-	*	-
+notdoneraws/15083	0	6	he	PRP	(NP*)	-	-	-	-	*	(1)
+notdoneraws/15083	0	7	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/15083	0	8	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	9	a	DT	(NP(NP*	-	-	-	-	*	(6
+notdoneraws/15083	0	10	traveler	NN	*)	-	-	-	-	*	6)
+notdoneraws/15083	0	11	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/15083	0	12	sees	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/15083	0	13	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15083	0	14	holy	JJ	*	-	-	-	-	*	-
+notdoneraws/15083	0	15	man	NN	*)	-	-	-	-	*	-
+notdoneraws/15083	0	16	covered	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15083	0	17	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	18	ash	NN	(NP*))	-	-	-	-	*	-
+notdoneraws/15083	0	19	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	20	his	PRP$	(NP*	-	-	-	-	*	(7|(1)
+notdoneraws/15083	0	21	poem	JJ	*	-	-	-	-	*	7)
+notdoneraws/15083	0	22	Vrindaban	NNP	*))))))))))	-	-	-	-	*	(7)
+notdoneraws/15083	0	23	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15083	0	0	His	PRP$	(TOP(S(S(NP*	-	-	-	-	*	(8|(1)
+notdoneraws/15083	0	1	literary	JJ	*	-	-	-	-	*	-
+notdoneraws/15083	0	2	criticism	NN	*)	-	-	-	-	*	8)
+notdoneraws/15083	0	3	includes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15083	0	4	The	DT	(NP(NP(NP*	-	-	-	-	*	(9
+notdoneraws/15083	0	5	Traps	NNP	*)	-	-	-	-	*	-
+notdoneraws/15083	0	6	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	7	Faith	NNP	(NP*)))	-	-	-	-	*	9)
+notdoneraws/15083	0	8	and	CC	*	-	-	-	-	*	-
+notdoneraws/15083	0	9	The	DT	(NP(NP*	-	-	-	-	*	(10
+notdoneraws/15083	0	10	Bow	NNP	*)	-	-	-	-	*	-
+notdoneraws/15083	0	11	and	CC	*	-	-	-	-	*	-
+notdoneraws/15083	0	12	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/15083	0	13	Lyre	NNP	*)))))	-	-	-	-	*	10)
+notdoneraws/15083	0	14	,	,	*	-	-	-	-	*	-
+notdoneraws/15083	0	15	and	CC	*	-	-	-	-	*	-
+notdoneraws/15083	0	16	he	PRP	(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/15083	0	17	described	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/15083	0	18	the	DT	(NP(NP(NP*	-	-	-	-	*	-
+notdoneraws/15083	0	19	conjunctions	NNS	*)	-	-	-	-	*	-
+notdoneraws/15083	0	20	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	21	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/15083	0	22	planet	NN	*	-	-	-	-	*	-
+notdoneraws/15083	0	23	Venus	NNP	*)))	-	-	-	-	(PERSON)	-
+notdoneraws/15083	0	24	and	CC	*	-	-	-	-	*	-
+notdoneraws/15083	0	25	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15083	0	26	sun	NN	*)	-	-	-	-	*	-
+notdoneraws/15083	0	27	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	28	an	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15083	0	29	ancient	JJ	*	-	-	-	-	*	-
+notdoneraws/15083	0	30	Aztec	JJ	*	-	-	-	-	*	-
+notdoneraws/15083	0	31	calendar	NN	*)	-	-	-	-	*	-
+notdoneraws/15083	0	32	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	33	his	PRP$	(NP(NP*	-	-	-	-	*	(11|(1)
+notdoneraws/15083	0	34	poem	NN	*)	-	-	-	-	*	11)
+notdoneraws/15083	0	35	Sun	NNP	(NP*	-	-	-	-	*	(11
+notdoneraws/15083	0	36	Stone	NNP	*)))))))))	-	-	-	-	*	11)
+notdoneraws/15083	0	37	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15083	0	0	Formerly	RB	(TOP(S(ADVP*)	-	-	-	-	*	-
+notdoneraws/15083	0	1	his	PRP$	(NP(NP(NP(NP*	-	-	-	-	*	(1)
+notdoneraws/15083	0	2	country	NN	*	-	-	-	-	*	-
+notdoneraws/15083	0	3	's	POS	*)	-	-	-	-	*	-
+notdoneraws/15083	0	4	ambassador	NN	*)	-	-	-	-	*	-
+notdoneraws/15083	0	5	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	6	India	NNP	(NP*)))	-	-	-	-	(LOCATION)	-
+notdoneraws/15083	0	7	,	,	*	-	-	-	-	*	-
+notdoneraws/15083	0	8	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	9	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/15083	0	10	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/15083	0	11	,	,	*)	-	-	-	-	*	-
+notdoneraws/15083	0	12	name	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/15083	0	13	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/15083	0	14	Mexican	JJ	*	-	-	-	-	*	-
+notdoneraws/15083	0	15	poet	NN	*)	-	-	-	-	*	-
+notdoneraws/15083	0	16	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	17	The	DT	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/15083	0	18	Labyrinth	NNP	*)	-	-	-	-	*	-
+notdoneraws/15083	0	19	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15083	0	20	Solitude	NNP	(NP*))))))	-	-	-	-	*	1)|2)
+notdoneraws/15083	0	21	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

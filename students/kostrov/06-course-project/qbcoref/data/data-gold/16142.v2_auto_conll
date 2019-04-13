@@ -1,0 +1,139 @@
+#begin document (notdoneraws/16142); part 000
+
+notdoneraws/16142	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/16142	0	1	author	NN	*)	-	-	-	-	*	1)
+notdoneraws/16142	0	2	included	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/16142	0	3	events	NNS	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/16142	0	4	like	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	5	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16142	0	6	Four	NNP	*	-	-	-	-	*	-
+notdoneraws/16142	0	7	Days	NNPS	*	-	-	-	-	*	-
+notdoneraws/16142	0	8	Battle	NNP	*)	-	-	-	-	*	-
+notdoneraws/16142	0	9	and	CC	*	-	-	-	-	*	-
+notdoneraws/16142	0	10	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16142	0	11	Great	NNP	*	-	-	-	-	*	-
+notdoneraws/16142	0	12	Fire	NNP	*)	-	-	-	-	*	-
+notdoneraws/16142	0	13	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	14	London	NNP	(NP*))))))	-	-	-	-	(LOCATION)	-
+notdoneraws/16142	0	15	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	16	his	PRP$	(NP(NP*	-	-	-	-	*	(8|(1)
+notdoneraws/16142	0	17	long	JJ	*	-	-	-	-	*	-
+notdoneraws/16142	0	18	poem	NN	*)	-	-	-	-	*	-
+notdoneraws/16142	0	19	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	20	the	DT	(NP*	-	-	-	-	*	(9
+notdoneraws/16142	0	21	year	NN	*	-	-	-	-	*	9)
+notdoneraws/16142	0	22	1666	NN	*)))))	-	-	-	-	(DATE)	(9)|8)
+notdoneraws/16142	0	23	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16142	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/16142	0	1	author	NN	*)	-	-	-	-	*	1)
+notdoneraws/16142	0	2	used	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/16142	0	3	Sicily	NNP	(NP*)	-	-	-	-	(LOCATION)	-
+notdoneraws/16142	0	4	as	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	5	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16142	0	6	setting	NN	*)	-	-	-	-	*	-
+notdoneraws/16142	0	7	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	8	a	DT	(NP(NP*	-	-	-	-	*	(10
+notdoneraws/16142	0	9	comedy	NN	*)	-	-	-	-	*	10)
+notdoneraws/16142	0	10	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+notdoneraws/16142	0	11	which	WDT	(WHNP*))	-	-	-	-	*	-
+notdoneraws/16142	0	12	Rhodophil	NNP	(S(NP*	-	-	-	-	*	(11)
+notdoneraws/16142	0	13	and	CC	*	-	-	-	-	*	-
+notdoneraws/16142	0	14	Palamede	NNP	*)	-	-	-	-	*	(12)
+notdoneraws/16142	0	15	fall	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/16142	0	16	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	17	love	NN	(NP*))	-	-	-	-	*	-
+notdoneraws/16142	0	18	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	19	each	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16142	0	20	other	JJ	*	-	-	-	-	*	-
+notdoneraws/16142	0	21	's	POS	*)	-	-	-	-	*	-
+notdoneraws/16142	0	22	fiancs	NNS	*)))))))))	-	-	-	-	*	-
+notdoneraws/16142	0	23	while	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/16142	0	24	Leonidas	NNP	(S(NP*)	-	-	-	-	(PERSON)	(13)
+notdoneraws/16142	0	25	overthrows	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/16142	0	26	the	DT	(NP*	-	-	-	-	*	(14
+notdoneraws/16142	0	27	usurper	NN	*	-	-	-	-	*	14)
+notdoneraws/16142	0	28	Polydamas	NNS	*)))))	-	-	-	-	*	(14)
+notdoneraws/16142	0	29	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16142	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+notdoneraws/16142	0	1	author	NN	*)	-	-	-	-	*	-
+notdoneraws/16142	0	2	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	3	Marriage	NNP	(NP(NP*	-	-	-	-	*	(10
+notdoneraws/16142	0	4	a	FW	*	-	-	-	-	*	-
+notdoneraws/16142	0	5	la	NNP	*	-	-	-	-	*	-
+notdoneraws/16142	0	6	Mode	NNP	*)	-	-	-	-	*	10)
+notdoneraws/16142	0	7	and	CC	*	-	-	-	-	*	-
+notdoneraws/16142	0	8	Annus	NNP	(NP*	-	-	-	-	*	(8
+notdoneraws/16142	0	9	Mirabilis	NNP	*))))	-	-	-	-	*	1)|8)
+notdoneraws/16142	0	10	depicted	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/16142	0	11	Antony	NNP	(NP*	-	-	-	-	(PERSON)	(15)
+notdoneraws/16142	0	12	and	CC	*	-	-	-	-	*	-
+notdoneraws/16142	0	13	Cleopatra	NNP	*)	-	-	-	-	*	(16)
+notdoneraws/16142	0	14	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	15	his	PRP$	(NP*	-	-	-	-	*	(17|(1)
+notdoneraws/16142	0	16	All	DT	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/16142	0	17	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	18	Love	NNP	(NP*))))))	-	-	-	-	*	17)
+notdoneraws/16142	0	19	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16142	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/16142	0	1	writer	NN	*)	-	-	-	-	*	1)
+notdoneraws/16142	0	2	used	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/16142	0	3	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16142	0	4	story	NN	*)	-	-	-	-	*	-
+notdoneraws/16142	0	5	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	6	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16142	0	7	rebellion	NN	*)	-	-	-	-	*	-
+notdoneraws/16142	0	8	against	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	9	King	NNP	(NP*	-	-	-	-	(PERSON*	(18
+notdoneraws/16142	0	10	David	NNP	*)))))	-	-	-	-	*)	18)
+notdoneraws/16142	0	11	as	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	12	an	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16142	0	13	allegory	NN	*)	-	-	-	-	*	-
+notdoneraws/16142	0	14	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	15	current	JJ	(NP(NP*	-	-	-	-	*	-
+notdoneraws/16142	0	16	events	NNS	*)	-	-	-	-	*	-
+notdoneraws/16142	0	17	like	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	18	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16142	0	19	Popish	NNP	*	-	-	-	-	*	-
+notdoneraws/16142	0	20	plot	NN	*))))))	-	-	-	-	*	-
+notdoneraws/16142	0	21	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	22	one	CD	(NP*	-	-	-	-	*	(5
+notdoneraws/16142	0	23	work	NN	*)))	-	-	-	-	*	5)
+notdoneraws/16142	0	24	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/16142	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/16142	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/16142	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/16142	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/16142	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/16142	0	6	Restoration	JJ	*	-	-	-	-	*	-
+notdoneraws/16142	0	7	author	NN	*)	-	-	-	-	*	1)
+notdoneraws/16142	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/16142	0	9	mocked	VBN	(S(VP(VP*	-	-	-	-	*	-
+notdoneraws/16142	0	10	Thomas	NNP	(NP*	-	-	-	-	(PERSON*	(2
+notdoneraws/16142	0	11	Shadwell	NNP	*)	-	-	-	-	*)	2)
+notdoneraws/16142	0	12	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/16142	0	13	MacFlecknoe	NNP	(NP*)))	-	-	-	-	(ORGANIZATION)	(3)
+notdoneraws/16142	0	14	and	CC	*	-	-	-	-	*	-
+notdoneraws/16142	0	15	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/16142	0	16	The	DT	(NP(NP*	-	-	-	-	*	(4
+notdoneraws/16142	0	17	Hind	NNP	*)	-	-	-	-	*	-
+notdoneraws/16142	0	18	and	CC	*	-	-	-	-	*	-
+notdoneraws/16142	0	19	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/16142	0	20	Panther	NNP	*	-	-	-	-	*	4)
+notdoneraws/16142	0	21	and	CC	*	-	-	-	-	*	-
+notdoneraws/16142	0	22	Absalom	NNP	*	-	-	-	-	*	(5|(6)
+notdoneraws/16142	0	23	and	CC	*	-	-	-	-	*	-
+notdoneraws/16142	0	24	Achitophel	NNP	*))))))))	-	-	-	-	*	(7)|5)
+notdoneraws/16142	0	25	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

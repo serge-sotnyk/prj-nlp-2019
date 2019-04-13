@@ -1,0 +1,162 @@
+#begin document (notdoneraws/19843); part 000
+
+notdoneraws/19843	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/19843	0	1	work	NN	*	-	-	-	-	*	1)
+notdoneraws/19843	0	2	briefly	NN	*)	-	-	-	-	*	-
+notdoneraws/19843	0	3	switches	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	4	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	5	iambic	JJ	(NP(NP*	-	-	-	-	*	-
+notdoneraws/19843	0	6	meter	NN	*)	-	-	-	-	*	-
+notdoneraws/19843	0	7	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	8	a	DT	(NP(NP*	-	-	-	-	*	(4
+notdoneraws/19843	0	9	ditty	NN	*)	-	-	-	-	*	-
+notdoneraws/19843	0	10	sung	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	11	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	12	berry	JJ	(NP(NP*	-	-	-	-	*	-
+notdoneraws/19843	0	13	pickers	NNS	*)	-	-	-	-	*	4)
+notdoneraws/19843	0	14	called	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	15	The	DT	(S(NP(NP*	-	-	-	-	*	(4
+notdoneraws/19843	0	16	Song	NN	*)	-	-	-	-	*	-
+notdoneraws/19843	0	17	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	18	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/19843	0	19	Girls	NNPS	*)))))))))))))	-	-	-	-	*	4)
+notdoneraws/19843	0	20	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19843	0	0	Walter	NNP	(TOP(S(NP(NP(NP*	-	-	-	-	(PERSON*	(5
+notdoneraws/19843	0	1	Arndt	NNP	*	-	-	-	-	*)	5)
+notdoneraws/19843	0	2	's	POS	*)	-	-	-	-	*	-
+notdoneraws/19843	0	3	betrayal	NN	*)	-	-	-	-	*	-
+notdoneraws/19843	0	4	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	5	exact	JJ	(NP(NP*	-	-	-	-	*	-
+notdoneraws/19843	0	6	meaning	NN	*)	-	-	-	-	*	-
+notdoneraws/19843	0	7	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	8	translating	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	9	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/19843	0	10	work	NN	*)))))))	-	-	-	-	*	1)
+notdoneraws/19843	0	11	was	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	12	attacked	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	13	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	14	one	CD	(NP(NP*	-	-	-	-	*	(6
+notdoneraws/19843	0	15	author	NN	*)	-	-	-	-	*	6)
+notdoneraws/19843	0	16	,	,	*	-	-	-	-	*	-
+notdoneraws/19843	0	17	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+notdoneraws/19843	0	18	subsequent	JJ	*	-	-	-	-	*	-
+notdoneraws/19843	0	19	translation	NN	*)	-	-	-	-	*	-
+notdoneraws/19843	0	20	caused	VBD	(S(VP(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	21	his	PRP$	(NP(NP*	-	-	-	-	*	(6)
+notdoneraws/19843	0	22	feud	NN	*)	-	-	-	-	*	-
+notdoneraws/19843	0	23	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	24	Edmund	NNP	(NP*	-	-	-	-	(PERSON*	(7
+notdoneraws/19843	0	25	Wilson	NNP	*))))	-	-	-	-	*)	7)
+notdoneraws/19843	0	26	and	CC	*	-	-	-	-	*	-
+notdoneraws/19843	0	27	was	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	28	published	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	29	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	30	the	DT	(NP(NP*	-	-	-	-	*	(8
+notdoneraws/19843	0	31	essay	NN	*	-	-	-	-	*	8)
+notdoneraws/19843	0	32	Notes	NNS	*)	-	-	-	-	*	(8
+notdoneraws/19843	0	33	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	34	Prosody	NNP	(NP*)))))))))))))	-	-	-	-	*	8)
+notdoneraws/19843	0	35	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19843	0	0	One	CD	(TOP(S(NP*	-	-	-	-	*	(9
+notdoneraws/19843	0	1	character	NN	*)	-	-	-	-	*	9)
+notdoneraws/19843	0	2	befriends	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	3	the	DT	(NP(NP*	-	-	-	-	*	(10
+notdoneraws/19843	0	4	housekeeper	NN	*	-	-	-	-	*	10)
+notdoneraws/19843	0	5	Anisia	NNP	*)	-	-	-	-	(PERSON)	(10)
+notdoneraws/19843	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/19843	0	7	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/19843	0	8	allows	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	9	her	PRP	(S(NP*)	-	-	-	-	*	(10)
+notdoneraws/19843	0	10	to	TO	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	11	visit	VB	(VP(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	12	the	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/19843	0	13	title	NN	*	-	-	-	-	*	-
+notdoneraws/19843	0	14	character	NN	*	-	-	-	-	*	1)
+notdoneraws/19843	0	15	's	POS	*)	-	-	-	-	*	-
+notdoneraws/19843	0	16	study	NN	*))	-	-	-	-	*	-
+notdoneraws/19843	0	17	and	CC	*	-	-	-	-	*	-
+notdoneraws/19843	0	18	read	VB	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	19	his	PRP$	(NP*	-	-	-	-	*	(1)
+notdoneraws/19843	0	20	books	NNS	*))))))))))	-	-	-	-	*	-
+notdoneraws/19843	0	21	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19843	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/19843	0	1	work	NN	*)	-	-	-	-	*	1)
+notdoneraws/19843	0	2	ends	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	3	with	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/19843	0	4	one	CD	(S(NP*	-	-	-	-	*	(2
+notdoneraws/19843	0	5	character	NN	*)	-	-	-	-	*	2)
+notdoneraws/19843	0	6	marrying	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	7	a	DT	(NP*	-	-	-	-	*	(11
+notdoneraws/19843	0	8	distinguished	JJ	*	-	-	-	-	*	-
+notdoneraws/19843	0	9	fat	JJ	*	-	-	-	-	*	-
+notdoneraws/19843	0	10	general	NN	*)))))	-	-	-	-	*	11)
+notdoneraws/19843	0	11	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19843	0	0	At	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	1	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/19843	0	2	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+notdoneraws/19843	0	3	\*	SYM	(NP*)	-	-	-	-	*	-
+notdoneraws/19843	0	4	-RRB-	-RRB-	*)	-	-	-	-	*	-
+notdoneraws/19843	0	5	name	NN	*	-	-	-	-	*	-
+notdoneraws/19843	0	6	day	NN	*))	-	-	-	-	*	-
+notdoneraws/19843	0	7	celebration	NN	(NP*)	-	-	-	-	*	-
+notdoneraws/19843	0	8	,	,	*	-	-	-	-	*	-
+notdoneraws/19843	0	9	the	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/19843	0	10	title	NN	*	-	-	-	-	*	-
+notdoneraws/19843	0	11	character	NN	*)	-	-	-	-	*	1)
+notdoneraws/19843	0	12	dances	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	13	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	14	Olga	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(12)
+notdoneraws/19843	0	15	,	,	*	-	-	-	-	*	-
+notdoneraws/19843	0	16	the	DT	(NP(NP*	-	-	-	-	*	(12
+notdoneraws/19843	0	17	fianc	NN	*)	-	-	-	-	*	-
+notdoneraws/19843	0	18	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	19	his	PRP$	(NP(NP*	-	-	-	-	*	(13|(1)
+notdoneraws/19843	0	20	best	JJS	*	-	-	-	-	*	-
+notdoneraws/19843	0	21	friend	NN	*)	-	-	-	-	*	13)
+notdoneraws/19843	0	22	Vladimir	NNP	(NP*	-	-	-	-	(PERSON*	(13
+notdoneraws/19843	0	23	Lensky	NNP	*))))))	-	-	-	-	*)	12)|13)
+notdoneraws/19843	0	24	,	,	*	-	-	-	-	*	-
+notdoneraws/19843	0	25	antagonizing	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	26	him	PRP	(NP*)	-	-	-	-	*	(13)
+notdoneraws/19843	0	27	into	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	28	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/19843	0	29	duel	NN	*)))))	-	-	-	-	*	-
+notdoneraws/19843	0	30	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19843	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/19843	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/19843	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/19843	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/19843	0	6	verse-novel	NN	*)	-	-	-	-	*	1)
+notdoneraws/19843	0	7	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+notdoneraws/19843	0	8	which	WDT	(WHNP*))	-	-	-	-	*	-
+notdoneraws/19843	0	9	the	DT	(S(NP*	-	-	-	-	*	(1
+notdoneraws/19843	0	10	title	NN	*	-	-	-	-	*	-
+notdoneraws/19843	0	11	character	NN	*)	-	-	-	-	*	1)
+notdoneraws/19843	0	12	falls	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/19843	0	13	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	14	love	NN	(NP*))	-	-	-	-	*	-
+notdoneraws/19843	0	15	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	16	Tatyana	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(2)
+notdoneraws/19843	0	17	,	,	*	-	-	-	-	*	-
+notdoneraws/19843	0	18	the	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/19843	0	19	masterpiece	NN	*)	-	-	-	-	*	-
+notdoneraws/19843	0	20	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19843	0	21	Alexander	NNP	(NP*	-	-	-	-	*	(3
+notdoneraws/19843	0	22	Pushkin	NNP	*))))))))))	-	-	-	-	*	3)|1)
+notdoneraws/19843	0	23	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

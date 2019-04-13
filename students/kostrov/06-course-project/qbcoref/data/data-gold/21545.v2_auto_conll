@@ -1,0 +1,131 @@
+#begin document (selectraws1/21545); part 000
+
+selectraws1/21545	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(5
+selectraws1/21545	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws1/21545	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/21545	0	4	novel	NN	*)))	-	-	-	-	*	1)|5)
+selectraws1/21545	0	5	mocks	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/21545	0	6	another	DT	(NP(NP*)	-	-	-	-	*	(4)
+selectraws1/21545	0	7	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	8	having	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/21545	0	9	no	DT	(NP*	-	-	-	-	*	-
+selectraws1/21545	0	10	front	JJ	*	-	-	-	-	*	-
+selectraws1/21545	0	11	teeth	NNS	*)	-	-	-	-	*	-
+selectraws1/21545	0	12	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	13	a	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws1/21545	0	14	chapter	NN	*)	-	-	-	-	*	-
+selectraws1/21545	0	15	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	16	his	PRP$	*	-	-	-	-	*	(5)
+selectraws1/21545	0	17	''	''	*	-	-	-	-	*	-
+selectraws1/21545	0	18	inactivity	NN	(NP*)))))))))	-	-	-	-	*	-
+selectraws1/21545	0	19	.	.	*	-	-	-	-	*	-
+selectraws1/21545	0	20	''	''	*))	-	-	-	-	*	6)
+
+
+selectraws1/21545	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	(4
+selectraws1/21545	0	1	female	JJ	*	-	-	-	-	*	-
+selectraws1/21545	0	2	character	NN	*)	-	-	-	-	*	4)
+selectraws1/21545	0	3	had	VBD	(VP*	-	-	-	-	*	-
+selectraws1/21545	0	4	sold	VBN	(VP*	-	-	-	-	*	-
+selectraws1/21545	0	5	her	PRP$	(NP*	-	-	-	-	*	(4)
+selectraws1/21545	0	6	teeth	NNS	*)	-	-	-	-	*	-
+selectraws1/21545	0	7	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	8	being	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/21545	0	9	abandoned	VBN	(VP*	-	-	-	-	*	-
+selectraws1/21545	0	10	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	11	Felix	NNP	(NP*))))))))	-	-	-	-	(PERSON)	(7)
+selectraws1/21545	0	12	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/21545	0	0	Another	DT	(TOP(S(S(NP*)	-	-	-	-	*	(8)
+selectraws1/21545	0	1	sells	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/21545	0	2	his	PRP$	(NP*	-	-	-	-	*	(8)
+selectraws1/21545	0	3	books	NNS	*)	-	-	-	-	*	-
+selectraws1/21545	0	4	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/21545	0	5	survive	VB	(VP*)))))	-	-	-	-	*	-
+selectraws1/21545	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/21545	0	7	and	CC	*	-	-	-	-	*	-
+selectraws1/21545	0	8	that	DT	(S(NP(NP*	-	-	-	-	*	(8
+selectraws1/21545	0	9	man	NN	*)	-	-	-	-	*	8)
+selectraws1/21545	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/21545	0	11	Mabeuf	NNP	(NP*)	-	-	-	-	(PERSON)	(8)
+selectraws1/21545	0	12	,	,	*)	-	-	-	-	*	-
+selectraws1/21545	0	13	subsequently	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/21545	0	14	joins	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/21545	0	15	the	DT	(NP(NP*	-	-	-	-	*	(13
+selectraws1/21545	0	16	Friends	NNS	*)	-	-	-	-	*	-
+selectraws1/21545	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	18	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/21545	0	19	ABC	NNP	*)))))	-	-	-	-	(ORGANIZATION)	13)
+selectraws1/21545	0	20	.	.	*	-	-	-	-	*	-
+selectraws1/21545	0	21	Later	RB	(PP(ADVP*)	-	-	-	-	*	-
+selectraws1/21545	0	22	in	IN	*	-	-	-	-	*	-
+selectraws1/21545	0	23	the	DT	(NP*	-	-	-	-	*	(1
+selectraws1/21545	0	24	novel	NN	*))	-	-	-	-	*	1)
+selectraws1/21545	0	25	,	,	*	-	-	-	-	*	-
+selectraws1/21545	0	26	Enjolas	NNP	(NP*)	-	-	-	-	*	(9)
+selectraws1/21545	0	27	leads	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/21545	0	28	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/21545	0	29	June	NNP	(NAC*	-	-	-	-	(DATE*	-
+selectraws1/21545	0	30	5	CD	*)	-	-	-	-	*)	-
+selectraws1/21545	0	31	revolt	NN	*)	-	-	-	-	*	-
+selectraws1/21545	0	32	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	33	a	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/21545	0	34	man	NN	*)	-	-	-	-	*	10)
+selectraws1/21545	0	35	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/21545	0	36	rejects	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/21545	0	37	a	DT	(NP*	-	-	-	-	*	(12
+selectraws1/21545	0	38	street	NN	*	-	-	-	-	*	-
+selectraws1/21545	0	39	girl	NN	*)))))))	-	-	-	-	*	12)
+selectraws1/21545	0	40	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/21545	0	0	That	DT	(TOP(S(NP(NP*	-	-	-	-	*	(10
+selectraws1/21545	0	1	character	NN	*)	-	-	-	-	*	10)
+selectraws1/21545	0	2	,	,	*	-	-	-	-	*	-
+selectraws1/21545	0	3	Marius	NNP	(NP*)	-	-	-	-	(PERSON)	(10)
+selectraws1/21545	0	4	,	,	*)	-	-	-	-	*	-
+selectraws1/21545	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/21545	0	6	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	7	love	NN	(NP*))	-	-	-	-	*	-
+selectraws1/21545	0	8	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	9	Cosette	NNP	(NP(NP*)	-	-	-	-	*	(11)
+selectraws1/21545	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/21545	0	11	the	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws1/21545	0	12	adopted	VBN	*	-	-	-	-	*	-
+selectraws1/21545	0	13	daughter	NN	*)	-	-	-	-	*	-
+selectraws1/21545	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	15	a	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/21545	0	16	man	NN	*)	-	-	-	-	*	-
+selectraws1/21545	0	17	initially	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/21545	0	18	imprisoned	VBN	*	-	-	-	-	*	-
+selectraws1/21545	0	19	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	20	stealing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/21545	0	21	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/21545	0	22	loaf	NN	*)	-	-	-	-	*	-
+selectraws1/21545	0	23	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	24	bread	NN	(NP*)))))))))))))	-	-	-	-	*	11)|3)
+selectraws1/21545	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/21545	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/21545	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/21545	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/21545	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/21545	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/21545	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/21545	0	6	work	NN	*)	-	-	-	-	*	-
+selectraws1/21545	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	8	Victor	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/21545	0	9	Hugo	NNP	*)))	-	-	-	-	*)	2)
+selectraws1/21545	0	10	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/21545	0	11	former	JJ	(NP*	-	-	-	-	*	(3
+selectraws1/21545	0	12	prisoner	NN	*	-	-	-	-	*	3)
+selectraws1/21545	0	13	Jean	NNP	*	-	-	-	-	(PERSON*	(3
+selectraws1/21545	0	14	Valjean	NNP	*)))	-	-	-	-	*)	3)|1)
+selectraws1/21545	0	15	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

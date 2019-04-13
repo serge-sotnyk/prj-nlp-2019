@@ -1,0 +1,149 @@
+#begin document (selectraws1/41); part 000
+
+selectraws1/41	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/41	0	1	this	DT	(NP(NP*	-	-	-	-	*	(4|(1
+selectraws1/41	0	2	author	NN	*	-	-	-	-	*	1)
+selectraws1/41	0	3	's	POS	*)	-	-	-	-	*	-
+selectraws1/41	0	4	first	JJ	*	-	-	-	-	*	-
+selectraws1/41	0	5	novel	NN	*))	-	-	-	-	*	4)
+selectraws1/41	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/41	0	7	Eugene	NNP	(NP*	-	-	-	-	(PERSON*	(5
+selectraws1/41	0	8	Dawn	NNP	*)	-	-	-	-	*)	5)
+selectraws1/41	0	9	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/41	0	10	driven	VBN	(VP*	-	-	-	-	*	-
+selectraws1/41	0	11	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/41	0	12	insanity	NN	(NP*))	-	-	-	-	*	-
+selectraws1/41	0	13	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/41	0	14	his	PRP$	(NP(NP*	-	-	-	-	*	(5)
+selectraws1/41	0	15	work	NN	*)	-	-	-	-	*	-
+selectraws1/41	0	16	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/41	0	17	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/41	0	18	Vietnam	NNP	*	-	-	-	-	(LOCATION)	-
+selectraws1/41	0	19	Project	NNP	*))))))	-	-	-	-	*	-
+selectraws1/41	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/41	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/41	0	1	his	PRP$	(NP*	-	-	-	-	*	(6|(1)
+selectraws1/41	0	2	next	JJ	*	-	-	-	-	*	-
+selectraws1/41	0	3	novel	NN	*))	-	-	-	-	*	6)
+selectraws1/41	0	4	,	,	*	-	-	-	-	*	-
+selectraws1/41	0	5	Magda	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(7)
+selectraws1/41	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/41	0	7	the	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws1/41	0	8	daughter	NN	*)	-	-	-	-	*	-
+selectraws1/41	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/41	0	10	a	DT	(NP*	-	-	-	-	*	(8
+selectraws1/41	0	11	sheep	NN	*	-	-	-	-	*	-
+selectraws1/41	0	12	farmer	NN	*)))	-	-	-	-	*	8)|7)
+selectraws1/41	0	13	,	,	*)	-	-	-	-	*	-
+selectraws1/41	0	14	clashes	NNS	(VP*	-	-	-	-	*	-
+selectraws1/41	0	15	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/41	0	16	her	PRP$	(NP*	-	-	-	-	*	(8|(7)
+selectraws1/41	0	17	father	NN	*))	-	-	-	-	*	8)
+selectraws1/41	0	18	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/41	0	19	taking	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/41	0	20	a	DT	(NP*	-	-	-	-	*	(9
+selectraws1/41	0	21	black	JJ	*	-	-	-	-	*	-
+selectraws1/41	0	22	mistress	NN	*)))))	-	-	-	-	*	9)
+selectraws1/41	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/41	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/41	0	1	addition	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/41	0	2	to	TO	(PP(PP*	-	-	-	-	*	-
+selectraws1/41	0	3	Dusklands	NNP	(NP*))	-	-	-	-	*	(4)
+selectraws1/41	0	4	and	CC	*	-	-	-	-	*	-
+selectraws1/41	0	5	In	IN	(PP*	-	-	-	-	*	(6
+selectraws1/41	0	6	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/41	0	7	Heart	NNP	*)	-	-	-	-	*	-
+selectraws1/41	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/41	0	9	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/41	0	10	Country	NNP	*)))))))	-	-	-	-	*	6)
+selectraws1/41	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/41	0	12	he	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws1/41	0	13	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/41	0	14	a	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/41	0	15	work	NN	*)	-	-	-	-	*	10)
+selectraws1/41	0	16	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/41	0	17	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/41	0	18	Susan	NNP	(S(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/41	0	19	Barton	NNP	*)	-	-	-	-	*)	11)
+selectraws1/41	0	20	meets	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/41	0	21	Friday	NNP	(NP(NP*	-	-	-	-	(DATE)	(12)
+selectraws1/41	0	22	and	CC	*	-	-	-	-	*	-
+selectraws1/41	0	23	Cruso	NNP	*)	-	-	-	-	(PERSON)	(13)
+selectraws1/41	0	24	,	,	*	-	-	-	-	*	-
+selectraws1/41	0	25	Foe	NNP	(NP*)))))))	-	-	-	-	*	(10)
+selectraws1/41	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/41	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws1/41	0	1	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/41	0	2	better	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/41	0	3	known	VBN	(VP*	-	-	-	-	*	-
+selectraws1/41	0	4	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/41	0	5	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/41	0	6	novel	NN	*)	-	-	-	-	*	-
+selectraws1/41	0	7	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/41	0	8	Melanie	NNP	(NP(NP(NP*	-	-	-	-	(PERSON)	(14)
+selectraws1/41	0	9	's	POS	*)	-	-	-	-	*	-
+selectraws1/41	0	10	affair	NN	*)	-	-	-	-	*	-
+selectraws1/41	0	11	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/41	0	12	Professor	NNP	(NP(NP(NP*	-	-	-	-	*	(15
+selectraws1/41	0	13	David	NNP	*	-	-	-	-	(PERSON*	-
+selectraws1/41	0	14	Lurie	NNP	*)	-	-	-	-	*)	15)|2)
+selectraws1/41	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/41	0	16	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/41	0	17	leads	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/41	0	18	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/41	0	19	the	DT	(NP*	-	-	-	-	*	(2
+selectraws1/41	0	20	title	NN	*	-	-	-	-	*	-
+selectraws1/41	0	21	condition	NN	*)))))	-	-	-	-	*	2)
+selectraws1/41	0	22	,	,	*)	-	-	-	-	*	-
+selectraws1/41	0	23	and	CC	*	-	-	-	-	*	-
+selectraws1/41	0	24	another	DT	(NP(NP*)	-	-	-	-	*	(3
+selectraws1/41	0	25	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/41	0	26	the	DT	(NP(NP*	-	-	-	-	*	(16
+selectraws1/41	0	27	titular	JJ	*	-	-	-	-	*	-
+selectraws1/41	0	28	hare-lipped	JJ	*	-	-	-	-	*	-
+selectraws1/41	0	29	gardener	NN	*)	-	-	-	-	*	16)|3)
+selectraws1/41	0	30	,	,	*	-	-	-	-	*	-
+selectraws1/41	0	31	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/41	0	32	escapes	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/41	0	33	from	IN	(PP(PP*	-	-	-	-	*	-
+selectraws1/41	0	34	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/41	0	35	retraining	VBG	*	-	-	-	-	*	-
+selectraws1/41	0	36	camp	NN	*	-	-	-	-	*	-
+selectraws1/41	0	37	hospital	NN	*	-	-	-	-	*	-
+selectraws1/41	0	38	and	CC	*	-	-	-	-	*	-
+selectraws1/41	0	39	returns	NNS	*))	-	-	-	-	*	-
+selectraws1/41	0	40	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/41	0	41	Cape	NNP	(NP*	-	-	-	-	(LOCATION*	-
+selectraws1/41	0	42	Town	NNP	*)))))))))))))))))	-	-	-	-	*)	-
+selectraws1/41	0	43	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/41	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/41	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/41	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/41	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/41	0	4	name	VBP	(VP*	-	-	-	-	*	-
+selectraws1/41	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/41	0	6	South	JJ	(ADJP*	-	-	-	-	*	-
+selectraws1/41	0	7	African	JJ	*)	-	-	-	-	*	-
+selectraws1/41	0	8	author	NN	*)	-	-	-	-	*	-
+selectraws1/41	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/41	0	10	Disgrace	NNP	(NP(NP*)	-	-	-	-	*	(2)
+selectraws1/41	0	11	and	CC	*	-	-	-	-	*	-
+selectraws1/41	0	12	The	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/41	0	13	Life	NNP	*	-	-	-	-	*	-
+selectraws1/41	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/41	0	15	Times	NNP	*)	-	-	-	-	*	-
+selectraws1/41	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/41	0	17	Michael	NNP	(NP*	-	-	-	-	(PERSON*	(16
+selectraws1/41	0	18	K.	NNP	*)))))))))	-	-	-	-	*)	3)|1)|16)
+
+
+#end document
+

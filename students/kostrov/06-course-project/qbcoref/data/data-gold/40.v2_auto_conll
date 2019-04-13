@@ -1,0 +1,172 @@
+#begin document (selectraws/40); part 000
+
+selectraws/40	0	0	As	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/40	0	1	a	DT	(NP*	-	-	-	-	*	-
+selectraws/40	0	2	child	NN	*))	-	-	-	-	*	-
+selectraws/40	0	3	,	,	*	-	-	-	-	*	-
+selectraws/40	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/40	0	5	character	NN	*)	-	-	-	-	*	1)
+selectraws/40	0	6	reads	VBZ	(VP*	-	-	-	-	*	-
+selectraws/40	0	7	his	PRP$	(NP*	-	-	-	-	*	(2|(1)
+selectraws/40	0	8	uncle	NN	*)	-	-	-	-	*	2)
+selectraws/40	0	9	the	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws/40	0	10	column	NN	*)	-	-	-	-	*	3)
+selectraws/40	0	11	That	DT	(NP*	-	-	-	-	*	(3
+selectraws/40	0	12	Body	NN	*)	-	-	-	-	*	-
+selectraws/40	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	14	Yours	NNPS	(NP*)))	-	-	-	-	*	3)
+selectraws/40	0	15	every	DT	(NP*	-	-	-	-	*	-
+selectraws/40	0	16	Sunday	NNP	*))	-	-	-	-	(DATE)	-
+selectraws/40	0	17	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/40	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws/40	0	1	sleeps	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws/40	0	2	with	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	3	a	DT	(NP*	-	-	-	-	*	-
+selectraws/40	0	4	cutlass	NN	*)))	-	-	-	-	*	-
+selectraws/40	0	5	and	CC	*	-	-	-	-	*	-
+selectraws/40	0	6	buys	VBZ	(VP*	-	-	-	-	*	-
+selectraws/40	0	7	a	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws/40	0	8	puppy	NN	*)	-	-	-	-	*	4)
+selectraws/40	0	9	named	VBN	(VP*	-	-	-	-	*	-
+selectraws/40	0	10	Tarzan	NNP	(S(NP*))))	-	-	-	-	*	(4)
+selectraws/40	0	11	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/40	0	12	protect	VB	(VP*	-	-	-	-	*	-
+selectraws/40	0	13	himself	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws/40	0	14	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/40	0	15	waiting	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/40	0	16	for	IN	(SBAR*	-	-	-	-	*	-
+selectraws/40	0	17	Mr.	NNP	(S(NP*	-	-	-	-	(PERSON*	(5
+selectraws/40	0	18	Maclean	NNP	*)	-	-	-	-	*)	5)
+selectraws/40	0	19	to	TO	(VP*	-	-	-	-	*	-
+selectraws/40	0	20	finish	VB	(VP*	-	-	-	-	*	-
+selectraws/40	0	21	building	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/40	0	22	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/40	0	23	shelter	NN	*)	-	-	-	-	*	-
+selectraws/40	0	24	in	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	25	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/40	0	26	Green	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws/40	0	27	Vale	NNP	*)	-	-	-	-	*)	-
+selectraws/40	0	28	,	,	*	-	-	-	-	*	-
+selectraws/40	0	29	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/40	0	30	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/40	0	31	ultimately	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/40	0	32	burnt	VBN	(VP*	-	-	-	-	*	-
+selectraws/40	0	33	down	RP	(PRT*)	-	-	-	-	*	-
+selectraws/40	0	34	by	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	35	sugarcane	NN	(NP*	-	-	-	-	*	-
+selectraws/40	0	36	farmers	NNS	*)))))))))))))))))))))))	-	-	-	-	*	-
+selectraws/40	0	37	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/40	0	0	His	PRP$	(TOP(S(NP*	-	-	-	-	*	(7|(1)
+selectraws/40	0	1	father	NN	*)	-	-	-	-	*	7)
+selectraws/40	0	2	drowns	VBZ	(VP*	-	-	-	-	*	-
+selectraws/40	0	3	after	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	4	diving	NN	(NP*))	-	-	-	-	*	-
+selectraws/40	0	5	into	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	6	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/40	0	7	pool	NN	*)	-	-	-	-	*	-
+selectraws/40	0	8	in	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	9	a	DT	(NP*	-	-	-	-	*	-
+selectraws/40	0	10	misguided	JJ	*	-	-	-	-	*	-
+selectraws/40	0	11	attempt	NN	*	-	-	-	-	*	-
+selectraws/40	0	12	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/40	0	13	save	VB	(VP*	-	-	-	-	*	-
+selectraws/40	0	14	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/40	0	15	character	NN	*)	-	-	-	-	*	1)
+selectraws/40	0	16	,	,	*	-	-	-	-	*	-
+selectraws/40	0	17	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/40	0	18	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/40	0	19	actually	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/40	0	20	hiding	VBG	(VP*	-	-	-	-	*	-
+selectraws/40	0	21	under	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	22	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/40	0	23	bed	NN	*)	-	-	-	-	*	-
+selectraws/40	0	24	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+selectraws/40	0	25	avoid	VB	(VP*	-	-	-	-	*	-
+selectraws/40	0	26	punishment	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws/40	0	27	for	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	28	losing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/40	0	29	a	DT	(NP*	-	-	-	-	*	-
+selectraws/40	0	30	calf	NN	*))))))))))))))))))))))))	-	-	-	-	*	-
+selectraws/40	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/40	0	0	After	IN	(TOP(S(SBAR*	-	-	-	-	*	-
+selectraws/40	0	1	his	PRP$	(S(NP*	-	-	-	-	*	(8|(1)
+selectraws/40	0	2	son	NN	*	-	-	-	-	*	8)
+selectraws/40	0	3	Anand	NNP	*)	-	-	-	-	*	(8)
+selectraws/40	0	4	abandons	VBZ	(VP*	-	-	-	-	*	-
+selectraws/40	0	5	him	PRP	(NP*))))	-	-	-	-	*	(1)
+selectraws/40	0	6	,	,	*	-	-	-	-	*	-
+selectraws/40	0	7	he	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws/40	0	8	begins	VBZ	(VP*	-	-	-	-	*	-
+selectraws/40	0	9	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/40	0	10	work	VB	(VP*	-	-	-	-	*	-
+selectraws/40	0	11	as	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	12	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/40	0	13	reporter	NN	*)	-	-	-	-	*	-
+selectraws/40	0	14	for	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	15	The	DT	(NP(NP(NP*	-	-	-	-	(ORGANIZATION*	-
+selectraws/40	0	16	Sentinel	NNP	*)	-	-	-	-	*)	-
+selectraws/40	0	17	in	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	18	Port	NNP	(NP*)))	-	-	-	-	*	-
+selectraws/40	0	19	of	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	20	Spain	NNP	(NP*))))))))))	-	-	-	-	(LOCATION)	-
+selectraws/40	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/40	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/40	0	1	character	NN	*)	-	-	-	-	*	1)
+selectraws/40	0	2	works	VBZ	(VP*	-	-	-	-	*	-
+selectraws/40	0	3	as	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	4	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/40	0	5	sign	NN	*	-	-	-	-	*	-
+selectraws/40	0	6	painter	NN	*)	-	-	-	-	*	-
+selectraws/40	0	7	,	,	*	-	-	-	-	*	-
+selectraws/40	0	8	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/40	0	9	brings	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/40	0	10	him	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws/40	0	11	to	TO	(PP*	-	-	-	-	*	-
+selectraws/40	0	12	Hanuman	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	-
+selectraws/40	0	13	House	NNP	*)	-	-	-	-	*)	-
+selectraws/40	0	14	,	,	*	-	-	-	-	*	-
+selectraws/40	0	15	where	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws/40	0	16	he	PRP	(S(NP*)	-	-	-	-	*	(1)
+selectraws/40	0	17	marries	VBZ	(VP*	-	-	-	-	*	-
+selectraws/40	0	18	Shama	NNP	(NP*)	-	-	-	-	(PERSON)	(12)
+selectraws/40	0	19	by	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	20	the	DT	(NP*	-	-	-	-	*	(13
+selectraws/40	0	21	Tulsi	NNP	*	-	-	-	-	(PERSON)	-
+selectraws/40	0	22	family	NN	*)))))))))))))	-	-	-	-	*	13)
+selectraws/40	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/40	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/40	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/40	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/40	0	3	,	,	*	-	-	-	-	*	-
+selectraws/40	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/40	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/40	0	6	six-fingered	JJ	*	-	-	-	-	*	-
+selectraws/40	0	7	character	NN	*)	-	-	-	-	*	1)
+selectraws/40	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/40	0	9	struggles	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/40	0	10	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/40	0	11	get	VB	(VP*	-	-	-	-	*	-
+selectraws/40	0	12	a	DT	(NP*	-	-	-	-	*	-
+selectraws/40	0	13	house	NN	*)	-	-	-	-	*	-
+selectraws/40	0	14	in	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	15	a	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws/40	0	16	novel	NN	*)	-	-	-	-	*	-
+selectraws/40	0	17	by	IN	(PP*	-	-	-	-	*	-
+selectraws/40	0	18	V.	NNP	(NP*	-	-	-	-	(PERSON*	(9
+selectraws/40	0	19	S.	NNP	*	-	-	-	-	*	-
+selectraws/40	0	20	Naipaul	NNP	*))))))))))))	-	-	-	-	*)	9)|6)
+selectraws/40	0	21	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

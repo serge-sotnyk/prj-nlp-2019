@@ -1,0 +1,132 @@
+#begin document (selectraws1/16228); part 000
+
+selectraws1/16228	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	(10
+selectraws1/16228	0	1	short	JJ	*	-	-	-	-	*	-
+selectraws1/16228	0	2	story	NN	*)	-	-	-	-	*	-
+selectraws1/16228	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16228	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16228	0	5	author	NN	*)))	-	-	-	-	*	10)|1)
+selectraws1/16228	0	6	sees	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16228	0	7	Travis	NNP	(S(NP*)	-	-	-	-	(PERSON*	(9)
+selectraws1/16228	0	8	take	VB	(VP*	-	-	-	-	*	-
+selectraws1/16228	0	9	Eckles	NNS	(NP*)	-	-	-	-	*)	(8)
+selectraws1/16228	0	10	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/16228	0	11	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16228	0	12	hunting	NN	*	-	-	-	-	*	-
+selectraws1/16228	0	13	expedition	NN	*)))))	-	-	-	-	*	-
+selectraws1/16228	0	14	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16228	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(11
+selectraws1/16228	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16228	0	2	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16228	0	3	author	NN	*	-	-	-	-	*	1)
+selectraws1/16228	0	4	's	POS	*)	-	-	-	-	*	-
+selectraws1/16228	0	5	novels	NNS	*)))	-	-	-	-	*	11)
+selectraws1/16228	0	6	sees	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16228	0	7	Mrs.	NNP	(S(NP(NP*	-	-	-	-	(PERSON*	(7
+selectraws1/16228	0	8	Bowles	NNP	*)	-	-	-	-	*)	7)
+selectraws1/16228	0	9	and	CC	*	-	-	-	-	*	-
+selectraws1/16228	0	10	Mrs.	NNP	(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/16228	0	11	Phelps	NNP	*))	-	-	-	-	*)	6)
+selectraws1/16228	0	12	break	VB	(VP*	-	-	-	-	*	-
+selectraws1/16228	0	13	down	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/16228	0	14	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/16228	0	15	reading	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/16228	0	16	Dover	NNP	(NP*	-	-	-	-	(LOCATION*	(17
+selectraws1/16228	0	17	Beach	NNP	*)))))))	-	-	-	-	*)	17)
+selectraws1/16228	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16228	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/16228	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws1/16228	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16228	0	3	about	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16228	0	4	Leo	NNP	(S(NP(NP*)	-	-	-	-	(PERSON)	(5)
+selectraws1/16228	0	5	,	,	*	-	-	-	-	*	-
+selectraws1/16228	0	6	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	(5)
+selectraws1/16228	0	7	attempts	NNS	*)	-	-	-	-	*	-
+selectraws1/16228	0	8	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/16228	0	9	build	VB	(VP*	-	-	-	-	*	-
+selectraws1/16228	0	10	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16228	0	11	happiness	NN	*	-	-	-	-	*	-
+selectraws1/16228	0	12	machine	NN	*))))))	-	-	-	-	*	-
+selectraws1/16228	0	13	go	VBP	(VP*	-	-	-	-	*	-
+selectraws1/16228	0	14	awry	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/16228	0	15	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/16228	0	16	it	PRP	(S(NP*)	-	-	-	-	*	-
+selectraws1/16228	0	17	burns	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16228	0	18	his	PRP$	(NP*	-	-	-	-	*	(5)
+selectraws1/16228	0	19	garage	NN	*)	-	-	-	-	*	-
+selectraws1/16228	0	20	down	RP	(PRT*))))))))	-	-	-	-	*	-
+selectraws1/16228	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16228	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16228	0	1	another	DT	(NP(NP*)	-	-	-	-	*	(12
+selectraws1/16228	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16228	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16228	0	4	man	NN	*	-	-	-	-	*	1)
+selectraws1/16228	0	5	's	POS	*)	-	-	-	-	*	-
+selectraws1/16228	0	6	novels	NNS	*))))	-	-	-	-	*	12)
+selectraws1/16228	0	7	,	,	*	-	-	-	-	*	-
+selectraws1/16228	0	8	the	DT	(NP*	-	-	-	-	*	(2
+selectraws1/16228	0	9	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws1/16228	0	10	is	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/16228	0	11	married	JJ	(ADJP*	-	-	-	-	*	-
+selectraws1/16228	0	12	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/16228	0	13	Mildred	NNP	(NP*))))	-	-	-	-	(LOCATION)	(13)
+selectraws1/16228	0	14	,	,	*	-	-	-	-	*	-
+selectraws1/16228	0	15	and	CC	*	-	-	-	-	*	-
+selectraws1/16228	0	16	falls	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16228	0	17	in	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/16228	0	18	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/16228	0	19	Granger	NNP	(NP*))	-	-	-	-	(PERSON)	(3)
+selectraws1/16228	0	20	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/16228	0	21	meeting	VBG	(S(VP(VP*	-	-	-	-	*	-
+selectraws1/16228	0	22	Clarisse	NNP	(NP*	-	-	-	-	(PERSON*	(14
+selectraws1/16228	0	23	McClellan	NNP	*	-	-	-	-	*)	14)
+selectraws1/16228	0	24	and	CC	*	-	-	-	-	*	-
+selectraws1/16228	0	25	Faber	NNP	*))	-	-	-	-	(PERSON)	(15)
+selectraws1/16228	0	26	and	CC	*	-	-	-	-	*	-
+selectraws1/16228	0	27	surviving	VBG	(VP*	-	-	-	-	*	-
+selectraws1/16228	0	28	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16228	0	29	procaine	JJ	*	-	-	-	-	*	-
+selectraws1/16228	0	30	injection	NN	*)	-	-	-	-	*	-
+selectraws1/16228	0	31	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/16228	0	32	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16228	0	33	mechanical	JJ	*	-	-	-	-	*	-
+selectraws1/16228	0	34	hound	NN	*)))))))))	-	-	-	-	*	-
+selectraws1/16228	0	35	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16228	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16228	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/16228	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/16228	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/16228	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/16228	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16228	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws1/16228	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16228	0	8	A	DT	(NP(NP(NP*	-	-	-	-	*	(16
+selectraws1/16228	0	9	Sound	NN	*)	-	-	-	-	*	-
+selectraws1/16228	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16228	0	11	Thunder	NNP	(NP*)))	-	-	-	-	*	16)
+selectraws1/16228	0	12	and	CC	*	-	-	-	-	*	-
+selectraws1/16228	0	13	Dandelion	NNP	(NP(NP*	-	-	-	-	*	(4
+selectraws1/16228	0	14	Wine	NNP	*)	-	-	-	-	*	1)|4)
+selectraws1/16228	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/16228	0	16	who	WP	(SBAR(WHNP*)	-	-	-	-	*	(1)
+selectraws1/16228	0	17	wrote	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/16228	0	18	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/16228	0	19	firefighter	NN	(NP*	-	-	-	-	*	-
+selectraws1/16228	0	20	Guy	NNP	*	-	-	-	-	*	(2
+selectraws1/16228	0	21	Montag	NNP	*))	-	-	-	-	(PERSON)	2)
+selectraws1/16228	0	22	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16228	0	23	Fahrenheit	NNP	(NP*	-	-	-	-	*	(12
+selectraws1/16228	0	24	451	CD	*)))))))))	-	-	-	-	*	12)
+selectraws1/16228	0	25	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

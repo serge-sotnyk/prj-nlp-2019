@@ -1,0 +1,122 @@
+#begin document (selectraws1/19329); part 000
+
+selectraws1/19329	0	0	One	CD	(TOP(S(S(NP(NP*)	-	-	-	-	*	(4
+selectraws1/19329	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19329	0	2	the	DT	(NP(NP*	-	-	-	-	*	(3|(5
+selectraws1/19329	0	3	protagonist	NN	*	-	-	-	-	*	3)
+selectraws1/19329	0	4	's	POS	*)	-	-	-	-	*	-
+selectraws1/19329	0	5	only	JJ	*	-	-	-	-	*	-
+selectraws1/19329	0	6	friends	NNS	*))	-	-	-	-	*	5)
+selectraws1/19329	0	7	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/19329	0	8	childhood	NN	(NP*)))	-	-	-	-	*	4)
+selectraws1/19329	0	9	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19329	0	10	the	DT	(NP*	-	-	-	-	*	(4
+selectraws1/19329	0	11	gamekeeper	JJ	*	-	-	-	-	*	4)
+selectraws1/19329	0	12	Black	NNP	*	-	-	-	-	(PERSON*	(4
+selectraws1/19329	0	13	George	NNP	*)))	-	-	-	-	*)	4)
+selectraws1/19329	0	14	,	,	*	-	-	-	-	*	-
+selectraws1/19329	0	15	and	CC	*	-	-	-	-	*	-
+selectraws1/19329	0	16	he	PRP	(S(NP*)	-	-	-	-	*	(3)
+selectraws1/19329	0	17	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19329	0	18	tutored	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19329	0	19	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19329	0	20	the	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws1/19329	0	21	constantly	RB	(ADJP*	-	-	-	-	*	-
+selectraws1/19329	0	22	arguing	VBG	*)	-	-	-	-	*	-
+selectraws1/19329	0	23	pair	NN	*)	-	-	-	-	*	8)
+selectraws1/19329	0	24	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19329	0	25	Mr.	NNP	(NP(NP*	-	-	-	-	(PERSON*	(6|(8
+selectraws1/19329	0	26	Square	NNP	*)	-	-	-	-	*)	6)
+selectraws1/19329	0	27	and	CC	*	-	-	-	-	*	-
+selectraws1/19329	0	28	Mr.	NNP	(NP*	-	-	-	-	(PERSON*	(7
+selectraws1/19329	0	29	Thwackum	NNP	*))))))))	-	-	-	-	*)	8)|7)
+selectraws1/19329	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19329	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+selectraws1/19329	0	1	protagonist	NN	*)	-	-	-	-	*	-
+selectraws1/19329	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19329	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/19329	0	4	novel	NN	*)))	-	-	-	-	*	3)|1)
+selectraws1/19329	0	5	has	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/19329	0	6	an	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19329	0	7	affair	NN	*)	-	-	-	-	*	-
+selectraws1/19329	0	8	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/19329	0	9	Mrs.	NNP	(NP(NP*	-	-	-	-	(PERSON*	(9
+selectraws1/19329	0	10	Waters	NNP	*)	-	-	-	-	*)	9)
+selectraws1/19329	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/19329	0	12	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19329	0	13	used	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/19329	0	14	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/19329	0	15	be	VB	(VP*	-	-	-	-	*	-
+selectraws1/19329	0	16	the	DT	(NP*	-	-	-	-	*	(10
+selectraws1/19329	0	17	servant	NN	*	-	-	-	-	*	10)
+selectraws1/19329	0	18	Jenny	NNP	*	-	-	-	-	(PERSON*	(10
+selectraws1/19329	0	19	Jones	NNP	*)))))))))))	-	-	-	-	*)	10)
+selectraws1/19329	0	20	,	,	*	-	-	-	-	*	-
+selectraws1/19329	0	21	and	CC	*	-	-	-	-	*	-
+selectraws1/19329	0	22	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19329	0	23	paid	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19329	0	24	off	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/19329	0	25	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19329	0	26	Bridgit	NNP	(NP(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/19329	0	27	Blifil	NNP	*)	-	-	-	-	*)	11)
+selectraws1/19329	0	28	,	,	*	-	-	-	-	*	-
+selectraws1/19329	0	29	the	DT	(NP(NP*	-	-	-	-	*	(3|(11
+selectraws1/19329	0	30	title	NN	*	-	-	-	-	*	-
+selectraws1/19329	0	31	character	NN	*	-	-	-	-	*	3)
+selectraws1/19329	0	32	's	POS	*)	-	-	-	-	*	-
+selectraws1/19329	0	33	true	JJ	*	-	-	-	-	*	-
+selectraws1/19329	0	34	mother	NN	*))))))	-	-	-	-	*	11)
+selectraws1/19329	0	35	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19329	0	0	Through	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19329	0	1	his	PRP$	(NP*	-	-	-	-	*	(3)
+selectraws1/19329	0	2	good	JJ	*	-	-	-	-	*	-
+selectraws1/19329	0	3	deeds	NNS	*))	-	-	-	-	*	-
+selectraws1/19329	0	4	,	,	*	-	-	-	-	*	-
+selectraws1/19329	0	5	the	DT	(NP*	-	-	-	-	*	(3
+selectraws1/19329	0	6	protagonist	NN	*)	-	-	-	-	*	3)
+selectraws1/19329	0	7	secures	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/19329	0	8	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19329	0	9	love	NN	*)	-	-	-	-	*	-
+selectraws1/19329	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19329	0	11	Sophia	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(12
+selectraws1/19329	0	12	Western	NNP	*))))	-	-	-	-	*)	12)
+selectraws1/19329	0	13	and	CC	*	-	-	-	-	*	-
+selectraws1/19329	0	14	becomes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/19329	0	15	the	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/19329	0	16	heir	NN	*)	-	-	-	-	*	-
+selectraws1/19329	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19329	0	18	his	PRP$	(NP(NP(NP*	-	-	-	-	*	(13|(3)
+selectraws1/19329	0	19	foster	JJ	*	-	-	-	-	*	-
+selectraws1/19329	0	20	father	NN	*)	-	-	-	-	*	13)
+selectraws1/19329	0	21	Squire	NNP	(NP*	-	-	-	-	(PERSON*	(13
+selectraws1/19329	0	22	Allworthy	NNP	*))	-	-	-	-	*)	3)|13)
+selectraws1/19329	0	23	,	,	*	-	-	-	-	*	-
+selectraws1/19329	0	24	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19329	0	25	had	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/19329	0	26	discovered	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19329	0	27	him	PRP	(NP*)	-	-	-	-	*	(3)
+selectraws1/19329	0	28	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/19329	0	29	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/19329	0	30	foundling	NN	*)))))))))))	-	-	-	-	*	-
+selectraws1/19329	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19329	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19329	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/19329	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/19329	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/19329	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/19329	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/19329	0	6	novel	NN	*)	-	-	-	-	*	-
+selectraws1/19329	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/19329	0	8	Henry	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(2
+selectraws1/19329	0	9	Fielding	NNP	*)))	-	-	-	-	*)	2)|1)
+selectraws1/19329	0	10	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

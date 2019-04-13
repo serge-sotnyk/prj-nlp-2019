@@ -1,0 +1,101 @@
+#begin document (notdoneraws/17901); part 000
+
+notdoneraws/17901	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/17901	0	1	author	NN	*)	-	-	-	-	*	1)
+notdoneraws/17901	0	2	created	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/17901	0	3	the	DT	(NP*	-	-	-	-	*	(3
+notdoneraws/17901	0	4	fictional	JJ	*	-	-	-	-	*	-
+notdoneraws/17901	0	5	editor	NN	*	-	-	-	-	*	3)
+notdoneraws/17901	0	6	Jedediah	NNP	*	-	-	-	-	(PERSON*	(3
+notdoneraws/17901	0	7	Cleishbotham	NNP	*))	-	-	-	-	*)	3)
+notdoneraws/17901	0	8	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17901	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/17901	0	1	author	NN	*)	-	-	-	-	*	1)
+notdoneraws/17901	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/17901	0	3	a	DT	(NP(NP*	-	-	-	-	*	(4
+notdoneraws/17901	0	4	novel	NN	*)	-	-	-	-	*	4)
+notdoneraws/17901	0	5	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+notdoneraws/17901	0	6	which	WDT	(WHNP*))	-	-	-	-	*	-
+notdoneraws/17901	0	7	the	DT	(S(NP*	-	-	-	-	*	(5
+notdoneraws/17901	0	8	Clan	NNP	*	-	-	-	-	*	5)
+notdoneraws/17901	0	9	Mac-Ivor	NNP	*)	-	-	-	-	*	(5)
+notdoneraws/17901	0	10	convinces	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17901	0	11	the	DT	(NP*	-	-	-	-	*	(6
+notdoneraws/17901	0	12	protagonist	NN	*)	-	-	-	-	*	6)
+notdoneraws/17901	0	13	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/17901	0	14	join	VB	(VP*	-	-	-	-	*	-
+notdoneraws/17901	0	15	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/17901	0	16	Jacobite	NNP	*)	-	-	-	-	*	-
+notdoneraws/17901	0	17	rising	VBG	(VP*))))))))))	-	-	-	-	*	-
+notdoneraws/17901	0	18	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17901	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/17901	0	1	also	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/17901	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/17901	0	3	a	DT	(NP(NP*	-	-	-	-	*	(7
+notdoneraws/17901	0	4	novel	NN	*)	-	-	-	-	*	-
+notdoneraws/17901	0	5	narrated	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/17901	0	6	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17901	0	7	Frank	NNP	(NP*	-	-	-	-	(PERSON*	(8
+notdoneraws/17901	0	8	Osbaldistone	NNP	*)))	-	-	-	-	*)	8)
+notdoneraws/17901	0	9	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17901	0	10	a	DT	(NP*	-	-	-	-	*	(7
+notdoneraws/17901	0	11	Scottish	JJ	*	-	-	-	-	*	-
+notdoneraws/17901	0	12	folk	NN	*	-	-	-	-	*	-
+notdoneraws/17901	0	13	hero	NN	*))))	-	-	-	-	*	7)|7)
+notdoneraws/17901	0	14	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17901	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+notdoneraws/17901	0	1	author	NN	*)	-	-	-	-	*	-
+notdoneraws/17901	0	2	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17901	0	3	Waverley	NNP	(NP*	-	-	-	-	(ORGANIZATION)	(4)
+notdoneraws/17901	0	4	and	CC	*	-	-	-	-	*	-
+notdoneraws/17901	0	5	Rob	NNP	*	-	-	-	-	(PERSON)	(7
+notdoneraws/17901	0	6	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+notdoneraws/17901	0	7	\*	SYM	(NP*)	-	-	-	-	*	-
+notdoneraws/17901	0	8	-RRB-	-RRB-	*)	-	-	-	-	*	-
+notdoneraws/17901	0	9	Roy	NNP	*)))	-	-	-	-	(PERSON)	7)|1)
+notdoneraws/17901	0	10	also	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/17901	0	11	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/17901	0	12	a	DT	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/17901	0	13	novel	NN	*)	-	-	-	-	*	2)
+notdoneraws/17901	0	14	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+notdoneraws/17901	0	15	which	WDT	(WHNP*))	-	-	-	-	*	-
+notdoneraws/17901	0	16	Cedric	NNP	(S(NP(NP*)	-	-	-	-	*	(9
+notdoneraws/17901	0	17	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17901	0	18	Rotherwood	NNP	(NP*)))	-	-	-	-	*	9)
+notdoneraws/17901	0	19	disinherits	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/17901	0	20	his	PRP$	(NP*	-	-	-	-	*	(2|(9)
+notdoneraws/17901	0	21	son	NN	*)	-	-	-	-	*	2)
+notdoneraws/17901	0	22	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17901	0	23	falling	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/17901	0	24	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17901	0	25	love	NN	(NP*))	-	-	-	-	*	-
+notdoneraws/17901	0	26	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17901	0	27	Rowena	NNP	(NP*))))))))))	-	-	-	-	(PERSON)	(10)
+notdoneraws/17901	0	28	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/17901	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/17901	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/17901	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/17901	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/17901	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/17901	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/17901	0	6	Scottish	JJ	*	-	-	-	-	*	-
+notdoneraws/17901	0	7	author	NN	*)	-	-	-	-	*	-
+notdoneraws/17901	0	8	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/17901	0	9	historical	JJ	(NP(NP*	-	-	-	-	*	-
+notdoneraws/17901	0	10	novels	NNS	*)	-	-	-	-	*	1)
+notdoneraws/17901	0	11	such	JJ	(PP*	-	-	-	-	*	-
+notdoneraws/17901	0	12	as	IN	*	-	-	-	-	*	-
+notdoneraws/17901	0	13	Ivanhoe	NNP	(NP*))))))	-	-	-	-	*	(2)
+notdoneraws/17901	0	14	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,102 @@
+#begin document (selectraws1/17075); part 000
+
+selectraws1/17075	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(3
+selectraws1/17075	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws1/17075	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/17075	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17075	0	4	novel	NN	*)))	-	-	-	-	*	1)|3)
+selectraws1/17075	0	5	tries	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17075	0	6	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/17075	0	7	befriend	VB	(VP*	-	-	-	-	*	-
+selectraws1/17075	0	8	a	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/17075	0	9	family	NN	*)	-	-	-	-	*	-
+selectraws1/17075	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17075	0	11	cottagers	NNS	(NP(NP*)	-	-	-	-	*	4)
+selectraws1/17075	0	12	including	VBG	(PP*	-	-	-	-	*	-
+selectraws1/17075	0	13	Felix	NNP	(NP(NP*	-	-	-	-	(PERSON*	(5
+selectraws1/17075	0	14	De	NNP	*	-	-	-	-	*	-
+selectraws1/17075	0	15	Lacey	NNP	*)	-	-	-	-	*)	5)
+selectraws1/17075	0	16	and	CC	*	-	-	-	-	*	-
+selectraws1/17075	0	17	Safie	NNP	(NP*))))))))))	-	-	-	-	(PERSON)	(6)
+selectraws1/17075	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17075	0	0	Another	DT	(TOP(S(NP(NP*	-	-	-	-	*	(7
+selectraws1/17075	0	1	character	NN	*)	-	-	-	-	*	7)
+selectraws1/17075	0	2	,	,	*	-	-	-	-	*	-
+selectraws1/17075	0	3	Justine	NNP	(NP*)	-	-	-	-	(PERSON)	(7)
+selectraws1/17075	0	4	,	,	*)	-	-	-	-	*	-
+selectraws1/17075	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17075	0	6	executed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/17075	0	7	after	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/17075	0	8	a	DT	(S(NP(NP*	-	-	-	-	*	-
+selectraws1/17075	0	9	necklace	NN	*)	-	-	-	-	*	-
+selectraws1/17075	0	10	placed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/17075	0	11	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/17075	0	12	her	PRP$	(NP*	-	-	-	-	*	(7)
+selectraws1/17075	0	13	body	NN	*))))	-	-	-	-	*	-
+selectraws1/17075	0	14	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17075	0	15	used	VBN	(VP*	-	-	-	-	*	-
+selectraws1/17075	0	16	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/17075	0	17	evidence	NN	(NP*	-	-	-	-	*	-
+selectraws1/17075	0	18	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/17075	0	19	she	PRP	(S(NP*)	-	-	-	-	*	(7)
+selectraws1/17075	0	20	killed	VBD	(VP*	-	-	-	-	*	-
+selectraws1/17075	0	21	a	DT	(NP*	-	-	-	-	*	(8
+selectraws1/17075	0	22	boy	NN	*))))))))))))	-	-	-	-	*	8)
+selectraws1/17075	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17075	0	0	Other	JJ	(TOP(S(NP(NP*	-	-	-	-	*	(9
+selectraws1/17075	0	1	characters	NNS	*)	-	-	-	-	*	-
+selectraws1/17075	0	2	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/17075	0	3	die	VBP	(S(VP*))))	-	-	-	-	*	9)
+selectraws1/17075	0	4	include	VBP	(VP*	-	-	-	-	*	-
+selectraws1/17075	0	5	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/17075	0	6	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws1/17075	0	7	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws1/17075	0	8	Elizabeth	NNP	(NP(NP*	-	-	-	-	(PERSON*	(10|(9
+selectraws1/17075	0	9	Lavenza	NNP	*)	-	-	-	-	*)	10)
+selectraws1/17075	0	10	and	CC	*	-	-	-	-	*	-
+selectraws1/17075	0	11	Henry	NNP	(NP(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/17075	0	12	Clerval	NNP	*)	-	-	-	-	*)	11)
+selectraws1/17075	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/17075	0	14	the	DT	(NP(NP*	-	-	-	-	*	(1|(11
+selectraws1/17075	0	15	title	NN	*	-	-	-	-	*	-
+selectraws1/17075	0	16	character	NN	*	-	-	-	-	*	1)
+selectraws1/17075	0	17	's	POS	*)	-	-	-	-	*	-
+selectraws1/17075	0	18	best	JJS	*	-	-	-	-	*	-
+selectraws1/17075	0	19	friend	NN	*))))	-	-	-	-	*	11)|9)
+selectraws1/17075	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17075	0	0	Those	DT	(TOP(S(NP*	-	-	-	-	*	(9
+selectraws1/17075	0	1	characters	NNS	*)	-	-	-	-	*	9)
+selectraws1/17075	0	2	are	VBP	(VP*	-	-	-	-	*	-
+selectraws1/17075	0	3	both	DT	(ADVP*)	-	-	-	-	*	-
+selectraws1/17075	0	4	killed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/17075	0	5	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/17075	0	6	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/17075	0	7	creation	NN	*)	-	-	-	-	*	-
+selectraws1/17075	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17075	0	9	the	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17075	0	10	titular	NN	*	-	-	-	-	*	-
+selectraws1/17075	0	11	doctor	NN	*))))))	-	-	-	-	*	1)|1)
+selectraws1/17075	0	12	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17075	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/17075	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/17075	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/17075	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/17075	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/17075	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17075	0	6	novel	NN	*)	-	-	-	-	*	-
+selectraws1/17075	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/17075	0	8	Mary	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/17075	0	9	Shelley	NNP	*)))	-	-	-	-	*)	2)|1)
+selectraws1/17075	0	10	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

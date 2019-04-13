@@ -1,0 +1,159 @@
+#begin document (selectraws1/16669); part 000
+
+selectraws1/16669	0	0	Tuberculosis	NNP	(TOP(S(NP*)	-	-	-	-	*	-
+selectraws1/16669	0	1	cost	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16669	0	2	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16669	0	3	author	NN	*)	-	-	-	-	*	1)
+selectraws1/16669	0	4	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16669	0	5	lung	NN	*)	-	-	-	-	*	-
+selectraws1/16669	0	6	during	IN	(PP*	-	-	-	-	*	-
+selectraws1/16669	0	7	his	PRP$	(NP(NP*	-	-	-	-	*	(1)
+selectraws1/16669	0	8	time	NN	*)	-	-	-	-	*	-
+selectraws1/16669	0	9	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16669	0	10	France	NNP	(NP*)))))	-	-	-	-	(LOCATION)	-
+selectraws1/16669	0	11	researching	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/16669	0	12	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16669	0	13	Marquis	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/16669	0	14	de	FW	*	-	-	-	-	*	-
+selectraws1/16669	0	15	Sade	NNP	*)	-	-	-	-	*)	-
+selectraws1/16669	0	16	,	,	*	-	-	-	-	*	-
+selectraws1/16669	0	17	an	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16669	0	18	experience	NN	*)	-	-	-	-	*	-
+selectraws1/16669	0	19	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/16669	0	20	played	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/16669	0	21	into	IN	(PP*	-	-	-	-	*	-
+selectraws1/16669	0	22	his	PRP$	(NP*	-	-	-	-	*	-
+selectraws1/16669	0	23	story	NN	*))))))	-	-	-	-	*	-
+selectraws1/16669	0	24	''	''	*	-	-	-	-	*	-
+selectraws1/16669	0	25	And	CC	(PP*	-	-	-	-	*	(10
+selectraws1/16669	0	26	You	PRP	(NP*)))))	-	-	-	-	*	-
+selectraws1/16669	0	27	,	,	*	-	-	-	-	*	-
+selectraws1/16669	0	28	Too	RB	(ADVP*))	-	-	-	-	*	10)
+selectraws1/16669	0	29	.	.	*	-	-	-	-	*	-
+selectraws1/16669	0	30	''	''	*))	-	-	-	-	*	-
+
+
+selectraws1/16669	0	0	Other	JJ	(TOP(S(NP(NP*	-	-	-	-	*	-
+selectraws1/16669	0	1	autobiographical	JJ	*	-	-	-	-	*	-
+selectraws1/16669	0	2	stories	NNS	*)	-	-	-	-	*	-
+selectraws1/16669	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16669	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16669	0	5	man	NN	*)))	-	-	-	-	*	1)
+selectraws1/16669	0	6	include	VB	(VP(VP*	-	-	-	-	*	-
+selectraws1/16669	0	7	''	''	*	-	-	-	-	*	-
+selectraws1/16669	0	8	A	DT	(NP(NP*	-	-	-	-	*	(12
+selectraws1/16669	0	9	Forty	CD	(ADJP*	-	-	-	-	*	-
+selectraws1/16669	0	10	Year	NN	*)	-	-	-	-	*	-
+selectraws1/16669	0	11	Old	NNP	*	-	-	-	-	*	-
+selectraws1/16669	0	12	Man	NNP	*)	-	-	-	-	*	12)
+selectraws1/16669	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/16669	0	14	''	''	*	-	-	-	-	*	-
+selectraws1/16669	0	15	''	''	*	-	-	-	-	*	-
+selectraws1/16669	0	16	A	DT	(NP(NP*	-	-	-	-	*	(13
+selectraws1/16669	0	17	Fifty	NNP	*	-	-	-	-	*	-
+selectraws1/16669	0	18	Year	NNP	*)	-	-	-	-	*	-
+selectraws1/16669	0	19	Old	NNP	(NP*	-	-	-	-	*	-
+selectraws1/16669	0	20	Man	NNP	*))	-	-	-	-	*	13)
+selectraws1/16669	0	21	,	,	*	-	-	-	-	*	-
+selectraws1/16669	0	22	''	''	*))	-	-	-	-	*	-
+selectraws1/16669	0	23	,	,	*	-	-	-	-	*	-
+selectraws1/16669	0	24	and	CC	*	-	-	-	-	*	-
+selectraws1/16669	0	25	''	''	*	-	-	-	-	*	-
+selectraws1/16669	0	26	A	DT	(NP*	-	-	-	-	*	(14
+selectraws1/16669	0	27	Sixty	CD	(ADJP*	-	-	-	-	*	-
+selectraws1/16669	0	28	Year	NN	*)	-	-	-	-	*	-
+selectraws1/16669	0	29	Old	NNP	*	-	-	-	-	*	-
+selectraws1/16669	0	30	Man	NNP	*))	-	-	-	-	*	14)
+selectraws1/16669	0	31	.	.	*	-	-	-	-	*	-
+selectraws1/16669	0	32	''	''	*))	-	-	-	-	*	-
+
+
+selectraws1/16669	0	0	Gaston	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/16669	0	1	Bonaparte	NNP	*)	-	-	-	-	*)	2)
+selectraws1/16669	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16669	0	3	the	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/16669	0	4	title	NN	*	-	-	-	-	*	-
+selectraws1/16669	0	5	character	NN	*)	-	-	-	-	*	2)
+selectraws1/16669	0	6	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16669	0	7	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16669	0	8	man	NN	*	-	-	-	-	*	1)
+selectraws1/16669	0	9	's	POS	*)	-	-	-	-	*	-
+selectraws1/16669	0	10	Wonderful	JJ	*	-	-	-	-	*	(2
+selectraws1/16669	0	11	Fool	NNP	*))))	-	-	-	-	*	2)
+selectraws1/16669	0	12	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16669	0	0	Mitsu	NNP	(TOP(S(S(NP*)	-	-	-	-	(PERSON)	(3)
+selectraws1/16669	0	1	offers	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16669	0	2	herself	PRP	(NP*)	-	-	-	-	*	(3)
+selectraws1/16669	0	3	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/16669	0	4	Suguro	NNP	(NP*))	-	-	-	-	(PERSON)	(4)
+selectraws1/16669	0	5	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/16669	0	6	compensated	VBN	(NP(NP*	-	-	-	-	*	-
+selectraws1/16669	0	7	dating	VBG	*)	-	-	-	-	*	-
+selectraws1/16669	0	8	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16669	0	9	his	PRP$	(NP(NP*	-	-	-	-	*	(15|(1)
+selectraws1/16669	0	10	novel	NN	*)	-	-	-	-	*	15)
+selectraws1/16669	0	11	Scandal	NNP	(NP*)))))))	-	-	-	-	*	(15)
+selectraws1/16669	0	12	,	,	*	-	-	-	-	*	-
+selectraws1/16669	0	13	and	CC	*	-	-	-	-	*	-
+selectraws1/16669	0	14	doctors	NNS	(S(NP*)	-	-	-	-	*	-
+selectraws1/16669	0	15	perform	VBP	(VP*	-	-	-	-	*	-
+selectraws1/16669	0	16	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16669	0	17	vivisection	NN	*)	-	-	-	-	*	-
+selectraws1/16669	0	18	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/16669	0	19	a	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/16669	0	20	downed	JJ	*	-	-	-	-	*	-
+selectraws1/16669	0	21	American	JJ	*	-	-	-	-	*	-
+selectraws1/16669	0	22	pilot	NN	*)	-	-	-	-	*	5)
+selectraws1/16669	0	23	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16669	0	24	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/16669	0	25	The	NNP	*	-	-	-	-	*	(16
+selectraws1/16669	0	26	Sea	NNP	*	-	-	-	-	*	-
+selectraws1/16669	0	27	and	CC	*	-	-	-	-	*	-
+selectraws1/16669	0	28	Poison	NN	*)))))))	-	-	-	-	*	16)
+selectraws1/16669	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16669	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16669	0	1	one	CD	(NP(NP*)	-	-	-	-	*	(17
+selectraws1/16669	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16669	0	3	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/16669	0	4	works	NNS	*))))	-	-	-	-	*	17)
+selectraws1/16669	0	5	,	,	*	-	-	-	-	*	-
+selectraws1/16669	0	6	Sebastian	NNP	(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/16669	0	7	Rodrigues	NNPS	*)	-	-	-	-	*)	6)
+selectraws1/16669	0	8	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16669	0	9	sent	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16669	0	10	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/16669	0	11	investigate	VB	(VP*	-	-	-	-	*	-
+selectraws1/16669	0	12	why	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/16669	0	13	the	DT	(S(NP*	-	-	-	-	*	(7
+selectraws1/16669	0	14	missionary	JJ	*	-	-	-	-	*	7)
+selectraws1/16669	0	15	Christovao	NNP	*	-	-	-	-	(PERSON*	(7
+selectraws1/16669	0	16	Ferreira	NNP	*)	-	-	-	-	*)	7)
+selectraws1/16669	0	17	has	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16669	0	18	become	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16669	0	19	an	DT	(NP*	-	-	-	-	*	(7
+selectraws1/16669	0	20	apostate	NN	*)	-	-	-	-	*	-
+selectraws1/16669	0	21	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16669	0	22	Japan	NNP	(NP*)))))))))))	-	-	-	-	(LOCATION)	7)
+selectraws1/16669	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16669	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16669	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/16669	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/16669	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/16669	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/16669	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16669	0	6	Christian	JJ	*	-	-	-	-	*	-
+selectraws1/16669	0	7	Japanese	JJ	*	-	-	-	-	*	-
+selectraws1/16669	0	8	author	NN	*)	-	-	-	-	*	-
+selectraws1/16669	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16669	0	10	Silence	NNP	(NP*)))	-	-	-	-	*	(17)|1)
+selectraws1/16669	0	11	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,104 @@
+#begin document (notdoneraws/19842); part 000
+
+notdoneraws/19842	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/19842	0	1	author	NN	*)	-	-	-	-	*	1)
+notdoneraws/19842	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19842	0	3	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	4	how	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+notdoneraws/19842	0	5	that	DT	(S(NP*	-	-	-	-	*	(5
+notdoneraws/19842	0	6	same	JJ	*	-	-	-	-	*	-
+notdoneraws/19842	0	7	woman	NN	*)	-	-	-	-	*	5)
+notdoneraws/19842	0	8	wishes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/19842	0	9	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/19842	0	10	eat	VB	(VP*	-	-	-	-	*	-
+notdoneraws/19842	0	11	the	DT	(NP*	-	-	-	-	*	(6
+notdoneraws/19842	0	12	title	NN	*	-	-	-	-	*	-
+notdoneraws/19842	0	13	meal	NN	*))))))))	-	-	-	-	*	6)
+notdoneraws/19842	0	14	because	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/19842	0	15	nothing	NN	(S(NP(NP*)	-	-	-	-	*	-
+notdoneraws/19842	0	16	bad	JJ	(ADJP*))	-	-	-	-	*	-
+notdoneraws/19842	0	17	will	MD	(VP*	-	-	-	-	*	-
+notdoneraws/19842	0	18	happen	VB	(VP*	-	-	-	-	*	-
+notdoneraws/19842	0	19	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	20	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/19842	0	21	certain	JJ	*	-	-	-	-	*	-
+notdoneraws/19842	0	22	jewelry	NN	*	-	-	-	-	*	-
+notdoneraws/19842	0	23	store	NN	*)))))))	-	-	-	-	*	-
+notdoneraws/19842	0	24	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19842	0	0	Another	DT	(TOP(S(NP(NP*	-	-	-	-	*	(2
+notdoneraws/19842	0	1	book	NN	*)	-	-	-	-	*	-
+notdoneraws/19842	0	2	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/19842	0	4	creator	NN	*)	-	-	-	-	*	-
+notdoneraws/19842	0	5	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	6	Holly	NNP	(NP*	-	-	-	-	(PERSON*	(7
+notdoneraws/19842	0	7	Golightly	NNP	*)))))	-	-	-	-	*)	7)|2)|1)
+notdoneraws/19842	0	8	ends	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/19842	0	9	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	10	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/19842	0	11	execution	NN	*)	-	-	-	-	*	-
+notdoneraws/19842	0	12	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	13	two	CD	(NP(NP*	-	-	-	-	*	(8
+notdoneraws/19842	0	14	men	NNS	*)	-	-	-	-	*	8)
+notdoneraws/19842	0	15	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/19842	0	16	were	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/19842	0	17	investigated	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/19842	0	18	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	19	Alvin	NNP	(NP*	-	-	-	-	(PERSON*	(9
+notdoneraws/19842	0	20	Dewey	NNP	*)))))))))))	-	-	-	-	*)	9)
+notdoneraws/19842	0	21	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19842	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/19842	0	1	man	NN	*)	-	-	-	-	*	1)
+notdoneraws/19842	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19842	0	3	a	DT	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/19842	0	4	book	NN	*)	-	-	-	-	*	-
+notdoneraws/19842	0	5	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	6	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/19842	0	7	crime	NN	*)	-	-	-	-	*	-
+notdoneraws/19842	0	8	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	9	Dick	NNP	(NP(NP*	-	-	-	-	(PERSON*	(8|(10
+notdoneraws/19842	0	10	Hickock	NNP	*)	-	-	-	-	*)	10)
+notdoneraws/19842	0	11	and	CC	*	-	-	-	-	*	-
+notdoneraws/19842	0	12	Perry	NNP	(NP*	-	-	-	-	(PERSON*	(11
+notdoneraws/19842	0	13	Smith	NNP	*)))))))	-	-	-	-	*)	11)|8)|2)
+notdoneraws/19842	0	14	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19842	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/19842	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/19842	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/19842	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/19842	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/19842	0	6	author	NN	*)	-	-	-	-	*	-
+notdoneraws/19842	0	7	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	8	Breakfast	NNP	(NP*)))	-	-	-	-	*	(4|(6)
+notdoneraws/19842	0	9	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	10	Tiffany	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	-
+notdoneraws/19842	0	11	's	POS	*)	-	-	-	-	*)	4)
+notdoneraws/19842	0	12	,	,	*	-	-	-	-	*	-
+notdoneraws/19842	0	13	and	CC	*	-	-	-	-	*	-
+notdoneraws/19842	0	14	a	DT	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/19842	0	15	book	NN	*)	-	-	-	-	*	-
+notdoneraws/19842	0	16	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	17	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/19842	0	18	murder	NN	*)	-	-	-	-	*	-
+notdoneraws/19842	0	19	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	20	the	DT	(NP*	-	-	-	-	*	(3
+notdoneraws/19842	0	21	Clutter	NNP	*	-	-	-	-	*	-
+notdoneraws/19842	0	22	family	NN	*))))	-	-	-	-	*	3)
+notdoneraws/19842	0	23	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19842	0	24	Kansas	NNP	(NP*)))	-	-	-	-	(LOCATION)	2)
+notdoneraws/19842	0	25	,	,	*	-	-	-	-	*	-
+notdoneraws/19842	0	26	In	IN	(PP*	-	-	-	-	*	(2
+notdoneraws/19842	0	27	Cold	NNP	(NP*	-	-	-	-	*	-
+notdoneraws/19842	0	28	Blood	NNP	*)))))	-	-	-	-	*	2)|1)
+notdoneraws/19842	0	29	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

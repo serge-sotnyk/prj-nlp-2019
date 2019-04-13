@@ -1,0 +1,139 @@
+#begin document (selectraws/95); part 000
+
+selectraws/95	0	0	At	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/95	0	1	one	CD	(NP(NP*	-	-	-	-	*	-
+selectraws/95	0	2	point	NN	*)	-	-	-	-	*	-
+selectraws/95	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws/95	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/95	0	5	work	NN	*))))	-	-	-	-	*	1)
+selectraws/95	0	6	,	,	*	-	-	-	-	*	-
+selectraws/95	0	7	the	DT	(NP*	-	-	-	-	*	(2
+selectraws/95	0	8	title	NN	*	-	-	-	-	*	-
+selectraws/95	0	9	character	NN	*)	-	-	-	-	*	2)
+selectraws/95	0	10	reveals	VBZ	(VP*	-	-	-	-	*	-
+selectraws/95	0	11	his	PRP$	(NP(NP*	-	-	-	-	*	(2)
+selectraws/95	0	12	hope	NN	*)	-	-	-	-	*	-
+selectraws/95	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws/95	0	14	spending	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/95	0	15	his	PRP$	(NP*	-	-	-	-	*	(2)
+selectraws/95	0	16	life	NN	*)	-	-	-	-	*	-
+selectraws/95	0	17	alone	RB	(ADVP*)))))	-	-	-	-	*	-
+selectraws/95	0	18	,	,	*	-	-	-	-	*	-
+selectraws/95	0	19	passing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/95	0	20	time	NN	(NP*)	-	-	-	-	*	-
+selectraws/95	0	21	drinking	VBG	(S(VP(VP*	-	-	-	-	*	-
+selectraws/95	0	22	good	JJ	(NP*	-	-	-	-	*	-
+selectraws/95	0	23	coffee	NN	*))	-	-	-	-	*	-
+selectraws/95	0	24	and	CC	*	-	-	-	-	*	-
+selectraws/95	0	25	reading	VBG	(VP*	-	-	-	-	*	-
+selectraws/95	0	26	the	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws/95	0	27	works	NNS	*)	-	-	-	-	*	-
+selectraws/95	0	28	of	IN	(PP*	-	-	-	-	*	-
+selectraws/95	0	29	Homer	NNP	(NP*)))))))))	-	-	-	-	*	(4)|5)
+selectraws/95	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/95	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(2
+selectraws/95	0	1	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws/95	0	2	works	VBZ	(VP*	-	-	-	-	*	-
+selectraws/95	0	3	for	IN	(PP*	-	-	-	-	*	-
+selectraws/95	0	4	a	DT	(NP*	-	-	-	-	*	(6
+selectraws/95	0	5	young	JJ	*	-	-	-	-	*	-
+selectraws/95	0	6	prince	NN	*))	-	-	-	-	*	6)
+selectraws/95	0	7	after	IN	(PP*	-	-	-	-	*	-
+selectraws/95	0	8	failing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/95	0	9	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/95	0	10	enter	VB	(VP*	-	-	-	-	*	-
+selectraws/95	0	11	the	DT	(NP*	-	-	-	-	*	-
+selectraws/95	0	12	army	NN	*))))))))	-	-	-	-	*	-
+selectraws/95	0	13	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/95	0	0	This	DT	(TOP(S(NP*)	-	-	-	-	*	-
+selectraws/95	0	1	occurs	VBZ	(VP*	-	-	-	-	*	-
+selectraws/95	0	2	after	IN	(SBAR*	-	-	-	-	*	-
+selectraws/95	0	3	he	PRP	(S(NP*)	-	-	-	-	*	(2)
+selectraws/95	0	4	resigns	VBZ	(VP*	-	-	-	-	*	-
+selectraws/95	0	5	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/95	0	6	position	NN	*)	-	-	-	-	*	-
+selectraws/95	0	7	secured	VBN	(VP*	-	-	-	-	*	-
+selectraws/95	0	8	for	IN	(PP*	-	-	-	-	*	-
+selectraws/95	0	9	him	PRP	(NP*))	-	-	-	-	*	-
+selectraws/95	0	10	by	IN	(PP*	-	-	-	-	*	-
+selectraws/95	0	11	Wilhelm	NNP	(NP*))))))))	-	-	-	-	(PERSON)	(7)
+selectraws/95	0	12	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/95	0	0	After	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/95	0	1	returning	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/95	0	2	to	TO	(PP*	-	-	-	-	*	-
+selectraws/95	0	3	Walheim	NNP	(NP*)))))	-	-	-	-	(PERSON)	-
+selectraws/95	0	4	,	,	*	-	-	-	-	*	-
+selectraws/95	0	5	Albert	NNP	(NP(NP*	-	-	-	-	(PERSON)	(8|(9)
+selectraws/95	0	6	's	POS	*)	-	-	-	-	*	-
+selectraws/95	0	7	wife	NN	*)	-	-	-	-	*	8)
+selectraws/95	0	8	asks	VBZ	(VP*	-	-	-	-	*	-
+selectraws/95	0	9	the	DT	(NP*	-	-	-	-	*	(2
+selectraws/95	0	10	protagonist	NN	*	-	-	-	-	*	2)
+selectraws/95	0	11	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/95	0	12	read	VB	(VP*	-	-	-	-	*	-
+selectraws/95	0	13	Ossian	NNP	(NP*)	-	-	-	-	(PERSON)	(14)
+selectraws/95	0	14	to	TO	(PP*	-	-	-	-	*	-
+selectraws/95	0	15	her	PRP	(NP*)))))))	-	-	-	-	*	(8)
+selectraws/95	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/95	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/95	0	1	a	DT	(NP(NP*	-	-	-	-	*	(13
+selectraws/95	0	2	section	NN	*)	-	-	-	-	*	13)
+selectraws/95	0	3	entitled	VBN	(VP*	-	-	-	-	*	-
+selectraws/95	0	4	''	''	*	-	-	-	-	*	-
+selectraws/95	0	5	The	DT	(NP*	-	-	-	-	*	(13
+selectraws/95	0	6	Editor	NNP	*)	-	-	-	-	*	-
+selectraws/95	0	7	to	TO	(PP*	-	-	-	-	*	-
+selectraws/95	0	8	the	DT	(NP*	-	-	-	-	*	-
+selectraws/95	0	9	Reader	NNP	*)))))	-	-	-	-	*	13)
+selectraws/95	0	10	,	,	*	-	-	-	-	*	-
+selectraws/95	0	11	''	''	*	-	-	-	-	*	-
+selectraws/95	0	12	a	DT	(NP*	-	-	-	-	*	(10
+selectraws/95	0	13	neighbor	NN	*)	-	-	-	-	*	10)
+selectraws/95	0	14	reports	VBZ	(VP*	-	-	-	-	*	-
+selectraws/95	0	15	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/95	0	16	flash	NN	*)	-	-	-	-	*	-
+selectraws/95	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws/95	0	18	two	CD	(NP(NP*	-	-	-	-	*	-
+selectraws/95	0	19	pistols	NNS	*)	-	-	-	-	*	-
+selectraws/95	0	20	brought	VBN	(VP*	-	-	-	-	*	-
+selectraws/95	0	21	to	TO	(PP*	-	-	-	-	*	-
+selectraws/95	0	22	the	DT	(NP*	-	-	-	-	*	(2
+selectraws/95	0	23	protagonist	NN	*))	-	-	-	-	*	2)
+selectraws/95	0	24	by	IN	(PP*	-	-	-	-	*	-
+selectraws/95	0	25	his	PRP$	(NP*	-	-	-	-	*	(11|(2)
+selectraws/95	0	26	servant	NN	*)))))))	-	-	-	-	*	11)
+selectraws/95	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/95	0	0	Ending	VBG	(TOP(S(S(VP*	-	-	-	-	*	-
+selectraws/95	0	1	with	IN	(PP*	-	-	-	-	*	-
+selectraws/95	0	2	the	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/95	0	3	title	NN	*	-	-	-	-	*	-
+selectraws/95	0	4	character	NN	*	-	-	-	-	*	2)
+selectraws/95	0	5	's	POS	*)	-	-	-	-	*	-
+selectraws/95	0	6	suicide	NN	*))	-	-	-	-	*	-
+selectraws/95	0	7	due	JJ	(PP*	-	-	-	-	*	-
+selectraws/95	0	8	to	TO	(PP*	-	-	-	-	*	-
+selectraws/95	0	9	his	PRP$	(NP(NP*	-	-	-	-	*	(2)
+selectraws/95	0	10	obsession	NN	*)	-	-	-	-	*	-
+selectraws/95	0	11	with	IN	(PP*	-	-	-	-	*	-
+selectraws/95	0	12	Charlotte	NNP	(NP(NP*)	-	-	-	-	(LOCATION)	(3)
+selectraws/95	0	13	,	,	*	-	-	-	-	*	-
+selectraws/95	0	14	FTP	NNP	(NP*))))))))	-	-	-	-	*	-
+selectraws/95	0	15	name	VBP	(VP*	-	-	-	-	*	-
+selectraws/95	0	16	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/95	0	17	Goethe	NNP	*	-	-	-	-	*	(12)
+selectraws/95	0	18	novel	NN	*))	-	-	-	-	*	1)
+selectraws/95	0	19	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

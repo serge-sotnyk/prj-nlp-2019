@@ -1,0 +1,86 @@
+#begin document (selectraws/15126); part 000
+
+selectraws/15126	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15126	0	1	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/15126	0	2	novel	NN	*))	-	-	-	-	*	1)
+selectraws/15126	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15126	0	4	Bonnie	NNP	(NP*	-	-	-	-	(PERSON*	(4
+selectraws/15126	0	5	Blue	NNP	*)	-	-	-	-	*)	4)
+selectraws/15126	0	6	dies	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15126	0	7	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15126	0	8	trying	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15126	0	9	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/15126	0	10	jump	VB	(VP*	-	-	-	-	*	-
+selectraws/15126	0	11	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15126	0	12	fence	NN	*)	-	-	-	-	*	-
+selectraws/15126	0	13	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15126	0	14	her	PRP$	(NP*	-	-	-	-	*	(4)
+selectraws/15126	0	15	horse	NN	*))))))))))	-	-	-	-	*	-
+selectraws/15126	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15126	0	0	Its	PRP$	(TOP(S(NP*	-	-	-	-	*	(3|(1)
+selectraws/15126	0	1	protagonist	NN	*)	-	-	-	-	*	3)
+selectraws/15126	0	2	stays	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15126	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15126	0	4	love	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws/15126	0	5	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15126	0	6	the	DT	(NP(NP(NP*	-	-	-	-	*	(5
+selectraws/15126	0	7	owner	NN	*)	-	-	-	-	*	-
+selectraws/15126	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15126	0	9	the	DT	(NP*	-	-	-	-	*	-
+selectraws/15126	0	10	Twelve	NNP	*	-	-	-	-	*	-
+selectraws/15126	0	11	Oaks	NNPS	*	-	-	-	-	*	-
+selectraws/15126	0	12	plantation	NN	*)))	-	-	-	-	*	5)
+selectraws/15126	0	13	,	,	*	-	-	-	-	*	-
+selectraws/15126	0	14	Ashley	NNP	(NP*	-	-	-	-	(PERSON*	(5
+selectraws/15126	0	15	Wilkes	NNP	*)))))	-	-	-	-	*)	5)
+selectraws/15126	0	16	,	,	*	-	-	-	-	*	-
+selectraws/15126	0	17	even	RB	(SBAR*	-	-	-	-	*	-
+selectraws/15126	0	18	while	IN	*	-	-	-	-	*	-
+selectraws/15126	0	19	she	PRP	(S(NP*)	-	-	-	-	*	(3)
+selectraws/15126	0	20	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15126	0	21	married	VBN	(VP*	-	-	-	-	*	-
+selectraws/15126	0	22	to	TO	(PP*	-	-	-	-	*	-
+selectraws/15126	0	23	the	DT	(NP*	-	-	-	-	*	(6
+selectraws/15126	0	24	Confederate	NNP	*	-	-	-	-	*	-
+selectraws/15126	0	25	blockade	NN	*	-	-	-	-	*	-
+selectraws/15126	0	26	runner	NN	*	-	-	-	-	*	6)
+selectraws/15126	0	27	Rhett	NNP	*	-	-	-	-	(PERSON*	(6
+selectraws/15126	0	28	Butler	NNP	*)))))))	-	-	-	-	*)	6)
+selectraws/15126	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15126	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	*	-
+selectraws/15126	0	1	largely	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/15126	0	2	takes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15126	0	3	place	NN	(NP*)	-	-	-	-	*	-
+selectraws/15126	0	4	on	IN	(PP*	-	-	-	-	*	-
+selectraws/15126	0	5	the	DT	(NP*	-	-	-	-	*	-
+selectraws/15126	0	6	plantation	NN	*	-	-	-	-	*	-
+selectraws/15126	0	7	Tara	NNP	*)))	-	-	-	-	(PERSON)	-
+selectraws/15126	0	8	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15126	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15126	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/15126	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/15126	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15126	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/15126	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/15126	0	6	Margaret	NNP	*	-	-	-	-	(PERSON*	(2
+selectraws/15126	0	7	Mitchell	NNP	*	-	-	-	-	*)	2)
+selectraws/15126	0	8	novel	NN	*)	-	-	-	-	*	-
+selectraws/15126	0	9	about	IN	(PP*	-	-	-	-	*	-
+selectraws/15126	0	10	the	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws/15126	0	11	Southern	NNP	*	-	-	-	-	(ORGANIZATION)	-
+selectraws/15126	0	12	beauty	NN	*	-	-	-	-	*	3)
+selectraws/15126	0	13	Scarlett	NNP	*	-	-	-	-	(ORGANIZATION*	(3
+selectraws/15126	0	14	O	NNP	*	-	-	-	-	*)	-
+selectraws/15126	0	15	'	POS	*)	-	-	-	-	*	-
+selectraws/15126	0	16	Hara	NNP	*))))	-	-	-	-	*	3)|1)
+selectraws/15126	0	17	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,125 @@
+#begin document (selectraws1/16255); part 000
+
+selectraws1/16255	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/16255	0	1	word	NN	*)	-	-	-	-	*	1)
+selectraws1/16255	0	2	concludes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16255	0	3	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16255	0	4	title	NN	*)	-	-	-	-	*	-
+selectraws1/16255	0	5	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16255	0	6	a	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/16255	0	7	work	NN	*)	-	-	-	-	*	10)
+selectraws1/16255	0	8	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/16255	0	9	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/16255	0	10	a	DT	(S(NP(NP*	-	-	-	-	*	-
+selectraws1/16255	0	11	group	NN	*)	-	-	-	-	*	-
+selectraws1/16255	0	12	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16255	0	13	schoolboys	NNS	(NP*)))	-	-	-	-	*	-
+selectraws1/16255	0	14	murder	NN	(VP*	-	-	-	-	*	-
+selectraws1/16255	0	15	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16255	0	16	kitten	NN	*	-	-	-	-	*	-
+selectraws1/16255	0	17	and	CC	*	-	-	-	-	*	-
+selectraws1/16255	0	18	later	JJ	*	-	-	-	-	*	-
+selectraws1/16255	0	19	poison	NN	*	-	-	-	-	*	-
+selectraws1/16255	0	20	Ryuji	NN	*)	-	-	-	-	(PERSON)	(11)
+selectraws1/16255	0	21	before	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16255	0	22	he	PRP	(S(NP*)	-	-	-	-	*	(11)
+selectraws1/16255	0	23	can	MD	(VP*	-	-	-	-	*	-
+selectraws1/16255	0	24	marry	VB	(VP*	-	-	-	-	*	-
+selectraws1/16255	0	25	Noboru	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION)	(12)
+selectraws1/16255	0	26	's	POS	*)	-	-	-	-	*	-
+selectraws1/16255	0	27	mother	NN	*)	-	-	-	-	*	-
+selectraws1/16255	0	28	because	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16255	0	29	they	PRP	(S(NP*)	-	-	-	-	*	-
+selectraws1/16255	0	30	are	VBP	(VP*	-	-	-	-	*	-
+selectraws1/16255	0	31	disgusted	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16255	0	32	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/16255	0	33	his	PRP$	(NP(NP*	-	-	-	-	*	(11)
+selectraws1/16255	0	34	change	NN	*)	-	-	-	-	*	-
+selectraws1/16255	0	35	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16255	0	36	profession	NN	(NP*)))))))))))))))))))	-	-	-	-	*	-
+selectraws1/16255	0	37	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16255	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/16255	0	1	word	NN	*)	-	-	-	-	*	1)
+selectraws1/16255	0	2	also	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/16255	0	3	appears	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16255	0	4	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16255	0	5	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16255	0	6	metaphorical	JJ	*	-	-	-	-	*	-
+selectraws1/16255	0	7	usage	NN	*)	-	-	-	-	*	-
+selectraws1/16255	0	8	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16255	0	9	the	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/16255	0	10	title	NN	*)	-	-	-	-	*	-
+selectraws1/16255	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16255	0	12	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16255	0	13	series	NN	*)	-	-	-	-	*	2)
+selectraws1/16255	0	14	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/16255	0	15	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/16255	0	16	Toru	NNP	(S(NP*)	-	-	-	-	(ORGANIZATION)	(13)
+selectraws1/16255	0	17	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16255	0	18	among	IN	(PP*	-	-	-	-	*	-
+selectraws1/16255	0	19	several	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws1/16255	0	20	characters	NNS	*)	-	-	-	-	*	-
+selectraws1/16255	0	21	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/16255	0	22	three	CD	(NP(NP*	-	-	-	-	*	-
+selectraws1/16255	0	23	moles	NNS	*)	-	-	-	-	*	-
+selectraws1/16255	0	24	under	IN	(PP*	-	-	-	-	*	-
+selectraws1/16255	0	25	their	PRP$	(NP*	-	-	-	-	*	-
+selectraws1/16255	0	26	left	JJ	*	-	-	-	-	*	-
+selectraws1/16255	0	27	arms	NNS	*))))))))))))))))	-	-	-	-	*	-
+selectraws1/16255	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16255	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	(2
+selectraws1/16255	0	1	series	NN	*)	-	-	-	-	*	2)
+selectraws1/16255	0	2	includes	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/16255	0	3	The	DT	(NP(NP*	-	-	-	-	*	(14
+selectraws1/16255	0	4	Decay	NNP	*)	-	-	-	-	*	-
+selectraws1/16255	0	5	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16255	0	6	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16255	0	7	Angel	NNP	*	-	-	-	-	*	14)
+selectraws1/16255	0	8	and	CC	*	-	-	-	-	*	-
+selectraws1/16255	0	9	Spring	NNP	*	-	-	-	-	(ORGANIZATION*	(15
+selectraws1/16255	0	10	Snow	NNP	*))))	-	-	-	-	*)	15)
+selectraws1/16255	0	11	and	CC	*	-	-	-	-	*	-
+selectraws1/16255	0	12	follows	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16255	0	13	Kiyoaki	NNP	(NP(NP*	-	-	-	-	(PERSON)	(16|(15)
+selectraws1/16255	0	14	's	POS	*)	-	-	-	-	*	-
+selectraws1/16255	0	15	friend	NN	*	-	-	-	-	*	16)
+selectraws1/16255	0	16	Shigekuni	NNP	*	-	-	-	-	(ORGANIZATION*	(16
+selectraws1/16255	0	17	Honda	NNP	*)))	-	-	-	-	*)	16)
+selectraws1/16255	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16255	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16255	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/16255	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/16255	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/16255	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/16255	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16255	0	6	body	NN	*)	-	-	-	-	*	-
+selectraws1/16255	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16255	0	8	water	NN	(NP*)))	-	-	-	-	*	1)
+selectraws1/16255	0	9	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/16255	0	10	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16255	0	11	grace	NN	*)	-	-	-	-	*	-
+selectraws1/16255	0	12	of	IN	(SBAR(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/16255	0	13	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/16255	0	14	a	DT	(S(NP*	-	-	-	-	*	-
+selectraws1/16255	0	15	Yukio	NNP	*	-	-	-	-	(PERSON*	(3
+selectraws1/16255	0	16	Mishima	NNP	*	-	-	-	-	*)	3)
+selectraws1/16255	0	17	sailor	NN	*)	-	-	-	-	*	-
+selectraws1/16255	0	18	has	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16255	0	19	fallen	VBN	(VP*))))	-	-	-	-	*	-
+selectraws1/16255	0	20	and	CC	*	-	-	-	-	*	-
+selectraws1/16255	0	21	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/16255	0	22	also	RB	(S(ADVP*)	-	-	-	-	*	-
+selectraws1/16255	0	23	titles	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16255	0	24	his	PRP$	(NP*	-	-	-	-	*	(2
+selectraws1/16255	0	25	tetralogy	NN	*))))))))	-	-	-	-	*	2)
+selectraws1/16255	0	26	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

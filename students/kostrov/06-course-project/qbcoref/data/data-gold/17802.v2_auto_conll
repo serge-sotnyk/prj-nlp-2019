@@ -1,0 +1,139 @@
+#begin document (selectraws1/17802); part 000
+
+selectraws1/17802	0	0	Minor	NNP	(TOP(S(NP(NP*	-	-	-	-	*	(6
+selectraws1/17802	0	1	characters	NNS	*)	-	-	-	-	*	-
+selectraws1/17802	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/17802	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17802	0	4	work	NN	*)))	-	-	-	-	*	1)|6)
+selectraws1/17802	0	5	include	VBP	(VP*	-	-	-	-	*	-
+selectraws1/17802	0	6	the	DT	(NP(NP(NP*	-	-	-	-	*	(7
+selectraws1/17802	0	7	three	CD	*	-	-	-	-	*	-
+selectraws1/17802	0	8	Ruan	NNP	*	-	-	-	-	*	-
+selectraws1/17802	0	9	brothers	NNS	*)	-	-	-	-	*	7)
+selectraws1/17802	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/17802	0	11	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/17802	0	12	helped	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/17802	0	13	Chao	NNP	(S(NP(NP*	-	-	-	-	(PERSON*	(8
+selectraws1/17802	0	14	Gai	NNP	*)	-	-	-	-	*)	8)
+selectraws1/17802	0	15	and	CC	*	-	-	-	-	*	-
+selectraws1/17802	0	16	Wu	NNP	(NP*	-	-	-	-	(PERSON*	(9
+selectraws1/17802	0	17	Yong	NNP	*))	-	-	-	-	*)	9)
+selectraws1/17802	0	18	defeat	VB	(VP*	-	-	-	-	*	-
+selectraws1/17802	0	19	He	PRP	(NP*)	-	-	-	-	*	(10
+selectraws1/17802	0	20	Tao	RB	(ADVP*))))))	-	-	-	-	*	10)
+selectraws1/17802	0	21	,	,	*)	-	-	-	-	*	-
+selectraws1/17802	0	22	and	CC	*	-	-	-	-	*	-
+selectraws1/17802	0	23	later	RB	(NP(NP*	-	-	-	-	*	-
+selectraws1/17802	0	24	defeat	NN	*)	-	-	-	-	*	-
+selectraws1/17802	0	25	and	CC	*	-	-	-	-	*	-
+selectraws1/17802	0	26	capture	NN	(NP*	-	-	-	-	*	-
+selectraws1/17802	0	27	Huang	NNP	*	-	-	-	-	*	(11
+selectraws1/17802	0	28	An	NNP	*))))	-	-	-	-	*	11)
+selectraws1/17802	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17802	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(12
+selectraws1/17802	0	1	episode	NN	*)	-	-	-	-	*	-
+selectraws1/17802	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/17802	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17802	0	4	work	NN	*)))	-	-	-	-	*	12)|1)
+selectraws1/17802	0	5	sees	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17802	0	6	the	DT	(SBAR(S(NP*	-	-	-	-	*	(13
+selectraws1/17802	0	7	Hairy	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/17802	0	8	Priest	NNP	*	-	-	-	-	*	13)
+selectraws1/17802	0	9	Wu	NNP	*	-	-	-	-	*	(13
+selectraws1/17802	0	10	Song	NN	*)	-	-	-	-	*)	13)
+selectraws1/17802	0	11	kills	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17802	0	12	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17802	0	13	tiger	NN	*)	-	-	-	-	*	-
+selectraws1/17802	0	14	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/17802	0	15	his	PRP$	(NP*	-	-	-	-	*	(13)
+selectraws1/17802	0	16	bare	JJ	*	-	-	-	-	*	-
+selectraws1/17802	0	17	hands	NNS	*)))))))	-	-	-	-	*	-
+selectraws1/17802	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17802	0	0	After	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/17802	0	1	crushing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/17802	0	2	the	DT	(NP*	-	-	-	-	*	(14
+selectraws1/17802	0	3	Liao	NNP	*	-	-	-	-	*	-
+selectraws1/17802	0	4	Tartars	NNPS	*))))	-	-	-	-	*	14)
+selectraws1/17802	0	5	,	,	*	-	-	-	-	*	-
+selectraws1/17802	0	6	nearly	RB	(NP(NP*	-	-	-	-	*	-
+selectraws1/17802	0	7	two-thirds	NNS	*)	-	-	-	-	*	-
+selectraws1/17802	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17802	0	9	the	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17802	0	10	title	NN	*	-	-	-	-	*	-
+selectraws1/17802	0	11	characters	NNS	*)))	-	-	-	-	*	1)
+selectraws1/17802	0	12	die	VBP	(VP*	-	-	-	-	*	-
+selectraws1/17802	0	13	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/17802	0	14	ending	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/17802	0	15	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17802	0	16	rebellion	NN	*)	-	-	-	-	*	-
+selectraws1/17802	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17802	0	18	Fang	NNP	(NP(NP*	-	-	-	-	*	(15
+selectraws1/17802	0	19	La	NNP	*)	-	-	-	-	*	15)
+selectraws1/17802	0	20	,	,	*	-	-	-	-	*	-
+selectraws1/17802	0	21	allowing	VBG	(VP*	-	-	-	-	*	-
+selectraws1/17802	0	22	Gao	NNP	(S(NP*	-	-	-	-	(ORGANIZATION)	(16
+selectraws1/17802	0	23	Qui	NNP	*)	-	-	-	-	*	16)
+selectraws1/17802	0	24	to	TO	(VP*	-	-	-	-	*	-
+selectraws1/17802	0	25	kill	VB	(VP*	-	-	-	-	*	-
+selectraws1/17802	0	26	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/17802	0	27	rest	NN	*)	-	-	-	-	*	-
+selectraws1/17802	0	28	one-by-one	RB	(ADVP*))))))))))))	-	-	-	-	*	-
+selectraws1/17802	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17802	0	0	Chao	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(17
+selectraws1/17802	0	1	Gai	NNP	*)	-	-	-	-	*)	17)
+selectraws1/17802	0	2	founded	VBD	(VP*	-	-	-	-	*	-
+selectraws1/17802	0	3	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/17802	0	4	title	NN	*	-	-	-	-	*	-
+selectraws1/17802	0	5	group	NN	*)	-	-	-	-	*	1)
+selectraws1/17802	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/17802	0	7	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/17802	0	8	includes	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/17802	0	9	36	CD	(NP*	-	-	-	-	*	(5
+selectraws1/17802	0	10	Heavenly	RB	*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/17802	0	11	Spirits	NNS	(NX(NX*)	-	-	-	-	*)	5)
+selectraws1/17802	0	12	and	CC	*	-	-	-	-	*	-
+selectraws1/17802	0	13	72	CD	(NX*	-	-	-	-	*	(18
+selectraws1/17802	0	14	Earthly	NNP	*	-	-	-	-	*	-
+selectraws1/17802	0	15	Fiends	NNPS	*))))))))	-	-	-	-	*	18)
+selectraws1/17802	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17802	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/17802	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/17802	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/17802	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/17802	0	4	identify	VB	(NP*)	-	-	-	-	*	-
+selectraws1/17802	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17802	0	6	work	NN	*)	-	-	-	-	*	-
+selectraws1/17802	0	7	attributed	VBD	(VP*	-	-	-	-	*	-
+selectraws1/17802	0	8	both	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17802	0	9	Shi	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/17802	0	10	Naian	NNP	*)	-	-	-	-	*)	2)
+selectraws1/17802	0	11	and	CC	*	-	-	-	-	*	-
+selectraws1/17802	0	12	Luo	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/17802	0	13	Guanzhong	NNP	*))	-	-	-	-	*)	3)|1)
+selectraws1/17802	0	14	,	,	*	-	-	-	-	*	-
+selectraws1/17802	0	15	a	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/17802	0	16	novel	NN	*)	-	-	-	-	*	-
+selectraws1/17802	0	17	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/17802	0	18	Song	NNP	(NP(NP(NP*	-	-	-	-	*	(1|(4
+selectraws1/17802	0	19	Jiang	NNP	*	-	-	-	-	(PERSON)	4)
+selectraws1/17802	0	20	's	POS	*)	-	-	-	-	*	-
+selectraws1/17802	0	21	titular	JJ	*	-	-	-	-	*	-
+selectraws1/17802	0	22	band	NN	*)	-	-	-	-	*	-
+selectraws1/17802	0	23	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17802	0	24	108	CD	(NP*	-	-	-	-	*	(1
+selectraws1/17802	0	25	bandit	NN	*))	-	-	-	-	*	-
+selectraws1/17802	0	26	-	:	*	-	-	-	-	*	-
+selectraws1/17802	0	27	heroes	NNS	(NP*))))))	-	-	-	-	*	1)|1)|1)
+selectraws1/17802	0	28	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

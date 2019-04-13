@@ -1,0 +1,142 @@
+#begin document (notdoneraws/19940); part 000
+
+notdoneraws/19940	0	0	This	DT	(TOP(S(S(NP*	-	-	-	-	*	(1
+notdoneraws/19940	0	1	author	NN	*)	-	-	-	-	*	1)
+notdoneraws/19940	0	2	included	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	3	Previous	JJ	(NP(NP*	-	-	-	-	*	(5
+notdoneraws/19940	0	4	Condition	NN	*)	-	-	-	-	*	5)
+notdoneraws/19940	0	5	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	6	his	PRP$	(NP(NP*	-	-	-	-	*	(6|(1)
+notdoneraws/19940	0	7	collection	NN	*)	-	-	-	-	*	6)
+notdoneraws/19940	0	8	Going	VBG	(VP*	-	-	-	-	*	(6
+notdoneraws/19940	0	9	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	10	Meet	VB	(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	11	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/19940	0	12	Man	NN	*))))))))))	-	-	-	-	*	6)
+notdoneraws/19940	0	13	,	,	*	-	-	-	-	*	-
+notdoneraws/19940	0	14	and	CC	*	-	-	-	-	*	-
+notdoneraws/19940	0	15	the	DT	(S(NP*	-	-	-	-	*	(7
+notdoneraws/19940	0	16	Creole	NNP	*)	-	-	-	-	*	7)
+notdoneraws/19940	0	17	makes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	18	jazz	NN	(NP*	-	-	-	-	*	-
+notdoneraws/19940	0	19	music	NN	*)	-	-	-	-	*	-
+notdoneraws/19940	0	20	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	21	the	DT	(NP*	-	-	-	-	*	(8
+notdoneraws/19940	0	22	title	NN	*	-	-	-	-	*	-
+notdoneraws/19940	0	23	character	NN	*))	-	-	-	-	*	8)
+notdoneraws/19940	0	24	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	25	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/19940	0	26	end	NN	*)	-	-	-	-	*	-
+notdoneraws/19940	0	27	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	28	his	PRP$	(NP*	-	-	-	-	*	(9|(1)
+notdoneraws/19940	0	29	short	JJ	*	-	-	-	-	*	-
+notdoneraws/19940	0	30	story	NN	*	-	-	-	-	*	9)
+notdoneraws/19940	0	31	Sonnys	NNP	*	-	-	-	-	*	(9|(8)
+notdoneraws/19940	0	32	Blues	NNP	*))))))	-	-	-	-	*	9)
+notdoneraws/19940	0	33	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19940	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	1	this	DT	(NP*	-	-	-	-	*	(1|(2
+notdoneraws/19940	0	2	mans	NNS	*	-	-	-	-	*	1)
+notdoneraws/19940	0	3	second	JJ	*	-	-	-	-	*	-
+notdoneraws/19940	0	4	novel	NN	*))	-	-	-	-	*	2)
+notdoneraws/19940	0	5	,	,	*	-	-	-	-	*	-
+notdoneraws/19940	0	6	the	DT	(NP*	-	-	-	-	*	(10
+notdoneraws/19940	0	7	protagonist	NN	*)	-	-	-	-	*	10)
+notdoneraws/19940	0	8	kills	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	9	the	DT	(NP*	-	-	-	-	*	(11
+notdoneraws/19940	0	10	gay	JJ	*	-	-	-	-	*	-
+notdoneraws/19940	0	11	bar	NN	*	-	-	-	-	*	-
+notdoneraws/19940	0	12	owner	NN	*	-	-	-	-	*	11)
+notdoneraws/19940	0	13	Guillaume	NNP	*))	-	-	-	-	(PERSON)	(11)
+notdoneraws/19940	0	14	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19940	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/19940	0	1	man	NN	*)	-	-	-	-	*	1)
+notdoneraws/19940	0	2	described	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	3	a	DT	(NP(NP(NP*	-	-	-	-	*	-
+notdoneraws/19940	0	4	meeting	NN	*)	-	-	-	-	*	-
+notdoneraws/19940	0	5	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	6	Louis	NNP	(NP(NP(NP*	-	-	-	-	(PERSON*	(12
+notdoneraws/19940	0	7	Farrakhan	NNP	*)	-	-	-	-	*)	12)
+notdoneraws/19940	0	8	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	9	Down	NNP	(NP*)))	-	-	-	-	*	(13
+notdoneraws/19940	0	10	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	11	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/19940	0	12	Cross	NNP	*)))))	-	-	-	-	*	13)
+notdoneraws/19940	0	13	,	,	*	-	-	-	-	*	-
+notdoneraws/19940	0	14	an	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/19940	0	15	essay	NN	*)	-	-	-	-	*	-
+notdoneraws/19940	0	16	collected	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	17	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	18	[	NN	(NP*	-	-	-	-	*	-
+notdoneraws/19940	0	19	\*	NN	*)))))	-	-	-	-	*	-
+notdoneraws/19940	0	20	]	SYM	(SBAR(X*)	-	-	-	-	*	-
+notdoneraws/19940	0	21	My	PRP$	(S(NP*	-	-	-	-	*	(14
+notdoneraws/19940	0	22	Dungeon	NNP	*)	-	-	-	-	*	-
+notdoneraws/19940	0	23	Shook	VBD	(VP*))))	-	-	-	-	*	14)
+notdoneraws/19940	0	24	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19940	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(4
+notdoneraws/19940	0	1	novel	NN	*)	-	-	-	-	*	-
+notdoneraws/19940	0	2	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	3	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/19940	0	4	man	NN	*)))	-	-	-	-	*	4)|1)
+notdoneraws/19940	0	5	includes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	6	sections	NNS	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/19940	0	7	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	8	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/19940	0	9	prayers	NNS	*)	-	-	-	-	*	-
+notdoneraws/19940	0	10	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	11	Florence	NNP	(NP(NP*	-	-	-	-	(LOCATION)	(15)
+notdoneraws/19940	0	12	and	CC	*	-	-	-	-	*	-
+notdoneraws/19940	0	13	Elizabeth	NNP	*)	-	-	-	-	(LOCATION)	(16)
+notdoneraws/19940	0	14	,	,	*	-	-	-	-	*	-
+notdoneraws/19940	0	15	after	IN	(SBAR(WHPP*	-	-	-	-	*	-
+notdoneraws/19940	0	16	which	WDT	(WHNP*))	-	-	-	-	*	-
+notdoneraws/19940	0	17	Gabriel	NNP	(S(NP*)	-	-	-	-	(ORGANIZATION)	(17)
+notdoneraws/19940	0	18	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	19	revealed	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	20	not	RB	(S*	-	-	-	-	*	-
+notdoneraws/19940	0	21	to	TO	(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	22	be	VB	(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	23	John	NNP	(S(NP*	-	-	-	-	(PERSON*	(18
+notdoneraws/19940	0	24	Grimess	NNP	*)	-	-	-	-	*)	18)
+notdoneraws/19940	0	25	father	NN	(VP*)))))))))))))))	-	-	-	-	*	-
+notdoneraws/19940	0	26	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/19940	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/19940	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/19940	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/19940	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	5	this	DT	(S(NP(NP*	-	-	-	-	*	(1
+notdoneraws/19940	0	6	African	JJ	(ADJP*	-	-	-	-	*	-
+notdoneraws/19940	0	7	American	JJ	*)	-	-	-	-	*	-
+notdoneraws/19940	0	8	novelist	NN	*)	-	-	-	-	*	-
+notdoneraws/19940	0	9	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/19940	0	10	wrote	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	11	Giovannis	NNP	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/19940	0	12	Room	NNP	*)	-	-	-	-	*	2)
+notdoneraws/19940	0	13	,	,	*	-	-	-	-	*	-
+notdoneraws/19940	0	14	The	DT	(NP*	-	-	-	-	*	(3
+notdoneraws/19940	0	15	Fire	NNP	*	-	-	-	-	*	-
+notdoneraws/19940	0	16	Next	NNP	*	-	-	-	-	*	-
+notdoneraws/19940	0	17	Time	NNP	*)	-	-	-	-	*	3)
+notdoneraws/19940	0	18	,	,	*	-	-	-	-	*	-
+notdoneraws/19940	0	19	and	CC	*	-	-	-	-	*	-
+notdoneraws/19940	0	20	Go	NNP	(NP*))))))	-	-	-	-	*	(4
+notdoneraws/19940	0	21	Tell	VB	(VP*	-	-	-	-	*	-
+notdoneraws/19940	0	22	It	PRP	(NP*)	-	-	-	-	*	-
+notdoneraws/19940	0	23	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/19940	0	24	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/19940	0	25	Mountain	NNP	*)))))	-	-	-	-	(ORGANIZATION)	1)|4)
+notdoneraws/19940	0	26	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

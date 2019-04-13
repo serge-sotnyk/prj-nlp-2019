@@ -1,0 +1,178 @@
+#begin document (selectraws1/16886); part 000
+
+selectraws1/16886	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+selectraws1/16886	0	1	narrator	NN	*)	-	-	-	-	*	-
+selectraws1/16886	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16886	0	4	novel	NN	*)))	-	-	-	-	*	3)|1)
+selectraws1/16886	0	5	meets	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	6	her	PRP$	(NP*	-	-	-	-	*	(4|(3)
+selectraws1/16886	0	7	future	JJ	*	-	-	-	-	*	-
+selectraws1/16886	0	8	husband	NN	*)	-	-	-	-	*	4)
+selectraws1/16886	0	9	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16886	0	10	travelling	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/16886	0	11	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	12	Monte	NNP	(NP*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/16886	0	13	Carlo	NNP	*))	-	-	-	-	*)	-
+selectraws1/16886	0	14	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	15	the	DT	(NP*	-	-	-	-	*	(5
+selectraws1/16886	0	16	American	NNP	*	-	-	-	-	*	5)
+selectraws1/16886	0	17	Mrs.	NNP	*	-	-	-	-	(PERSON*	(5
+selectraws1/16886	0	18	Van	NNP	*	-	-	-	-	*	-
+selectraws1/16886	0	19	Hopper	NNP	*))))))	-	-	-	-	*)	5)
+selectraws1/16886	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16886	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	-
+selectraws1/16886	0	1	last	JJ	*	-	-	-	-	*	-
+selectraws1/16886	0	2	entry	NN	*)	-	-	-	-	*	-
+selectraws1/16886	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	4	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16886	0	5	title	NN	*	-	-	-	-	*	-
+selectraws1/16886	0	6	character	NN	*	-	-	-	-	*	1)
+selectraws1/16886	0	7	's	POS	*)	-	-	-	-	*	-
+selectraws1/16886	0	8	datebook	NN	*)))	-	-	-	-	*	-
+selectraws1/16886	0	9	leads	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	10	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	11	the	DT	(NP(NP(NP*	-	-	-	-	*	(6
+selectraws1/16886	0	12	physician	NN	*)	-	-	-	-	*	6)
+selectraws1/16886	0	13	Dr.	NNP	(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/16886	0	14	Baker	NNP	*))	-	-	-	-	*)	6)
+selectraws1/16886	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/16886	0	16	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/16886	0	17	reveals	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/16886	0	18	she	PRP	(SBAR(S(NP*)	-	-	-	-	*	(1)
+selectraws1/16886	0	19	was	VBD	(VP(VP*	-	-	-	-	*	-
+selectraws1/16886	0	20	dying	VBG	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	21	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	22	cancer	NN	(NP*))))	-	-	-	-	*	-
+selectraws1/16886	0	23	and	CC	*	-	-	-	-	*	-
+selectraws1/16886	0	24	must	MD	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	25	have	VB	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	26	been	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	27	lying	VBG	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	28	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	29	her	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/16886	0	30	pregnancy	NN	*)))))))))))))))	-	-	-	-	*	-
+selectraws1/16886	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16886	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+selectraws1/16886	0	1	narrator	NN	*)	-	-	-	-	*	-
+selectraws1/16886	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16886	0	4	novel	NN	*)))	-	-	-	-	*	3)|1)
+selectraws1/16886	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	6	tricked	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	7	into	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	8	wearing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/16886	0	9	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16886	0	10	costume	NN	*)	-	-	-	-	*	-
+selectraws1/16886	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	12	a	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws1/16886	0	13	family	NN	*	-	-	-	-	*	-
+selectraws1/16886	0	14	ancestor	NN	*)	-	-	-	-	*	7)
+selectraws1/16886	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/16886	0	16	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/16886	0	17	ruins	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/16886	0	18	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16886	0	19	ball	NN	*)	-	-	-	-	*	-
+selectraws1/16886	0	20	because	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16886	0	21	her	PRP$	(S(NP(NP*	-	-	-	-	*	(4|(1|(3)
+selectraws1/16886	0	22	husband	NN	*	-	-	-	-	*	4)
+selectraws1/16886	0	23	's	POS	*)	-	-	-	-	*	-
+selectraws1/16886	0	24	ex-wife	NN	*)	-	-	-	-	*	1)
+selectraws1/16886	0	25	had	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	26	worn	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	27	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16886	0	28	same	JJ	*	-	-	-	-	*	-
+selectraws1/16886	0	29	thing	NN	*))))))))))))))))	-	-	-	-	*	-
+selectraws1/16886	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16886	0	0	That	DT	(TOP(S(S(NP*	-	-	-	-	*	(1
+selectraws1/16886	0	1	ex-wife	NN	*)	-	-	-	-	*	1)
+selectraws1/16886	0	2	had	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	3	fooled	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	4	around	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/16886	0	5	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	6	her	PRP$	(NP(NP*	-	-	-	-	*	(8|(1)
+selectraws1/16886	0	7	cousin	NN	*)	-	-	-	-	*	8)
+selectraws1/16886	0	8	Jack	NNP	(NP*	-	-	-	-	(PERSON*	(8
+selectraws1/16886	0	9	Favell	NNP	*))))))	-	-	-	-	*)	8)
+selectraws1/16886	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/16886	0	11	and	CC	*	-	-	-	-	*	-
+selectraws1/16886	0	12	divers	NNS	(S(NP(NP*)	-	-	-	-	*	-
+selectraws1/16886	0	13	sent	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	14	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	15	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16886	0	16	wreck	NN	*)	-	-	-	-	*	-
+selectraws1/16886	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	18	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16886	0	19	steamship	NN	*))))))	-	-	-	-	*	-
+selectraws1/16886	0	20	discover	VBP	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	21	her	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/16886	0	22	corpse	NN	*)	-	-	-	-	*	-
+selectraws1/16886	0	23	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	24	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16886	0	25	boat	NN	*)	-	-	-	-	*	-
+selectraws1/16886	0	26	riddled	JJ	(ADJP*	-	-	-	-	*	-
+selectraws1/16886	0	27	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	28	holes	NNS	(NP*)))))))	-	-	-	-	*	-
+selectraws1/16886	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16886	0	0	Colonel	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(9
+selectraws1/16886	0	1	Julyan	NNP	*)	-	-	-	-	*)	9)
+selectraws1/16886	0	2	decides	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	3	not	RB	(S*	-	-	-	-	*	-
+selectraws1/16886	0	4	to	TO	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	5	act	VB	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	6	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	7	his	PRP$	(NP*	-	-	-	-	*	(9)
+selectraws1/16886	0	8	suspicion	NN	*	-	-	-	-	*	-
+selectraws1/16886	0	9	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16886	0	10	Maxim	NNP	(S(NP*	-	-	-	-	(ORGANIZATION*	(4
+selectraws1/16886	0	11	de	NNP	*	-	-	-	-	*	-
+selectraws1/16886	0	12	Winter	NNP	*)	-	-	-	-	*)	4)
+selectraws1/16886	0	13	killed	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	14	his	PRP$	(NP*	-	-	-	-	*	(1|(4)
+selectraws1/16886	0	15	ex-wife	NN	*)	-	-	-	-	*	1)
+selectraws1/16886	0	16	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	17	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16886	0	18	novel	NN	*)))))))))))	-	-	-	-	*	1)
+selectraws1/16886	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16886	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws1/16886	0	1	ends	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	2	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	3	the	DT	(NP*	-	-	-	-	*	(10
+selectraws1/16886	0	4	domineering	JJ	*	-	-	-	-	*	-
+selectraws1/16886	0	5	housekeeper	NN	*))	-	-	-	-	*	10)
+selectraws1/16886	0	6	Mrs.	NNP	(S(NP*	-	-	-	-	(PERSON*	(10
+selectraws1/16886	0	7	Danvers	NNP	*)	-	-	-	-	*)	10)
+selectraws1/16886	0	8	burning	VBG	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	9	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16886	0	10	estate	NN	*)	-	-	-	-	*	-
+selectraws1/16886	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	12	Manderley	NNP	(NP*))))))	-	-	-	-	(LOCATION)	-
+selectraws1/16886	0	13	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16886	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16886	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/16886	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/16886	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/16886	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/16886	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16886	0	6	novel	NN	*)	-	-	-	-	*	-
+selectraws1/16886	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16886	0	8	Daphne	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/16886	0	9	du	NNP	*	-	-	-	-	*	-
+selectraws1/16886	0	10	Maurier	NNP	*)))	-	-	-	-	*)	2)|1)
+selectraws1/16886	0	11	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

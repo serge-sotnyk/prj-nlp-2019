@@ -1,0 +1,113 @@
+#begin document (selectraws1/17107); part 000
+
+selectraws1/17107	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+selectraws1/17107	0	1	main	JJ	*	-	-	-	-	*	-
+selectraws1/17107	0	2	character	NN	*)	-	-	-	-	*	-
+selectraws1/17107	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17107	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17107	0	5	play	NN	*)))	-	-	-	-	*	1)|3)
+selectraws1/17107	0	6	denies	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	7	eating	VBG	(NP*	-	-	-	-	*	-
+selectraws1/17107	0	8	macaroons	NNS	*)	-	-	-	-	*	-
+selectraws1/17107	0	9	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/17107	0	10	the	DT	(NP*	-	-	-	-	*	(4
+selectraws1/17107	0	11	first	JJ	*	-	-	-	-	*	-
+selectraws1/17107	0	12	act	NN	*)))	-	-	-	-	*	4)
+selectraws1/17107	0	13	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17107	0	0	The	DT	(TOP(S(S(NP(NP*	-	-	-	-	*	-
+selectraws1/17107	0	1	card	NN	*)	-	-	-	-	*	-
+selectraws1/17107	0	2	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/17107	0	3	the	DT	(S(NP*	-	-	-	-	*	(5
+selectraws1/17107	0	4	syphilitic	JJ	*	-	-	-	-	*	-
+selectraws1/17107	0	5	Dr.	NNP	*	-	-	-	-	*	-
+selectraws1/17107	0	6	Rank	NNP	*)	-	-	-	-	*	5)
+selectraws1/17107	0	7	sends	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	8	this	DT	(NP(NP*	-	-	-	-	*	(1|(3
+selectraws1/17107	0	9	work	NN	*	-	-	-	-	*	1)
+selectraws1/17107	0	10	's	POS	*)	-	-	-	-	*	-
+selectraws1/17107	0	11	protagonist	NN	*)))))	-	-	-	-	*	3)
+selectraws1/17107	0	12	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	13	overshadowed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	14	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/17107	0	15	another	DT	(NP*	-	-	-	-	*	-
+selectraws1/17107	0	16	letter	NN	*)))))	-	-	-	-	*	-
+selectraws1/17107	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/17107	0	18	and	CC	*	-	-	-	-	*	-
+selectraws1/17107	0	19	Kristine	NNP	(S(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/17107	0	20	Linde	NNP	*)	-	-	-	-	*)	6)
+selectraws1/17107	0	21	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	22	a	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws1/17107	0	23	childhood	NN	*	-	-	-	-	*	-
+selectraws1/17107	0	24	friend	NN	*)	-	-	-	-	*	-
+selectraws1/17107	0	25	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17107	0	26	the	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17107	0	27	protagonist	NN	*)))))	-	-	-	-	*	1)|6)
+selectraws1/17107	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17107	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(7
+selectraws1/17107	0	1	bank	NN	*	-	-	-	-	*	-
+selectraws1/17107	0	2	employee	NN	*	-	-	-	-	*	7)
+selectraws1/17107	0	3	Krogstad	NNP	*)	-	-	-	-	(PERSON)	(7)
+selectraws1/17107	0	4	tries	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	5	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/17107	0	6	blackmail	VB	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	7	the	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/17107	0	8	protagonist	NN	*)	-	-	-	-	*	-
+selectraws1/17107	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17107	0	10	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17107	0	11	work	NN	*))	-	-	-	-	*	1)|3)
+selectraws1/17107	0	12	regarding	VBG	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	13	her	PRP$	(NP(NP*	-	-	-	-	*	(3)
+selectraws1/17107	0	14	forging	NN	*)	-	-	-	-	*	-
+selectraws1/17107	0	15	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17107	0	16	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/17107	0	17	loan	NN	*)))))))))	-	-	-	-	*	-
+selectraws1/17107	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17107	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/17107	0	1	play	NN	*)	-	-	-	-	*	1)
+selectraws1/17107	0	2	ends	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	3	with	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/17107	0	4	Torvald	NNP	(S(NP*)	-	-	-	-	(PERSON)	(8)
+selectraws1/17107	0	5	forgiving	VBG	(VP(VP*	-	-	-	-	*	-
+selectraws1/17107	0	6	his	PRP$	(NP*	-	-	-	-	*	(3|(8)
+selectraws1/17107	0	7	wife	NN	*))	-	-	-	-	*	3)
+selectraws1/17107	0	8	and	CC	*	-	-	-	-	*	-
+selectraws1/17107	0	9	begging	VBG	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	10	her	PRP	(S(NP*)	-	-	-	-	*	(3)
+selectraws1/17107	0	11	to	TO	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	12	reconsider	VB	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	13	her	PRP$	(NP*	-	-	-	-	*	(3)
+selectraws1/17107	0	14	decision	NN	*	-	-	-	-	*	-
+selectraws1/17107	0	15	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/17107	0	16	leave	VB	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	17	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/17107	0	18	family	NN	*)))))))))))))	-	-	-	-	*	-
+selectraws1/17107	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17107	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/17107	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/17107	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/17107	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/17107	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/17107	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17107	0	6	play	NN	*)	-	-	-	-	*	-
+selectraws1/17107	0	7	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/17107	0	8	Nora	NNP	(NP(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/17107	0	9	Helmer	NNP	*)	-	-	-	-	*)	1)|3)
+selectraws1/17107	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/17107	0	11	a	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/17107	0	12	work	NN	*)	-	-	-	-	*	-
+selectraws1/17107	0	13	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/17107	0	14	Henrik	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/17107	0	15	Ibsen	NNP	*))))))	-	-	-	-	*)	2)|1)
+selectraws1/17107	0	16	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

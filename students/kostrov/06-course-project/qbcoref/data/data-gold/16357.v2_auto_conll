@@ -1,0 +1,150 @@
+#begin document (selectraws1/16357); part 000
+
+selectraws1/16357	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16357	0	1	the	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/16357	0	2	first	JJ	*	-	-	-	-	*	-
+selectraws1/16357	0	3	section	NN	*)	-	-	-	-	*	-
+selectraws1/16357	0	4	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16357	0	5	To	TO	(PP*	-	-	-	-	*	(3
+selectraws1/16357	0	6	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16357	0	7	Lighthouse	NNP	*)))))	-	-	-	-	*	3)|5)
+selectraws1/16357	0	8	,	,	*	-	-	-	-	*	-
+selectraws1/16357	0	9	Mrs.	NNP	(NP*	-	-	-	-	(PERSON*	(4
+selectraws1/16357	0	10	Ramsay	NNP	*)	-	-	-	-	*)	4)
+selectraws1/16357	0	11	suddenly	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/16357	0	12	recalls	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16357	0	13	this	DT	(SBAR(S(NP(NP*	-	-	-	-	*	(6|(1
+selectraws1/16357	0	14	poem	NN	*	-	-	-	-	*	1)
+selectraws1/16357	0	15	's	POS	*)	-	-	-	-	*	-
+selectraws1/16357	0	16	line	NN	*	-	-	-	-	*	6)
+selectraws1/16357	0	17	''	''	*	-	-	-	-	*	-
+selectraws1/16357	0	18	Someone	NN	*)	-	-	-	-	*	(6
+selectraws1/16357	0	19	had	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16357	0	20	blundered	VBD	(VP*)))))	-	-	-	-	*	6)
+selectraws1/16357	0	21	.	.	*	-	-	-	-	*	-
+selectraws1/16357	0	22	''	''	*))	-	-	-	-	*	-
+
+
+selectraws1/16357	0	0	This	DT	(TOP(SBARQ(SBAR(S(S(NP*	-	-	-	-	*	(7|(1
+selectraws1/16357	0	1	poem	NN	*)	-	-	-	-	*	1)
+selectraws1/16357	0	2	's	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16357	0	3	sixth	JJ	(ADJP*)))	-	-	-	-	*	-
+selectraws1/16357	0	4	and	CC	*	-	-	-	-	*	-
+selectraws1/16357	0	5	final	JJ	(S(NP*	-	-	-	-	*	-
+selectraws1/16357	0	6	stanza	NN	*)	-	-	-	-	*	7)
+selectraws1/16357	0	7	asks	VBZ	(VP*))	-	-	-	-	*	-
+selectraws1/16357	0	8	''	''	*))	-	-	-	-	*	-
+selectraws1/16357	0	9	When	WRB	(WHNP*)	-	-	-	-	*	-
+selectraws1/16357	0	10	can	MD	(SQ*	-	-	-	-	*	-
+selectraws1/16357	0	11	their	PRP$	(NP*	-	-	-	-	*	-
+selectraws1/16357	0	12	glory	NN	*)	-	-	-	-	*	-
+selectraws1/16357	0	13	fade	VB	(VP*))	-	-	-	-	*	-
+selectraws1/16357	0	14	?	.	*	-	-	-	-	*	-
+selectraws1/16357	0	15	''	''	*))	-	-	-	-	*	-
+
+
+selectraws1/16357	0	0	Its	PRP$	(TOP(S(NP*	-	-	-	-	*	(8|(1)
+selectraws1/16357	0	1	fourth	JJ	*	-	-	-	-	*	-
+selectraws1/16357	0	2	stanza	NN	*)	-	-	-	-	*	8)
+selectraws1/16357	0	3	states	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16357	0	4	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16357	0	5	''	''	(FRAG*	-	-	-	-	*	-
+selectraws1/16357	0	6	Cossack	NN	(NP*)	-	-	-	-	*	-
+selectraws1/16357	0	7	and	CC	*	-	-	-	-	*	-
+selectraws1/16357	0	8	Russian	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws1/16357	0	9	/	NN	*	-	-	-	-	*	-
+selectraws1/16357	0	10	Reel	NNP	*	-	-	-	-	*	-
+selectraws1/16357	0	11	'd	NNP	*)	-	-	-	-	*	-
+selectraws1/16357	0	12	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/16357	0	13	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16357	0	14	sabre	NN	*	-	-	-	-	*	-
+selectraws1/16357	0	15	stroke	NN	*)))	-	-	-	-	*	-
+selectraws1/16357	0	16	/	SYM	(X*)	-	-	-	-	*	-
+selectraws1/16357	0	17	Shatter	NNP	(NP(NP*	-	-	-	-	*	-
+selectraws1/16357	0	18	'd	NNP	*)	-	-	-	-	*	-
+selectraws1/16357	0	19	and	CC	*	-	-	-	-	*	-
+selectraws1/16357	0	20	sunder	NN	*	-	-	-	-	*	-
+selectraws1/16357	0	21	'd	NNP	*))))	-	-	-	-	*	-
+selectraws1/16357	0	22	.	.	*	-	-	-	-	*	-
+selectraws1/16357	0	23	''	''	*))	-	-	-	-	*	-
+
+
+selectraws1/16357	0	0	This	DT	(TOP(X(NP(NP*	-	-	-	-	*	(1
+selectraws1/16357	0	1	poem	JJ	*	-	-	-	-	*	1)
+selectraws1/16357	0	2	asserts	NNS	*)	-	-	-	-	*	-
+selectraws1/16357	0	3	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/16357	0	4	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws1/16357	0	5	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws1/16357	0	6	''	''	*)	-	-	-	-	*	-
+selectraws1/16357	0	7	Theirs	NNP	(NP*)	-	-	-	-	*	-
+selectraws1/16357	0	8	not	RB	(X*)	-	-	-	-	*	-
+selectraws1/16357	0	9	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/16357	0	10	reason	NN	(NP*))	-	-	-	-	*	-
+selectraws1/16357	0	11	why	WRB	(FRAG(WHADVP*))	-	-	-	-	*	-
+selectraws1/16357	0	12	/	SYM	(X*)	-	-	-	-	*	-
+selectraws1/16357	0	13	Theirs	NNPS	*	-	-	-	-	*	-
+selectraws1/16357	0	14	but	CC	(X*	-	-	-	-	*	-
+selectraws1/16357	0	15	to	TO	(VP(VP*	-	-	-	-	*	-
+selectraws1/16357	0	16	do	VB	(VP*	-	-	-	-	*	-
+selectraws1/16357	0	17	and	CC	*	-	-	-	-	*	-
+selectraws1/16357	0	18	die	VB	*))	-	-	-	-	*	-
+selectraws1/16357	0	19	,	,	*	-	-	-	-	*	-
+selectraws1/16357	0	20	and	CC	*	-	-	-	-	*	-
+selectraws1/16357	0	21	begins	VBZ	*)	-	-	-	-	*	-
+selectraws1/16357	0	22	''	''	*)	-	-	-	-	*	-
+selectraws1/16357	0	23	Half	PDT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16357	0	24	a	DT	*	-	-	-	-	*	-
+selectraws1/16357	0	25	league	NN	*)	-	-	-	-	*	-
+selectraws1/16357	0	26	,	,	*	-	-	-	-	*	-
+selectraws1/16357	0	27	half	PDT	(NP*	-	-	-	-	*	-
+selectraws1/16357	0	28	a	DT	*	-	-	-	-	*	-
+selectraws1/16357	0	29	league	NN	*))	-	-	-	-	*	-
+selectraws1/16357	0	30	/	SYM	(X*)	-	-	-	-	*	-
+selectraws1/16357	0	31	Half	PDT	(NP*	-	-	-	-	*	-
+selectraws1/16357	0	32	a	DT	*	-	-	-	-	*	-
+selectraws1/16357	0	33	league	NN	*	-	-	-	-	*	-
+selectraws1/16357	0	34	onward	NN	*)	-	-	-	-	*	-
+selectraws1/16357	0	35	/	SYM	(X*)	-	-	-	-	*	-
+selectraws1/16357	0	36	All	DT	(NP(NP*)	-	-	-	-	*	-
+selectraws1/16357	0	37	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16357	0	38	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16357	0	39	valley	NN	*)	-	-	-	-	*	-
+selectraws1/16357	0	40	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16357	0	41	Death	NN	(NP*)))))	-	-	-	-	*	-
+selectraws1/16357	0	42	/	SYM	(X*)	-	-	-	-	*	-
+selectraws1/16357	0	43	Rode	IN	(PP*	-	-	-	-	*	-
+selectraws1/16357	0	44	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16357	0	45	six	CD	*	-	-	-	-	*	-
+selectraws1/16357	0	46	hundred	CD	*))	-	-	-	-	*	-
+selectraws1/16357	0	47	.	.	*	-	-	-	-	*	-
+selectraws1/16357	0	48	''	''	*))	-	-	-	-	*	-
+
+
+selectraws1/16357	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16357	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/16357	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/16357	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/16357	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/16357	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16357	0	6	poem	NN	*)	-	-	-	-	*	-
+selectraws1/16357	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16357	0	8	Alfred	NNP	(NP*	-	-	-	-	(PERSON)	(2
+selectraws1/16357	0	9	,	,	*	-	-	-	-	*	-
+selectraws1/16357	0	10	Lord	NNP	*	-	-	-	-	(PERSON*	-
+selectraws1/16357	0	11	Tennyson	NNP	*))	-	-	-	-	*)	2)
+selectraws1/16357	0	12	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/16357	0	13	an	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16357	0	14	event	NN	*)	-	-	-	-	*	-
+selectraws1/16357	0	15	during	IN	(PP*	-	-	-	-	*	-
+selectraws1/16357	0	16	the	DT	(NP(NP(NP*	-	-	-	-	*	-
+selectraws1/16357	0	17	Crimean	NNP	*	-	-	-	-	*	-
+selectraws1/16357	0	18	War	NNP	*	-	-	-	-	*	-
+selectraws1/16357	0	19	's	POS	*)	-	-	-	-	*	-
+selectraws1/16357	0	20	Battle	NN	*)	-	-	-	-	*	-
+selectraws1/16357	0	21	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16357	0	22	Balaclava	NNP	(NP*))))))))	-	-	-	-	(LOCATION)	1)|1)
+selectraws1/16357	0	23	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

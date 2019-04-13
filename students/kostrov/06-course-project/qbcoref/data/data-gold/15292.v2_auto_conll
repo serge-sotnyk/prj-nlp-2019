@@ -1,0 +1,154 @@
+#begin document (selectraws1/15292); part 000
+
+selectraws1/15292	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(5
+selectraws1/15292	0	1	introduction	NN	*)	-	-	-	-	*	-
+selectraws1/15292	0	2	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	3	the	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/15292	0	4	latest	JJS	*	-	-	-	-	*	-
+selectraws1/15292	0	5	Random	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/15292	0	6	House	NNP	*	-	-	-	-	*)	-
+selectraws1/15292	0	7	edition	NN	*)	-	-	-	-	*	-
+selectraws1/15292	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	9	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/15292	0	10	text	NN	*)))))	-	-	-	-	*	5)|4)|1)
+selectraws1/15292	0	11	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	12	written	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	13	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	14	the	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws1/15292	0	15	recently	RB	(ADJP*	-	-	-	-	*	-
+selectraws1/15292	0	16	deceased	VBN	*)	-	-	-	-	*	-
+selectraws1/15292	0	17	critic	NN	*)	-	-	-	-	*	6)
+selectraws1/15292	0	18	Frank	NNP	(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/15292	0	19	Kermode	NNP	*)))))	-	-	-	-	*)	6)
+selectraws1/15292	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15292	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(7
+selectraws1/15292	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws1/15292	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/15292	0	4	work	NN	*)))	-	-	-	-	*	7)|1)
+selectraws1/15292	0	5	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	6	her	PRP$	(NP*	-	-	-	-	*	(8|(7)
+selectraws1/15292	0	7	horse	NN	*	-	-	-	-	*	8)
+selectraws1/15292	0	8	Beelzebub	NNP	*)	-	-	-	-	*	(8)
+selectraws1/15292	0	9	because	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/15292	0	10	if	IN	(S(SBAR*	-	-	-	-	*	-
+selectraws1/15292	0	11	you	PRP	(S(NP*)	-	-	-	-	*	-
+selectraws1/15292	0	12	can	MD	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	13	ride	VB	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	14	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/15292	0	15	devil	NN	*)))))	-	-	-	-	*	-
+selectraws1/15292	0	16	,	,	*	-	-	-	-	*	-
+selectraws1/15292	0	17	you	PRP	(NP*)	-	-	-	-	*	-
+selectraws1/15292	0	18	can	MD	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	19	ride	VB	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	20	anything	NN	(NP*))))))	-	-	-	-	*	-
+selectraws1/15292	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15292	0	0	A	DT	(TOP(S(S(NP(NP*	-	-	-	-	*	-
+selectraws1/15292	0	1	search	NN	*)	-	-	-	-	*	-
+selectraws1/15292	0	2	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	3	Effie	NNP	(NP*))	-	-	-	-	*	(9)
+selectraws1/15292	0	4	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	5	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/15292	0	6	Old	NNP	*	-	-	-	-	*	-
+selectraws1/15292	0	7	Hundredth	NNP	*)))	-	-	-	-	*	-
+selectraws1/15292	0	8	lands	VBD	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	9	Boy	NNP	(NP*	-	-	-	-	*	(10
+selectraws1/15292	0	10	Mulcaster	NNP	*)	-	-	-	-	*	10)
+selectraws1/15292	0	11	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	12	jail	NN	(NP*))))	-	-	-	-	*	-
+selectraws1/15292	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/15292	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/15292	0	15	he	PRP	(S(NP*)	-	-	-	-	*	(10)
+selectraws1/15292	0	16	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	17	bailed	VBD	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	18	out	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/15292	0	19	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	20	the	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws1/15292	0	21	Canadian	NNP	*	-	-	-	-	*	11)
+selectraws1/15292	0	22	Rex	NNP	*	-	-	-	-	(PERSON*	(11
+selectraws1/15292	0	23	Mottram	NNP	*)	-	-	-	-	*)	11)
+selectraws1/15292	0	24	,	,	*	-	-	-	-	*	-
+selectraws1/15292	0	25	Julia	NNP	(NP(NP*	-	-	-	-	(PERSON)	(11|(12)
+selectraws1/15292	0	26	's	POS	*)	-	-	-	-	*	-
+selectraws1/15292	0	27	fianc	NN	*))))))	-	-	-	-	*	11)
+selectraws1/15292	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15292	0	0	Julia	NNP	(TOP(S(NP(NP*	-	-	-	-	(PERSON)	(13|(12)
+selectraws1/15292	0	1	's	POS	*)	-	-	-	-	*	-
+selectraws1/15292	0	2	brother	NN	*)	-	-	-	-	*	13)
+selectraws1/15292	0	3	first	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/15292	0	4	met	VBD	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	5	the	DT	(NP*	-	-	-	-	*	(2
+selectraws1/15292	0	6	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws1/15292	0	7	one	CD	(NP(NP*	-	-	-	-	*	-
+selectraws1/15292	0	8	night	NN	*)	-	-	-	-	*	-
+selectraws1/15292	0	9	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	10	Oxford	NNP	(NP*)))	-	-	-	-	(ORGANIZATION)	-
+selectraws1/15292	0	11	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	12	throwing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/15292	0	13	up	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/15292	0	14	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	15	his	PRP$	(NP(NP*	-	-	-	-	*	(2)
+selectraws1/15292	0	16	window	NN	*)	-	-	-	-	*	-
+selectraws1/15292	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/15292	0	18	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/15292	0	19	precursor	NN	*)	-	-	-	-	*	-
+selectraws1/15292	0	20	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	21	his	PRP$	(NP*	-	-	-	-	*	(13)
+selectraws1/15292	0	22	severe	JJ	*	-	-	-	-	*	-
+selectraws1/15292	0	23	alcoholism	NN	*)))))	-	-	-	-	*	-
+selectraws1/15292	0	24	later	RB	(ADVP*	-	-	-	-	*	-
+selectraws1/15292	0	25	on	RB	*)))))	-	-	-	-	*	-
+selectraws1/15292	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15292	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/15292	0	1	novel	NN	*)	-	-	-	-	*	1)
+selectraws1/15292	0	2	opens	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	3	as	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/15292	0	4	that	DT	(S(NP(NP*	-	-	-	-	*	(2
+selectraws1/15292	0	5	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws1/15292	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/15292	0	7	an	DT	(NP*	-	-	-	-	*	(2
+selectraws1/15292	0	8	architectural	JJ	*	-	-	-	-	*	-
+selectraws1/15292	0	9	painter	NN	*	-	-	-	-	*	-
+selectraws1/15292	0	10	and	CC	*	-	-	-	-	*	-
+selectraws1/15292	0	11	soldier	NN	*)	-	-	-	-	*	2)
+selectraws1/15292	0	12	,	,	*)	-	-	-	-	*	-
+selectraws1/15292	0	13	unexpectedly	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/15292	0	14	catches	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	15	sight	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/15292	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	17	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/15292	0	18	titular	JJ	*	-	-	-	-	*	-
+selectraws1/15292	0	19	estate	NN	*)))))))	-	-	-	-	*	-
+selectraws1/15292	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/15292	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/15292	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/15292	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/15292	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/15292	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	5	this	DT	(S(NP*	-	-	-	-	*	(1
+selectraws1/15292	0	6	work	NN	*)	-	-	-	-	*	-
+selectraws1/15292	0	7	narrated	VBN	(VP*	-	-	-	-	*	-
+selectraws1/15292	0	8	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	9	Charles	NNP	(NP(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/15292	0	10	Ryder	NNP	*)	-	-	-	-	*)	2)|1)
+selectraws1/15292	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/15292	0	12	a	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/15292	0	13	novel	NN	*)	-	-	-	-	*	-
+selectraws1/15292	0	14	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/15292	0	15	Evelyn	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/15292	0	16	Waugh	NNP	*))))))))	-	-	-	-	*)	3)|1)
+selectraws1/15292	0	17	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

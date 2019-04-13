@@ -1,0 +1,121 @@
+#begin document (selectraws1/16); part 000
+
+selectraws1/16	0	0	Virginia	NNP	(TOP(S(NP(NP*	-	-	-	-	(LOCATION*	(2
+selectraws1/16	0	1	Woolf	NNP	*)	-	-	-	-	*)	2)
+selectraws1/16	0	2	,	,	*	-	-	-	-	*	-
+selectraws1/16	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	4	her	PRP$	(NP(NP*	-	-	-	-	*	(2)
+selectraws1/16	0	5	essay	NN	*	-	-	-	-	*	-
+selectraws1/16	0	6	Professions	NNP	*)	-	-	-	-	*	(10
+selectraws1/16	0	7	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	8	Women	NNP	(NP*))))	-	-	-	-	*	10)
+selectraws1/16	0	9	,	,	*)	-	-	-	-	*	-
+selectraws1/16	0	10	advocates	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16	0	11	killing	VBG	(VP*	-	-	-	-	*	-
+selectraws1/16	0	12	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16	0	13	type	NN	*)	-	-	-	-	*	-
+selectraws1/16	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	15	figure	NN	(NP*)))	-	-	-	-	*	1)
+selectraws1/16	0	16	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	17	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16	0	18	House	NNP	*))	-	-	-	-	(ORGANIZATION)	-
+selectraws1/16	0	19	,	,	*	-	-	-	-	*	-
+selectraws1/16	0	20	as	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16	0	21	she	PRP	(S(NP*)	-	-	-	-	*	(2)
+selectraws1/16	0	22	argues	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16	0	23	these	DT	(SBAR(S(NP*	-	-	-	-	*	(1
+selectraws1/16	0	24	beings	NNS	*)	-	-	-	-	*	1)
+selectraws1/16	0	25	represent	VBP	(VP*	-	-	-	-	*	-
+selectraws1/16	0	26	female	JJ	(NP*	-	-	-	-	*	-
+selectraws1/16	0	27	chastity	NN	*	-	-	-	-	*	-
+selectraws1/16	0	28	and	CC	*	-	-	-	-	*	-
+selectraws1/16	0	29	virtue	NN	*)))))))))	-	-	-	-	*	-
+selectraws1/16	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16	0	0	Lilia	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/16	0	1	Herrinton	NNP	*)	-	-	-	-	*)	3)
+selectraws1/16	0	2	falls	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	4	love	NN	(NP*))	-	-	-	-	*	-
+selectraws1/16	0	5	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	6	an	DT	(NP*	-	-	-	-	*	-
+selectraws1/16	0	7	Italian	JJ	*))	-	-	-	-	*	-
+selectraws1/16	0	8	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	9	E.M.	NNP	(NP(NP*	-	-	-	-	(PERSON*	(4|(11
+selectraws1/16	0	10	Forster	NNP	*	-	-	-	-	*)	4)
+selectraws1/16	0	11	's	POS	*)	-	-	-	-	*	-
+selectraws1/16	0	12	first	JJ	*	-	-	-	-	*	-
+selectraws1/16	0	13	novel	NN	*))	-	-	-	-	*	11)
+selectraws1/16	0	14	,	,	*	-	-	-	-	*	-
+selectraws1/16	0	15	partly	RB	(S(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/16	0	16	titled	VBN	*	-	-	-	-	*	-
+selectraws1/16	0	17	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	18	these	DT	(NP*	-	-	-	-	*	-
+selectraws1/16	0	19	beings	NNS	*))	-	-	-	-	*	-
+selectraws1/16	0	20	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	21	a	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws1/16	0	22	line	NN	*)	-	-	-	-	*	11)
+selectraws1/16	0	23	taken	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16	0	24	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	25	Pope	NNP	(NP(NP*	-	-	-	-	*	(5
+selectraws1/16	0	26	's	POS	*)	-	-	-	-	*	5)
+selectraws1/16	0	27	Essay	NNP	*))	-	-	-	-	*	(12
+selectraws1/16	0	28	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	29	Criticism	NN	(NP*))))))))	-	-	-	-	*	12)
+selectraws1/16	0	30	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16	0	0	Millenium	NNP	(TOP(S(NP(NP*	-	-	-	-	(ORGANIZATION*	(13
+selectraws1/16	0	1	Approaches	NNP	*)	-	-	-	-	*)	13)
+selectraws1/16	0	2	and	CC	*	-	-	-	-	*	-
+selectraws1/16	0	3	Perestroika	NNP	*)	-	-	-	-	*	(14)
+selectraws1/16	0	4	are	VBP	(VP*	-	-	-	-	*	-
+selectraws1/16	0	5	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16	0	6	two	CD	*	-	-	-	-	*	-
+selectraws1/16	0	7	parts	NNS	*)	-	-	-	-	*	-
+selectraws1/16	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	9	a	DT	(NP(NP*	-	-	-	-	*	(16
+selectraws1/16	0	10	play	NN	*)	-	-	-	-	*	16)
+selectraws1/16	0	11	subtitled	VBN	(VP(VP*	-	-	-	-	*	-
+selectraws1/16	0	12	A	DT	(NP(NP(NP*	-	-	-	-	*	(15
+selectraws1/16	0	13	Gay	NNP	*	-	-	-	-	(LOCATION*	-
+selectraws1/16	0	14	Fantasia	NNP	*)	-	-	-	-	*)	-
+selectraws1/16	0	15	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	16	National	NNP	(NP*	-	-	-	-	*	-
+selectraws1/16	0	17	Themes	NNPS	*)))	-	-	-	-	*	15)
+selectraws1/16	0	18	written	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16	0	19	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	20	Tony	NNP	(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/16	0	21	Kushner	NNP	*)))))	-	-	-	-	*)	6)
+selectraws1/16	0	22	and	CC	*	-	-	-	-	*	-
+selectraws1/16	0	23	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16	0	24	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	25	these	DT	(NP*	-	-	-	-	*	(1|(16
+selectraws1/16	0	26	beings	NNS	*))	-	-	-	-	*	1)
+selectraws1/16	0	27	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	28	America	NNP	(NP*))))))))	-	-	-	-	(LOCATION)	16)
+selectraws1/16	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16	0	0	Alexander	NNP	(TOP(S(NP*	-	-	-	-	*	(5
+selectraws1/16	0	1	Pope	NNP	*)	-	-	-	-	*	5)
+selectraws1/16	0	2	writes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16	0	3	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16	0	4	fools	NNS	(S(NP*)	-	-	-	-	*	-
+selectraws1/16	0	5	rush	VBP	(VP*	-	-	-	-	*	-
+selectraws1/16	0	6	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16	0	7	where	WRB	(SBARQ(WHADVP*)	-	-	-	-	*	-
+selectraws1/16	0	8	,	,	(PRN*	-	-	-	-	*	-
+selectraws1/16	0	9	FTP	NNP	*	-	-	-	-	*	-
+selectraws1/16	0	10	,	,	*)	-	-	-	-	*	-
+selectraws1/16	0	11	what	WDT	(WHNP*	-	-	-	-	*	(1|(11
+selectraws1/16	0	12	beings	NNS	*)	-	-	-	-	*	1)
+selectraws1/16	0	13	fear	VBP	(SQ(VP*	-	-	-	-	*	-
+selectraws1/16	0	14	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/16	0	15	tread	VB	(VP*)))))	-	-	-	-	*	11)
+selectraws1/16	0	16	?	.	*))))))))	-	-	-	-	*	-
+
+
+#end document
+

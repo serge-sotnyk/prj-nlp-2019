@@ -1,0 +1,88 @@
+#begin document (selectraws/15); part 000
+
+selectraws/15	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/15	0	1	man	NN	*)	-	-	-	-	*	1)
+selectraws/15	0	2	falls	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws/15	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15	0	4	love	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws/15	0	5	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15	0	6	the	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/15	0	7	maid	NN	*)	-	-	-	-	*	-
+selectraws/15	0	8	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15	0	9	lime	NN	(NP*	-	-	-	-	*	-
+selectraws/15	0	10	colored	VBN	*	-	-	-	-	*	-
+selectraws/15	0	11	panties	NNS	*)))))))	-	-	-	-	*	2)
+selectraws/15	0	12	and	CC	*	-	-	-	-	*	-
+selectraws/15	0	13	dates	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15	0	14	Luciana	NNP	(NP*)))	-	-	-	-	(PERSON)	(3)
+selectraws/15	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws/15	0	1	returns	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15	0	2	to	TO	(PP*	-	-	-	-	*	-
+selectraws/15	0	3	work	NN	(NP*))	-	-	-	-	*	-
+selectraws/15	0	4	after	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15	0	5	The	DT	(S(S(NP(NP*	-	-	-	-	*	(5
+selectraws/15	0	6	Texan	NNP	*	-	-	-	-	*	5)
+selectraws/15	0	7	's	POS	*)	-	-	-	-	*	-
+selectraws/15	0	8	good-hearted	JJ	*	-	-	-	-	*	-
+selectraws/15	0	9	nature	NN	*)	-	-	-	-	*	-
+selectraws/15	0	10	scares	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15	0	11	everyone	NN	(NP*)))	-	-	-	-	*	-
+selectraws/15	0	12	,	,	*	-	-	-	-	*	-
+selectraws/15	0	13	and	CC	*	-	-	-	-	*	-
+selectraws/15	0	14	he	PRP	(S(NP*)	-	-	-	-	*	(1)
+selectraws/15	0	15	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15	0	16	irrational	JJ	(ADJP*)	-	-	-	-	*	-
+selectraws/15	0	17	according	VBG	(PP*	-	-	-	-	*	-
+selectraws/15	0	18	to	TO	(PP*	-	-	-	-	*	-
+selectraws/15	0	19	Sanderson	NNP	(NP*))))))))	-	-	-	-	(PERSON)	(4)
+selectraws/15	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15	0	0	His	PRP$	(TOP(S(S(NP*	-	-	-	-	*	(6|(1)
+selectraws/15	0	1	boss	NN	*)	-	-	-	-	*	6)
+selectraws/15	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15	0	3	Scheisskopf	JJ	(ADJP*)))	-	-	-	-	*	(6)
+selectraws/15	0	4	,	,	*	-	-	-	-	*	-
+selectraws/15	0	5	and	CC	*	-	-	-	-	*	-
+selectraws/15	0	6	he	PRP	(S(NP*)	-	-	-	-	*	(1)
+selectraws/15	0	7	flies	VBZ	(VP*	-	-	-	-	*	-
+selectraws/15	0	8	to	TO	(PP*	-	-	-	-	*	-
+selectraws/15	0	9	Sweden	NNP	(NP*))	-	-	-	-	(LOCATION)	-
+selectraws/15	0	10	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/15	0	11	escape	VB	(VP*	-	-	-	-	*	-
+selectraws/15	0	12	Cathcart	NNP	(NP*	-	-	-	-	(PERSON)	(7)
+selectraws/15	0	13	and	CC	*	-	-	-	-	*	-
+selectraws/15	0	14	Korn	NNP	*))))	-	-	-	-	(PERSON)	(8)
+selectraws/15	0	15	,	,	*	-	-	-	-	*	-
+selectraws/15	0	16	thereby	RB	(S(ADVP*)	-	-	-	-	*	-
+selectraws/15	0	17	leaving	VBG	(VP*	-	-	-	-	*	-
+selectraws/15	0	18	Pianosa	NNP	(NP*)))))	-	-	-	-	*	-
+selectraws/15	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15	0	1	ten	JJ	(NP*	-	-	-	-	*	-
+selectraws/15	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/15	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/15	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/15	0	6	protagonist	NN	*)	-	-	-	-	*	1)
+selectraws/15	0	7	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15	0	8	cannot	VBD	(S(VP*	-	-	-	-	*	-
+selectraws/15	0	9	evade	VB	(S(VP*	-	-	-	-	*	-
+selectraws/15	0	10	piloting	NN	(NP*	-	-	-	-	*	-
+selectraws/15	0	11	duty	NN	*)	-	-	-	-	*	-
+selectraws/15	0	12	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15	0	13	Joseph	NNP	(NP(NP*	-	-	-	-	(PERSON*	(9
+selectraws/15	0	14	Heller	NNP	*	-	-	-	-	*)	9)
+selectraws/15	0	15	's	POS	*)	-	-	-	-	*	-
+selectraws/15	0	16	Catch	NNP	*	-	-	-	-	*	(10
+selectraws/15	0	17	-22	CD	*)))))))))	-	-	-	-	*	10)
+selectraws/15	0	18	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

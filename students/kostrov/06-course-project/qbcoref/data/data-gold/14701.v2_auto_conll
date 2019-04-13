@@ -1,0 +1,122 @@
+#begin document (notdoneraws/14701); part 000
+
+notdoneraws/14701	0	0	Peter	NNP	(TOP(S(NP*	-	-	-	-	*	(5|(3)
+notdoneraws/14701	0	1	and	CC	*	-	-	-	-	*	-
+notdoneraws/14701	0	2	Wendy	NNP	*	-	-	-	-	(PERSON*	(4
+notdoneraws/14701	0	3	Hadley	NNP	*)	-	-	-	-	*)	5)|4)
+notdoneraws/14701	0	4	send	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/14701	0	5	their	PRP$	(NP*	-	-	-	-	*	(6|(5)
+notdoneraws/14701	0	6	parents	NNS	*)	-	-	-	-	*	6)
+notdoneraws/14701	0	7	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/14701	0	8	their	PRP$	(NP(NP*	-	-	-	-	*	(6)
+notdoneraws/14701	0	9	deaths	NNS	*)	-	-	-	-	*	-
+notdoneraws/14701	0	10	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14701	0	11	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/14701	0	12	virtual	JJ	*	-	-	-	-	*	-
+notdoneraws/14701	0	13	reality	NN	*	-	-	-	-	*	-
+notdoneraws/14701	0	14	machine	NN	*))	-	-	-	-	*	-
+notdoneraws/14701	0	15	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14701	0	16	this	DT	(NP(NP*	-	-	-	-	*	(1|(7
+notdoneraws/14701	0	17	man	NN	*	-	-	-	-	*	1)
+notdoneraws/14701	0	18	's	POS	*)	-	-	-	-	*	-
+notdoneraws/14701	0	19	short	JJ	*	-	-	-	-	*	-
+notdoneraws/14701	0	20	story	NN	*))	-	-	-	-	*	7)
+notdoneraws/14701	0	21	''	''	*	-	-	-	-	*	-
+notdoneraws/14701	0	22	The	NNP	(NP*	-	-	-	-	*	(7
+notdoneraws/14701	0	23	Veldt	NNP	*))))	-	-	-	-	*	7)
+notdoneraws/14701	0	24	.	.	*	-	-	-	-	*	-
+notdoneraws/14701	0	25	''	''	*))	-	-	-	-	*	-
+
+
+notdoneraws/14701	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/14701	0	1	man	NN	*)	-	-	-	-	*	1)
+notdoneraws/14701	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/14701	0	3	a	DT	(NP(NP*	-	-	-	-	*	(8
+notdoneraws/14701	0	4	novel	NN	*)	-	-	-	-	*	8)
+notdoneraws/14701	0	5	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+notdoneraws/14701	0	6	which	WDT	(WHNP*))	-	-	-	-	*	-
+notdoneraws/14701	0	7	the	DT	(S(NP(NP*	-	-	-	-	*	(9
+notdoneraws/14701	0	8	main	JJ	*	-	-	-	-	*	-
+notdoneraws/14701	0	9	character	NN	*)	-	-	-	-	*	9)
+notdoneraws/14701	0	10	,	,	*	-	-	-	-	*	-
+notdoneraws/14701	0	11	Douglas	NNP	(NP*	-	-	-	-	(PERSON*	(9
+notdoneraws/14701	0	12	Spaulding	NNP	*)	-	-	-	-	*)	9)
+notdoneraws/14701	0	13	,	,	*)	-	-	-	-	*	-
+notdoneraws/14701	0	14	nearly	RB	(VP(ADVP*)	-	-	-	-	*	-
+notdoneraws/14701	0	15	dies	VBZ	*	-	-	-	-	*	-
+notdoneraws/14701	0	16	after	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14701	0	17	learning	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/14701	0	18	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14701	0	19	his	PRP$	(NP*	-	-	-	-	*	(9)
+notdoneraws/14701	0	20	own	JJ	*	-	-	-	-	*	-
+notdoneraws/14701	0	21	mortality	NN	*))))))))))	-	-	-	-	*	-
+notdoneraws/14701	0	22	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14701	0	0	That	DT	(TOP(S(NP(NP*	-	-	-	-	*	(8
+notdoneraws/14701	0	1	novel	NN	*)	-	-	-	-	*	-
+notdoneraws/14701	0	2	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14701	0	3	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/14701	0	4	man	NN	*)))	-	-	-	-	*	1)|8)
+notdoneraws/14701	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14701	0	6	Dandelion	NNP	(NP*	-	-	-	-	*	(8
+notdoneraws/14701	0	7	Wine	NNP	*))	-	-	-	-	*	8)
+notdoneraws/14701	0	8	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14701	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/14701	0	1	man	NN	*)	-	-	-	-	*	1)
+notdoneraws/14701	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/14701	0	3	a	DT	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/14701	0	4	novel	NN	*)	-	-	-	-	*	2)
+notdoneraws/14701	0	5	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+notdoneraws/14701	0	6	protagonist	NN	*)	-	-	-	-	*	(10)
+notdoneraws/14701	0	7	begins	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/14701	0	8	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/14701	0	9	memorize	VB	(VP*	-	-	-	-	*	-
+notdoneraws/14701	0	10	the	DT	(NP(NP*	-	-	-	-	*	(11
+notdoneraws/14701	0	11	Book	NN	*)	-	-	-	-	*	-
+notdoneraws/14701	0	12	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14701	0	13	Ecclesiastes	NNS	(NP*)))	-	-	-	-	(LOCATION)	11)
+notdoneraws/14701	0	14	at	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14701	0	15	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/14701	0	16	end	NN	*))))))))))	-	-	-	-	*	-
+notdoneraws/14701	0	17	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14701	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/14701	0	1	that	DT	(NP*	-	-	-	-	*	(2
+notdoneraws/14701	0	2	novel	NN	*))	-	-	-	-	*	-
+notdoneraws/14701	0	3	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14701	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/14701	0	5	man	NN	*))	-	-	-	-	*	1)|2)
+notdoneraws/14701	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/14701	0	7	Guy	NNP	(NP*	-	-	-	-	(PERSON*	(10
+notdoneraws/14701	0	8	Montag	NNP	*)	-	-	-	-	*)	10)
+notdoneraws/14701	0	9	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/14701	0	10	a	DT	(NP(NP*	-	-	-	-	*	(10
+notdoneraws/14701	0	11	fireman	NN	*)	-	-	-	-	*	10)
+notdoneraws/14701	0	12	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+notdoneraws/14701	0	13	job	NN	*)	-	-	-	-	*	-
+notdoneraws/14701	0	14	is	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/14701	0	15	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/14701	0	16	burn	VB	(VP*	-	-	-	-	*	-
+notdoneraws/14701	0	17	books	NNS	(NP*)))))))))	-	-	-	-	*	-
+notdoneraws/14701	0	18	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/14701	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/14701	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/14701	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/14701	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/14701	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/14701	0	5	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/14701	0	6	author	NN	*)	-	-	-	-	*	-
+notdoneraws/14701	0	7	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/14701	0	8	Fahrenheit	NNP	(NP*	-	-	-	-	*	(2
+notdoneraws/14701	0	9	451	CD	*)))	-	-	-	-	*	2)|1)
+notdoneraws/14701	0	10	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

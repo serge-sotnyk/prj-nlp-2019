@@ -1,0 +1,113 @@
+#begin document (notdoneraws/18032); part 000
+
+notdoneraws/18032	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/18032	0	1	one	CD	(NP(NP*	-	-	-	-	*	(5
+notdoneraws/18032	0	2	story	NN	*)	-	-	-	-	*	-
+notdoneraws/18032	0	3	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18032	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/18032	0	5	author	NN	*))))	-	-	-	-	*	1)|5)
+notdoneraws/18032	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/18032	0	7	the	DT	(NP*	-	-	-	-	*	(6
+notdoneraws/18032	0	8	narrator	NN	*)	-	-	-	-	*	6)
+notdoneraws/18032	0	9	becomes	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/18032	0	10	hopelessly	RB	(VP(ADVP*)	-	-	-	-	*	-
+notdoneraws/18032	0	11	lost	VBN	*	-	-	-	-	*	-
+notdoneraws/18032	0	12	before	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18032	0	13	stumbling	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/18032	0	14	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18032	0	15	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/18032	0	16	group	NN	*)	-	-	-	-	*	-
+notdoneraws/18032	0	17	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18032	0	18	boys	NNS	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/18032	0	19	telling	VBG	(VP*	-	-	-	-	*	-
+notdoneraws/18032	0	20	local	JJ	(NP*	-	-	-	-	*	-
+notdoneraws/18032	0	21	legends	NNS	*)	-	-	-	-	*	-
+notdoneraws/18032	0	22	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18032	0	23	drowned	JJ	(NP(NP*	-	-	-	-	*	-
+notdoneraws/18032	0	24	men	NNS	*)	-	-	-	-	*	-
+notdoneraws/18032	0	25	around	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18032	0	26	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/18032	0	27	campfire	NN	*))))))))))))))	-	-	-	-	*	-
+notdoneraws/18032	0	28	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/18032	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/18032	0	1	author	NN	*)	-	-	-	-	*	1)
+notdoneraws/18032	0	2	collected	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/18032	0	3	that	DT	(NP(NP*	-	-	-	-	*	(5
+notdoneraws/18032	0	4	story	NN	*)	-	-	-	-	*	5)
+notdoneraws/18032	0	5	,	,	*	-	-	-	-	*	-
+notdoneraws/18032	0	6	''	''	*	-	-	-	-	*	-
+notdoneraws/18032	0	7	Bezhin	NNP	(NP*	-	-	-	-	*	(5
+notdoneraws/18032	0	8	Meadow	NNP	*))	-	-	-	-	*	5)
+notdoneraws/18032	0	9	,	,	*	-	-	-	-	*	-
+notdoneraws/18032	0	10	''	''	*	-	-	-	-	*	-
+notdoneraws/18032	0	11	along	RB	(PP*	-	-	-	-	*	-
+notdoneraws/18032	0	12	with	IN	*	-	-	-	-	*	-
+notdoneraws/18032	0	13	''	''	*	-	-	-	-	*	-
+notdoneraws/18032	0	14	My	NNP	(NP(NP*	-	-	-	-	*	(7
+notdoneraws/18032	0	15	Neighbor	NNP	*	-	-	-	-	*	-
+notdoneraws/18032	0	16	Radilov	NNP	*	-	-	-	-	*	7)
+notdoneraws/18032	0	17	''	''	*)	-	-	-	-	*	-
+notdoneraws/18032	0	18	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18032	0	19	his	PRP$	(NP(NP*	-	-	-	-	*	(1)
+notdoneraws/18032	0	20	A	NN	*	-	-	-	-	*	(8
+notdoneraws/18032	0	21	Sportsman	NNP	*	-	-	-	-	*	-
+notdoneraws/18032	0	22	's	POS	*)	-	-	-	-	*	-
+notdoneraws/18032	0	23	Sketches	NNS	*)))))	-	-	-	-	*	8)
+notdoneraws/18032	0	24	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/18032	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+notdoneraws/18032	0	1	author	NN	*)	-	-	-	-	*	1)
+notdoneraws/18032	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/18032	0	3	a	DT	(NP(NP*	-	-	-	-	*	(4
+notdoneraws/18032	0	4	novel	NN	*)	-	-	-	-	*	4)
+notdoneraws/18032	0	5	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+notdoneraws/18032	0	6	which	WDT	(WHNP(WHNP*	-	-	-	-	*	-
+notdoneraws/18032	0	7	Anna	NN	*)	-	-	-	-	*	(9
+notdoneraws/18032	0	8	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+notdoneraws/18032	0	9	\*	SYM	(NP*)	-	-	-	-	*	-
+notdoneraws/18032	0	10	-RRB-	-RRB-	*)))	-	-	-	-	*	-
+notdoneraws/18032	0	11	Odintsova	NNP	(S(NP*)	-	-	-	-	*	9)
+notdoneraws/18032	0	12	entertains	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/18032	0	13	several	JJ	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/18032	0	14	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18032	0	15	the	DT	(NP(NP*	-	-	-	-	*	(10
+notdoneraws/18032	0	16	main	JJ	*	-	-	-	-	*	-
+notdoneraws/18032	0	17	characters	NNS	*)	-	-	-	-	*	10)
+notdoneraws/18032	0	18	,	,	*	-	-	-	-	*	-
+notdoneraws/18032	0	19	one	CD	(SBAR(WHNP*	-	-	-	-	*	(11
+notdoneraws/18032	0	20	of	IN	(WHPP*	-	-	-	-	*	-
+notdoneraws/18032	0	21	whom	WP	(WHNP*)))	-	-	-	-	*	(10)|11)
+notdoneraws/18032	0	22	is	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/18032	0	23	a	DT	(NP*	-	-	-	-	*	(11
+notdoneraws/18032	0	24	nihilist	NN	*))))))))))))	-	-	-	-	*	11)
+notdoneraws/18032	0	25	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/18032	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/18032	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/18032	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/18032	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/18032	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/18032	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/18032	0	6	Russian	JJ	*	-	-	-	-	*	-
+notdoneraws/18032	0	7	author	NN	*)	-	-	-	-	*	1)
+notdoneraws/18032	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/18032	0	9	created	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/18032	0	10	the	DT	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/18032	0	11	Kirsinovs	NNPS	*	-	-	-	-	*	2)
+notdoneraws/18032	0	12	and	CC	*	-	-	-	-	*	-
+notdoneraws/18032	0	13	Bazarovs	NNS	*)	-	-	-	-	*	(3)
+notdoneraws/18032	0	14	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/18032	0	15	his	PRP$	(NP(NP*	-	-	-	-	*	(4|(1)
+notdoneraws/18032	0	16	novel	NN	*)	-	-	-	-	*	4)
+notdoneraws/18032	0	17	Fathers	NNP	(NP*	-	-	-	-	*	(4
+notdoneraws/18032	0	18	and	CC	*	-	-	-	-	*	-
+notdoneraws/18032	0	19	Sons	NNP	*)))))))))	-	-	-	-	*	4)
+notdoneraws/18032	0	20	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

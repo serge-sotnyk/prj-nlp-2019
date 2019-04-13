@@ -1,0 +1,116 @@
+#begin document (selectraws/29); part 000
+
+selectraws/29	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(2
+selectraws/29	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws/29	0	2	from	IN	(PP*	-	-	-	-	*	-
+selectraws/29	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/29	0	4	country	NN	*)))	-	-	-	-	*	2)|1)
+selectraws/29	0	5	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/29	0	6	about	IN	(SBAR*	-	-	-	-	*	-
+selectraws/29	0	7	a	DT	(S(NP(NP*	-	-	-	-	*	(3
+selectraws/29	0	8	criminal	NN	*)	-	-	-	-	*	3)
+selectraws/29	0	9	whose	WP$	(SBAR(WHNP(WHNP*	-	-	-	-	*	-
+selectraws/29	0	10	climb	NN	*)	-	-	-	-	*	-
+selectraws/29	0	11	to	TO	(PP*	-	-	-	-	*	-
+selectraws/29	0	12	heaven	NN	(NP*)))	-	-	-	-	*	-
+selectraws/29	0	13	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/29	0	14	ended	VBN	(VP*	-	-	-	-	*	-
+selectraws/29	0	15	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws/29	0	16	he	PRP	(S(NP*)	-	-	-	-	*	(3)
+selectraws/29	0	17	refuses	VBZ	(VP*	-	-	-	-	*	-
+selectraws/29	0	18	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/29	0	19	let	VB	(VP*	-	-	-	-	*	-
+selectraws/29	0	20	others	NNS	(S(NP*)	-	-	-	-	*	-
+selectraws/29	0	21	follow	VB	(VP*	-	-	-	-	*	-
+selectraws/29	0	22	behind	IN	(PP*	-	-	-	-	*	-
+selectraws/29	0	23	him	PRP	(NP*))	-	-	-	-	*	(3)
+selectraws/29	0	24	on	IN	(PP*	-	-	-	-	*	-
+selectraws/29	0	25	the	DT	(NP*	-	-	-	-	*	(4
+selectraws/29	0	26	title	NN	*)))))))))))))))	-	-	-	-	*	-
+selectraws/29	0	27	object	VBP	(VP*))))	-	-	-	-	*	4)
+selectraws/29	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/29	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws/29	0	1	home	NN	*)	-	-	-	-	*	-
+selectraws/29	0	2	to	TO	(PP*	-	-	-	-	*	-
+selectraws/29	0	3	the	DT	(NP*	-	-	-	-	*	(2
+selectraws/29	0	4	author	NN	*)))	-	-	-	-	*	-
+selectraws/29	0	5	of	IN	(PP*	-	-	-	-	*	-
+selectraws/29	0	6	''	''	*	-	-	-	-	*	-
+selectraws/29	0	7	The	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws/29	0	8	Spider	NNP	*	-	-	-	-	*	-
+selectraws/29	0	9	's	POS	*)	-	-	-	-	*	-
+selectraws/29	0	10	Thread	NNP	*	-	-	-	-	*	4)
+selectraws/29	0	11	''	''	*))	-	-	-	-	*	2)|1)
+selectraws/29	0	12	had	VBD	(VP*	-	-	-	-	*	-
+selectraws/29	0	13	an	DT	(S(NP*	-	-	-	-	*	(5
+selectraws/29	0	14	author	NN	*)	-	-	-	-	*	5)
+selectraws/29	0	15	write	VB	(VP*	-	-	-	-	*	-
+selectraws/29	0	16	about	RP	(PRT*)	-	-	-	-	*	-
+selectraws/29	0	17	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/29	0	18	group	NN	*)	-	-	-	-	*	-
+selectraws/29	0	19	of	IN	(PP*	-	-	-	-	*	-
+selectraws/29	0	20	children	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws/29	0	21	confined	VBN	(VP*	-	-	-	-	*	-
+selectraws/29	0	22	to	TO	(PP*	-	-	-	-	*	-
+selectraws/29	0	23	a	DT	(NP*	-	-	-	-	*	-
+selectraws/29	0	24	plague-stricken	JJ	*	-	-	-	-	*	-
+selectraws/29	0	25	village	NN	*)))))))))	-	-	-	-	*	-
+selectraws/29	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/29	0	0	Another	DT	(TOP(S(NP(NP*	-	-	-	-	*	(6
+selectraws/29	0	1	writer	NN	*)	-	-	-	-	*	-
+selectraws/29	0	2	from	IN	(PP*	-	-	-	-	*	-
+selectraws/29	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/29	0	4	country	NN	*)))	-	-	-	-	*	6)|1)
+selectraws/29	0	5	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/29	0	6	a	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws/29	0	7	work	NN	*)	-	-	-	-	*	-
+selectraws/29	0	8	titled	VBN	(VP*	-	-	-	-	*	-
+selectraws/29	0	9	after	IN	(PP*	-	-	-	-	*	-
+selectraws/29	0	10	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/29	0	11	mechanical	JJ	*	-	-	-	-	*	-
+selectraws/29	0	12	toy	NN	*)	-	-	-	-	*	-
+selectraws/29	0	13	about	IN	(PP*)	-	-	-	-	*	-
+selectraws/29	0	14	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/29	0	15	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws/29	0	16	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws/29	0	17	Toru	NNP	(NP*	-	-	-	-	(PERSON*	(8
+selectraws/29	0	18	Okada	NNP	*))))))	-	-	-	-	*)	8)|7)
+selectraws/29	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/29	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/29	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/29	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/29	0	3	,	,	*	-	-	-	-	*	-
+selectraws/29	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/29	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/29	0	6	nation	NN	*)	-	-	-	-	*	-
+selectraws/29	0	7	home	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/29	0	8	to	TO	(PP*	-	-	-	-	*	-
+selectraws/29	0	9	Nip	NNP	(NP(NP(NP*)	-	-	-	-	*	(9
+selectraws/29	0	10	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/29	0	11	Buds	NNPS	*)	-	-	-	-	*	-
+selectraws/29	0	12	,	,	*	-	-	-	-	*	-
+selectraws/29	0	13	Shoot	NNP	(NP*)))	-	-	-	-	*	-
+selectraws/29	0	14	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/29	0	15	Kids	NNPS	*)	-	-	-	-	*	9)
+selectraws/29	0	16	and	CC	*	-	-	-	-	*	-
+selectraws/29	0	17	The	DT	(NP*	-	-	-	-	*	(7
+selectraws/29	0	18	Wind-Up	NNP	*	-	-	-	-	*	-
+selectraws/29	0	19	Bird	NNP	*	-	-	-	-	*	-
+selectraws/29	0	20	Chronicle	NNP	*	-	-	-	-	*	7)
+selectraws/29	0	21	authors	NNS	*	-	-	-	-	*	-
+selectraws/29	0	22	Kenzaburo	NNP	*	-	-	-	-	(PERSON*	(5
+selectraws/29	0	23	Oe	NNP	*	-	-	-	-	*)	5)
+selectraws/29	0	24	and	CC	*	-	-	-	-	*	-
+selectraws/29	0	25	Haruki	NNP	(NP*	-	-	-	-	(PERSON*	(6
+selectraws/29	0	26	Murakami	NNP	*))))))	-	-	-	-	*)	6)|1)
+selectraws/29	0	27	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

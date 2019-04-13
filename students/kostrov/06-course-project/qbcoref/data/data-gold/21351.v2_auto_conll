@@ -1,0 +1,111 @@
+#begin document (selectraws1/21351); part 000
+
+selectraws1/21351	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/21351	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws1/21351	0	2	described	VBD	(VP*	-	-	-	-	*	-
+selectraws1/21351	0	3	how	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/21351	0	4	American	JJ	(S(NP*	-	-	-	-	*	-
+selectraws1/21351	0	5	architectural	JJ	*	-	-	-	-	*	-
+selectraws1/21351	0	6	forms	NNS	*)	-	-	-	-	*	-
+selectraws1/21351	0	7	were	VBD	(VP*	-	-	-	-	*	-
+selectraws1/21351	0	8	displaced	VBN	(VP*	-	-	-	-	*	-
+selectraws1/21351	0	9	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/21351	0	10	Europeans	NNPS	(NP(NP*)	-	-	-	-	*	-
+selectraws1/21351	0	11	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/21351	0	12	From	IN	(PP(PP*	-	-	-	-	*	(10
+selectraws1/21351	0	13	Bauhaus	NNP	(NP*))	-	-	-	-	*	-
+selectraws1/21351	0	14	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/21351	0	15	Our	PRP$	(NP*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/21351	0	16	House	NNP	*)))))))))))	-	-	-	-	*)	10)
+selectraws1/21351	0	17	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/21351	0	0	His	PRP$	(TOP(S(NP*	-	-	-	-	*	-
+selectraws1/21351	0	1	other	JJ	*	-	-	-	-	*	-
+selectraws1/21351	0	2	nonfiction	NN	*)	-	-	-	-	*	-
+selectraws1/21351	0	3	includes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/21351	0	4	a	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws1/21351	0	5	chronicle	NN	*)	-	-	-	-	*	-
+selectraws1/21351	0	6	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/21351	0	7	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/21351	0	8	Merry	NNP	*	-	-	-	-	*	-
+selectraws1/21351	0	9	Pranksters	NNPS	*)	-	-	-	-	*	11)
+selectraws1/21351	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/21351	0	11	led	VBN	(VP*	-	-	-	-	*	-
+selectraws1/21351	0	12	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/21351	0	13	Ken	NNP	(NP(NP(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/21351	0	14	Kesey	NNP	*)	-	-	-	-	*)	2)
+selectraws1/21351	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/21351	0	16	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/21351	0	17	The	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(11
+selectraws1/21351	0	18	Electric	NNP	*	-	-	-	-	*)	-
+selectraws1/21351	0	19	Kool-Aid	NNP	*	-	-	-	-	*	-
+selectraws1/21351	0	20	Acid	NNP	*	-	-	-	-	*	-
+selectraws1/21351	0	21	Test	NNP	*))	-	-	-	-	*	11)
+selectraws1/21351	0	22	,	,	*)	-	-	-	-	*	-
+selectraws1/21351	0	23	and	CC	*	-	-	-	-	*	-
+selectraws1/21351	0	24	a	DT	(NP(NP*	-	-	-	-	*	(12
+selectraws1/21351	0	25	book	NN	*)	-	-	-	-	*	-
+selectraws1/21351	0	26	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/21351	0	27	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/21351	0	28	early	JJ	*	-	-	-	-	*	-
+selectraws1/21351	0	29	days	NNS	*)	-	-	-	-	*	-
+selectraws1/21351	0	30	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/21351	0	31	NASA	NNP	(NP*))))	-	-	-	-	(ORGANIZATION)	12)
+selectraws1/21351	0	32	,	,	*	-	-	-	-	*	-
+selectraws1/21351	0	33	The	DT	(NP*	-	-	-	-	*	(12
+selectraws1/21351	0	34	Right	NNP	*	-	-	-	-	*	-
+selectraws1/21351	0	35	Stuff	NNP	*)))))))))	-	-	-	-	*	12)
+selectraws1/21351	0	36	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/21351	0	0	A	DT	(TOP(S(NP*	-	-	-	-	*	(3
+selectraws1/21351	0	1	virtuous	JJ	*	-	-	-	-	*	-
+selectraws1/21351	0	2	female	JJ	*	-	-	-	-	*	-
+selectraws1/21351	0	3	student	NN	*)	-	-	-	-	*	3)
+selectraws1/21351	0	4	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/21351	0	5	shocked	VBN	(VP*	-	-	-	-	*	-
+selectraws1/21351	0	6	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/21351	0	7	find	VB	(VP*	-	-	-	-	*	-
+selectraws1/21351	0	8	debauchery	NN	(NP*)	-	-	-	-	*	-
+selectraws1/21351	0	9	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/21351	0	10	an	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/21351	0	11	elite	JJ	*	-	-	-	-	*	-
+selectraws1/21351	0	12	Southern	JJ	*	-	-	-	-	*	-
+selectraws1/21351	0	13	college	NN	*)	-	-	-	-	*	-
+selectraws1/21351	0	14	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/21351	0	15	one	CD	(NP(NP*)	-	-	-	-	*	(4
+selectraws1/21351	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/21351	0	17	this	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/21351	0	18	author	NN	*	-	-	-	-	*	-
+selectraws1/21351	0	19	's	POS	*)	-	-	-	-	*	-
+selectraws1/21351	0	20	novels	NNS	*)))))))))))	-	-	-	-	*	4)
+selectraws1/21351	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/21351	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/21351	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/21351	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/21351	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/21351	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/21351	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/21351	0	6	white-suit-wearing	JJ	*	-	-	-	-	*	-
+selectraws1/21351	0	7	Richmond	NNP	*	-	-	-	-	(LOCATION)	-
+selectraws1/21351	0	8	native	NN	*)	-	-	-	-	*	1)
+selectraws1/21351	0	9	who	WP	(SBAR(WHNP*)	-	-	-	-	*	(1)
+selectraws1/21351	0	10	wrote	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/21351	0	11	I	PRP	(SBAR(S(NP*)	-	-	-	-	*	(4
+selectraws1/21351	0	12	Am	VBP	(VP*	-	-	-	-	*	-
+selectraws1/21351	0	13	Charlotte	NNP	(NP(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/21351	0	14	Simmons	NNP	*)	-	-	-	-	*)	4)|3)
+selectraws1/21351	0	15	and	CC	*	-	-	-	-	*	-
+selectraws1/21351	0	16	The	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/21351	0	17	Bonfire	NN	*)	-	-	-	-	*	-
+selectraws1/21351	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/21351	0	19	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/21351	0	20	Vanities	NNP	*))))))))))))	-	-	-	-	*	5)
+selectraws1/21351	0	21	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

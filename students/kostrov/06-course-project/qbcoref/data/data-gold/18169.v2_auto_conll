@@ -1,0 +1,131 @@
+#begin document (selectraws1/18169); part 000
+
+selectraws1/18169	0	0	At	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/18169	0	1	one	CD	(NP(NP*	-	-	-	-	*	-
+selectraws1/18169	0	2	point	NN	*)	-	-	-	-	*	-
+selectraws1/18169	0	3	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/18169	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/18169	0	5	poem	NN	*))))	-	-	-	-	*	1)
+selectraws1/18169	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/18169	0	7	the	DT	(NP*	-	-	-	-	*	(4
+selectraws1/18169	0	8	speaker	NN	*)	-	-	-	-	*	4)
+selectraws1/18169	0	9	describes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18169	0	10	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/18169	0	11	fictitious	JJ	*	-	-	-	-	*	-
+selectraws1/18169	0	12	painting	NN	*)	-	-	-	-	*	-
+selectraws1/18169	0	13	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/18169	0	14	a	DT	(S(NP*	-	-	-	-	*	-
+selectraws1/18169	0	15	minor	JJ	*	-	-	-	-	*	-
+selectraws1/18169	0	16	lion	NN	*)	-	-	-	-	*	-
+selectraws1/18169	0	17	attending	VBG	(VP*	-	-	-	-	*	-
+selectraws1/18169	0	18	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/18169	0	19	Grme	NNP	(NP*))))))	-	-	-	-	*	-
+selectraws1/18169	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18169	0	0	It	PRP	(TOP(S(S(NP*)	-	-	-	-	*	(1)
+selectraws1/18169	0	1	opens	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18169	0	2	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/18169	0	3	describing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/18169	0	4	an	DT	(NP*	-	-	-	-	*	-
+selectraws1/18169	0	5	empty	JJ	*	-	-	-	-	*	-
+selectraws1/18169	0	6	card	NN	*	-	-	-	-	*	-
+selectraws1/18169	0	7	table	NN	*))))))	-	-	-	-	*	-
+selectraws1/18169	0	8	,	,	*	-	-	-	-	*	-
+selectraws1/18169	0	9	and	CC	*	-	-	-	-	*	-
+selectraws1/18169	0	10	later	RB	(S(SBAR*	-	-	-	-	*	-
+selectraws1/18169	0	11	the	DT	(S(NP*	-	-	-	-	*	(4
+selectraws1/18169	0	12	speaker	NN	*)	-	-	-	-	*	4)
+selectraws1/18169	0	13	notes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18169	0	14	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/18169	0	15	here	RB	(S(PP(ADVP*)	-	-	-	-	*	-
+selectraws1/18169	0	16	under	IN	*	-	-	-	-	*	-
+selectraws1/18169	0	17	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/18169	0	18	table	NN	*))	-	-	-	-	*	-
+selectraws1/18169	0	19	all	DT	(ADVP*	-	-	-	-	*	-
+selectraws1/18169	0	20	along	IN	*)	-	-	-	-	*	-
+selectraws1/18169	0	21	were	VBD	(VP*	-	-	-	-	*	-
+selectraws1/18169	0	22	those	DT	(NP*	-	-	-	-	*	-
+selectraws1/18169	0	23	missing	VBG	*	-	-	-	-	*	-
+selectraws1/18169	0	24	feet	NNS	*)	-	-	-	-	*	-
+selectraws1/18169	0	25	before	IN	(PP*	-	-	-	-	*	-
+selectraws1/18169	0	26	saying	VBG	(S(VP*)))))))))	-	-	-	-	*	-
+selectraws1/18169	0	27	,	,	*	-	-	-	-	*	-
+selectraws1/18169	0	28	it	PRP	(NP*)	-	-	-	-	*	-
+selectraws1/18169	0	29	's	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18169	0	30	done	VBN	(VP*)))	-	-	-	-	*	-
+selectraws1/18169	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18169	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(4|(5
+selectraws1/18169	0	1	speaker	NN	*	-	-	-	-	*	4)
+selectraws1/18169	0	2	's	POS	*)	-	-	-	-	*	-
+selectraws1/18169	0	3	governess	NN	*)	-	-	-	-	*	5)
+selectraws1/18169	0	4	speaks	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/18169	0	5	German	JJ	(ADJP*	-	-	-	-	*	-
+selectraws1/18169	0	6	and	CC	*	-	-	-	-	*	-
+selectraws1/18169	0	7	French	JJ	*))	-	-	-	-	*	-
+selectraws1/18169	0	8	,	,	*	-	-	-	-	*	-
+selectraws1/18169	0	9	and	CC	*	-	-	-	-	*	-
+selectraws1/18169	0	10	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18169	0	11	referred	VBN	(VP*	-	-	-	-	*	-
+selectraws1/18169	0	12	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/18169	0	13	as	RB	(ADJP*	-	-	-	-	*	-
+selectraws1/18169	0	14	Mademoiselle	JJ	*)))))	-	-	-	-	(ORGANIZATION)	(5)
+selectraws1/18169	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18169	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(4
+selectraws1/18169	0	1	speaker	NN	*)	-	-	-	-	*	4)
+selectraws1/18169	0	2	describes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18169	0	3	his	PRP$	(NP*	-	-	-	-	*	(4)
+selectraws1/18169	0	4	search	NN	*)	-	-	-	-	*	-
+selectraws1/18169	0	5	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/18169	0	6	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/18169	0	7	German	JJ	*	-	-	-	-	*	-
+selectraws1/18169	0	8	translation	NN	*)	-	-	-	-	*	-
+selectraws1/18169	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18169	0	10	Paul	NNP	(NP(NP*	-	-	-	-	(PERSON*	(7|(6
+selectraws1/18169	0	11	Valry	NNP	*	-	-	-	-	*)	6)
+selectraws1/18169	0	12	's	POS	*)	-	-	-	-	*	-
+selectraws1/18169	0	13	Palme	NNP	*)))))	-	-	-	-	(LOCATION)	7)
+selectraws1/18169	0	14	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/18169	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/18169	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/18169	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/18169	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/18169	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/18169	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/18169	0	6	poem	NN	*)	-	-	-	-	*	1)
+selectraws1/18169	0	7	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/18169	0	8	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/18169	0	9	a	DT	(S(NP*	-	-	-	-	*	(4
+selectraws1/18169	0	10	child	NN	*)	-	-	-	-	*	4)
+selectraws1/18169	0	11	waits	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/18169	0	12	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/18169	0	13	a	DT	(NP(NP(NP*	-	-	-	-	*	-
+selectraws1/18169	0	14	jigsaw	JJ	*	-	-	-	-	*	-
+selectraws1/18169	0	15	puzzle	NN	*)	-	-	-	-	*	-
+selectraws1/18169	0	16	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+selectraws1/18169	0	17	arrive	VB	(VP*)))))	-	-	-	-	*	-
+selectraws1/18169	0	18	,	,	*	-	-	-	-	*	-
+selectraws1/18169	0	19	written	VBN	(VP*	-	-	-	-	*	-
+selectraws1/18169	0	20	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/18169	0	21	the	DT	(NP(NP(NP*	-	-	-	-	*	(2
+selectraws1/18169	0	22	author	NN	*)	-	-	-	-	*	-
+selectraws1/18169	0	23	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18169	0	24	The	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/18169	0	25	Changing	NNP	*	-	-	-	-	*	-
+selectraws1/18169	0	26	Light	NNP	*)	-	-	-	-	*	-
+selectraws1/18169	0	27	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/18169	0	28	Sandover	NNP	(NP*)))))	-	-	-	-	*	3)|2)
+selectraws1/18169	0	29	,	,	*	-	-	-	-	*	-
+selectraws1/18169	0	30	James	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/18169	0	31	Merrill	NNP	*)))))))))))	-	-	-	-	*)	2)
+selectraws1/18169	0	32	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

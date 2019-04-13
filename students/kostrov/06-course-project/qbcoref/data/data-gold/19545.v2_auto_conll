@@ -1,0 +1,114 @@
+#begin document (selectraws1/19545); part 000
+
+selectraws1/19545	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19545	0	1	one	CD	(NP(NP*)	-	-	-	-	*	(4
+selectraws1/19545	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19545	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/19545	0	4	authors	NNS	*	-	-	-	-	*	1)
+selectraws1/19545	0	5	short	JJ	*	-	-	-	-	*	-
+selectraws1/19545	0	6	stories	NNS	*))))	-	-	-	-	*	4)
+selectraws1/19545	0	7	,	,	*	-	-	-	-	*	-
+selectraws1/19545	0	8	Mr.	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(5
+selectraws1/19545	0	9	and	CC	*	-	-	-	-	*	-
+selectraws1/19545	0	10	Mrs.	NNP	(NP*	-	-	-	-	(PERSON*	-
+selectraws1/19545	0	11	Richards	NNP	*))	-	-	-	-	*)	5)
+selectraws1/19545	0	12	claim	VBP	(VP*	-	-	-	-	*	-
+selectraws1/19545	0	13	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/19545	0	14	have	VBP	(VP(VP*	-	-	-	-	*	-
+selectraws1/19545	0	15	told	VBN	(VP*	-	-	-	-	*	-
+selectraws1/19545	0	16	a	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws1/19545	0	17	gambler	NN	*)	-	-	-	-	*	6)
+selectraws1/19545	0	18	You	PRP	(SBAR(S(NP*)	-	-	-	-	*	(6)
+selectraws1/19545	0	19	are	VBP	(VP*	-	-	-	-	*	-
+selectraws1/19545	0	20	far	RB	(ADVP*	-	-	-	-	*	-
+selectraws1/19545	0	21	from	IN	(PP*	-	-	-	-	*	-
+selectraws1/19545	0	22	being	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/19545	0	23	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/19545	0	24	bad	JJ	*	-	-	-	-	*	-
+selectraws1/19545	0	25	man	NN	*)))))))))))	-	-	-	-	*	-
+selectraws1/19545	0	26	--	:	*	-	-	-	-	*	-
+selectraws1/19545	0	27	go	VB	(VP*)	-	-	-	-	*	-
+selectraws1/19545	0	28	,	,	*	-	-	-	-	*	-
+selectraws1/19545	0	29	and	CC	*	-	-	-	-	*	-
+selectraws1/19545	0	30	reform	VB	(VP*)	-	-	-	-	*	-
+selectraws1/19545	0	31	,	,	*	-	-	-	-	*	-
+selectraws1/19545	0	32	in	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/19545	0	33	order	NN	*	-	-	-	-	*	-
+selectraws1/19545	0	34	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/19545	0	35	gain	VB	(VP*	-	-	-	-	*	-
+selectraws1/19545	0	36	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/19545	0	37	$	$	(ADJP*	-	-	-	-	(MONEY*	-
+selectraws1/19545	0	38	40,000	CD	*)	-	-	-	-	*)	-
+selectraws1/19545	0	39	sack	NN	*)	-	-	-	-	*	-
+selectraws1/19545	0	40	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19545	0	41	gold	NN	(NP*)))))))))))	-	-	-	-	*	-
+selectraws1/19545	0	42	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19545	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/19545	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws1/19545	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/19545	0	3	The	DT	(NP*	-	-	-	-	*	(4
+selectraws1/19545	0	4	Man	NNP	*	-	-	-	-	*	-
+selectraws1/19545	0	5	That	IN	*	-	-	-	-	*	-
+selectraws1/19545	0	6	Corrupted	NNP	*	-	-	-	-	*	-
+selectraws1/19545	0	7	Hadleyburg	NNP	*)))	-	-	-	-	*	1)|4)
+selectraws1/19545	0	8	also	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/19545	0	9	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19545	0	10	a	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws1/19545	0	11	novel	NN	*)	-	-	-	-	*	-
+selectraws1/19545	0	12	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/19545	0	13	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/19545	0	14	boy	NN	*)	-	-	-	-	*	7)|2)
+selectraws1/19545	0	15	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19545	0	16	encounters	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/19545	0	17	the	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws1/19545	0	18	Duke	NNP	*)	-	-	-	-	(ORGANIZATION)	8)
+selectraws1/19545	0	19	and	CC	*	-	-	-	-	*	-
+selectraws1/19545	0	20	the	DT	(NP*	-	-	-	-	*	(9
+selectraws1/19545	0	21	Dauphin	NNP	*))))))))	-	-	-	-	(LOCATION)	9)
+selectraws1/19545	0	22	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/19545	0	23	traveling	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/19545	0	24	down	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/19545	0	25	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/19545	0	26	Mississippi	NNP	*)	-	-	-	-	(LOCATION)	-
+selectraws1/19545	0	27	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/19545	0	28	the	DT	(NP*	-	-	-	-	*	(10
+selectraws1/19545	0	29	slave	NN	*	-	-	-	-	*	10)
+selectraws1/19545	0	30	Jim	NNP	*))))))	-	-	-	-	(PERSON)	(10)
+selectraws1/19545	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19545	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19545	0	1	another	DT	(NP*	-	-	-	-	*	(3
+selectraws1/19545	0	2	novel	NN	*))	-	-	-	-	*	3)
+selectraws1/19545	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/19545	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/19545	0	5	man	NN	*)	-	-	-	-	*	1)
+selectraws1/19545	0	6	created	VBD	(VP*	-	-	-	-	*	-
+selectraws1/19545	0	7	the	DT	(NP*	-	-	-	-	*	(11
+selectraws1/19545	0	8	villainous	JJ	*	-	-	-	-	*	-
+selectraws1/19545	0	9	Injun	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/19545	0	10	Joe	NNP	*))	-	-	-	-	*)	11)
+selectraws1/19545	0	11	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/19545	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/19545	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/19545	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/19545	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/19545	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/19545	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/19545	0	6	author	NN	*)	-	-	-	-	*	1)
+selectraws1/19545	0	7	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/19545	0	8	created	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/19545	0	9	Huck	NNP	(NP(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/19545	0	10	Finn	NNP	*)	-	-	-	-	*)	2)
+selectraws1/19545	0	11	and	CC	*	-	-	-	-	*	-
+selectraws1/19545	0	12	Tom	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/19545	0	13	Sawyer	NNP	*)))))))	-	-	-	-	*)	3)
+selectraws1/19545	0	14	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,144 @@
+#begin document (selectraws/19443); part 000
+
+selectraws/19443	0	0	One	CD	(TOP(S(NP(NP(NP*	-	-	-	-	*	(8
+selectraws/19443	0	1	section	NN	*)	-	-	-	-	*	-
+selectraws/19443	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/19443	0	4	work	NN	*)))	-	-	-	-	*	8)|1)
+selectraws/19443	0	5	,	,	*	-	-	-	-	*	-
+selectraws/19443	0	6	translated	VBN	(VP*	-	-	-	-	*	-
+selectraws/19443	0	7	by	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	8	Borges	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(6)
+selectraws/19443	0	9	into	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	10	Spanish	NNP	(NP*)))))	-	-	-	-	*	-
+selectraws/19443	0	11	,	,	*)	-	-	-	-	*	-
+selectraws/19443	0	12	tells	VBZ	(VP*	-	-	-	-	*	-
+selectraws/19443	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	14	a	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws/19443	0	15	man	NN	*)	-	-	-	-	*	7)
+selectraws/19443	0	16	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/19443	0	17	leaves	VBZ	(S(VP(VP*	-	-	-	-	*	-
+selectraws/19443	0	18	his	PRP$	(NP*	-	-	-	-	*	(7)
+selectraws/19443	0	19	home	NN	*))	-	-	-	-	*	-
+selectraws/19443	0	20	and	CC	*	-	-	-	-	*	-
+selectraws/19443	0	21	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/19443	0	22	called	VBN	(VP*	-	-	-	-	*	-
+selectraws/19443	0	23	The	DT	(S(NP(NP*	-	-	-	-	*	(8
+selectraws/19443	0	24	Ruined	VBN	*	-	-	-	-	*	-
+selectraws/19443	0	25	Man	NN	*)	-	-	-	-	*	-
+selectraws/19443	0	26	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/19443	0	27	Became	VBD	(S(VP*	-	-	-	-	*	-
+selectraws/19443	0	28	Rich	NNP	(NP*	-	-	-	-	*	-
+selectraws/19443	0	29	Again	NNP	*)	-	-	-	-	*	-
+selectraws/19443	0	30	through	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	31	a	DT	(NP*	-	-	-	-	*	-
+selectraws/19443	0	32	Dream	NN	*)))))))))))))))	-	-	-	-	*	8)
+selectraws/19443	0	33	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/19443	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	(10
+selectraws/19443	0	1	version	NN	*)	-	-	-	-	*	-
+selectraws/19443	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	3	it	PRP	(NP*))	-	-	-	-	*	(1)|10)
+selectraws/19443	0	4	edited	VBN	(VP*	-	-	-	-	*	-
+selectraws/19443	0	5	by	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	6	Antoine	NNP	(NP*	-	-	-	-	(PERSON*	(9
+selectraws/19443	0	7	Galland	NNP	*))))	-	-	-	-	*)	9)
+selectraws/19443	0	8	was	VBD	(VP*	-	-	-	-	*	-
+selectraws/19443	0	9	famous	JJ	(ADJP*)	-	-	-	-	*	-
+selectraws/19443	0	10	throughout	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	11	Europe	NNP	(NP*)))	-	-	-	-	(LOCATION)	-
+selectraws/19443	0	12	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/19443	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/19443	0	1	another	DT	(NP*	-	-	-	-	*	(11
+selectraws/19443	0	2	section	NN	*))	-	-	-	-	*	11)
+selectraws/19443	0	3	,	,	*	-	-	-	-	*	-
+selectraws/19443	0	4	the	DT	(NP*	-	-	-	-	*	(12
+selectraws/19443	0	5	clever	JJ	*	-	-	-	-	*	-
+selectraws/19443	0	6	slave	NN	*	-	-	-	-	*	-
+selectraws/19443	0	7	girl	NN	*)	-	-	-	-	*	12)
+selectraws/19443	0	8	[	SYM	(X*)	-	-	-	-	*	-
+selectraws/19443	0	9	\*	SYM	(X*)	-	-	-	-	*	-
+selectraws/19443	0	10	]	SYM	(X*)	-	-	-	-	*	-
+selectraws/19443	0	11	Morgiana	NNP	(NP*)	-	-	-	-	*	(12)
+selectraws/19443	0	12	repeatedly	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/19443	0	13	thwarts	VBZ	(VP*	-	-	-	-	*	-
+selectraws/19443	0	14	a	DT	(NP(NP*	-	-	-	-	*	(13
+selectraws/19443	0	15	certain	JJ	*	-	-	-	-	*	-
+selectraws/19443	0	16	group	NN	*	-	-	-	-	*	13)
+selectraws/19443	0	17	's	POS	*)	-	-	-	-	*	-
+selectraws/19443	0	18	plans	NNS	*))	-	-	-	-	*	-
+selectraws/19443	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/19443	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/19443	0	1	another	DT	(NP*	-	-	-	-	*	(14
+selectraws/19443	0	2	story	NN	*))	-	-	-	-	*	14)
+selectraws/19443	0	3	,	,	*	-	-	-	-	*	-
+selectraws/19443	0	4	a	DT	(NP(NP*	-	-	-	-	*	(15
+selectraws/19443	0	5	porter	NN	*)	-	-	-	-	*	-
+selectraws/19443	0	6	in	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	7	Baghdad	NNP	(NP*)))	-	-	-	-	(LOCATION)	15)
+selectraws/19443	0	8	is	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws/19443	0	9	told	VBN	(VP*	-	-	-	-	*	-
+selectraws/19443	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	11	a	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws/19443	0	12	rich	JJ	*	-	-	-	-	*	-
+selectraws/19443	0	13	man	NN	*)	-	-	-	-	*	4)
+selectraws/19443	0	14	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/19443	0	15	mistook	VBP	(S(VP*	-	-	-	-	*	-
+selectraws/19443	0	16	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/19443	0	17	large	JJ	*	-	-	-	-	*	-
+selectraws/19443	0	18	fish	NN	*)	-	-	-	-	*	-
+selectraws/19443	0	19	for	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	20	an	DT	(NP*	-	-	-	-	*	-
+selectraws/19443	0	21	island	NN	*))))))))))	-	-	-	-	*	-
+selectraws/19443	0	22	and	CC	*	-	-	-	-	*	-
+selectraws/19443	0	23	angered	VBD	(VP*	-	-	-	-	*	-
+selectraws/19443	0	24	the	DT	(NP*	-	-	-	-	*	-
+selectraws/19443	0	25	Roc	NNP	*)	-	-	-	-	*	-
+selectraws/19443	0	26	during	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	27	seven	CD	(NP*	-	-	-	-	*	-
+selectraws/19443	0	28	voyages	NNS	*))))	-	-	-	-	*	-
+selectraws/19443	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/19443	0	0	Told	NN	(TOP(S(NP(NP*)	-	-	-	-	*	-
+selectraws/19443	0	1	by	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	2	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/19443	0	3	princess	NN	*)	-	-	-	-	*	2)
+selectraws/19443	0	4	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+selectraws/19443	0	5	delay	VB	(VP*	-	-	-	-	*	-
+selectraws/19443	0	6	her	PRP$	(NP*	-	-	-	-	*	(2)
+selectraws/19443	0	7	death	NN	*))))))))	-	-	-	-	*	-
+selectraws/19443	0	8	,	,	*	-	-	-	-	*	-
+selectraws/19443	0	9	for	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	10	10	CD	(NP*	-	-	-	-	*	-
+selectraws/19443	0	11	points	NNS	*))	-	-	-	-	*	-
+selectraws/19443	0	12	,	,	*	-	-	-	-	*	-
+selectraws/19443	0	13	name	VBP	(VP*	-	-	-	-	*	-
+selectraws/19443	0	14	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/19443	0	15	collection	NN	*)	-	-	-	-	*	-
+selectraws/19443	0	16	narrated	VBN	(VP*	-	-	-	-	*	-
+selectraws/19443	0	17	by	IN	(PP*	-	-	-	-	*	-
+selectraws/19443	0	18	Scheherezade	NNP	(NP(NP*)	-	-	-	-	(ORGANIZATION)	(2)|1)
+selectraws/19443	0	19	,	,	*	-	-	-	-	*	-
+selectraws/19443	0	20	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws/19443	0	21	characters	NNS	*)	-	-	-	-	*	-
+selectraws/19443	0	22	include	VBP	(S(VP*	-	-	-	-	*	-
+selectraws/19443	0	23	Ali	NNP	(NP(NP*	-	-	-	-	(PERSON*	(3
+selectraws/19443	0	24	Baba	NNP	*)	-	-	-	-	*)	3)
+selectraws/19443	0	25	,	,	*	-	-	-	-	*	-
+selectraws/19443	0	26	Sinbad	NNP	(NP*	-	-	-	-	*	(4
+selectraws/19443	0	27	the	DT	*	-	-	-	-	*	-
+selectraws/19443	0	28	Sailor	NNP	*)	-	-	-	-	*	4)
+selectraws/19443	0	29	,	,	*	-	-	-	-	*	-
+selectraws/19443	0	30	and	CC	*	-	-	-	-	*	-
+selectraws/19443	0	31	Aladdin	NNP	(NP*))))))))))	-	-	-	-	(ORGANIZATION)	(5)
+selectraws/19443	0	32	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

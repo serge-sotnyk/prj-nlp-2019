@@ -1,0 +1,147 @@
+#begin document (selectraws1/17798); part 000
+
+selectraws1/17798	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(5
+selectraws1/17798	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	2	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/17798	0	3	works	NNS	*)))	-	-	-	-	*	5)
+selectraws1/17798	0	4	lists	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17798	0	5	instances	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws1/17798	0	6	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	7	figures	NNS	(NP*))	-	-	-	-	*	-
+selectraws1/17798	0	8	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	9	source	NN	(NP(NP*	-	-	-	-	*	-
+selectraws1/17798	0	10	citations	NNS	*)	-	-	-	-	*	-
+selectraws1/17798	0	11	like	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	12	Werther	NNP	(NP*))	-	-	-	-	*	(6)
+selectraws1/17798	0	13	listed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/17798	0	14	parallel	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/17798	0	15	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	16	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/17798	0	17	text	NN	*)))))))	-	-	-	-	*	-
+selectraws1/17798	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17798	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	(5
+selectraws1/17798	0	1	work	NN	*)	-	-	-	-	*	5)
+selectraws1/17798	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17798	0	3	a	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/17798	0	4	glossary	NN	*)	-	-	-	-	*	5)
+selectraws1/17798	0	5	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/17798	0	6	explores	VBZ	(S(VP(VP*	-	-	-	-	*	-
+selectraws1/17798	0	7	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/17798	0	8	relationship	NN	*)	-	-	-	-	*	-
+selectraws1/17798	0	9	between	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	10	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17798	0	11	Subject	NNP	*)	-	-	-	-	*	-
+selectraws1/17798	0	12	,	,	*	-	-	-	-	*	-
+selectraws1/17798	0	13	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/17798	0	14	Rival	NNP	*)	-	-	-	-	*	-
+selectraws1/17798	0	15	and	CC	*	-	-	-	-	*	-
+selectraws1/17798	0	16	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/17798	0	17	Beloved	NNP	*))))	-	-	-	-	*	-
+selectraws1/17798	0	18	and	CC	*	-	-	-	-	*	-
+selectraws1/17798	0	19	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17798	0	20	called	VBN	(VP*	-	-	-	-	*	-
+selectraws1/17798	0	21	A	DT	(S(NP(NP*	-	-	-	-	*	(5
+selectraws1/17798	0	22	Lover	NNP	*	-	-	-	-	*	-
+selectraws1/17798	0	23	's	POS	*)	-	-	-	-	*	-
+selectraws1/17798	0	24	Discourse	NNP	*)))))))))	-	-	-	-	*	5)
+selectraws1/17798	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17798	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws1/17798	0	1	explores	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17798	0	2	political	JJ	(NP(NP(ADJP*	-	-	-	-	*	-
+selectraws1/17798	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/17798	0	4	poetic	JJ	*	-	-	-	-	*	-
+selectraws1/17798	0	5	and	CC	*	-	-	-	-	*	-
+selectraws1/17798	0	6	bourgeois	JJ	*)	-	-	-	-	*	-
+selectraws1/17798	0	7	types	NNS	*)	-	-	-	-	*	-
+selectraws1/17798	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	9	the	DT	(NP*	-	-	-	-	*	(7
+selectraws1/17798	0	10	titular	JJ	*	-	-	-	-	*	-
+selectraws1/17798	0	11	activity	NN	*)))	-	-	-	-	*	7)
+selectraws1/17798	0	12	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	13	a	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws1/17798	0	14	work	NN	*)	-	-	-	-	*	-
+selectraws1/17798	0	15	frequently	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/17798	0	16	published	VBN	*	-	-	-	-	*	-
+selectraws1/17798	0	17	alongside	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	18	his	PRP$	(NP(NP*	-	-	-	-	*	(9|(1)
+selectraws1/17798	0	19	Elements	NNS	*)	-	-	-	-	*	-
+selectraws1/17798	0	20	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	21	Semiology	NNP	(NP*))))))))	-	-	-	-	*	9)|8)
+selectraws1/17798	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17798	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/17798	0	1	one	CD	(NP(NP*)	-	-	-	-	*	(3
+selectraws1/17798	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	3	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/17798	0	4	better-known	JJ	*	-	-	-	-	*	-
+selectraws1/17798	0	5	works	NNS	*))))	-	-	-	-	*	3)
+selectraws1/17798	0	6	he	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws1/17798	0	7	analyzes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17798	0	8	cultural	JJ	(NP*	-	-	-	-	*	-
+selectraws1/17798	0	9	phenomena	NNS	*)	-	-	-	-	*	-
+selectraws1/17798	0	10	like	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	11	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17798	0	12	legends	NNS	*)	-	-	-	-	*	-
+selectraws1/17798	0	13	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	14	Einstein	NNP	(NP(NP(NP*	-	-	-	-	(PERSON)	(10)
+selectraws1/17798	0	15	's	POS	*)	-	-	-	-	*	-
+selectraws1/17798	0	16	brain	NN	*)	-	-	-	-	*	-
+selectraws1/17798	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/17798	0	18	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17798	0	19	role	NN	*)	-	-	-	-	*	-
+selectraws1/17798	0	20	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	21	villain	NN	(NP(NP(NP*)	-	-	-	-	*	-
+selectraws1/17798	0	22	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	23	professional	JJ	(NP*	-	-	-	-	*	-
+selectraws1/17798	0	24	wrestling	NN	*)))	-	-	-	-	*	-
+selectraws1/17798	0	25	and	CC	*	-	-	-	-	*	-
+selectraws1/17798	0	26	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17798	0	27	face	NN	*)	-	-	-	-	*	-
+selectraws1/17798	0	28	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	29	Greta	NNP	(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/17798	0	30	Garbo	NNP	*))))))))))	-	-	-	-	*)	11)
+selectraws1/17798	0	31	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/17798	0	32	yet	RB	(S(NP*	-	-	-	-	*	(4
+selectraws1/17798	0	33	another	DT	*	-	-	-	-	*	-
+selectraws1/17798	0	34	book	NN	*)	-	-	-	-	*	4)
+selectraws1/17798	0	35	concerns	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17798	0	36	itself	PRP	(NP*)	-	-	-	-	*	(4)
+selectraws1/17798	0	37	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	38	the	DT	(NP(NP*	-	-	-	-	*	(12
+selectraws1/17798	0	39	Balzac	NNP	*	-	-	-	-	*	(13)
+selectraws1/17798	0	40	story	NN	*)	-	-	-	-	*	12)
+selectraws1/17798	0	41	Sarassine	NNP	(NP*)))))))	-	-	-	-	*	(12)
+selectraws1/17798	0	42	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17798	0	0	FTP	NNP	(TOP(S(NP*)	-	-	-	-	*	-
+selectraws1/17798	0	1	,	,	*	-	-	-	-	*	-
+selectraws1/17798	0	2	identify	VB	(VP*	-	-	-	-	*	-
+selectraws1/17798	0	3	this	DT	(NP(NP(NP*	-	-	-	-	*	(1
+selectraws1/17798	0	4	influential	JJ	*	-	-	-	-	*	-
+selectraws1/17798	0	5	French	JJ	*	-	-	-	-	*	-
+selectraws1/17798	0	6	literary	JJ	*	-	-	-	-	*	-
+selectraws1/17798	0	7	theorist	NN	*)	-	-	-	-	*	-
+selectraws1/17798	0	8	,	,	*	-	-	-	-	*	-
+selectraws1/17798	0	9	philosopher	NN	*	-	-	-	-	*	-
+selectraws1/17798	0	10	and	CC	*	-	-	-	-	*	-
+selectraws1/17798	0	11	author	NN	*)	-	-	-	-	*	-
+selectraws1/17798	0	12	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17798	0	13	Writing	VBG	(S(VP*	-	-	-	-	*	(2
+selectraws1/17798	0	14	Degree	NNP	(NP(NP*	-	-	-	-	*	-
+selectraws1/17798	0	15	Zero	NNP	*)	-	-	-	-	*	2)
+selectraws1/17798	0	16	,	,	*	-	-	-	-	*	-
+selectraws1/17798	0	17	Mythologies	NNP	(NP*)	-	-	-	-	*	(3)
+selectraws1/17798	0	18	,	,	*	-	-	-	-	*	-
+selectraws1/17798	0	19	and	CC	*	-	-	-	-	*	-
+selectraws1/17798	0	20	S\/Z	NNP	(NP*)))))))	-	-	-	-	*	(4)|1)
+selectraws1/17798	0	21	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

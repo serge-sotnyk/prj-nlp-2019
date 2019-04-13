@@ -1,0 +1,134 @@
+#begin document (selectraws/55); part 000
+
+selectraws/55	0	0	Andrew	NNP	(TOP(S(NP*	-	-	-	-	(PERSON*	(4
+selectraws/55	0	1	Marvell	NNP	*)	-	-	-	-	*)	4)
+selectraws/55	0	2	used	VBD	(VP*	-	-	-	-	*	-
+selectraws/55	0	3	one	CD	(NP(NP*)	-	-	-	-	*	-
+selectraws/55	0	4	of	IN	(PP*	-	-	-	-	*	-
+selectraws/55	0	5	their	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws/55	0	6	two	CD	*	-	-	-	-	*	-
+selectraws/55	0	7	chief	JJ	*	-	-	-	-	*	-
+selectraws/55	0	8	Roman	NNP	*	-	-	-	-	*	-
+selectraws/55	0	9	models	NNS	*)))	-	-	-	-	*	-
+selectraws/55	0	10	for	IN	(PP*	-	-	-	-	*	-
+selectraws/55	0	11	his	PRP$	(NP(NP*	-	-	-	-	*	(12|(4)
+selectraws/55	0	12	poem	NN	*)	-	-	-	-	*	12)
+selectraws/55	0	13	about	IN	(PP*	-	-	-	-	*	-
+selectraws/55	0	14	Cromwell	NNP	(NP(NP(NP*	-	-	-	-	(PERSON)	(3
+selectraws/55	0	15	's	POS	*)	-	-	-	-	*	3)
+selectraws/55	0	16	return	NN	*)	-	-	-	-	*	-
+selectraws/55	0	17	from	IN	(PP*	-	-	-	-	*	-
+selectraws/55	0	18	Ireland	NNP	(NP*)))))))	-	-	-	-	(LOCATION)	-
+selectraws/55	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/55	0	0	A	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/55	0	1	comic	JJ	*	-	-	-	-	*	-
+selectraws/55	0	2	one	NN	*)	-	-	-	-	*	1)
+selectraws/55	0	3	by	IN	(VP(PP*	-	-	-	-	*	-
+selectraws/55	0	4	Thomas	NNP	(NP(NP(NP*	-	-	-	-	(PERSON*	(6
+selectraws/55	0	5	Gray	NNP	*	-	-	-	-	*)	6)
+selectraws/55	0	6	ends	NNS	*	-	-	-	-	*	-
+selectraws/55	0	7	''	''	*)	-	-	-	-	*	-
+selectraws/55	0	8	Nor	CC	(PP*	-	-	-	-	*	-
+selectraws/55	0	9	all	PDT	(NP*	-	-	-	-	*	-
+selectraws/55	0	10	that	DT	*	-	-	-	-	*	-
+selectraws/55	0	11	glisters	NNS	*)))	-	-	-	-	*	-
+selectraws/55	0	12	,	,	*	-	-	-	-	*	-
+selectraws/55	0	13	gold	NN	(NP*)))	-	-	-	-	*	-
+selectraws/55	0	14	,	,	*	-	-	-	-	*	-
+selectraws/55	0	15	''	''	*	-	-	-	-	*	-
+selectraws/55	0	16	and	CC	*	-	-	-	-	*	-
+selectraws/55	0	17	tells	VBZ	(VP*	-	-	-	-	*	-
+selectraws/55	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws/55	0	19	Selima	NNP	(NP(NP*	-	-	-	-	(PERSON)	(13)
+selectraws/55	0	20	's	POS	*)	-	-	-	-	*	-
+selectraws/55	0	21	death	NN	*))	-	-	-	-	*	-
+selectraws/55	0	22	in	IN	(PP*	-	-	-	-	*	-
+selectraws/55	0	23	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/55	0	24	tub	NN	*)	-	-	-	-	*	-
+selectraws/55	0	25	of	IN	(PP*	-	-	-	-	*	-
+selectraws/55	0	26	goldfish	NN	(NP*))))))	-	-	-	-	*	-
+selectraws/55	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/55	0	0	Wordsworth	NNP	(TOP(S(NP(NP(NP*	-	-	-	-	(PERSON)	(8|(7
+selectraws/55	0	1	's	POS	*)	-	-	-	-	*	8)
+selectraws/55	0	2	most	RBS	(ADJP*	-	-	-	-	*	-
+selectraws/55	0	3	famous	JJ	*)	-	-	-	-	*	7)
+selectraws/55	0	4	notes	NNS	*	-	-	-	-	*	-
+selectraws/55	0	5	''	''	*)	-	-	-	-	*	-
+selectraws/55	0	6	Our	PRP$	(NP*	-	-	-	-	*	-
+selectraws/55	0	7	birth	NN	*))	-	-	-	-	*	-
+selectraws/55	0	8	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/55	0	9	but	CC	(PP*	-	-	-	-	*	-
+selectraws/55	0	10	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/55	0	11	sleep	NN	*)	-	-	-	-	*	-
+selectraws/55	0	12	and	CC	*	-	-	-	-	*	-
+selectraws/55	0	13	a	DT	(NP*	-	-	-	-	*	-
+selectraws/55	0	14	forgetting	NN	*	-	-	-	-	*	-
+selectraws/55	0	15	''	''	*	-	-	-	-	*	-
+selectraws/55	0	16	and	CC	*	-	-	-	-	*	-
+selectraws/55	0	17	shows	NNS	*)))	-	-	-	-	*	-
+selectraws/55	0	18	''	''	*	-	-	-	-	*	-
+selectraws/55	0	19	Intimations	NNS	(NP(NP*)	-	-	-	-	*	(7
+selectraws/55	0	20	of	IN	(PP*	-	-	-	-	*	-
+selectraws/55	0	21	Immorality	NN	(NP*))))	-	-	-	-	*	7)
+selectraws/55	0	22	.	.	*	-	-	-	-	*	-
+selectraws/55	0	23	''	''	*))	-	-	-	-	*	-
+
+
+selectraws/55	0	0	Another	DT	(TOP(S(S(NP*	-	-	-	-	*	(1
+selectraws/55	0	1	Romantic	JJ	*	-	-	-	-	*	-
+selectraws/55	0	2	one	CD	*	-	-	-	-	*	1)
+selectraws/55	0	3	ends	NNS	*	-	-	-	-	*	-
+selectraws/55	0	4	''	''	*	-	-	-	-	*	-
+selectraws/55	0	5	Fled	NNP	*)	-	-	-	-	*	-
+selectraws/55	0	6	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/55	0	7	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws/55	0	8	musicDo	CC	(S*	-	-	-	-	*	-
+selectraws/55	0	9	I	PRP	(NP*)	-	-	-	-	*	-
+selectraws/55	0	10	wake	VBP	(VP(VP*)	-	-	-	-	*	-
+selectraws/55	0	11	or	CC	*	-	-	-	-	*	-
+selectraws/55	0	12	sleep	VBP	*)	-	-	-	-	*	-
+selectraws/55	0	13	?	.	*	-	-	-	-	*	-
+selectraws/55	0	14	''	''	*))))	-	-	-	-	*	-
+selectraws/55	0	15	,	,	*	-	-	-	-	*	-
+selectraws/55	0	16	and	CC	*	-	-	-	-	*	-
+selectraws/55	0	17	another	DT	(S(NP*	-	-	-	-	*	(1)
+selectraws/55	0	18	declares	NNP	*	-	-	-	-	*	-
+selectraws/55	0	19	''	''	*	-	-	-	-	*	-
+selectraws/55	0	20	Beauty	NNP	*)	-	-	-	-	*	-
+selectraws/55	0	21	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/55	0	22	truth	NN	(NP*	-	-	-	-	*	-
+selectraws/55	0	23	,	,	*	-	-	-	-	*	-
+selectraws/55	0	24	truth	NN	*	-	-	-	-	*	-
+selectraws/55	0	25	beauty	NN	*)))	-	-	-	-	*	-
+selectraws/55	0	26	.	.	*	-	-	-	-	*	-
+selectraws/55	0	27	''	''	*))	-	-	-	-	*	-
+
+
+selectraws/55	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/55	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/55	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/55	0	3	,	,	*	-	-	-	-	*	-
+selectraws/55	0	4	name	NN	(NP*)	-	-	-	-	*	-
+selectraws/55	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/55	0	6	lyric	NN	*)	-	-	-	-	*	-
+selectraws/55	0	7	form	VBP	(VP*	-	-	-	-	*	1)
+selectraws/55	0	8	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws/55	0	9	Keats	NNP	(S(NP*)	-	-	-	-	(PERSON)	(9)
+selectraws/55	0	10	used	VBD	(VP*	-	-	-	-	*	-
+selectraws/55	0	11	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/55	0	12	discuss	VB	(VP*	-	-	-	-	*	-
+selectraws/55	0	13	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/55	0	14	nightingale	NN	*)	-	-	-	-	*	(14)
+selectraws/55	0	15	and	CC	*	-	-	-	-	*	-
+selectraws/55	0	16	a	DT	(NP*	-	-	-	-	*	-
+selectraws/55	0	17	Grecian	NNP	*	-	-	-	-	(ORGANIZATION*	(10
+selectraws/55	0	18	Urn	NNP	*)))))))))	-	-	-	-	*)	10)
+selectraws/55	0	19	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,134 @@
+#begin document (selectraws1/16825); part 000
+
+selectraws1/16825	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(5
+selectraws1/16825	0	1	short	JJ	*	-	-	-	-	*	-
+selectraws1/16825	0	2	story	NN	*)	-	-	-	-	*	-
+selectraws1/16825	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16825	0	5	man	NN	*)))	-	-	-	-	*	5)|1)
+selectraws1/16825	0	6	ends	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16825	0	7	with	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16825	0	8	Tom	NNP	(S(NP*	-	-	-	-	(PERSON*	(6
+selectraws1/16825	0	9	King	NNP	*)	-	-	-	-	*)	6)
+selectraws1/16825	0	10	losing	VBG	(VP*	-	-	-	-	*	-
+selectraws1/16825	0	11	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16825	0	12	prizefighting	JJ	*	-	-	-	-	*	-
+selectraws1/16825	0	13	bout	NN	*)))))	-	-	-	-	*	-
+selectraws1/16825	0	14	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16825	0	0	Along	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16825	0	1	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	2	''	''	*	-	-	-	-	*	-
+selectraws1/16825	0	3	A	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/16825	0	4	Piece	NN	*)	-	-	-	-	*	-
+selectraws1/16825	0	5	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	6	Steak	NNP	(NP*)))))	-	-	-	-	*	5)
+selectraws1/16825	0	7	,	,	*	-	-	-	-	*	-
+selectraws1/16825	0	8	''	''	*	-	-	-	-	*	-
+selectraws1/16825	0	9	he	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws1/16825	0	10	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16825	0	11	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	12	Humphrey	NNP	(NP(NP*	-	-	-	-	(PERSON*	(7
+selectraws1/16825	0	13	Van	NNP	*	-	-	-	-	*	-
+selectraws1/16825	0	14	Weyden	NNP	*)	-	-	-	-	*)	7)
+selectraws1/16825	0	15	,	,	*	-	-	-	-	*	-
+selectraws1/16825	0	16	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/16825	0	17	does	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/16825	0	18	not	RB	*	-	-	-	-	*	-
+selectraws1/16825	0	19	murder	VB	(VP*	-	-	-	-	*	-
+selectraws1/16825	0	20	Larsen	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(8)
+selectraws1/16825	0	21	,	,	*	-	-	-	-	*	-
+selectraws1/16825	0	22	the	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws1/16825	0	23	captain	NN	*)	-	-	-	-	*	-
+selectraws1/16825	0	24	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	25	the	DT	(NP*	-	-	-	-	*	(9
+selectraws1/16825	0	26	schooner	NN	*	-	-	-	-	*	9)
+selectraws1/16825	0	27	''	''	*	-	-	-	-	*	-
+selectraws1/16825	0	28	Ghost	NN	*)))))))))))	-	-	-	-	*	(9)
+selectraws1/16825	0	29	.	.	*	-	-	-	-	*	-
+selectraws1/16825	0	30	''	''	*))	-	-	-	-	*	8)
+
+
+selectraws1/16825	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws1/16825	0	1	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16825	0	2	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	3	the	DT	(NP*	-	-	-	-	*	(10
+selectraws1/16825	0	4	poor	JJ	*))	-	-	-	-	*	-
+selectraws1/16825	0	5	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	6	London	NNP	(NP*))	-	-	-	-	(LOCATION)	10)
+selectraws1/16825	0	7	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	8	The	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws1/16825	0	9	People	NNS	*)	-	-	-	-	*	-
+selectraws1/16825	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	11	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16825	0	12	Abyss	NNP	*))))	-	-	-	-	*	11)
+selectraws1/16825	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/16825	0	14	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16825	0	15	the	DT	(S(NP(NP*	-	-	-	-	*	(3
+selectraws1/16825	0	16	title	NN	*	-	-	-	-	*	-
+selectraws1/16825	0	17	character	NN	*)	-	-	-	-	*	-
+selectraws1/16825	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	19	another	DT	(NP*	-	-	-	-	*	(3
+selectraws1/16825	0	20	novel	NN	*)))	-	-	-	-	*	3)|3)
+selectraws1/16825	0	21	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16825	0	22	found	VBN	(VP(VP*	-	-	-	-	*	-
+selectraws1/16825	0	23	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	24	Gray	NNP	(NP*	-	-	-	-	*	(12
+selectraws1/16825	0	25	Beaver	NNP	*)))	-	-	-	-	*	12)
+selectraws1/16825	0	26	and	CC	*	-	-	-	-	*	-
+selectraws1/16825	0	27	maltreated	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16825	0	28	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	29	Beauty	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(13
+selectraws1/16825	0	30	Smith	NNP	*))))))))	-	-	-	-	*)	13)
+selectraws1/16825	0	31	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16825	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16825	0	1	another	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/16825	0	2	novel	NN	*)	-	-	-	-	*	-
+selectraws1/16825	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16825	0	5	man	NN	*))))	-	-	-	-	*	1)|4)
+selectraws1/16825	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/16825	0	7	Judge	NNP	(NP(NP*	-	-	-	-	(PERSON*	(14|(15
+selectraws1/16825	0	8	Miller	NNP	*	-	-	-	-	*)	14)
+selectraws1/16825	0	9	's	POS	*)	-	-	-	-	*	-
+selectraws1/16825	0	10	pet	JJ	*	-	-	-	-	*	15)
+selectraws1/16825	0	11	Buck	NNP	*)	-	-	-	-	*	(15)
+selectraws1/16825	0	12	becomes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16825	0	13	the	DT	(NP(NP*	-	-	-	-	*	(15
+selectraws1/16825	0	14	alpha	NN	*	-	-	-	-	*	-
+selectraws1/16825	0	15	male	NN	*)	-	-	-	-	*	-
+selectraws1/16825	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	17	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16825	0	18	wolf	JJ	*	-	-	-	-	*	-
+selectraws1/16825	0	19	pack	NN	*))))	-	-	-	-	*	15)
+selectraws1/16825	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16825	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16825	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/16825	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/16825	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/16825	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/16825	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16825	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws1/16825	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	8	The	NNP	(NP(NP*	-	-	-	-	(LOCATION*	(2
+selectraws1/16825	0	9	Sea	NNP	*	-	-	-	-	*	-
+selectraws1/16825	0	10	Wolf	NNP	*)	-	-	-	-	*)	2)
+selectraws1/16825	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/16825	0	12	White	NNP	(NP*	-	-	-	-	*	(3
+selectraws1/16825	0	13	Fang	NNP	*)	-	-	-	-	*	3)
+selectraws1/16825	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/16825	0	15	The	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/16825	0	16	Call	NNP	*)	-	-	-	-	*	-
+selectraws1/16825	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16825	0	18	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16825	0	19	Wild	NNP	*))))))	-	-	-	-	*	4)|1)
+selectraws1/16825	0	20	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

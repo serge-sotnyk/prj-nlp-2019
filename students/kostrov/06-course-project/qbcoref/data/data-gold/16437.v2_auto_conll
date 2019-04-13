@@ -1,0 +1,171 @@
+#begin document (selectraws1/16437); part 000
+
+selectraws1/16437	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/16437	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws1/16437	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/16437	0	4	novel	NN	*)))	-	-	-	-	*	1)|1)
+selectraws1/16437	0	5	has	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	6	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16437	0	7	dream	NN	*)	-	-	-	-	*	-
+selectraws1/16437	0	8	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/16437	0	9	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/16437	0	10	a	DT	(S(NP*	-	-	-	-	*	-
+selectraws1/16437	0	11	watercolor	NN	*)	-	-	-	-	*	-
+selectraws1/16437	0	12	falls	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	13	off	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/16437	0	14	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16437	0	15	wall	NN	*)	-	-	-	-	*	-
+selectraws1/16437	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	17	his	PRP$	(NP(NP*	-	-	-	-	*	(18|(1)
+selectraws1/16437	0	18	mother	NN	*	-	-	-	-	*	18)
+selectraws1/16437	0	19	's	POS	*)	-	-	-	-	*	-
+selectraws1/16437	0	20	house	NN	*))))))))	-	-	-	-	*	-
+selectraws1/16437	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16437	0	0	Its	PRP$	(TOP(S(NP*	-	-	-	-	*	(1|(1)
+selectraws1/16437	0	1	protagonist	NN	*)	-	-	-	-	*	1)
+selectraws1/16437	0	2	learns	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	4	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16437	0	5	man	NN	*)	-	-	-	-	*	-
+selectraws1/16437	0	6	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	7	Commissar	NNP	(S(NP*	-	-	-	-	*	(16
+selectraws1/16437	0	8	Gintz	NNP	*)))	-	-	-	-	*	16)
+selectraws1/16437	0	9	who	WP	(SBAR(WHNP*)	-	-	-	-	*	(16)
+selectraws1/16437	0	10	had	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/16437	0	11	been	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	12	shot	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	13	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	14	climbing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/16437	0	15	atop	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16437	0	16	a	DT	(S(NP(NP*	-	-	-	-	*	-
+selectraws1/16437	0	17	water	NN	*	-	-	-	-	*	-
+selectraws1/16437	0	18	tank	NN	*)	-	-	-	-	*	-
+selectraws1/16437	0	19	,	,	*	-	-	-	-	*	-
+selectraws1/16437	0	20	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16437	0	21	crime	NN	*)	-	-	-	-	*	-
+selectraws1/16437	0	22	he	PRP	(SBAR(S(NP*)	-	-	-	-	*	(1)
+selectraws1/16437	0	23	later	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/16437	0	24	suspects	VBZ	*)))))	-	-	-	-	*	-
+selectraws1/16437	0	25	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	26	committed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	27	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	28	Pamphil	NNP	(NP*)))))))))))))))))	-	-	-	-	*	(9)
+selectraws1/16437	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16437	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16437	0	1	this	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16437	0	2	novel	NN	*	-	-	-	-	*	-
+selectraws1/16437	0	3	's	POS	*)	-	-	-	-	*	-
+selectraws1/16437	0	4	epilogue	NN	*))	-	-	-	-	*	-
+selectraws1/16437	0	5	,	,	*	-	-	-	-	*	-
+selectraws1/16437	0	6	Misha	NNP	(NP*	-	-	-	-	(PERSON*	(8
+selectraws1/16437	0	7	Gordon	NNP	*)	-	-	-	-	*)	8)
+selectraws1/16437	0	8	entrusts	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	9	the	DT	(NP(NP*	-	-	-	-	*	(1|(2
+selectraws1/16437	0	10	protagonist	NN	*	-	-	-	-	*	1)
+selectraws1/16437	0	11	's	POS	*)	-	-	-	-	*	-
+selectraws1/16437	0	12	daughter	NN	*	-	-	-	-	*	2)
+selectraws1/16437	0	13	Tanya	NN	*)	-	-	-	-	(PERSON)	(2)
+selectraws1/16437	0	14	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	15	his	PRP$	(NP*	-	-	-	-	*	(3|(1)
+selectraws1/16437	0	16	half-brother	NN	*	-	-	-	-	*	3)
+selectraws1/16437	0	17	Yevgraf	NNP	*)))	-	-	-	-	*	(3)
+selectraws1/16437	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16437	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(11
+selectraws1/16437	0	1	character	NN	*)	-	-	-	-	*	-
+selectraws1/16437	0	2	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	3	this	DT	(NP*	-	-	-	-	*	-
+selectraws1/16437	0	4	novel	NN	*)))	-	-	-	-	*	11)
+selectraws1/16437	0	5	shoots	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	6	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/16437	0	7	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws1/16437	0	8	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws1/16437	0	9	Komarovsky	JJ	(ADJP*)	-	-	-	-	(PERSON)	(12)
+selectraws1/16437	0	10	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	11	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16437	0	12	arm	NN	*)	-	-	-	-	*	-
+selectraws1/16437	0	13	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	14	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16437	0	15	Christmas	NNP	*	-	-	-	-	*	-
+selectraws1/16437	0	16	party	NN	*))))	-	-	-	-	*	-
+selectraws1/16437	0	17	,	,	*	-	-	-	-	*	-
+selectraws1/16437	0	18	not	RB	(S(VP*	-	-	-	-	*	-
+selectraws1/16437	0	19	realizing	VBG	*	-	-	-	-	*	-
+selectraws1/16437	0	20	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/16437	0	21	Komarovsky	NNP	(S(NP*)	-	-	-	-	(PERSON)	(12)
+selectraws1/16437	0	22	had	VBD	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	23	driven	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	24	the	DT	(NP(NP*	-	-	-	-	*	(1|(7
+selectraws1/16437	0	25	title	NN	*	-	-	-	-	*	-
+selectraws1/16437	0	26	character	NN	*	-	-	-	-	*	1)
+selectraws1/16437	0	27	's	POS	*)	-	-	-	-	*	-
+selectraws1/16437	0	28	father	NN	*)	-	-	-	-	*	7)
+selectraws1/16437	0	29	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/16437	0	30	jump	VB	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	31	off	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/16437	0	32	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/16437	0	33	train	NN	*)))))))))))	-	-	-	-	*	-
+selectraws1/16437	0	34	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16437	0	0	Another	DT	(TOP(S(NP(NP*)	-	-	-	-	*	(11
+selectraws1/16437	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	2	its	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/16437	0	3	characters	NNS	*)))	-	-	-	-	*	11)
+selectraws1/16437	0	4	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	5	married	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	6	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	7	Pasha	NNP	(NP(NP*	-	-	-	-	(PERSON*	(4
+selectraws1/16437	0	8	Antipov	NNP	*)	-	-	-	-	*)	4)
+selectraws1/16437	0	9	,	,	*	-	-	-	-	*	-
+selectraws1/16437	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	*	(4)
+selectraws1/16437	0	11	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/16437	0	12	nicknamed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	13	shooter	RB	(ADVP*)	-	-	-	-	*	(4)
+selectraws1/16437	0	14	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	15	his	PRP$	(NP(NP*	-	-	-	-	*	(4)
+selectraws1/16437	0	16	success	NN	*)	-	-	-	-	*	-
+selectraws1/16437	0	17	against	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	18	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16437	0	19	White	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/16437	0	20	Army	NNP	*))))))))))))	-	-	-	-	*)	-
+selectraws1/16437	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/16437	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/16437	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/16437	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/16437	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/16437	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/16437	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/16437	0	6	novel	NN	*)	-	-	-	-	*	1)
+selectraws1/16437	0	7	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/16437	0	8	depicts	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/16437	0	9	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16437	0	10	love	NN	*)	-	-	-	-	*	-
+selectraws1/16437	0	11	between	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	12	Lara	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(11)
+selectraws1/16437	0	13	and	CC	*	-	-	-	-	*	-
+selectraws1/16437	0	14	Yuri	NNP	(NP(NP(NP*)	-	-	-	-	(PERSON)	(1)
+selectraws1/16437	0	15	during	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	16	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/16437	0	17	Russian	NNP	*	-	-	-	-	*	-
+selectraws1/16437	0	18	Civil	NNP	*	-	-	-	-	*	-
+selectraws1/16437	0	19	War	NNP	*)))	-	-	-	-	*	-
+selectraws1/16437	0	20	,	,	*	-	-	-	-	*	-
+selectraws1/16437	0	21	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/16437	0	22	work	NN	*)	-	-	-	-	*	-
+selectraws1/16437	0	23	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/16437	0	24	Boris	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(5
+selectraws1/16437	0	25	Pasternak	NNP	*))))))))))))	-	-	-	-	*)	5)
+selectraws1/16437	0	26	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

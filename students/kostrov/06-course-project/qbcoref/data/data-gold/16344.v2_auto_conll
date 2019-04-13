@@ -1,0 +1,121 @@
+#begin document (selectraws/16344); part 000
+
+selectraws/16344	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/16344	0	1	one	CD	(NP(NP*	-	-	-	-	*	(2
+selectraws/16344	0	2	story	NN	*)	-	-	-	-	*	-
+selectraws/16344	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/16344	0	5	man	NN	*))))	-	-	-	-	*	1)|2)
+selectraws/16344	0	6	,	,	*	-	-	-	-	*	-
+selectraws/16344	0	7	Johannes	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws/16344	0	8	Dahlmann	NNP	*)	-	-	-	-	*)	3)
+selectraws/16344	0	9	reads	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws/16344	0	10	his	PRP$	(NP(NP*	-	-	-	-	*	(4|(3)
+selectraws/16344	0	11	copy	NN	*)	-	-	-	-	*	-
+selectraws/16344	0	12	of	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	13	the	DT	(NP*	-	-	-	-	*	(5
+selectraws/16344	0	14	Arabian	NNP	*	-	-	-	-	*	-
+selectraws/16344	0	15	Nights	NNPS	*))))	-	-	-	-	*	5)|4)
+selectraws/16344	0	16	and	CC	*	-	-	-	-	*	-
+selectraws/16344	0	17	gets	VBZ	(VP*	-	-	-	-	*	-
+selectraws/16344	0	18	into	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	19	a	DT	(NP*	-	-	-	-	*	-
+selectraws/16344	0	20	knife	NN	*	-	-	-	-	*	-
+selectraws/16344	0	21	fight	NN	*))	-	-	-	-	*	-
+selectraws/16344	0	22	after	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	23	almost	RB	(S*	-	-	-	-	*	-
+selectraws/16344	0	24	dying	VBG	(VP*	-	-	-	-	*	-
+selectraws/16344	0	25	in	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	26	a	DT	(NP*	-	-	-	-	*	-
+selectraws/16344	0	27	hospital	NN	*)))))))	-	-	-	-	*	-
+selectraws/16344	0	28	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/16344	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/16344	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws/16344	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/16344	0	3	a	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws/16344	0	4	story	NN	*)	-	-	-	-	*	-
+selectraws/16344	0	5	about	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	6	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/16344	0	7	struggles	NNS	*)	-	-	-	-	*	-
+selectraws/16344	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	9	a	DT	(NP(NP*	-	-	-	-	*	(7
+selectraws/16344	0	10	man	NN	*)	-	-	-	-	*	-
+selectraws/16344	0	11	with	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	12	a	DT	(NP*	-	-	-	-	*	-
+selectraws/16344	0	13	limitless	JJ	*	-	-	-	-	*	-
+selectraws/16344	0	14	memory	NN	*))))))))	-	-	-	-	*	7)|6)
+selectraws/16344	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/16344	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws/16344	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws/16344	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	3	The	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/16344	0	4	South	NNP	*	-	-	-	-	*	2)
+selectraws/16344	0	5	and	CC	*	-	-	-	-	*	-
+selectraws/16344	0	6	Funes	NNPS	*)	-	-	-	-	(PERSON)	(6|(7)
+selectraws/16344	0	7	,	,	*	-	-	-	-	*	-
+selectraws/16344	0	8	the	DT	(NP*	-	-	-	-	*	-
+selectraws/16344	0	9	Memorious	NNP	*))))	-	-	-	-	*	6)|1)
+selectraws/16344	0	10	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/16344	0	11	about	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	12	the	DT	(S(NP*	-	-	-	-	*	(8
+selectraws/16344	0	13	German	JJ	*	-	-	-	-	*	-
+selectraws/16344	0	14	spy	NN	*	-	-	-	-	*	8)
+selectraws/16344	0	15	Yu	NNP	*	-	-	-	-	(PERSON*	(8
+selectraws/16344	0	16	Tsun	NNP	*)	-	-	-	-	*)	8)
+selectraws/16344	0	17	leaving	VBG	(VP*	-	-	-	-	*	-
+selectraws/16344	0	18	a	DT	(NP*	-	-	-	-	*	-
+selectraws/16344	0	19	message	NN	*)	-	-	-	-	*	-
+selectraws/16344	0	20	through	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	21	murder	NN	(NP*)))))	-	-	-	-	*	-
+selectraws/16344	0	22	in	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	23	another	DT	(NP*	-	-	-	-	*	(9
+selectraws/16344	0	24	story	NN	*)))	-	-	-	-	*	9)
+selectraws/16344	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/16344	0	0	His	PRP$	(TOP(S(NP(NP*	-	-	-	-	*	(10|(1)
+selectraws/16344	0	1	story	NN	*)	-	-	-	-	*	-
+selectraws/16344	0	2	about	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	3	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/16344	0	4	building	NN	*)	-	-	-	-	*	-
+selectraws/16344	0	5	with	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	6	endless	JJ	(NP*	-	-	-	-	*	-
+selectraws/16344	0	7	hexagonal	JJ	*	-	-	-	-	*	-
+selectraws/16344	0	8	rooms	NNS	*)))))	-	-	-	-	*	10)
+selectraws/16344	0	9	was	VBD	(VP*	-	-	-	-	*	-
+selectraws/16344	0	10	collected	VBN	(VP*	-	-	-	-	*	-
+selectraws/16344	0	11	in	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	12	Ficciones	NNP	(NP*	-	-	-	-	*	(11)
+selectraws/16344	0	13	[	SYM	*	-	-	-	-	*	-
+selectraws/16344	0	14	feek-see-OH-nays	NN	*	-	-	-	-	*	-
+selectraws/16344	0	15	]	NN	*))))	-	-	-	-	*	-
+selectraws/16344	0	16	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/16344	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/16344	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/16344	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/16344	0	3	,	,	*	-	-	-	-	*	-
+selectraws/16344	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/16344	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/16344	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws/16344	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	8	The	DT	(NP(NP(NP*	-	-	-	-	*	(9
+selectraws/16344	0	9	Garden	NNP	*)	-	-	-	-	*	-
+selectraws/16344	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	11	Forking	NNP	(NP*	-	-	-	-	*	-
+selectraws/16344	0	12	Paths	NNPS	*)))	-	-	-	-	*	9)
+selectraws/16344	0	13	and	CC	*	-	-	-	-	*	-
+selectraws/16344	0	14	The	DT	(NP(NP*	-	-	-	-	(ORGANIZATION*	(10
+selectraws/16344	0	15	Library	NNP	*)	-	-	-	-	*	-
+selectraws/16344	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws/16344	0	17	Babel	NNP	(NP*))))))	-	-	-	-	*)	10)|1)
+selectraws/16344	0	18	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

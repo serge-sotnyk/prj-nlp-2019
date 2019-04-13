@@ -1,0 +1,109 @@
+#begin document (notdoneraws/15581); part 000
+
+notdoneraws/15581	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+notdoneraws/15581	0	1	group	NN	*)	-	-	-	-	*	-
+notdoneraws/15581	0	2	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15581	0	3	flowers	NNS	(NP(NP*)	-	-	-	-	*	3)
+notdoneraws/15581	0	4	called	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	5	Alices	NNP	(S(NP*	-	-	-	-	*	(3
+notdoneraws/15581	0	6	Posies	NNP	*))))))	-	-	-	-	*	3)
+notdoneraws/15581	0	7	are	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	8	described	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	9	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15581	0	10	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/15581	0	11	novels	NNS	*	-	-	-	-	*	1)
+notdoneraws/15581	0	12	first	JJ	*	-	-	-	-	*	-
+notdoneraws/15581	0	13	chapter	NN	*))	-	-	-	-	*	-
+notdoneraws/15581	0	14	,	,	*	-	-	-	-	*	-
+notdoneraws/15581	0	15	while	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/15581	0	16	in	IN	(S(PP*	-	-	-	-	*	-
+notdoneraws/15581	0	17	its	PRP$	(NP*	-	-	-	-	*	-
+notdoneraws/15581	0	18	last	JJ	*	-	-	-	-	*	-
+notdoneraws/15581	0	19	chapter	NN	*))	-	-	-	-	*	-
+notdoneraws/15581	0	20	Uncle	NNP	(NP*	-	-	-	-	(PERSON*	(4
+notdoneraws/15581	0	21	Venner	NNP	*)	-	-	-	-	*)	4)
+notdoneraws/15581	0	22	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	23	invited	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	24	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	25	live	VB	(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	26	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15581	0	27	an	DT	(NP*	-	-	-	-	*	-
+notdoneraws/15581	0	28	inherited	VBN	*	-	-	-	-	*	-
+notdoneraws/15581	0	29	estate	NN	*)))))))))))	-	-	-	-	*	-
+notdoneraws/15581	0	30	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15581	0	0	Another	DT	(TOP(S(S(NP*	-	-	-	-	*	(5
+notdoneraws/15581	0	1	character	NN	*)	-	-	-	-	*	5)
+notdoneraws/15581	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	3	hypnotized	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	4	after	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15581	0	5	being	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	6	told	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	7	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/15581	0	8	story	NN	*)	-	-	-	-	*	-
+notdoneraws/15581	0	9	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15581	0	10	the	DT	(NP*	-	-	-	-	*	(6
+notdoneraws/15581	0	11	daguerreotypist	JJ	*	-	-	-	-	*	6)
+notdoneraws/15581	0	12	Holgrave	NNP	*))))))))))	-	-	-	-	*	(6)
+notdoneraws/15581	0	13	,	,	*	-	-	-	-	*	-
+notdoneraws/15581	0	14	and	CC	*	-	-	-	-	*	-
+notdoneraws/15581	0	15	soon	RB	(S(ADVP*)	-	-	-	-	*	-
+notdoneraws/15581	0	16	afterwards	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/15581	0	17	the	DT	(NP*	-	-	-	-	*	(7
+notdoneraws/15581	0	18	Judge	NNP	*)	-	-	-	-	*	7)
+notdoneraws/15581	0	19	mysteriously	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/15581	0	20	dies	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	21	,	,	*	-	-	-	-	*	-
+notdoneraws/15581	0	22	prompting	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	23	Clifford	NNP	(S(NP*	-	-	-	-	(PERSON)	(8)
+notdoneraws/15581	0	24	and	CC	*	-	-	-	-	*	-
+notdoneraws/15581	0	25	Hepzibah	NNP	*)	-	-	-	-	*	(9)
+notdoneraws/15581	0	26	to	TO	(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	27	flee	VB	(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	28	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15581	0	29	the	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/15581	0	30	titular	FW	*	-	-	-	-	*	-
+notdoneraws/15581	0	31	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+notdoneraws/15581	0	32	\*	SYM	(X*)	-	-	-	-	*	-
+notdoneraws/15581	0	33	-RRB-	-RRB-	*)	-	-	-	-	*	-
+notdoneraws/15581	0	34	structure	NN	*)))))))))	-	-	-	-	*	1)
+notdoneraws/15581	0	35	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15581	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(10
+notdoneraws/15581	0	1	farmer	NN	*)	-	-	-	-	*	10)
+notdoneraws/15581	0	2	Matthew	NNP	(NP*	-	-	-	-	(PERSON*	(10
+notdoneraws/15581	0	3	Maule	NNP	*))	-	-	-	-	*)	10)
+notdoneraws/15581	0	4	cursed	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	5	this	DT	(NP(NP*	-	-	-	-	*	(11|(1
+notdoneraws/15581	0	6	novels	NNS	*	-	-	-	-	*	1)
+notdoneraws/15581	0	7	central	JJ	*	-	-	-	-	*	-
+notdoneraws/15581	0	8	family	NN	*)	-	-	-	-	*	11)
+notdoneraws/15581	0	9	,	,	*	-	-	-	-	*	-
+notdoneraws/15581	0	10	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+notdoneraws/15581	0	11	members	NNS	*)	-	-	-	-	*	-
+notdoneraws/15581	0	12	include	VBP	(S(VP*	-	-	-	-	*	-
+notdoneraws/15581	0	13	Phoebe	NNP	(NP(NP*)	-	-	-	-	(PERSON)	(5)
+notdoneraws/15581	0	14	and	CC	*	-	-	-	-	*	-
+notdoneraws/15581	0	15	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/15581	0	16	Colonel	NNP	*	-	-	-	-	*	(12
+notdoneraws/15581	0	17	Pyncheon	NNP	*)))))))	-	-	-	-	*	12)
+notdoneraws/15581	0	18	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/15581	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/15581	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/15581	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/15581	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/15581	0	4	name	VB	(VP*	-	-	-	-	*	(1
+notdoneraws/15581	0	5	this	DT	(NP*	-	-	-	-	*	-
+notdoneraws/15581	0	6	novel	NN	*)	-	-	-	-	*	-
+notdoneraws/15581	0	7	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/15581	0	8	Nathaniel	NNP	(NP*	-	-	-	-	(PERSON*	(2
+notdoneraws/15581	0	9	Hawthorne	NNP	*)))	-	-	-	-	*)	2)|1)
+notdoneraws/15581	0	10	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

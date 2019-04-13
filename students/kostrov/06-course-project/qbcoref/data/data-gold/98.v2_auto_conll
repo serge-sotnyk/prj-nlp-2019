@@ -1,0 +1,121 @@
+#begin document (selectraws/98); part 000
+
+selectraws/98	0	0	At	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/98	0	1	one	CD	(NP*	-	-	-	-	*	-
+selectraws/98	0	2	point	NN	*))	-	-	-	-	*	-
+selectraws/98	0	3	,	,	*	-	-	-	-	*	-
+selectraws/98	0	4	these	DT	(NP*	-	-	-	-	*	(1
+selectraws/98	0	5	characters	NNS	*)	-	-	-	-	*	1)
+selectraws/98	0	6	climb	VB	(VP*	-	-	-	-	*	-
+selectraws/98	0	7	into	IN	(PP*	-	-	-	-	*	-
+selectraws/98	0	8	barrels	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws/98	0	9	aboard	IN	(PP*	-	-	-	-	*	-
+selectraws/98	0	10	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/98	0	11	ship	NN	*)	-	-	-	-	*	-
+selectraws/98	0	12	bound	VBN	(VP*	-	-	-	-	*	-
+selectraws/98	0	13	for	IN	(PP*	-	-	-	-	*	-
+selectraws/98	0	14	England	NNP	(NP*))))))))	-	-	-	-	(LOCATION)	-
+selectraws/98	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/98	0	0	Later	RB	(TOP(S(ADVP*)	-	-	-	-	*	-
+selectraws/98	0	1	,	,	*	-	-	-	-	*	-
+selectraws/98	0	2	one	CD	(NP(NP*)	-	-	-	-	*	(2
+selectraws/98	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws/98	0	4	these	DT	(NP*	-	-	-	-	*	(1
+selectraws/98	0	5	characters	NNS	*)))	-	-	-	-	*	2)|1)
+selectraws/98	0	6	stabs	VBZ	(VP*	-	-	-	-	*	-
+selectraws/98	0	7	the	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws/98	0	8	Player	NN	*)	-	-	-	-	*	3)
+selectraws/98	0	9	with	IN	(PP*	-	-	-	-	*	-
+selectraws/98	0	10	what	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/98	0	11	turns	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/98	0	12	out	RP	(PRT*)	-	-	-	-	*	-
+selectraws/98	0	13	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/98	0	14	be	VB	(VP*	-	-	-	-	*	-
+selectraws/98	0	15	a	DT	(NP*	-	-	-	-	*	-
+selectraws/98	0	16	fake	JJ	*	-	-	-	-	*	-
+selectraws/98	0	17	knife	NN	*))))))))))	-	-	-	-	*	-
+selectraws/98	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/98	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	-
+selectraws/98	0	1	stabbing	NN	*)	-	-	-	-	*	-
+selectraws/98	0	2	leads	VBZ	(VP*	-	-	-	-	*	-
+selectraws/98	0	3	to	TO	(PP*	-	-	-	-	*	-
+selectraws/98	0	4	the	DT	(NP*	-	-	-	-	*	(4
+selectraws/98	0	5	Tragedians	NNPS	*))	-	-	-	-	*	4)
+selectraws/98	0	6	acting	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/98	0	7	out	RP	(PRT*)	-	-	-	-	*	-
+selectraws/98	0	8	various	JJ	(NP(NP*	-	-	-	-	*	-
+selectraws/98	0	9	types	NNS	*)	-	-	-	-	*	-
+selectraws/98	0	10	of	IN	(PP*	-	-	-	-	*	-
+selectraws/98	0	11	stage	NN	(NP*	-	-	-	-	*	-
+selectraws/98	0	12	death	NN	*)))))	-	-	-	-	*	-
+selectraws/98	0	13	,	,	*	-	-	-	-	*	-
+selectraws/98	0	14	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/98	0	15	these	DT	(S(NP*	-	-	-	-	*	(1
+selectraws/98	0	16	two	CD	*	-	-	-	-	*	-
+selectraws/98	0	17	characters	NNS	*)	-	-	-	-	*	1)
+selectraws/98	0	18	contemplate	VBP	(VP*	-	-	-	-	*	-
+selectraws/98	0	19	their	PRP$	(NP(NP*)	-	-	-	-	*	(1)
+selectraws/98	0	20	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/98	0	21	\*	SYM	(X*)	-	-	-	-	*	-
+selectraws/98	0	22	-RRB-	-RRB-	*))	-	-	-	-	*	-
+selectraws/98	0	23	impending	JJ	(NP*	-	-	-	-	*	-
+selectraws/98	0	24	execution	NN	*)))))	-	-	-	-	*	-
+selectraws/98	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/98	0	0	As	IN	(TOP(S(SBAR*	-	-	-	-	*	-
+selectraws/98	0	1	one	CD	(S(NP(NP*	-	-	-	-	*	(5
+selectraws/98	0	2	work	NN	*)	-	-	-	-	*	5)
+selectraws/98	0	3	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws/98	0	4	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws/98	0	5	they	PRP	(S(NP*)	-	-	-	-	*	(1)
+selectraws/98	0	6	appear	VBP	(VP*))))	-	-	-	-	*	-
+selectraws/98	0	7	begins	VBZ	(VP*)))	-	-	-	-	*	-
+selectraws/98	0	8	,	,	*	-	-	-	-	*	-
+selectraws/98	0	9	a	DT	(NP*	-	-	-	-	*	-
+selectraws/98	0	10	coin	NN	*)	-	-	-	-	*	-
+selectraws/98	0	11	comes	VBZ	(VP*	-	-	-	-	*	-
+selectraws/98	0	12	up	RP	(PRT*)	-	-	-	-	*	-
+selectraws/98	0	13	heads	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/98	0	14	89	CD	(NP(NP*	-	-	-	-	*	-
+selectraws/98	0	15	times	NNS	*)	-	-	-	-	*	-
+selectraws/98	0	16	in	IN	(PP*	-	-	-	-	*	-
+selectraws/98	0	17	a	DT	(NP*	-	-	-	-	*	-
+selectraws/98	0	18	row	NN	*))))))	-	-	-	-	*	-
+selectraws/98	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/98	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/98	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/98	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/98	0	3	,	,	*	-	-	-	-	*	-
+selectraws/98	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/98	0	5	these	DT	(NP*	-	-	-	-	*	(1
+selectraws/98	0	6	two	CD	*	-	-	-	-	*	-
+selectraws/98	0	7	minor	JJ	*	-	-	-	-	*	-
+selectraws/98	0	8	characters	NNS	*)	-	-	-	-	*	-
+selectraws/98	0	9	in	IN	(PP*	-	-	-	-	*	-
+selectraws/98	0	10	Hamlet	NNP	(NP(NP*)	-	-	-	-	(LOCATION)	1)
+selectraws/98	0	11	,	,	*	-	-	-	-	*	-
+selectraws/98	0	12	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/98	0	13	are	VBP	(S(VP*	-	-	-	-	*	-
+selectraws/98	0	14	both	DT	(ADVP*)	-	-	-	-	*	-
+selectraws/98	0	15	declared	VBN	(VP*	-	-	-	-	*	-
+selectraws/98	0	16	dead	JJ	(S(ADJP*))	-	-	-	-	*	-
+selectraws/98	0	17	in	IN	(PP*	-	-	-	-	*	-
+selectraws/98	0	18	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/98	0	19	title	NN	*)	-	-	-	-	*	-
+selectraws/98	0	20	of	IN	(PP*	-	-	-	-	*	-
+selectraws/98	0	21	a	DT	(NP*	-	-	-	-	*	(5
+selectraws/98	0	22	Tom	NNP	*	-	-	-	-	(PERSON*	(6
+selectraws/98	0	23	Stoppard	NNP	*	-	-	-	-	*)	6)
+selectraws/98	0	24	play	NN	*)))))))))))	-	-	-	-	*	5)
+selectraws/98	0	25	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

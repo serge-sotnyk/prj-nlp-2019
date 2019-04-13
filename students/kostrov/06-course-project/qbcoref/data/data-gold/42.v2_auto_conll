@@ -1,0 +1,98 @@
+#begin document (selectraws1/42); part 000
+
+selectraws1/42	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/42	0	1	an	DT	(NP*	-	-	-	-	*	(2
+selectraws1/42	0	2	autobiographical	JJ	*	-	-	-	-	*	-
+selectraws1/42	0	3	novel	NN	*))	-	-	-	-	*	2)
+selectraws1/42	0	4	,	,	*	-	-	-	-	*	-
+selectraws1/42	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/42	0	6	author	NN	*)	-	-	-	-	*	1)
+selectraws1/42	0	7	recalls	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/42	0	8	working	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/42	0	9	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/42	0	10	an	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/42	0	11	optical	JJ	*	-	-	-	-	*	-
+selectraws1/42	0	12	shop	NN	*)	-	-	-	-	*	-
+selectraws1/42	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/42	0	14	where	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/42	0	15	Olin	NNP	(S(NP*)	-	-	-	-	(PERSON)	(5)
+selectraws1/42	0	16	manipulates	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/42	0	17	him	PRP	(NP*)	-	-	-	-	*	(1)
+selectraws1/42	0	18	into	IN	(PP*	-	-	-	-	*	-
+selectraws1/42	0	19	boxing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/42	0	20	his	PRP$	(NP(NP*	-	-	-	-	*	(6|(1)
+selectraws1/42	0	21	coworker	NN	*)	-	-	-	-	*	6)
+selectraws1/42	0	22	,	,	*	-	-	-	-	*	-
+selectraws1/42	0	23	Harrison	NNP	(NP*)))))))))))))	-	-	-	-	(PERSON)	(6)
+selectraws1/42	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/42	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(3
+selectraws1/42	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/42	0	2	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/42	0	3	authors	NNS	*	-	-	-	-	*	1)
+selectraws1/42	0	4	characters	NNS	*)))	-	-	-	-	*	3)
+selectraws1/42	0	5	carries	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/42	0	6	a	DT	(NP(NP*	-	-	-	-	*	(8
+selectraws1/42	0	7	drunken	JJ	*	-	-	-	-	*	-
+selectraws1/42	0	8	woman	NN	*)	-	-	-	-	*	8)
+selectraws1/42	0	9	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/42	0	10	her	PRP$	(NP*	-	-	-	-	*	(8)
+selectraws1/42	0	11	room	NN	*))))	-	-	-	-	*	-
+selectraws1/42	0	12	,	,	*	-	-	-	-	*	-
+selectraws1/42	0	13	but	CC	*	-	-	-	-	*	-
+selectraws1/42	0	14	accidentally	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/42	0	15	smothers	VBZ	*	-	-	-	-	*	-
+selectraws1/42	0	16	her	PRP	(NP*)	-	-	-	-	*	(8)
+selectraws1/42	0	17	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/42	0	18	avoid	VB	(VP*	-	-	-	-	*	-
+selectraws1/42	0	19	being	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/42	0	20	noticed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/42	0	21	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/42	0	22	her	PRP$	(NP*	-	-	-	-	*	(9|(8)
+selectraws1/42	0	23	blind	JJ	*	-	-	-	-	*	-
+selectraws1/42	0	24	mother	NN	*))))))))))	-	-	-	-	*	9)
+selectraws1/42	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/42	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	(3
+selectraws1/42	0	1	character	NN	*)	-	-	-	-	*	3)
+selectraws1/42	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/42	0	3	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/42	0	4	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws1/42	0	5	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws1/42	0	6	executed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/42	0	7	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/42	0	8	killing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/42	0	9	Mary	NNP	(NP(NP*	-	-	-	-	(PERSON*	(8
+selectraws1/42	0	10	Dalton	NNP	*)	-	-	-	-	*)	8)
+selectraws1/42	0	11	and	CC	*	-	-	-	-	*	-
+selectraws1/42	0	12	his	PRP$	(NP*	-	-	-	-	*	(7|(3)
+selectraws1/42	0	13	girlfriend	NN	*	-	-	-	-	*	7)
+selectraws1/42	0	14	Bessie	NNP	*)))))))	-	-	-	-	(PERSON)	(7)
+selectraws1/42	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/42	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/42	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/42	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/42	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/42	0	4	name	VB	(VP*	-	-	-	-	*	(1
+selectraws1/42	0	5	this	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/42	0	6	African-American	JJ	*	-	-	-	-	*	-
+selectraws1/42	0	7	author	NN	*)	-	-	-	-	*	-
+selectraws1/42	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/42	0	9	Black	NNP	(NP*	-	-	-	-	*	(2
+selectraws1/42	0	10	Boy	NNP	*))	-	-	-	-	*	2)|1)
+selectraws1/42	0	11	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/42	0	12	created	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/42	0	13	Bigger	NNP	(NP*	-	-	-	-	*	(3
+selectraws1/42	0	14	Thomas	NNP	*)	-	-	-	-	*	3)
+selectraws1/42	0	15	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/42	0	16	Native	NNP	(NP*	-	-	-	-	*	(4
+selectraws1/42	0	17	Son	NNP	*)))))))	-	-	-	-	*	4)
+selectraws1/42	0	18	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

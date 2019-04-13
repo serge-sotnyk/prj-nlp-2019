@@ -1,0 +1,129 @@
+#begin document (selectraws/97); part 000
+
+selectraws/97	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/97	0	1	one	CD	(NP(NP*)	-	-	-	-	*	(2
+selectraws/97	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/97	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/97	0	4	author	NN	*	-	-	-	-	*	1)
+selectraws/97	0	5	's	POS	*)	-	-	-	-	*	-
+selectraws/97	0	6	novels	NNS	*))))	-	-	-	-	*	2)
+selectraws/97	0	7	,	,	*	-	-	-	-	*	-
+selectraws/97	0	8	the	DT	(NP*	-	-	-	-	*	(4
+selectraws/97	0	9	protagonist	NN	*)	-	-	-	-	*	4)
+selectraws/97	0	10	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws/97	0	11	an	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws/97	0	12	eleven-year-old	JJ	*	-	-	-	-	*	-
+selectraws/97	0	13	girl	NN	*)	-	-	-	-	*	4)
+selectraws/97	0	14	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/97	0	15	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/97	0	16	raped	VBN	(VP*	-	-	-	-	*	-
+selectraws/97	0	17	by	IN	(PP*	-	-	-	-	*	-
+selectraws/97	0	18	her	PRP$	(NP(NP*	-	-	-	-	*	(4)|(5
+selectraws/97	0	19	father	NN	*)	-	-	-	-	*	5)
+selectraws/97	0	20	,	,	*	-	-	-	-	*	-
+selectraws/97	0	21	Cholly	NNP	(NP*)))))))))	-	-	-	-	(PERSON)	(5)
+selectraws/97	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/97	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws/97	0	1	creator	NN	*)	-	-	-	-	*	-
+selectraws/97	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/97	0	3	Pecola	NNP	(NP*	-	-	-	-	(PERSON*	(4
+selectraws/97	0	4	Breedlove	NNP	*)))	-	-	-	-	*)	4)|1)
+selectraws/97	0	5	also	RB	(ADVP*)	-	-	-	-	*	-
+selectraws/97	0	6	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/97	0	7	a	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws/97	0	8	work	NN	*)	-	-	-	-	*	6)
+selectraws/97	0	9	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/97	0	10	details	NNS	(S(NP*)	-	-	-	-	*	-
+selectraws/97	0	11	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/97	0	12	family	NN	*	-	-	-	-	*	-
+selectraws/97	0	13	history	NN	*)	-	-	-	-	*	-
+selectraws/97	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws/97	0	15	Milkman	NNP	(NP*	-	-	-	-	*	(7
+selectraws/97	0	16	Dead	NNP	*))	-	-	-	-	*	-
+selectraws/97	0	17	the	DT	(NP*	-	-	-	-	*	-
+selectraws/97	0	18	Third	JJ	*))))))	-	-	-	-	*	7)
+selectraws/97	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/97	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/97	0	1	another	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws/97	0	2	novel	NN	*)	-	-	-	-	*	-
+selectraws/97	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws/97	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws/97	0	5	author	NN	*))))	-	-	-	-	*	3)|1)
+selectraws/97	0	6	,	,	*	-	-	-	-	*	-
+selectraws/97	0	7	Sethe	NNP	(NP(NP(NP*)	-	-	-	-	(LOCATION)	(8)
+selectraws/97	0	8	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws/97	0	9	seth-ee	JJ	*	-	-	-	-	*	-
+selectraws/97	0	10	-RRB-	-RRB-	*))	-	-	-	-	*	-
+selectraws/97	0	11	and	CC	*	-	-	-	-	*	-
+selectraws/97	0	12	Denver	NNP	(NP*))	-	-	-	-	(LOCATION)	(9)
+selectraws/97	0	13	live	VBP	(VP*	-	-	-	-	*	-
+selectraws/97	0	14	at	IN	(PP*	-	-	-	-	*	-
+selectraws/97	0	15	124	CD	(NP*)))	-	-	-	-	*	-
+selectraws/97	0	16	Bluestone	NNP	(NP(NP*)	-	-	-	-	(PERSON)	-
+selectraws/97	0	17	,	,	*	-	-	-	-	*	-
+selectraws/97	0	18	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/97	0	19	house	NN	*)	-	-	-	-	*	-
+selectraws/97	0	20	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/97	0	21	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/97	0	22	haunted	VBN	(VP*	-	-	-	-	*	-
+selectraws/97	0	23	by	IN	(PP*	-	-	-	-	*	-
+selectraws/97	0	24	the	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws/97	0	25	ghost	NN	*)	-	-	-	-	*	-
+selectraws/97	0	26	of	IN	(PP*	-	-	-	-	*	-
+selectraws/97	0	27	a	DT	(NP(NP(NP*	-	-	-	-	*	-
+selectraws/97	0	28	two	CD	*)	-	-	-	-	*	-
+selectraws/97	0	29	-	:	*	-	-	-	-	*	-
+selectraws/97	0	30	year-old	NN	*)	-	-	-	-	*	10)
+selectraws/97	0	31	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/97	0	32	was	VBD	(S(VP*	-	-	-	-	*	-
+selectraws/97	0	33	killed	VBN	(VP*	-	-	-	-	*	-
+selectraws/97	0	34	with	IN	(PP*	-	-	-	-	*	-
+selectraws/97	0	35	a	DT	(NP*	-	-	-	-	*	-
+selectraws/97	0	36	handsaw	NN	*))	-	-	-	-	*	-
+selectraws/97	0	37	so	IN	(SBAR*	-	-	-	-	*	-
+selectraws/97	0	38	that	IN	*	-	-	-	-	*	-
+selectraws/97	0	39	she	PRP	(S(NP*)	-	-	-	-	*	(10)
+selectraws/97	0	40	would	MD	(VP*	-	-	-	-	*	-
+selectraws/97	0	41	not	RB	*	-	-	-	-	*	-
+selectraws/97	0	42	have	VB	(VP*	-	-	-	-	*	-
+selectraws/97	0	43	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/97	0	44	live	VB	(VP*	-	-	-	-	*	-
+selectraws/97	0	45	in	IN	(PP*	-	-	-	-	*	-
+selectraws/97	0	46	slavery	NN	(NP*)))))))))))))))))))))))	-	-	-	-	*	-
+selectraws/97	0	47	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/97	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws/97	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws/97	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/97	0	3	The	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws/97	0	4	Bluest	NNP	*	-	-	-	-	*	-
+selectraws/97	0	5	Eye	NNP	*)	-	-	-	-	*	2)
+selectraws/97	0	6	and	CC	*	-	-	-	-	*	-
+selectraws/97	0	7	Song	NN	(NP(NP*)	-	-	-	-	*	(6
+selectraws/97	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws/97	0	9	Solomon	NNP	(NP*)))))	-	-	-	-	(LOCATION)	6)
+selectraws/97	0	10	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/97	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/97	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/97	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/97	0	3	,	,	*	-	-	-	-	*	-
+selectraws/97	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/97	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/97	0	6	female	JJ	*	-	-	-	-	*	-
+selectraws/97	0	7	African-American	JJ	*	-	-	-	-	*	-
+selectraws/97	0	8	author	NN	*)	-	-	-	-	*	1)
+selectraws/97	0	9	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/97	0	10	wrote	VBD	(S(VP*	-	-	-	-	*	-
+selectraws/97	0	11	Beloved	NNP	(NP*))))))	-	-	-	-	*	(3)
+selectraws/97	0	12	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

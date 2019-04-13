@@ -1,0 +1,109 @@
+#begin document (selectraws1/14756); part 000
+
+selectraws1/14756	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+selectraws1/14756	0	1	first	JJ	*	-	-	-	-	*	-
+selectraws1/14756	0	2	Pope	NN	*)	-	-	-	-	*	-
+selectraws1/14756	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14756	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/14756	0	5	name	NN	*)))	-	-	-	-	*	3)|1)
+selectraws1/14756	0	6	clashed	VBD	(VP(VP*	-	-	-	-	*	-
+selectraws1/14756	0	7	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/14756	0	8	Elipandus	NNP	(NP(NP*)	-	-	-	-	*	(4
+selectraws1/14756	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14756	0	10	Toledo	NNP	(NP*))))	-	-	-	-	(LOCATION)	4)
+selectraws1/14756	0	11	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/14756	0	12	condemn	VB	(VP*	-	-	-	-	*	-
+selectraws1/14756	0	13	Adoptionism	NNP	(NP*)))))	-	-	-	-	*	-
+selectraws1/14756	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/14756	0	15	took	VBD	(VP*	-	-	-	-	*	-
+selectraws1/14756	0	16	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/14756	0	17	line	NN	*)	-	-	-	-	*	-
+selectraws1/14756	0	18	against	IN	(PP*	-	-	-	-	*	-
+selectraws1/14756	0	19	iconoclasm	NN	(NP*)))	-	-	-	-	*	-
+selectraws1/14756	0	20	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/14756	0	21	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/14756	0	22	Second	NNP	*	-	-	-	-	(ORGANIZATION*	-
+selectraws1/14756	0	23	Council	NNP	*)	-	-	-	-	*	-
+selectraws1/14756	0	24	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14756	0	25	Nicaea	NNP	(NP*))))))	-	-	-	-	*)	-
+selectraws1/14756	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14756	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(5
+selectraws1/14756	0	1	sixth	JJ	*	-	-	-	-	*	-
+selectraws1/14756	0	2	Pope	NN	*)	-	-	-	-	*	-
+selectraws1/14756	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14756	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/14756	0	5	name	NN	*)))	-	-	-	-	*	1)|5)
+selectraws1/14756	0	6	taught	VBD	(VP(VP*	-	-	-	-	*	-
+selectraws1/14756	0	7	both	DT	(NP*	-	-	-	-	*	-
+selectraws1/14756	0	8	Erasmus	NNP	(NP*)	-	-	-	-	(PERSON)	(6)
+selectraws1/14756	0	9	and	CC	*	-	-	-	-	*	-
+selectraws1/14756	0	10	Charles	NNP	(NP*	-	-	-	-	(PERSON)	(7
+selectraws1/14756	0	11	V	NNP	*)))	-	-	-	-	*	7)
+selectraws1/14756	0	12	and	CC	*	-	-	-	-	*	-
+selectraws1/14756	0	13	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/14756	0	14	the	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws1/14756	0	15	last	JJ	*	-	-	-	-	*	-
+selectraws1/14756	0	16	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/14756	0	17	\*	SYM	(X*)	-	-	-	-	*	-
+selectraws1/14756	0	18	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws1/14756	0	19	non-Italian	NN	*	-	-	-	-	*	-
+selectraws1/14756	0	20	Pope	NNP	*)	-	-	-	-	*	-
+selectraws1/14756	0	21	prior	RB	(ADJP*	-	-	-	-	*	-
+selectraws1/14756	0	22	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/14756	0	23	John	NNP	(NP*	-	-	-	-	(PERSON*	(8
+selectraws1/14756	0	24	Paul	NNP	*	-	-	-	-	*	-
+selectraws1/14756	0	25	II	NNP	*))))))	-	-	-	-	*)	8)|5)
+selectraws1/14756	0	26	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14756	0	0	Another	DT	(TOP(S(NP(NP*	-	-	-	-	*	(9
+selectraws1/14756	0	1	Pope	NN	*)	-	-	-	-	*	-
+selectraws1/14756	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14756	0	3	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/14756	0	4	name	NN	*)))	-	-	-	-	*	1)|9)
+selectraws1/14756	0	5	executed	VBD	(VP(VP*	-	-	-	-	*	-
+selectraws1/14756	0	6	Arnold	NNP	(NP(NP*)	-	-	-	-	(ORGANIZATION*	(10
+selectraws1/14756	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14756	0	8	Brescia	NNP	(NP*))))	-	-	-	-	*)	10)
+selectraws1/14756	0	9	and	CC	*	-	-	-	-	*	-
+selectraws1/14756	0	10	crowned	VBD	(VP*	-	-	-	-	*	-
+selectraws1/14756	0	11	Frederick	NNP	(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/14756	0	12	Barbarossa	NNP	*)	-	-	-	-	*)	11)
+selectraws1/14756	0	13	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/14756	0	14	emperor	NN	(NP*))))	-	-	-	-	*	-
+selectraws1/14756	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/14756	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/14756	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/14756	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/14756	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/14756	0	4	give	VB	(VP*	-	-	-	-	*	-
+selectraws1/14756	0	5	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/14756	0	6	common	JJ	*	-	-	-	-	*	-
+selectraws1/14756	0	7	name	NN	*)	-	-	-	-	*	-
+selectraws1/14756	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/14756	0	9	these	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/14756	0	10	pontiffs	NNS	*)	-	-	-	-	*	1)
+selectraws1/14756	0	11	,	,	*	-	-	-	-	*	-
+selectraws1/14756	0	12	the	DT	(SBAR(WHNP(NP*	-	-	-	-	*	(2
+selectraws1/14756	0	13	fourth	JJ	*)	-	-	-	-	*	-
+selectraws1/14756	0	14	of	IN	(WHPP*	-	-	-	-	*	-
+selectraws1/14756	0	15	whom	WP	(WHNP*)))	-	-	-	-	*	2)
+selectraws1/14756	0	16	was	VBD	(S(VP(VP*	-	-	-	-	*	-
+selectraws1/14756	0	17	born	VBN	(VP*	-	-	-	-	*	-
+selectraws1/14756	0	18	Nicholas	NNP	(S(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/14756	0	19	Breakspear	NNP	*))))	-	-	-	-	*)	2)
+selectraws1/14756	0	20	and	CC	*	-	-	-	-	*	-
+selectraws1/14756	0	21	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/14756	0	22	the	DT	(NP*	-	-	-	-	*	(2
+selectraws1/14756	0	23	only	JJ	*	-	-	-	-	*	-
+selectraws1/14756	0	24	English	JJ	*	-	-	-	-	*	-
+selectraws1/14756	0	25	Pope	NNP	*)))))))))	-	-	-	-	*	2)
+selectraws1/14756	0	26	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

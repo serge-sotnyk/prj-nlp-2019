@@ -1,0 +1,118 @@
+#begin document (selectraws/15904); part 000
+
+selectraws/15904	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15904	0	1	one	CD	(NP(NP*)	-	-	-	-	*	(2
+selectraws/15904	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	3	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/15904	0	4	author	NN	*	-	-	-	-	*	-
+selectraws/15904	0	5	's	POS	*)	-	-	-	-	*	1)
+selectraws/15904	0	6	novels	NNS	*))))	-	-	-	-	*	2)
+selectraws/15904	0	7	,	,	*	-	-	-	-	*	-
+selectraws/15904	0	8	seventeen	JJ	(NP(NP*	-	-	-	-	*	(3
+selectraws/15904	0	9	half-brothers	NNS	*)	-	-	-	-	*	-
+selectraws/15904	0	10	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	11	the	DT	(NP*	-	-	-	-	*	-
+selectraws/15904	0	12	same	JJ	*	-	-	-	-	*	-
+selectraws/15904	0	13	first	JJ	*	-	-	-	-	*	-
+selectraws/15904	0	14	name	NN	*)))	-	-	-	-	*	3)
+selectraws/15904	0	15	are	VBP	(VP*	-	-	-	-	*	-
+selectraws/15904	0	16	marked	VBN	(VP*	-	-	-	-	*	-
+selectraws/15904	0	17	for	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	18	death	NN	(NP*))	-	-	-	-	*	-
+selectraws/15904	0	19	by	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	20	permanent	JJ	(NP*	-	-	-	-	*	-
+selectraws/15904	0	21	Ash	NNP	*	-	-	-	-	*	-
+selectraws/15904	0	22	Wednesday	NNP	*	-	-	-	-	(DATE)	-
+selectraws/15904	0	23	crosses	VBZ	*))))	-	-	-	-	*	-
+selectraws/15904	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15904	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+selectraws/15904	0	1	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws/15904	0	2	about	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	3	Dr.	NNP	(NP(NP*	-	-	-	-	(PERSON*	(4
+selectraws/15904	0	4	Urbino	NNP	*	-	-	-	-	*)	-
+selectraws/15904	0	5	's	POS	*)	-	-	-	-	*	4)
+selectraws/15904	0	6	death	NN	*))	-	-	-	-	*	-
+selectraws/15904	0	7	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15904	0	8	trying	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15904	0	9	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws/15904	0	10	capture	VB	(VP*	-	-	-	-	*	-
+selectraws/15904	0	11	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15904	0	12	parrot	NN	*)	-	-	-	-	*	-
+selectraws/15904	0	13	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	14	a	DT	(NP(NP*	-	-	-	-	*	(5
+selectraws/15904	0	15	novel	NN	*)	-	-	-	-	*	5)
+selectraws/15904	0	16	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15904	0	17	ends	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws/15904	0	18	with	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	19	Florentino	NNP	(NP(NP*	-	-	-	-	(PERSON*	(6
+selectraws/15904	0	20	Ariza	NNP	*)	-	-	-	-	*)	6)
+selectraws/15904	0	21	and	CC	*	-	-	-	-	*	-
+selectraws/15904	0	22	Fermina	NNP	(NP*	-	-	-	-	(PERSON*	(7
+selectraws/15904	0	23	Daza	NNP	*)))))))))	-	-	-	-	*)	7)
+selectraws/15904	0	24	sailing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15904	0	25	down	RP	(PRT*)	-	-	-	-	*	-
+selectraws/15904	0	26	a	DT	(NP*	-	-	-	-	*	-
+selectraws/15904	0	27	river	NN	*)))	-	-	-	-	*	-
+selectraws/15904	0	28	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws/15904	0	29	flying	VBG	(S(VP*	-	-	-	-	*	-
+selectraws/15904	0	30	a	DT	(NP*	-	-	-	-	*	-
+selectraws/15904	0	31	yellow	JJ	*	-	-	-	-	*	-
+selectraws/15904	0	32	flag	NN	*)))))))))))	-	-	-	-	*	-
+selectraws/15904	0	33	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15904	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws/15904	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws/15904	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	3	Love	NNP	(NP*))	-	-	-	-	*	(5
+selectraws/15904	0	4	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	5	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws/15904	0	6	Time	NN	*)	-	-	-	-	(ORGANIZATION*	-
+selectraws/15904	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	8	Cholera	NNP	(NP*)))))	-	-	-	-	*)	5)|1)
+selectraws/15904	0	9	created	VBD	(VP*	-	-	-	-	*	-
+selectraws/15904	0	10	Remedios	NNP	(NP(NP*)	-	-	-	-	*	(8)
+selectraws/15904	0	11	,	,	*	-	-	-	-	*	-
+selectraws/15904	0	12	Aurileano	NNP	(NP*)	-	-	-	-	(LOCATION)	(9)
+selectraws/15904	0	13	,	,	*	-	-	-	-	*	-
+selectraws/15904	0	14	and	CC	*	-	-	-	-	*	-
+selectraws/15904	0	15	other	JJ	(NP(NP*	-	-	-	-	*	(10
+selectraws/15904	0	16	descendents	NNS	*)	-	-	-	-	*	-
+selectraws/15904	0	17	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	18	Ursula	NNP	(NP*	-	-	-	-	(LOCATION)	(11)
+selectraws/15904	0	19	and	CC	*	-	-	-	-	*	-
+selectraws/15904	0	20	Jose	NNP	*	-	-	-	-	(PERSON*	(12
+selectraws/15904	0	21	Arcadio	NNP	*	-	-	-	-	*	-
+selectraws/15904	0	22	Buendia	NNP	*))))	-	-	-	-	*)	10)|12)
+selectraws/15904	0	23	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	24	a	DT	(NP(NP*	-	-	-	-	*	(13
+selectraws/15904	0	25	novel	NN	*)	-	-	-	-	*	13)
+selectraws/15904	0	26	set	VBN	(VP*	-	-	-	-	*	-
+selectraws/15904	0	27	in	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	28	Macondo	NNP	(NP*))))))	-	-	-	-	(LOCATION)	-
+selectraws/15904	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws/15904	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws/15904	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws/15904	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws/15904	0	3	,	,	*	-	-	-	-	*	-
+selectraws/15904	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws/15904	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws/15904	0	6	magical	JJ	*	-	-	-	-	*	-
+selectraws/15904	0	7	realist	NN	*	-	-	-	-	*	-
+selectraws/15904	0	8	author	NN	*)	-	-	-	-	*	1)
+selectraws/15904	0	9	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws/15904	0	10	wrote	VBD	(S(VP*	-	-	-	-	*	-
+selectraws/15904	0	11	One	CD	(NP(NP*	-	-	-	-	*	(13
+selectraws/15904	0	12	Hundred	NNP	*	-	-	-	-	*	-
+selectraws/15904	0	13	Years	NNS	*)	-	-	-	-	*	-
+selectraws/15904	0	14	of	IN	(PP*	-	-	-	-	*	-
+selectraws/15904	0	15	Solitude	NNP	(NP*))))))))	-	-	-	-	*	13)
+selectraws/15904	0	16	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

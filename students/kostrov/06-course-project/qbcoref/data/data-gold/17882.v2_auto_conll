@@ -1,0 +1,131 @@
+#begin document (selectraws1/17882); part 000
+
+selectraws1/17882	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(2
+selectraws1/17882	0	1	main	JJ	*	-	-	-	-	*	-
+selectraws1/17882	0	2	character	NN	*)	-	-	-	-	*	-
+selectraws1/17882	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17882	0	5	play	NN	*)))	-	-	-	-	*	1)|2)
+selectraws1/17882	0	6	keeps	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	7	switching	VBG	(NP*	-	-	-	-	*	-
+selectraws1/17882	0	8	costumes	NNS	*)	-	-	-	-	*	-
+selectraws1/17882	0	9	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	10	his	PRP$	(NP*	-	-	-	-	*	(3|(2)
+selectraws1/17882	0	11	servant	NN	*))	-	-	-	-	*	3)
+selectraws1/17882	0	12	,	,	*	-	-	-	-	*	-
+selectraws1/17882	0	13	because	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/17882	0	14	he	PRP	(S(NP*)	-	-	-	-	*	(2)
+selectraws1/17882	0	15	keeps	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	16	getting	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/17882	0	17	mistaken	VBN	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	18	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	19	the	DT	(NP*	-	-	-	-	*	(4
+selectraws1/17882	0	20	pea-soup-loving	JJ	*	-	-	-	-	*	-
+selectraws1/17882	0	21	Heracles	NNPS	*)))))))))	-	-	-	-	(ORGANIZATION)	4)
+selectraws1/17882	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17882	0	0	One	CD	(TOP(S(S(NP*	-	-	-	-	*	(5
+selectraws1/17882	0	1	character	NN	*)	-	-	-	-	*	5)
+selectraws1/17882	0	2	continually	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/17882	0	3	interrupts	VBZ	*	-	-	-	-	*	-
+selectraws1/17882	0	4	another	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws1/17882	0	5	character	NN	*	-	-	-	-	*	6)
+selectraws1/17882	0	6	's	POS	*)	-	-	-	-	*	-
+selectraws1/17882	0	7	recitations	NNS	*)	-	-	-	-	*	-
+selectraws1/17882	0	8	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	9	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17882	0	10	phrase	NN	*)	-	-	-	-	*	-
+selectraws1/17882	0	11	lost	VBN	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	12	his	PRP$	(NP*	-	-	-	-	*	-
+selectraws1/17882	0	13	oilcan	NN	*))))))	-	-	-	-	*	-
+selectraws1/17882	0	14	,	,	*	-	-	-	-	*	-
+selectraws1/17882	0	15	and	CC	*	-	-	-	-	*	-
+selectraws1/17882	0	16	that	DT	(S(NP*	-	-	-	-	*	(5
+selectraws1/17882	0	17	character	NN	*)	-	-	-	-	*	5)
+selectraws1/17882	0	18	also	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/17882	0	19	wins	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	20	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17882	0	21	contest	NN	*)	-	-	-	-	*	-
+selectraws1/17882	0	22	involving	VBG	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	23	speaking	VBG	(NP(NP*	-	-	-	-	*	-
+selectraws1/17882	0	24	lines	NNS	*)	-	-	-	-	*	-
+selectraws1/17882	0	25	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	26	poetry	NN	(NP*))	-	-	-	-	*	-
+selectraws1/17882	0	27	into	IN	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	28	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/17882	0	29	set	NN	*)	-	-	-	-	*	-
+selectraws1/17882	0	30	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	31	scales	NNS	(NP*))))))	-	-	-	-	*	-
+selectraws1/17882	0	32	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/17882	0	33	see	VB	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	34	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/17882	0	35	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/17882	0	36	heavier	JJR	(ADJP*))))))))))	-	-	-	-	*	-
+selectraws1/17882	0	37	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17882	0	0	Ultimately	RB	(TOP(S(ADVP*)	-	-	-	-	*	-
+selectraws1/17882	0	1	,	,	*	-	-	-	-	*	-
+selectraws1/17882	0	2	Aeschylus	NNP	(NP*)	-	-	-	-	*	(5)
+selectraws1/17882	0	3	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	4	chosen	VBN	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	5	over	IN	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	6	Euripides	NNS	(NP*))	-	-	-	-	(LOCATION)	(6)
+selectraws1/17882	0	7	because	IN	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	8	of	IN	*	-	-	-	-	*	-
+selectraws1/17882	0	9	his	PRP$	(NP(NP*	-	-	-	-	*	(5)
+selectraws1/17882	0	10	advice	NN	*)	-	-	-	-	*	-
+selectraws1/17882	0	11	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	12	how	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/17882	0	13	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/17882	0	14	save	VB	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	15	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/17882	0	16	city	NN	*))))))))))	-	-	-	-	*	-
+selectraws1/17882	0	17	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17882	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/17882	0	1	title	NN	*	-	-	-	-	*	-
+selectraws1/17882	0	2	creatures	NNS	*)	-	-	-	-	*	-
+selectraws1/17882	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17882	0	5	play	NN	*)))	-	-	-	-	*	1)|1)
+selectraws1/17882	0	6	annoy	VBP	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	7	Xanthias	NNPS	(NP*	-	-	-	-	*	(7)
+selectraws1/17882	0	8	and	CC	*	-	-	-	-	*	-
+selectraws1/17882	0	9	Dionysus	NNP	*)	-	-	-	-	*	(2)
+selectraws1/17882	0	10	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	11	their	PRP$	(NP(NP*	-	-	-	-	*	(1)
+selectraws1/17882	0	12	chanting	NN	*)	-	-	-	-	*	-
+selectraws1/17882	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	14	Brekekekex	NNP	(NP*	-	-	-	-	*	-
+selectraws1/17882	0	15	koax	NN	*	-	-	-	-	*	-
+selectraws1/17882	0	16	koax	NN	*)))))	-	-	-	-	*	-
+selectraws1/17882	0	17	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/17882	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/17882	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/17882	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/17882	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/17882	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	5	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/17882	0	6	Aristophanes	NNPS	*)	-	-	-	-	*	(9)
+selectraws1/17882	0	7	play	VB	(VP*	-	-	-	-	*	1)
+selectraws1/17882	0	8	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/17882	0	9	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/17882	0	10	Dionysus	NNP	(S(NP*)	-	-	-	-	(ORGANIZATION)	(2)
+selectraws1/17882	0	11	travels	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	12	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/17882	0	13	Hades	NNS	(NP*))	-	-	-	-	*	-
+selectraws1/17882	0	14	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/17882	0	15	bring	VB	(VP*	-	-	-	-	*	-
+selectraws1/17882	0	16	back	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/17882	0	17	a	DT	(NP*	-	-	-	-	*	(8
+selectraws1/17882	0	18	poet	NN	*)))))))))	-	-	-	-	*	8)
+selectraws1/17882	0	19	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

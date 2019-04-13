@@ -1,0 +1,150 @@
+#begin document (selectraws1/20680); part 000
+
+selectraws1/20680	0	0	One	CD	(TOP(S(NP(NP*)	-	-	-	-	*	(10
+selectraws1/20680	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	2	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/20680	0	3	mans	NNS	*	-	-	-	-	*	1)
+selectraws1/20680	0	4	works	NNS	*)))	-	-	-	-	*	10)
+selectraws1/20680	0	5	contains	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/20680	0	6	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20680	0	7	fable	NN	*)	-	-	-	-	*	-
+selectraws1/20680	0	8	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/20680	0	9	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/20680	0	10	a	DT	(S(NP*	-	-	-	-	*	(2
+selectraws1/20680	0	11	hawk	NN	*)	-	-	-	-	*	2)
+selectraws1/20680	0	12	flies	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20680	0	13	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	14	a	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/20680	0	15	nightingale	NN	*)	-	-	-	-	*	3)
+selectraws1/20680	0	16	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	17	his	PRP$	(NP*	-	-	-	-	*	(2)
+selectraws1/20680	0	18	claws	NNS	*)))))))))	-	-	-	-	*	-
+selectraws1/20680	0	19	and	CC	*	-	-	-	-	*	-
+selectraws1/20680	0	20	berates	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20680	0	21	it	PRP	(NP*)	-	-	-	-	*	(3)
+selectraws1/20680	0	22	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	23	resisting	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20680	0	24	a	DT	(NP*	-	-	-	-	*	(2
+selectraws1/20680	0	25	stronger	JJR	*	-	-	-	-	*	-
+selectraws1/20680	0	26	creature	NN	*))))))	-	-	-	-	*	2)
+selectraws1/20680	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20680	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	(10
+selectraws1/20680	0	1	work	NN	*)	-	-	-	-	*	10)
+selectraws1/20680	0	2	was	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20680	0	3	written	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20680	0	4	after	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/20680	0	5	his	PRP$	(S(NP*	-	-	-	-	*	(1)
+selectraws1/20680	0	6	spendthrift	NN	*	-	-	-	-	*	-
+selectraws1/20680	0	7	brother	NN	*)	-	-	-	-	*	-
+selectraws1/20680	0	8	sued	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20680	0	9	him	PRP	(NP*)	-	-	-	-	*	-
+selectraws1/20680	0	10	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	11	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/20680	0	12	inherited	VBN	*	-	-	-	-	*	-
+selectraws1/20680	0	13	sheep	NN	*)))))))	-	-	-	-	*	-
+selectraws1/20680	0	14	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20680	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/20680	0	1	man	NN	*)	-	-	-	-	*	1)
+selectraws1/20680	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20680	0	3	a	DT	(NP(NP*	-	-	-	-	*	(11
+selectraws1/20680	0	4	work	NN	*)	-	-	-	-	*	-
+selectraws1/20680	0	5	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/20680	0	6	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/20680	0	7	every	DT	(S(NP*	-	-	-	-	*	-
+selectraws1/20680	0	8	section	NN	*)	-	-	-	-	*	-
+selectraws1/20680	0	9	begins	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20680	0	10	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	11	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20680	0	12	phrase	NN	*))	-	-	-	-	*	-
+selectraws1/20680	0	13	e	FW	(PP(X*	-	-	-	-	*	-
+selectraws1/20680	0	14	hoie	FW	*	-	-	-	-	*	11)
+selectraws1/20680	0	15	[	SYM	(X*)	-	-	-	-	*	-
+selectraws1/20680	0	16	ay	RB	(ADJP*	-	-	-	-	*	-
+selectraws1/20680	0	17	HOY-ay	JJ	*)	-	-	-	-	*	-
+selectraws1/20680	0	18	]	SYM	(X*)	-	-	-	-	*	-
+selectraws1/20680	0	19	,	,	*	-	-	-	-	*	-
+selectraws1/20680	0	20	his	PRP$	(NP(NP*)	-	-	-	-	*	(1)
+selectraws1/20680	0	21	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/20680	0	22	\*	SYM	(X*)	-	-	-	-	*	-
+selectraws1/20680	0	23	-RRB-	-RRB-	*))	-	-	-	-	*	-
+selectraws1/20680	0	24	Catalogue	NNP	*)	-	-	-	-	*	(11
+selectraws1/20680	0	25	of	IN	*	-	-	-	-	*	-
+selectraws1/20680	0	26	Women	NNP	(NP*)))))))	-	-	-	-	*	11)
+selectraws1/20680	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20680	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20680	0	1	a	DT	(NP(NP*	-	-	-	-	*	(10
+selectraws1/20680	0	2	work	NN	*)	-	-	-	-	*	-
+selectraws1/20680	0	3	addressed	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20680	0	4	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	5	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/20680	0	6	brother	NN	*	-	-	-	-	*	-
+selectraws1/20680	0	7	Perses	NNP	*)))))	-	-	-	-	*	10)
+selectraws1/20680	0	8	,	,	*	-	-	-	-	*	-
+selectraws1/20680	0	9	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/20680	0	10	author	NN	*)	-	-	-	-	*	1)
+selectraws1/20680	0	11	gave	VBD	(VP(VP*	-	-	-	-	*	-
+selectraws1/20680	0	12	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20680	0	13	first	JJ	*	-	-	-	-	*	-
+selectraws1/20680	0	14	extant	JJ	*	-	-	-	-	*	-
+selectraws1/20680	0	15	account	NN	*)	-	-	-	-	*	-
+selectraws1/20680	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	17	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20680	0	18	Five	CD	*	-	-	-	-	*	-
+selectraws1/20680	0	19	Ages	NNPS	*))))	-	-	-	-	*	-
+selectraws1/20680	0	20	and	CC	*	-	-	-	-	*	-
+selectraws1/20680	0	21	described	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20680	0	22	advantageous	JJ	(NP*	-	-	-	-	*	-
+selectraws1/20680	0	23	farming	NN	*	-	-	-	-	*	-
+selectraws1/20680	0	24	practices	NNS	*)))	-	-	-	-	*	-
+selectraws1/20680	0	25	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20680	0	0	An	DT	(TOP(S(NP(NP*	-	-	-	-	*	(12
+selectraws1/20680	0	1	epic	NN	*)	-	-	-	-	*	-
+selectraws1/20680	0	2	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	3	this	DT	(NP*	-	-	-	-	*	-
+selectraws1/20680	0	4	poet	NN	*)))	-	-	-	-	*	12)
+selectraws1/20680	0	5	describes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20680	0	6	the	DT	(NP(NP(NP*	-	-	-	-	*	-
+selectraws1/20680	0	7	creation	NN	*)	-	-	-	-	*	-
+selectraws1/20680	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	9	Gaia	NNP	(NP*))	-	-	-	-	*	-
+selectraws1/20680	0	10	out	IN	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	11	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	12	Chaos	NNP	(NP*))))	-	-	-	-	*	-
+selectraws1/20680	0	13	and	CC	*	-	-	-	-	*	-
+selectraws1/20680	0	14	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20680	0	15	genealogies	NNS	*)	-	-	-	-	*	-
+selectraws1/20680	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	17	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20680	0	18	gods	NNS	*)))))	-	-	-	-	*	-
+selectraws1/20680	0	19	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20680	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20680	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/20680	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/20680	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/20680	0	4	identify	VB	(VP*	-	-	-	-	*	-
+selectraws1/20680	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/20680	0	6	ancient	JJ	*	-	-	-	-	*	-
+selectraws1/20680	0	7	Greek	JJ	*	-	-	-	-	*	-
+selectraws1/20680	0	8	poet	NN	*)	-	-	-	-	*	-
+selectraws1/20680	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20680	0	10	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20680	0	11	Theogony	NNP	*	-	-	-	-	*	(12)
+selectraws1/20680	0	12	and	CC	*	-	-	-	-	*	-
+selectraws1/20680	0	13	Works	NNP	*	-	-	-	-	*	(10
+selectraws1/20680	0	14	and	CC	*	-	-	-	-	*	-
+selectraws1/20680	0	15	Days	NNPS	*))))	-	-	-	-	*	10)|1)
+selectraws1/20680	0	16	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+
