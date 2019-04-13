@@ -1,0 +1,8 @@
+PREFIX : <http://dbpedia.org/resource/>
+
+SELECT *
+WHERE {
+ ?person ?p ?o .
+ ?person dbo:birthPlace :Ukraine .
+}
+LIMIT 500
