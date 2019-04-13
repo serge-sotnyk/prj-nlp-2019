@@ -1,0 +1,127 @@
+#begin document (notdoneraws/20824); part 000
+
+notdoneraws/20824	0	0	Two	CD	(TOP(S(S(NP(NP*	-	-	-	-	*	(3
+notdoneraws/20824	0	1	characters	NNS	*)	-	-	-	-	*	-
+notdoneraws/20824	0	2	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	3	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20824	0	4	novel	NN	*)))	-	-	-	-	*	1)|3)
+notdoneraws/20824	0	5	agree	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	6	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	7	marry	VB	(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	8	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	9	writing	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	10	chalk	NN	(NP*	-	-	-	-	*	-
+notdoneraws/20824	0	11	letters	NNS	*)	-	-	-	-	*	-
+notdoneraws/20824	0	12	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	13	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/20824	0	14	dinner	NN	*	-	-	-	-	*	-
+notdoneraws/20824	0	15	table	NN	*))))))))))	-	-	-	-	*	-
+notdoneraws/20824	0	16	,	,	*	-	-	-	-	*	-
+notdoneraws/20824	0	17	and	CC	*	-	-	-	-	*	-
+notdoneraws/20824	0	18	this	DT	(S(NP(NP*	-	-	-	-	*	(1|(1
+notdoneraws/20824	0	19	novel	NN	*	-	-	-	-	*	1)
+notdoneraws/20824	0	20	's	POS	*)	-	-	-	-	*	-
+notdoneraws/20824	0	21	protagonist	NN	*)	-	-	-	-	*	1)
+notdoneraws/20824	0	22	lends	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	23	her	PRP$	(NP*	-	-	-	-	*	(1)
+notdoneraws/20824	0	24	name	NN	*)	-	-	-	-	*	-
+notdoneraws/20824	0	25	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	26	Tomas	NNS	(NP(NP*)	-	-	-	-	(PERSON)	(6|(4)
+notdoneraws/20824	0	27	and	CC	*	-	-	-	-	*	-
+notdoneraws/20824	0	28	Tereza	NNP	(NP(NP(NP*	-	-	-	-	(PERSON)	(5)
+notdoneraws/20824	0	29	's	POS	*)	-	-	-	-	*	-
+notdoneraws/20824	0	30	dog	NN	*)	-	-	-	-	*	6)
+notdoneraws/20824	0	31	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	32	The	DT	(NP(NP*	-	-	-	-	*	(7
+notdoneraws/20824	0	33	Unbearable	NNP	*	-	-	-	-	*	-
+notdoneraws/20824	0	34	Lightness	NNP	*)	-	-	-	-	*	-
+notdoneraws/20824	0	35	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	36	Being	VBG	(NP*)))))))))	-	-	-	-	*	7)
+notdoneraws/20824	0	37	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20824	0	0	One	CD	(TOP(S(NP*	-	-	-	-	*	(8
+notdoneraws/20824	0	1	character	NN	*)	-	-	-	-	*	8)
+notdoneraws/20824	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	3	influenced	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	4	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	5	the	DT	(NP*	-	-	-	-	*	(9
+notdoneraws/20824	0	6	French	JJ	*	-	-	-	-	*	-
+notdoneraws/20824	0	7	psychic	JJ	*	-	-	-	-	*	9)
+notdoneraws/20824	0	8	Landau	NNP	*))))	-	-	-	-	(PERSON)	(9)
+notdoneraws/20824	0	9	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20824	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/20824	0	1	begins	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	2	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	3	describing	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	4	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/20824	0	5	infidelities	NNS	*)	-	-	-	-	*	-
+notdoneraws/20824	0	6	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	7	Stepan	NNP	(NP(NP*	-	-	-	-	(PERSON*	(10
+notdoneraws/20824	0	8	Oblonsky	NNP	*)	-	-	-	-	*)	10)
+notdoneraws/20824	0	9	,	,	*	-	-	-	-	*	-
+notdoneraws/20824	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/20824	0	11	is	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	12	married	JJ	(ADJP*	-	-	-	-	*	-
+notdoneraws/20824	0	13	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	14	Dolly	NNP	(NP*)))))))))))))	-	-	-	-	*	(11)
+notdoneraws/20824	0	15	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20824	0	0	Kitty	NN	(TOP(S(NP*)	-	-	-	-	(PERSON)	(12)
+notdoneraws/20824	0	1	ends	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	2	up	RP	(PRT*)	-	-	-	-	*	-
+notdoneraws/20824	0	3	happily	RB	(S(VP(ADVP*)	-	-	-	-	*	-
+notdoneraws/20824	0	4	married	VBN	*	-	-	-	-	*	-
+notdoneraws/20824	0	5	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	6	Konstantin	NNP	(NP*	-	-	-	-	(PERSON*	(13
+notdoneraws/20824	0	7	Levin	NNP	*))	-	-	-	-	*)	13)
+notdoneraws/20824	0	8	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	9	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/20824	0	10	novel	NN	*)	-	-	-	-	*	1)
+notdoneraws/20824	0	11	,	,	*	-	-	-	-	*	-
+notdoneraws/20824	0	12	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/20824	0	13	focuses	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	14	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	15	Count	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	(14
+notdoneraws/20824	0	16	Vronsky	NNP	*	-	-	-	-	*)	14)
+notdoneraws/20824	0	17	's	POS	*)	-	-	-	-	*	-
+notdoneraws/20824	0	18	affair	NN	*))	-	-	-	-	*	-
+notdoneraws/20824	0	19	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	20	the	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20824	0	21	title	NN	*	-	-	-	-	*	-
+notdoneraws/20824	0	22	character	NN	*))))))))))	-	-	-	-	*	1)
+notdoneraws/20824	0	23	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20824	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/20824	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/20824	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/20824	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/20824	0	6	novel	NN	*)	-	-	-	-	*	1)
+notdoneraws/20824	0	7	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+notdoneraws/20824	0	8	which	WDT	(WHNP*))	-	-	-	-	*	-
+notdoneraws/20824	0	9	the	DT	(S(NP*	-	-	-	-	*	(1
+notdoneraws/20824	0	10	title	NN	*	-	-	-	-	*	-
+notdoneraws/20824	0	11	character	NN	*)	-	-	-	-	*	1)
+notdoneraws/20824	0	12	throws	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	13	herself	PRP	(NP*)	-	-	-	-	*	(1)
+notdoneraws/20824	0	14	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	15	front	NN	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/20824	0	16	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	17	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/20824	0	18	train	NN	*)	-	-	-	-	*	-
+notdoneraws/20824	0	19	,	,	*	-	-	-	-	*	-
+notdoneraws/20824	0	20	written	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20824	0	21	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20824	0	22	Leo	NNP	(NP*	-	-	-	-	(PERSON*	(2
+notdoneraws/20824	0	23	Tolstoy	NNP	*))))))))))))	-	-	-	-	*)	2)
+notdoneraws/20824	0	24	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

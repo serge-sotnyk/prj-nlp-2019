@@ -1,0 +1,102 @@
+#begin document (selectraws1/20); part 000
+
+selectraws1/20	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/20	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws1/20	0	2	noted	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20	0	3	that	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/20	0	4	Not	RB	(S(NP(NP*	-	-	-	-	*	-
+selectraws1/20	0	5	all	PDT	*	-	-	-	-	*	-
+selectraws1/20	0	6	the	DT	*	-	-	-	-	*	-
+selectraws1/20	0	7	vats	NNS	*)	-	-	-	-	*	-
+selectraws1/20	0	8	upon	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	9	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20	0	10	Rhine	NNP	*)))	-	-	-	-	*	-
+selectraws1/20	0	11	yield	VB	(VP*	-	-	-	-	*	-
+selectraws1/20	0	12	such	JJ	(NP*	-	-	-	-	*	-
+selectraws1/20	0	13	an	DT	*	-	-	-	-	*	-
+selectraws1/20	0	14	alcohol	NN	*)	-	-	-	-	*	-
+selectraws1/20	0	15	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	16	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/20	0	17	poem	NN	*)	-	-	-	-	*	2)
+selectraws1/20	0	18	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	19	tasting	NN	(S(VP*	-	-	-	-	*	(2
+selectraws1/20	0	20	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20	0	21	liquor	NN	*)	-	-	-	-	*	-
+selectraws1/20	0	22	never	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/20	0	23	brewed	VBN	*)))))))))))	-	-	-	-	*	2)
+selectraws1/20	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/20	0	1	poet	NN	*)	-	-	-	-	*	1)
+selectraws1/20	0	2	wrote	VBD	(VP(VP*	-	-	-	-	*	-
+selectraws1/20	0	3	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	4	experiencing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20	0	5	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/20	0	6	tighter	JJR	*	-	-	-	-	*	-
+selectraws1/20	0	7	breathing	NN	*)))))	-	-	-	-	*	-
+selectraws1/20	0	8	and	CC	*	-	-	-	-	*	-
+selectraws1/20	0	9	zero	VBP	(VP*	-	-	-	-	*	-
+selectraws1/20	0	10	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	11	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20	0	12	bone	NN	*))	-	-	-	-	*	-
+selectraws1/20	0	13	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	-
+selectraws1/20	0	14	encountering	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20	0	15	a	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/20	0	16	snake	NN	*)	-	-	-	-	*	3)
+selectraws1/20	0	17	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	18	a	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/20	0	19	poem	NN	*)	-	-	-	-	*	3)
+selectraws1/20	0	20	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	21	a	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/20	0	22	narrow	JJ	*	-	-	-	-	*	-
+selectraws1/20	0	23	fellow	NN	*)	-	-	-	-	*	-
+selectraws1/20	0	24	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	25	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20	0	26	grass	NN	*))))))))))))	-	-	-	-	*	3)
+selectraws1/20	0	27	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/20	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws1/20	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	3	Im	NNP	(NP(NP*	-	-	-	-	*	-
+selectraws1/20	0	4	Nobody	NN	*)	-	-	-	-	*	-
+selectraws1/20	0	5	,	,	*	-	-	-	-	*	-
+selectraws1/20	0	6	Who	WP	(SBARQ(WHNP*)	-	-	-	-	*	-
+selectraws1/20	0	7	Are	VBP	(SQ(VP*	-	-	-	-	*	-
+selectraws1/20	0	8	You	PRP	(NP*)))	-	-	-	-	*	-
+selectraws1/20	0	9	?	.	*))))	-	-	-	-	*	1)
+selectraws1/20	0	10	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20	0	11	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	12	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20	0	13	carriage	JJ	*	-	-	-	-	*	-
+selectraws1/20	0	14	ride	NN	*)	-	-	-	-	*	-
+selectraws1/20	0	15	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	16	death	NN	(NP*))))	-	-	-	-	*	-
+selectraws1/20	0	17	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	18	another	DT	(NP*	-	-	-	-	*	(4
+selectraws1/20	0	19	poem	NN	*)))	-	-	-	-	*	4)
+selectraws1/20	0	20	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/20	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/20	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/20	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/20	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/20	0	6	reclusive	JJ	*	-	-	-	-	*	-
+selectraws1/20	0	7	American	JJ	*	-	-	-	-	*	-
+selectraws1/20	0	8	poet	NN	*)	-	-	-	-	*	1)
+selectraws1/20	0	9	known	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20	0	10	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	11	the	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/20	0	12	Belle	NNP	*)	-	-	-	-	(ORGANIZATION*	-
+selectraws1/20	0	13	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20	0	14	Amherst	NNP	(NP*)))))))	-	-	-	-	*)	1)
+selectraws1/20	0	15	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

@@ -1,0 +1,119 @@
+#begin document (selectraws1/20299); part 000
+
+selectraws1/20299	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/20299	0	1	author	NN	*)	-	-	-	-	*	1)
+selectraws1/20299	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20299	0	3	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/20299	0	4	short	JJ	*	-	-	-	-	*	-
+selectraws1/20299	0	5	story	NN	*)	-	-	-	-	*	2)
+selectraws1/20299	0	6	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/20299	0	7	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/20299	0	8	Simon	NNP	(S(NP*)	-	-	-	-	(ORGANIZATION)	(10)
+selectraws1/20299	0	9	takes	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20299	0	10	in	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/20299	0	11	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20299	0	12	freezing	NN	*	-	-	-	-	*	-
+selectraws1/20299	0	13	man	NN	*)	-	-	-	-	*	-
+selectraws1/20299	0	14	,	,	*	-	-	-	-	*	-
+selectraws1/20299	0	15	Michael	NNP	(NP*)	-	-	-	-	(PERSON)	(12)
+selectraws1/20299	0	16	,	,	*)	-	-	-	-	*	-
+selectraws1/20299	0	17	as	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	18	his	PRP$	(NP*	-	-	-	-	*	(12|(10)
+selectraws1/20299	0	19	apprentice	JJ	*	-	-	-	-	*	-
+selectraws1/20299	0	20	shoemaker	NN	*)))))))	-	-	-	-	*	12)
+selectraws1/20299	0	21	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20299	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/20299	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws1/20299	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	3	What	WP	(SBAR(WHNP*)	-	-	-	-	*	(2
+selectraws1/20299	0	4	Men	NNS	(S(NP(NP*)	-	-	-	-	*	-
+selectraws1/20299	0	5	Live	JJ	(ADJP*	-	-	-	-	*	-
+selectraws1/20299	0	6	By	IN	(PP*)))	-	-	-	-	*	2)|1)
+selectraws1/20299	0	7	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20299	0	8	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	9	a	DT	(NP(NP*	-	-	-	-	*	(13
+selectraws1/20299	0	10	government	NN	*	-	-	-	-	*	-
+selectraws1/20299	0	11	clerk	NN	*)	-	-	-	-	*	13)
+selectraws1/20299	0	12	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/20299	0	13	imagines	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/20299	0	14	himself	PRP	(NP*)))))))))))	-	-	-	-	*	(13)
+selectraws1/20299	0	15	stuffed	VBD	(VP(VP*	-	-	-	-	*	-
+selectraws1/20299	0	16	into	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	17	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/20299	0	18	bag	NN	*)))	-	-	-	-	*	-
+selectraws1/20299	0	19	and	CC	*	-	-	-	-	*	-
+selectraws1/20299	0	20	later	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/20299	0	21	finds	VBZ	*	-	-	-	-	*	-
+selectraws1/20299	0	22	solace	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/20299	0	23	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	24	Gerasim	NNP	(NP*)))	-	-	-	-	*	-
+selectraws1/20299	0	25	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/20299	0	26	accepting	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20299	0	27	his	PRP$	(NP*	-	-	-	-	*	(13)
+selectraws1/20299	0	28	mortality	NN	*))))))	-	-	-	-	*	-
+selectraws1/20299	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20299	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20299	0	1	another	DT	(NP*	-	-	-	-	*	-
+selectraws1/20299	0	2	work	NN	*))	-	-	-	-	*	-
+selectraws1/20299	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/20299	0	4	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/20299	0	5	author	NN	*)	-	-	-	-	*	-
+selectraws1/20299	0	6	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	7	The	DT	(NP(NP*	-	-	-	-	*	(3
+selectraws1/20299	0	8	Death	NNP	*)	-	-	-	-	*	-
+selectraws1/20299	0	9	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	10	Ivan	NNP	(NP*	-	-	-	-	(PERSON*	(13
+selectraws1/20299	0	11	Ilyich	NNP	*)))))	-	-	-	-	*)	1)|3)|13)
+selectraws1/20299	0	12	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20299	0	13	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	14	Kittys	NNP	(NP(NP*	-	-	-	-	*	(14)
+selectraws1/20299	0	15	marriage	NN	*)	-	-	-	-	*	-
+selectraws1/20299	0	16	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	17	Konstantin	NNP	(NP(NP*	-	-	-	-	(PERSON*	(12
+selectraws1/20299	0	18	Levin	NNP	*)	-	-	-	-	*)	12)
+selectraws1/20299	0	19	and	CC	*	-	-	-	-	*	-
+selectraws1/20299	0	20	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20299	0	21	title	NN	*	-	-	-	-	*	(15
+selectraws1/20299	0	22	characters	NNS	*	-	-	-	-	*	15)
+selectraws1/20299	0	23	relationship	NN	*)	-	-	-	-	*	-
+selectraws1/20299	0	24	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	25	Vronsky	NNP	(NP*)))))))	-	-	-	-	*	(16)
+selectraws1/20299	0	26	,	,	*	-	-	-	-	*	-
+selectraws1/20299	0	27	ending	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20299	0	28	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	29	her	PRP$	(NP*	-	-	-	-	*	(15)
+selectraws1/20299	0	30	suicide	NN	*))	-	-	-	-	*	-
+selectraws1/20299	0	31	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	32	throwing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20299	0	33	herself	PRP	(NP*)	-	-	-	-	*	(15)
+selectraws1/20299	0	34	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	35	front	NN	(NP(NP*)	-	-	-	-	*	-
+selectraws1/20299	0	36	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	37	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/20299	0	38	train	NN	*))))))))))	-	-	-	-	*	-
+selectraws1/20299	0	39	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20299	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20299	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/20299	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/20299	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/20299	0	4	name	VB	(VP*	-	-	-	-	*	(1
+selectraws1/20299	0	5	this	DT	(NP*	-	-	-	-	*	-
+selectraws1/20299	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws1/20299	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20299	0	8	Anna	NNP	(NP(NP*	-	-	-	-	(PERSON*	(15
+selectraws1/20299	0	9	Karenina	NNP	*	-	-	-	-	*)	15)
+selectraws1/20299	0	10	and	CC	*	-	-	-	-	*	-
+selectraws1/20299	0	11	War	NNP	*)	-	-	-	-	*	(4
+selectraws1/20299	0	12	and	CC	*	-	-	-	-	*	-
+selectraws1/20299	0	13	Peace	NNP	*)))	-	-	-	-	*	1)|4)
+selectraws1/20299	0	14	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

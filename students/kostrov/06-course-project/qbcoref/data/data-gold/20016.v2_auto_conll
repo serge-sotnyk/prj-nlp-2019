@@ -1,0 +1,114 @@
+#begin document (selectraws1/20016); part 000
+
+selectraws1/20016	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	(1
+selectraws1/20016	0	1	man	NN	*)	-	-	-	-	*	1)
+selectraws1/20016	0	2	wrote	VBD	(VP(VP*	-	-	-	-	*	-
+selectraws1/20016	0	3	a	DT	(NP(NP*	-	-	-	-	*	(6
+selectraws1/20016	0	4	novel	NN	*)	-	-	-	-	*	6)
+selectraws1/20016	0	5	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+selectraws1/20016	0	6	which	WDT	(WHNP*))	-	-	-	-	*	-
+selectraws1/20016	0	7	a	DT	(S(NP*	-	-	-	-	*	(6
+selectraws1/20016	0	8	deaf-mute	NN	*)	-	-	-	-	*	6)
+selectraws1/20016	0	9	boards	NNS	(VP*	-	-	-	-	*	-
+selectraws1/20016	0	10	a	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20016	0	11	steamboat	NN	*)	-	-	-	-	*	-
+selectraws1/20016	0	12	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/20016	0	13	April	NNP	(NP*	-	-	-	-	(DATE*	-
+selectraws1/20016	0	14	Fools	NNP	*	-	-	-	-	*	-
+selectraws1/20016	0	15	Day	NNP	*))))))))	-	-	-	-	*)	-
+selectraws1/20016	0	16	and	CC	*	-	-	-	-	*	-
+selectraws1/20016	0	17	tries	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20016	0	18	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/20016	0	19	trick	VB	(VP*	-	-	-	-	*	-
+selectraws1/20016	0	20	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20016	0	21	passengers	NNS	*))))))	-	-	-	-	*	-
+selectraws1/20016	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20016	0	0	In	IN	(TOP(S(S(PP*	-	-	-	-	*	-
+selectraws1/20016	0	1	one	CD	(NP(NP*)	-	-	-	-	*	(7
+selectraws1/20016	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20016	0	3	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/20016	0	4	short	JJ	*	-	-	-	-	*	-
+selectraws1/20016	0	5	stories	NNS	*))))	-	-	-	-	*	7)
+selectraws1/20016	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/20016	0	7	Nippers	NNP	(NP(NP*)	-	-	-	-	(ORGANIZATION)	(11|(8)
+selectraws1/20016	0	8	,	,	*	-	-	-	-	*	-
+selectraws1/20016	0	9	Turkey	NNP	(NP*)	-	-	-	-	(LOCATION)	(9)
+selectraws1/20016	0	10	,	,	*	-	-	-	-	*	-
+selectraws1/20016	0	11	and	CC	*	-	-	-	-	*	-
+selectraws1/20016	0	12	Ginger	NNP	(NP*	-	-	-	-	*	(10
+selectraws1/20016	0	13	Nut	NNP	*))	-	-	-	-	*	11)|10)
+selectraws1/20016	0	14	are	VBP	(VP*	-	-	-	-	*	-
+selectraws1/20016	0	15	coworkers	NNS	(NP(NP*)	-	-	-	-	*	(11
+selectraws1/20016	0	16	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20016	0	17	the	DT	(NP(NP*	-	-	-	-	*	(12
+selectraws1/20016	0	18	titular	JJ	*	-	-	-	-	*	-
+selectraws1/20016	0	19	Wall	NNP	*	-	-	-	-	*	-
+selectraws1/20016	0	20	Street	NNP	*	-	-	-	-	*	-
+selectraws1/20016	0	21	worker	NN	*)	-	-	-	-	*	11)|12)
+selectraws1/20016	0	22	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/20016	0	23	responds	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/20016	0	24	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/20016	0	25	requests	NNS	(NP(NP*)	-	-	-	-	*	-
+selectraws1/20016	0	26	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/20016	0	27	saying	VBG	(S(VP*)))))))))))))	-	-	-	-	*	-
+selectraws1/20016	0	28	,	,	*	-	-	-	-	*	-
+selectraws1/20016	0	29	I	PRP	(S(NP*)	-	-	-	-	*	(12)
+selectraws1/20016	0	30	would	MD	(VP*	-	-	-	-	*	-
+selectraws1/20016	0	31	prefer	VB	(VP*	-	-	-	-	*	-
+selectraws1/20016	0	32	not	RB	(S*	-	-	-	-	*	-
+selectraws1/20016	0	33	to	TO	(VP*)))))	-	-	-	-	*	-
+selectraws1/20016	0	34	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20016	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/20016	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws1/20016	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20016	0	3	The	DT	(NP*	-	-	-	-	*	(6
+selectraws1/20016	0	4	Confidence	NN	*	-	-	-	-	*	-
+selectraws1/20016	0	5	Man	NNP	*	-	-	-	-	*	6)
+selectraws1/20016	0	6	and	CC	*	-	-	-	-	*	-
+selectraws1/20016	0	7	Bartelby	NNP	*	-	-	-	-	*	(7|(12)
+selectraws1/20016	0	8	the	NNP	*	-	-	-	-	*	(12
+selectraws1/20016	0	9	Scrivener	NNP	*)))	-	-	-	-	(PERSON)	1)|12)|7)
+selectraws1/20016	0	10	also	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/20016	0	11	created	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20016	0	12	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/20016	0	13	foretopman	NN	*)	-	-	-	-	*	2)
+selectraws1/20016	0	14	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/20016	0	15	murders	NNS	(S(VP*	-	-	-	-	*	-
+selectraws1/20016	0	16	John	NNP	(NP*	-	-	-	-	(PERSON*	(13
+selectraws1/20016	0	17	Claggart	NNP	*))))))	-	-	-	-	*)	13)
+selectraws1/20016	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20016	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20016	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/20016	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/20016	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/20016	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/20016	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/20016	0	6	author	NN	*)	-	-	-	-	*	-
+selectraws1/20016	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20016	0	8	Billy	NNP	(NP*	-	-	-	-	(PERSON*	(2
+selectraws1/20016	0	9	Budd	NNP	*))	-	-	-	-	*)	2)|1)
+selectraws1/20016	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/20016	0	11	created	VBD	(S(VP*	-	-	-	-	*	-
+selectraws1/20016	0	12	Queequeg	NNP	(NP(NP(NP*)	-	-	-	-	(LOCATION)	(3)
+selectraws1/20016	0	13	,	,	*	-	-	-	-	*	-
+selectraws1/20016	0	14	the	DT	(NP*	-	-	-	-	*	(3
+selectraws1/20016	0	15	Pequod	NNP	*)	-	-	-	-	*	3)
+selectraws1/20016	0	16	,	,	*	-	-	-	-	*	-
+selectraws1/20016	0	17	and	CC	*	-	-	-	-	*	-
+selectraws1/20016	0	18	Captain	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION*	(4
+selectraws1/20016	0	19	Ahab	NNP	*)	-	-	-	-	*)	4)
+selectraws1/20016	0	20	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20016	0	21	Moby	NNP	(NP*))))	-	-	-	-	(LOCATION)	(5
+selectraws1/20016	0	22	-	:	*	-	-	-	-	*	-
+selectraws1/20016	0	23	Dick	NNP	(NP*)))))))	-	-	-	-	(PERSON)	5)
+selectraws1/20016	0	24	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

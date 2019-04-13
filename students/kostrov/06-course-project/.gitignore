@@ -1,2 +1,2 @@
-qbcoref
+qbcoref/**/*.*_conll
 !qbcoref/**/2*.*_conll

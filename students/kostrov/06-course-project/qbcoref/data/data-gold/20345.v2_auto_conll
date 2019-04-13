@@ -1,0 +1,163 @@
+#begin document (selectraws1/20345); part 000
+
+selectraws1/20345	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	(3
+selectraws1/20345	0	1	short	JJ	*	-	-	-	-	*	-
+selectraws1/20345	0	2	story	NN	*)	-	-	-	-	*	-
+selectraws1/20345	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/20345	0	5	author	NN	*)))	-	-	-	-	*	3)|1)
+selectraws1/20345	0	6	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	7	narrated	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	8	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	9	an	DT	(NP(NP*	-	-	-	-	*	(4
+selectraws1/20345	0	10	algebra	JJ	*	-	-	-	-	*	-
+selectraws1/20345	0	11	teacher	NN	*)	-	-	-	-	*	4)
+selectraws1/20345	0	12	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/20345	0	13	daughter	NN	*)	-	-	-	-	*	(5)
+selectraws1/20345	0	14	,	,	(S(PRN*	-	-	-	-	*	-
+selectraws1/20345	0	15	Grace	NNP	*	-	-	-	-	(ORGANIZATION)	(5)
+selectraws1/20345	0	16	,	,	*)	-	-	-	-	*	-
+selectraws1/20345	0	17	has	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	18	just	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/20345	0	19	died	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	20	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	21	polio	NN	(NP*))))))))))	-	-	-	-	*	-
+selectraws1/20345	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20345	0	0	That	DT	(TOP(S(NP(NP(NP*	-	-	-	-	*	(4|(6
+selectraws1/20345	0	1	narrator	NN	*	-	-	-	-	*	4)
+selectraws1/20345	0	2	's	POS	*)	-	-	-	-	*	-
+selectraws1/20345	0	3	drug	NN	*	-	-	-	-	*	-
+selectraws1/20345	0	4	addict	NN	*	-	-	-	-	*	-
+selectraws1/20345	0	5	brother	NN	*)	-	-	-	-	*	6)
+selectraws1/20345	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/20345	0	7	the	DT	(NP*	-	-	-	-	*	(6
+selectraws1/20345	0	8	title	NN	*	-	-	-	-	*	-
+selectraws1/20345	0	9	character	NN	*)	-	-	-	-	*	6)
+selectraws1/20345	0	10	,	,	*)	-	-	-	-	*	-
+selectraws1/20345	0	11	comes	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/20345	0	12	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/20345	0	13	stay	VB	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	14	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	15	him	PRP	(NP*))))))	-	-	-	-	*	(4)
+selectraws1/20345	0	16	and	CC	*	-	-	-	-	*	-
+selectraws1/20345	0	17	plays	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	18	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	19	Creole	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION)	(7)
+selectraws1/20345	0	20	's	POS	*)	-	-	-	-	*	-
+selectraws1/20345	0	21	jazz	NN	*	-	-	-	-	*	-
+selectraws1/20345	0	22	band	NN	*))))	-	-	-	-	*	-
+selectraws1/20345	0	23	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20345	0	0	Another	DT	(TOP(S(NP(NP*	-	-	-	-	*	(8
+selectraws1/20345	0	1	short	JJ	*	-	-	-	-	*	-
+selectraws1/20345	0	2	story	NN	*)	-	-	-	-	*	-
+selectraws1/20345	0	3	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	4	this	DT	(NP*	-	-	-	-	*	(1
+selectraws1/20345	0	5	author	NN	*)))	-	-	-	-	*	1)|8)
+selectraws1/20345	0	6	ends	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	7	with	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/20345	0	8	Jesse	NNP	(S(NP*)	-	-	-	-	(PERSON)	(9)
+selectraws1/20345	0	9	only	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/20345	0	10	being	VBG	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	11	able	JJ	(ADJP*	-	-	-	-	*	-
+selectraws1/20345	0	12	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/20345	0	13	have	VB	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	14	sex	NN	(NP*)	-	-	-	-	*	-
+selectraws1/20345	0	15	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	16	his	PRP$	(NP*	-	-	-	-	*	(10|(9)
+selectraws1/20345	0	17	wife	NN	*	-	-	-	-	*	10)
+selectraws1/20345	0	18	Grace	NNP	*))	-	-	-	-	*	(10)
+selectraws1/20345	0	19	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	20	remembering	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20345	0	21	seeing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20345	0	22	a	DT	(S(S(NP(NP*	-	-	-	-	*	(11
+selectraws1/20345	0	23	man	NN	*	-	-	-	-	*	11)
+selectraws1/20345	0	24	's	POS	*)	-	-	-	-	*	-
+selectraws1/20345	0	25	testicles	NNS	*)	-	-	-	-	*	-
+selectraws1/20345	0	26	cut	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	27	off	RP	(PRT*)))	-	-	-	-	*	-
+selectraws1/20345	0	28	and	CC	*	-	-	-	-	*	-
+selectraws1/20345	0	29	his	PRP$	(S(NP*	-	-	-	-	*	(11)
+selectraws1/20345	0	30	body	NN	*)	-	-	-	-	*	-
+selectraws1/20345	0	31	burnt	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	32	at	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	33	a	DT	(NP*	-	-	-	-	*	-
+selectraws1/20345	0	34	lynching	NN	*))))))))))))))))))	-	-	-	-	*	-
+selectraws1/20345	0	35	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20345	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/20345	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws1/20345	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	3	Sonny	NNP	(NP(NP(NP*	-	-	-	-	(ORGANIZATION)	(3
+selectraws1/20345	0	4	's	POS	*)	-	-	-	-	*	-
+selectraws1/20345	0	5	Blues	NNPS	*)	-	-	-	-	*	3)
+selectraws1/20345	0	6	and	CC	*	-	-	-	-	*	-
+selectraws1/20345	0	7	Going	VBG	(S(VP*	-	-	-	-	*	(8
+selectraws1/20345	0	8	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/20345	0	9	Meet	VB	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	10	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20345	0	11	Man	NN	*)))))))))	-	-	-	-	*	1)|8)
+selectraws1/20345	0	12	wrote	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	13	a	DT	(NP(NP*	-	-	-	-	*	(2
+selectraws1/20345	0	14	novel	NN	*)	-	-	-	-	*	2)
+selectraws1/20345	0	15	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/20345	0	16	protagonist	NN	*)	-	-	-	-	*	(12)
+selectraws1/20345	0	17	wrestles	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/20345	0	18	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	19	a	DT	(NP(NP*	-	-	-	-	*	(13
+selectraws1/20345	0	20	handsome	JJ	*	-	-	-	-	*	-
+selectraws1/20345	0	21	teenager	NN	*)	-	-	-	-	*	13)
+selectraws1/20345	0	22	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	23	Elisha	NNP	(S(NP*))))))))))	-	-	-	-	(PERSON)	(13)
+selectraws1/20345	0	24	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20345	0	0	That	DT	(TOP(S(NP*	-	-	-	-	*	(2
+selectraws1/20345	0	1	novel	NN	*)	-	-	-	-	*	2)
+selectraws1/20345	0	2	tells	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	3	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	4	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20345	0	5	spiritual	JJ	*	-	-	-	-	*	-
+selectraws1/20345	0	6	encounter	NN	*)	-	-	-	-	*	-
+selectraws1/20345	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	8	young	JJ	(NP(NP*	-	-	-	-	*	(12
+selectraws1/20345	0	9	Harlem	NNP	*	-	-	-	-	(LOCATION)	-
+selectraws1/20345	0	10	resident	NN	*	-	-	-	-	*	12)
+selectraws1/20345	0	11	John	NNP	*)	-	-	-	-	(PERSON)	(12)
+selectraws1/20345	0	12	,	,	*	-	-	-	-	*	-
+selectraws1/20345	0	13	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/20345	0	14	abusive	JJ	*	-	-	-	-	*	(14
+selectraws1/20345	0	15	father	NN	*)	-	-	-	-	*	14)
+selectraws1/20345	0	16	is	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/20345	0	17	a	DT	(NP(NP*	-	-	-	-	*	(14
+selectraws1/20345	0	18	church	NN	*	-	-	-	-	*	-
+selectraws1/20345	0	19	deacon	NN	*)	-	-	-	-	*	14)
+selectraws1/20345	0	20	named	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	21	Gabriel	NNP	(S(NP*))))))))))))	-	-	-	-	(PERSON)	(14)
+selectraws1/20345	0	22	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20345	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20345	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/20345	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/20345	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/20345	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/20345	0	6	African-American	JJ	*	-	-	-	-	*	-
+selectraws1/20345	0	7	author	NN	*)	-	-	-	-	*	-
+selectraws1/20345	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	9	Go	NNP	(NP*)))	-	-	-	-	*	(2
+selectraws1/20345	0	10	Tell	VB	(VP*	-	-	-	-	*	-
+selectraws1/20345	0	11	It	PRP	(NP*)	-	-	-	-	*	-
+selectraws1/20345	0	12	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/20345	0	13	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20345	0	14	Mountain	NNP	*))))	-	-	-	-	(ORGANIZATION)	2)|1)
+selectraws1/20345	0	15	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

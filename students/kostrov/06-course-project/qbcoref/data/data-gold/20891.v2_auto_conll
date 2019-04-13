@@ -1,0 +1,103 @@
+#begin document (notdoneraws/20891); part 000
+
+notdoneraws/20891	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/20891	0	1	one	CD	(NP(NP*	-	-	-	-	*	(5
+notdoneraws/20891	0	2	work	NN	*)	-	-	-	-	*	-
+notdoneraws/20891	0	3	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20891	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20891	0	5	author	NN	*))))	-	-	-	-	*	1)|5)
+notdoneraws/20891	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/20891	0	7	Harry	NNP	(NP*)	-	-	-	-	(PERSON)	(6)
+notdoneraws/20891	0	8	dies	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20891	0	9	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20891	0	10	gangrene	NN	(NP*))	-	-	-	-	*	-
+notdoneraws/20891	0	11	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20891	0	12	Africa	NNP	(NP*)))	-	-	-	-	(LOCATION)	-
+notdoneraws/20891	0	13	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20891	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/20891	0	1	addition	NN	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/20891	0	2	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/20891	0	3	The	DT	(NP(NP*	-	-	-	-	*	(5
+notdoneraws/20891	0	4	Snows	NNPS	*)	-	-	-	-	*	-
+notdoneraws/20891	0	5	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20891	0	6	Kilimanjaro	NNP	(NP*))))))	-	-	-	-	(LOCATION)	5)
+notdoneraws/20891	0	7	,	,	*	-	-	-	-	*	-
+notdoneraws/20891	0	8	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20891	0	9	man	NN	*)	-	-	-	-	*	1)
+notdoneraws/20891	0	10	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/20891	0	11	a	DT	(NP(NP*	-	-	-	-	*	(3
+notdoneraws/20891	0	12	novel	NN	*)	-	-	-	-	*	3)
+notdoneraws/20891	0	13	in	IN	(SBAR(WHPP*	-	-	-	-	*	-
+notdoneraws/20891	0	14	which	WDT	(WHNP*))	-	-	-	-	*	-
+notdoneraws/20891	0	15	Robert	NNP	(S(NP*	-	-	-	-	(PERSON*	(7
+notdoneraws/20891	0	16	Cohn	NNP	*)	-	-	-	-	*)	7)
+notdoneraws/20891	0	17	beats	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20891	0	18	up	RP	(PRT*)	-	-	-	-	*	-
+notdoneraws/20891	0	19	Pedro	NNP	(NP*	-	-	-	-	(PERSON*	(8
+notdoneraws/20891	0	20	Romero	NNP	*)	-	-	-	-	*)	8)
+notdoneraws/20891	0	21	over	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20891	0	22	Lady	NNP	(NP(NP*	-	-	-	-	*	(9
+notdoneraws/20891	0	23	Brett	NNP	*	-	-	-	-	(PERSON*	-
+notdoneraws/20891	0	24	Ashley	NNP	*)	-	-	-	-	*)	9)
+notdoneraws/20891	0	25	,	,	*	-	-	-	-	*	-
+notdoneraws/20891	0	26	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/20891	0	27	is	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/20891	0	28	also	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/20891	0	29	loved	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20891	0	30	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20891	0	31	Jake	NNP	(NP*	-	-	-	-	(PERSON*	(10
+notdoneraws/20891	0	32	Barnes	NNP	*)))))))))))))	-	-	-	-	*)	10)
+notdoneraws/20891	0	33	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20891	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/20891	0	1	one	CD	(NP*	-	-	-	-	*	(4
+notdoneraws/20891	0	2	short	JJ	*	-	-	-	-	*	-
+notdoneraws/20891	0	3	story	NN	*))	-	-	-	-	*	4)
+notdoneraws/20891	0	4	,	,	*	-	-	-	-	*	-
+notdoneraws/20891	0	5	Manolin	NNP	(NP*)	-	-	-	-	(PERSON)	(11)
+notdoneraws/20891	0	6	comforts	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/20891	0	7	an	DT	(NP*	-	-	-	-	*	(2
+notdoneraws/20891	0	8	aged	VBN	*	-	-	-	-	*	-
+notdoneraws/20891	0	9	fisherman	NN	*)	-	-	-	-	*	2)
+notdoneraws/20891	0	10	after	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/20891	0	11	sharks	NNS	(S(NP*)	-	-	-	-	*	-
+notdoneraws/20891	0	12	eat	VBP	(VP*	-	-	-	-	*	-
+notdoneraws/20891	0	13	that	DT	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/20891	0	14	fisherman	NN	*	-	-	-	-	*	2)
+notdoneraws/20891	0	15	's	POS	*)	-	-	-	-	*	-
+notdoneraws/20891	0	16	huge	JJ	*	-	-	-	-	*	-
+notdoneraws/20891	0	17	marlin	NN	*)))))	-	-	-	-	*	-
+notdoneraws/20891	0	18	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20891	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/20891	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/20891	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/20891	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/20891	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/20891	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/20891	0	6	creator	NN	*)	-	-	-	-	*	-
+notdoneraws/20891	0	7	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20891	0	8	Santiago	NNP	(NP(NP*)	-	-	-	-	(LOCATION)	(2)|1)
+notdoneraws/20891	0	9	and	CC	*	-	-	-	-	*	-
+notdoneraws/20891	0	10	author	NN	(NP(NP*)	-	-	-	-	*	(1
+notdoneraws/20891	0	11	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20891	0	12	The	DT	(NP(NP*	-	-	-	-	*	(3
+notdoneraws/20891	0	13	Sun	NNP	*	-	-	-	-	*	-
+notdoneraws/20891	0	14	Also	RB	*	-	-	-	-	*	-
+notdoneraws/20891	0	15	Rises	NNP	*)	-	-	-	-	*	3)
+notdoneraws/20891	0	16	and	CC	*	-	-	-	-	*	-
+notdoneraws/20891	0	17	The	DT	(NP(NP*	-	-	-	-	*	(4|(2
+notdoneraws/20891	0	18	Old	NNP	*	-	-	-	-	*	-
+notdoneraws/20891	0	19	Man	NNP	*)	-	-	-	-	*	2)
+notdoneraws/20891	0	20	and	CC	*	-	-	-	-	*	-
+notdoneraws/20891	0	21	the	DT	(NP*	-	-	-	-	*	-
+notdoneraws/20891	0	22	Sea	NNP	*)))))))))	-	-	-	-	*	1)|4)
+notdoneraws/20891	0	23	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

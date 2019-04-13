@@ -1,0 +1,125 @@
+#begin document (notdoneraws/20066); part 000
+
+notdoneraws/20066	0	0	This	DT	(TOP(S(NP(NP(NP*	-	-	-	-	*	(3|(1
+notdoneraws/20066	0	1	author	NN	*	-	-	-	-	*	1)
+notdoneraws/20066	0	2	's	POS	*)	-	-	-	-	*	-
+notdoneraws/20066	0	3	play	NN	*)	-	-	-	-	*	3)
+notdoneraws/20066	0	4	William	NNP	(NP*	-	-	-	-	(PERSON*	(3
+notdoneraws/20066	0	5	Ratcliff	NNP	*))	-	-	-	-	*)	3)
+notdoneraws/20066	0	6	was	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	7	adapted	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	8	into	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	9	an	DT	(NP*	-	-	-	-	*	(4
+notdoneraws/20066	0	10	opera	NN	*))	-	-	-	-	*	4)
+notdoneraws/20066	0	11	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	12	Cesar	NNP	(NP*	-	-	-	-	(PERSON*	(5
+notdoneraws/20066	0	13	Cui	NNP	*))))	-	-	-	-	*)	5)
+notdoneraws/20066	0	14	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20066	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(6
+notdoneraws/20066	0	1	speaker	NN	*)	-	-	-	-	*	6)
+notdoneraws/20066	0	2	pledges	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	3	to	TO	(S(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	4	battle	VB	(VP(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	5	the	DT	(NP*	-	-	-	-	*	(7
+notdoneraws/20066	0	6	new	JJ	*	-	-	-	-	*	-
+notdoneraws/20066	0	7	gods	NNS	*))	-	-	-	-	*	7)
+notdoneraws/20066	0	8	and	CC	*	-	-	-	-	*	-
+notdoneraws/20066	0	9	support	VB	(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	10	the	DT	(NP(NP*	-	-	-	-	*	(8
+notdoneraws/20066	0	11	old	JJ	*	-	-	-	-	*	-
+notdoneraws/20066	0	12	ones	NNS	*)	-	-	-	-	*	8)
+notdoneraws/20066	0	13	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	14	his	PRP$	(NP*	-	-	-	-	*	(9|(1)
+notdoneraws/20066	0	15	poem	NN	*))))	-	-	-	-	*	9)
+notdoneraws/20066	0	16	The	DT	(NP(NP*	-	-	-	-	*	(9
+notdoneraws/20066	0	17	Greek	JJ	*	-	-	-	-	*	-
+notdoneraws/20066	0	18	Gods	NNS	*)	-	-	-	-	*	9)
+notdoneraws/20066	0	19	,	,	*	-	-	-	-	*	-
+notdoneraws/20066	0	20	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/20066	0	21	is	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	22	part	NN	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/20066	0	23	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	24	the	DT	(NP(NP*	-	-	-	-	*	(10
+notdoneraws/20066	0	25	North	NNP	*	-	-	-	-	*	-
+notdoneraws/20066	0	26	Sea	NNP	*	-	-	-	-	*	-
+notdoneraws/20066	0	27	cycle	NN	*)	-	-	-	-	*	10)
+notdoneraws/20066	0	28	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	29	his	PRP$	(NP*	-	-	-	-	*	(11|(1)
+notdoneraws/20066	0	30	most	RBS	(ADJP*	-	-	-	-	*	-
+notdoneraws/20066	0	31	famous	JJ	*)	-	-	-	-	*	-
+notdoneraws/20066	0	32	poetry	NN	*	-	-	-	-	*	-
+notdoneraws/20066	0	33	collection	NN	*)))))))))))))	-	-	-	-	*	11)
+notdoneraws/20066	0	34	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20066	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/20066	0	1	also	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/20066	0	2	wrote	VBD	(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	3	an	DT	(NP(NP*	-	-	-	-	*	(12
+notdoneraws/20066	0	4	epic	NN	*	-	-	-	-	*	-
+notdoneraws/20066	0	5	poem	NN	*)	-	-	-	-	*	12)
+notdoneraws/20066	0	6	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	7	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/20066	0	8	dancing	NN	*	-	-	-	-	*	-
+notdoneraws/20066	0	9	bear	NN	*)	-	-	-	-	*	-
+notdoneraws/20066	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/20066	0	11	escapes	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	12	and	CC	*	-	-	-	-	*	-
+notdoneraws/20066	0	13	starts	VBZ	*	-	-	-	-	*	-
+notdoneraws/20066	0	14	a	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/20066	0	15	revolution	NN	*)	-	-	-	-	*	-
+notdoneraws/20066	0	16	against	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	17	humanity	NN	(NP*))	-	-	-	-	*	-
+notdoneraws/20066	0	18	,	,	*	-	-	-	-	*	-
+notdoneraws/20066	0	19	entitled	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	20	Atta	NNP	(S(NP*	-	-	-	-	(PERSON*	(12
+notdoneraws/20066	0	21	Troll	NNP	*)))))))))))	-	-	-	-	*)	12)
+notdoneraws/20066	0	22	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20066	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(1)
+notdoneraws/20066	0	1	is	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	2	best	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/20066	0	3	known	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	4	for	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	5	a	DT	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/20066	0	6	poem	NN	*)	-	-	-	-	*	-
+notdoneraws/20066	0	7	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	8	the	DT	(NP(NP*	-	-	-	-	*	(11
+notdoneraws/20066	0	9	Book	NN	*)	-	-	-	-	*	-
+notdoneraws/20066	0	10	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	11	Songs	NNS	(NP*))))	-	-	-	-	*	11)|2)
+notdoneraws/20066	0	12	about	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	13	a	DT	(NP(NP*	-	-	-	-	*	(2
+notdoneraws/20066	0	14	beautiful	JJ	*	-	-	-	-	*	-
+notdoneraws/20066	0	15	maiden	NN	*)	-	-	-	-	*	2)
+notdoneraws/20066	0	16	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/20066	0	17	lures	VBZ	(S(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	18	sailors	NNS	(NP*)	-	-	-	-	*	(13)
+notdoneraws/20066	0	19	to	TO	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	20	their	PRP$	(NP*	-	-	-	-	*	(13)
+notdoneraws/20066	0	21	death	NN	*))	-	-	-	-	*	-
+notdoneraws/20066	0	22	with	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	23	her	PRP$	(NP*	-	-	-	-	*	(2)
+notdoneraws/20066	0	24	song	NN	*)))))))))))	-	-	-	-	*	-
+notdoneraws/20066	0	25	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20066	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/20066	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/20066	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/20066	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/20066	0	5	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20066	0	6	German	JJ	*	-	-	-	-	*	-
+notdoneraws/20066	0	7	poet	NN	*)	-	-	-	-	*	-
+notdoneraws/20066	0	8	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20066	0	9	The	DT	(NP*	-	-	-	-	(ORGANIZATION*	(2
+notdoneraws/20066	0	10	Lorelei	NNP	*)))	-	-	-	-	*)	2)|1)
+notdoneraws/20066	0	11	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

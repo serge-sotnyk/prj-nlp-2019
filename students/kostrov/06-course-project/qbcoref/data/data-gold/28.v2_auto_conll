@@ -1,0 +1,121 @@
+#begin document (selectraws1/28); part 000
+
+selectraws1/28	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/28	0	1	mans	NNS	*	-	-	-	-	*	1)
+selectraws1/28	0	2	experience	NN	*)	-	-	-	-	*	-
+selectraws1/28	0	3	covering	VBG	(VP*	-	-	-	-	*	-
+selectraws1/28	0	4	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/28	0	5	Greco-Turkish	NNP	*	-	-	-	-	*	-
+selectraws1/28	0	6	War	NNP	*)))	-	-	-	-	*	-
+selectraws1/28	0	7	formed	VBD	(VP*	-	-	-	-	*	-
+selectraws1/28	0	8	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/28	0	9	basis	NN	*)	-	-	-	-	*	-
+selectraws1/28	0	10	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/28	0	11	his	PRP$	(NP*	-	-	-	-	*	(3|(1)
+selectraws1/28	0	12	novel	NN	*	-	-	-	-	*	3)
+selectraws1/28	0	13	Active	NNP	*	-	-	-	-	(ORGANIZATION*	(3
+selectraws1/28	0	14	Service	NNP	*))))	-	-	-	-	*)	3)
+selectraws1/28	0	15	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/28	0	0	Another	DT	(TOP(S(NP(NP*)	-	-	-	-	*	(4
+selectraws1/28	0	1	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/28	0	2	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/28	0	3	novels	NNS	*)))	-	-	-	-	*	4)
+selectraws1/28	0	4	sees	VBZ	(VP(VP*	-	-	-	-	*	-
+selectraws1/28	0	5	the	DT	(NP*	-	-	-	-	*	(6
+selectraws1/28	0	6	title	NN	*	-	-	-	-	*	-
+selectraws1/28	0	7	character	NN	*	-	-	-	-	*	6)
+selectraws1/28	0	8	date	NN	*)	-	-	-	-	*	-
+selectraws1/28	0	9	the	DT	(NP*	-	-	-	-	*	(5
+selectraws1/28	0	10	bartender	JJR	*	-	-	-	-	*	5)
+selectraws1/28	0	11	Pete	NNP	*))	-	-	-	-	(PERSON)	(5)
+selectraws1/28	0	12	,	,	*	-	-	-	-	*	-
+selectraws1/28	0	13	but	CC	*	-	-	-	-	*	-
+selectraws1/28	0	14	eventually	RB	(VP(ADVP*)	-	-	-	-	*	-
+selectraws1/28	0	15	turn	VBP	*	-	-	-	-	*	-
+selectraws1/28	0	16	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/28	0	17	prostitution	NN	(NP*))))	-	-	-	-	*	-
+selectraws1/28	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/28	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/28	0	1	one	CD	(NP(NP*)	-	-	-	-	*	(7
+selectraws1/28	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/28	0	3	his	PRP$	(NP*	-	-	-	-	*	(1)
+selectraws1/28	0	4	short	JJ	*	-	-	-	-	*	-
+selectraws1/28	0	5	stories	NNS	*))))	-	-	-	-	*	7)
+selectraws1/28	0	6	,	,	*	-	-	-	-	*	-
+selectraws1/28	0	7	Billie	NNP	(NP*)	-	-	-	-	*	(8)
+selectraws1/28	0	8	the	DT	(NP*	-	-	-	-	*	(8
+selectraws1/28	0	9	oiler	NN	*)	-	-	-	-	*	8)
+selectraws1/28	0	10	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/28	0	11	found	VBN	(VP*	-	-	-	-	*	-
+selectraws1/28	0	12	dead	JJ	(S(ADJP*))	-	-	-	-	*	-
+selectraws1/28	0	13	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/28	0	14	trying	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/28	0	15	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/28	0	16	swim	VB	(VP*	-	-	-	-	*	-
+selectraws1/28	0	17	ashore	RB	(ADVP*)))))))))	-	-	-	-	*	-
+selectraws1/28	0	18	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/28	0	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	*	(1
+selectraws1/28	0	1	author	NN	*)	-	-	-	-	*	-
+selectraws1/28	0	2	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/28	0	3	Maggie	NNP	(NP(NP*)	-	-	-	-	*	(4|(6)
+selectraws1/28	0	4	:	:	*	-	-	-	-	*	-
+selectraws1/28	0	5	A	NNP	(NP(NP(NP*	-	-	-	-	*	-
+selectraws1/28	0	6	Girl	NNP	*)	-	-	-	-	*	-
+selectraws1/28	0	7	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/28	0	8	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/28	0	9	Streets	NNPS	*)))	-	-	-	-	*	4)
+selectraws1/28	0	10	and	CC	*	-	-	-	-	*	-
+selectraws1/28	0	11	The	DT	(NP*	-	-	-	-	*	(7
+selectraws1/28	0	12	Open	NNP	*	-	-	-	-	*	-
+selectraws1/28	0	13	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+selectraws1/28	0	14	\*	SYM	(NP*)	-	-	-	-	*	-
+selectraws1/28	0	15	-RRB-	-RRB-	*)	-	-	-	-	*	-
+selectraws1/28	0	16	Boat	NNP	*)))))	-	-	-	-	*	1)|7)
+selectraws1/28	0	17	is	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/28	0	18	best	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/28	0	19	known	VBN	(VP*	-	-	-	-	*	-
+selectraws1/28	0	20	for	IN	(PP*	-	-	-	-	*	-
+selectraws1/28	0	21	writing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/28	0	22	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/28	0	23	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/28	0	24	304th	JJ	*	-	-	-	-	*	-
+selectraws1/28	0	25	New	NNP	*	-	-	-	-	(LOCATION*	-
+selectraws1/28	0	26	York	NNP	*	-	-	-	-	*)	-
+selectraws1/28	0	27	regiment	NN	*)	-	-	-	-	*	-
+selectraws1/28	0	28	,	,	*	-	-	-	-	*	-
+selectraws1/28	0	29	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/28	0	30	members	NNS	*)	-	-	-	-	*	-
+selectraws1/28	0	31	include	VBP	(S(VP*	-	-	-	-	*	-
+selectraws1/28	0	32	Jim	NNP	(NP(NP*	-	-	-	-	(PERSON*	(9
+selectraws1/28	0	33	Conklin	NNP	*)	-	-	-	-	*)	9)
+selectraws1/28	0	34	and	CC	*	-	-	-	-	*	-
+selectraws1/28	0	35	Henry	NNP	(NP*	-	-	-	-	(PERSON*	(10
+selectraws1/28	0	36	Fleming	NNP	*))))))))))))	-	-	-	-	*)	10)
+selectraws1/28	0	37	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/28	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/28	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/28	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/28	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/28	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/28	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/28	0	6	American	JJ	*	-	-	-	-	*	-
+selectraws1/28	0	7	author	NN	*)	-	-	-	-	*	-
+selectraws1/28	0	8	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/28	0	9	The	DT	(NP(NP*	-	-	-	-	(ORGANIZATION*	(2
+selectraws1/28	0	10	Red	NNP	*	-	-	-	-	*	-
+selectraws1/28	0	11	Badge	NNP	*)	-	-	-	-	*	-
+selectraws1/28	0	12	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/28	0	13	Courage	NNP	(NP*))))))	-	-	-	-	*)	2)|1)
+selectraws1/28	0	14	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

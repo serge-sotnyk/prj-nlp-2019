@@ -1,0 +1,150 @@
+#begin document (selectraws1/20905); part 000
+
+selectraws1/20905	0	0	If	IN	(TOP(S(SBAR*	-	-	-	-	*	-
+selectraws1/20905	0	1	for	IN	(S(PP*	-	-	-	-	*	-
+selectraws1/20905	0	2	some	DT	(NP*	-	-	-	-	*	-
+selectraws1/20905	0	3	reason	NN	*))	-	-	-	-	*	-
+selectraws1/20905	0	4	you	PRP	(NP*)	-	-	-	-	*	(4)
+selectraws1/20905	0	5	care	VBP	(VP*	-	-	-	-	*	-
+selectraws1/20905	0	6	what	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/20905	0	7	Christopher	NNP	(S(NP*	-	-	-	-	(PERSON*	(5
+selectraws1/20905	0	8	Hitchens	NNP	*)	-	-	-	-	*)	5)
+selectraws1/20905	0	9	thinks	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20905	0	10	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	11	literature	NN	(NP*))))))))	-	-	-	-	*	-
+selectraws1/20905	0	12	,	,	*	-	-	-	-	*	-
+selectraws1/20905	0	13	you	PRP	(NP*)	-	-	-	-	*	(4)
+selectraws1/20905	0	14	know	VBP	(VP*	-	-	-	-	*	-
+selectraws1/20905	0	15	he	PRP	(SBAR(S(NP*)	-	-	-	-	*	(5)
+selectraws1/20905	0	16	considers	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20905	0	17	the	DT	(S(NP*	-	-	-	-	*	(1
+selectraws1/20905	0	18	Great	NNP	*	-	-	-	-	*	-
+selectraws1/20905	0	19	American	NNP	*	-	-	-	-	*	-
+selectraws1/20905	0	20	Novel	NNP	*)	-	-	-	-	*	1)
+selectraws1/20905	0	21	to	TO	(VP*	-	-	-	-	*	-
+selectraws1/20905	0	22	be	VB	(VP*	-	-	-	-	*	-
+selectraws1/20905	0	23	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/20905	0	24	work	NN	*)	-	-	-	-	*	1)
+selectraws1/20905	0	25	,	,	*	-	-	-	-	*	-
+selectraws1/20905	0	26	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+selectraws1/20905	0	27	oddly-named	JJ	*	-	-	-	-	*	(6
+selectraws1/20905	0	28	minor	JJ	*	-	-	-	-	*	-
+selectraws1/20905	0	29	characters	NNS	*)	-	-	-	-	*	6)
+selectraws1/20905	0	30	include	VBP	(S(VP*	-	-	-	-	*	-
+selectraws1/20905	0	31	Lollie	NNP	(NP(NP*	-	-	-	-	(PERSON*	(7
+selectraws1/20905	0	32	Fewter	NNP	*)	-	-	-	-	*)	7)
+selectraws1/20905	0	33	and	CC	*	-	-	-	-	*	-
+selectraws1/20905	0	34	Five	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(8
+selectraws1/20905	0	35	Properties	NNP	*	-	-	-	-	*	-
+selectraws1/20905	0	36	Coblin	NNP	*)))))))))))))	-	-	-	-	*)	8)
+selectraws1/20905	0	37	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20905	0	0	Early	RB	(TOP(S(ADVP*	-	-	-	-	*	-
+selectraws1/20905	0	1	on	RB	*)	-	-	-	-	*	-
+selectraws1/20905	0	2	,	,	*	-	-	-	-	*	-
+selectraws1/20905	0	3	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	4	an	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20905	0	5	ill-advised	JJ	*	-	-	-	-	*	-
+selectraws1/20905	0	6	relationship	NN	*)	-	-	-	-	*	-
+selectraws1/20905	0	7	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	8	Frazer	NNP	(NP*))))	-	-	-	-	(PERSON)	(9)
+selectraws1/20905	0	9	,	,	*	-	-	-	-	*	-
+selectraws1/20905	0	10	Mimi	NNP	(NP*	-	-	-	-	(PERSON*	(10
+selectraws1/20905	0	11	Villars	NNPS	*)	-	-	-	-	*)	10)
+selectraws1/20905	0	12	gets	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20905	0	13	an	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20905	0	14	abortion	NN	*)	-	-	-	-	*	-
+selectraws1/20905	0	15	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	16	the	DT	(NP(NP(NP*	-	-	-	-	*	(2
+selectraws1/20905	0	17	protagonist	NN	*	-	-	-	-	*	2)
+selectraws1/20905	0	18	's	POS	*)	-	-	-	-	*	-
+selectraws1/20905	0	19	help	NN	*)	-	-	-	-	*	-
+selectraws1/20905	0	20	,	,	*	-	-	-	-	*	-
+selectraws1/20905	0	21	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/20905	0	22	cuts	VBZ	(S(VP*	-	-	-	-	*	-
+selectraws1/20905	0	23	off	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/20905	0	24	his	PRP$	(NP*	-	-	-	-	*	(2)
+selectraws1/20905	0	25	relationship	NN	*)	-	-	-	-	*	-
+selectraws1/20905	0	26	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	27	Lucy	NNP	(NP*	-	-	-	-	(PERSON*	(11
+selectraws1/20905	0	28	Magnus	NNP	*)))))))))	-	-	-	-	*)	11)
+selectraws1/20905	0	29	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20905	0	0	Later	RB	(TOP(S(ADVP*)	-	-	-	-	*	-
+selectraws1/20905	0	1	,	,	*	-	-	-	-	*	-
+selectraws1/20905	0	2	that	DT	(NP*	-	-	-	-	*	(2
+selectraws1/20905	0	3	protagonist	NN	*)	-	-	-	-	*	2)
+selectraws1/20905	0	4	turns	VBZ	(VP*	-	-	-	-	*	-
+selectraws1/20905	0	5	down	RP	(PRT*)	-	-	-	-	*	-
+selectraws1/20905	0	6	Bateshaw	NNP	(NP(NP*	-	-	-	-	(ORGANIZATION)	(12)
+selectraws1/20905	0	7	's	POS	*)	-	-	-	-	*	-
+selectraws1/20905	0	8	offer	NN	*	-	-	-	-	*	-
+selectraws1/20905	0	9	to	TO	(S(VP*	-	-	-	-	*	-
+selectraws1/20905	0	10	work	VB	(VP*	-	-	-	-	*	-
+selectraws1/20905	0	11	on	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	12	protoplasmic	JJ	(NP*	-	-	-	-	*	-
+selectraws1/20905	0	13	experiments	NNS	*))	-	-	-	-	*	-
+selectraws1/20905	0	14	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	15	escaping	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20905	0	16	the	DT	(NP(NP*	-	-	-	-	*	-
+selectraws1/20905	0	17	wreck	NN	*)	-	-	-	-	*	-
+selectraws1/20905	0	18	of	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	19	the	DT	(NP*	-	-	-	-	*	-
+selectraws1/20905	0	20	MacManus	NNP	*	-	-	-	-	(ORGANIZATION)	-
+selectraws1/20905	0	21	and	CC	*	-	-	-	-	*	-
+selectraws1/20905	0	22	returns	NNS	*)))	-	-	-	-	*	-
+selectraws1/20905	0	23	to	TO	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	24	Stella	NNP	(NP(NP*)	-	-	-	-	(LOCATION)	(13)
+selectraws1/20905	0	25	,	,	*	-	-	-	-	*	-
+selectraws1/20905	0	26	whom	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+selectraws1/20905	0	27	he	PRP	(S(NP*)	-	-	-	-	*	(2)
+selectraws1/20905	0	28	met	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20905	0	29	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	30	Mexico	NNP	(NP*))	-	-	-	-	(LOCATION)	-
+selectraws1/20905	0	31	while	IN	(SBAR*	-	-	-	-	*	-
+selectraws1/20905	0	32	falconing	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20905	0	33	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	34	Thea	NNP	(NP*	-	-	-	-	(PERSON*	(14
+selectraws1/20905	0	35	Fenchel	NNP	*))))))))))))))))))	-	-	-	-	*)	14)
+selectraws1/20905	0	36	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20905	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	*	(2)
+selectraws1/20905	0	1	'd	VBD	(VP*	-	-	-	-	*	-
+selectraws1/20905	0	2	gone	VBN	(VP*	-	-	-	-	*	-
+selectraws1/20905	0	3	there	RB	(ADVP*)	-	-	-	-	*	-
+selectraws1/20905	0	4	after	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	5	working	VBG	(S(VP*	-	-	-	-	*	-
+selectraws1/20905	0	6	with	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	7	the	DT	(NP(NP*	-	-	-	-	*	(15
+selectraws1/20905	0	8	financier	NN	*	-	-	-	-	*	15)
+selectraws1/20905	0	9	Einhorn	NNP	*)	-	-	-	-	(PERSON)	(15)
+selectraws1/20905	0	10	in	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	11	its	PRP$	(NP*	-	-	-	-	*	(16|(1)
+selectraws1/20905	0	12	early	JJ	*	-	-	-	-	*	-
+selectraws1/20905	0	13	chapters	NNS	*)))))))))	-	-	-	-	*	16)
+selectraws1/20905	0	14	.	.	*))	-	-	-	-	*	-
+
+
+selectraws1/20905	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+selectraws1/20905	0	1	10	CD	(NP*	-	-	-	-	*	-
+selectraws1/20905	0	2	points	NNS	*))	-	-	-	-	*	-
+selectraws1/20905	0	3	,	,	*	-	-	-	-	*	-
+selectraws1/20905	0	4	name	VB	(VP*	-	-	-	-	*	-
+selectraws1/20905	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+selectraws1/20905	0	6	picaresque	JJ	*	-	-	-	-	*	-
+selectraws1/20905	0	7	novel	NN	*)	-	-	-	-	*	-
+selectraws1/20905	0	8	about	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	9	a	DT	(NP*	-	-	-	-	*	(2
+selectraws1/20905	0	10	Chicago-born	JJ	*	-	-	-	-	*	-
+selectraws1/20905	0	11	American	NNP	*)))	-	-	-	-	*	2)
+selectraws1/20905	0	12	by	IN	(PP*	-	-	-	-	*	-
+selectraws1/20905	0	13	Saul	NNP	(NP*	-	-	-	-	(PERSON*	(3
+selectraws1/20905	0	14	Bellow	NNP	*)))	-	-	-	-	*)	3)|1)
+selectraws1/20905	0	15	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+

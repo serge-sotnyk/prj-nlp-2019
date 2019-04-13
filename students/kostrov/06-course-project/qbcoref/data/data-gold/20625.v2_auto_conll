@@ -1,0 +1,110 @@
+#begin document (notdoneraws/20625); part 000
+
+notdoneraws/20625	0	0	One	CD	(TOP(S(NP(NP*	-	-	-	-	*	(5
+notdoneraws/20625	0	1	character	NN	*)	-	-	-	-	*	-
+notdoneraws/20625	0	2	created	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20625	0	3	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20625	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20625	0	5	writer	NN	*))))	-	-	-	-	*	5)|1)
+notdoneraws/20625	0	6	visits	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20625	0	7	Mademoiselle	NNP	(NP*	-	-	-	-	(ORGANIZATION*	(6
+notdoneraws/20625	0	8	Diana	NNP	*)	-	-	-	-	*)	6)
+notdoneraws/20625	0	9	after	IN	(SBAR*	-	-	-	-	*	-
+notdoneraws/20625	0	10	he	PRP	(S(NP*)	-	-	-	-	*	(5)
+notdoneraws/20625	0	11	loses	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20625	0	12	an	DT	(NP*	-	-	-	-	*	(8
+notdoneraws/20625	0	13	important	JJ	*	-	-	-	-	*	-
+notdoneraws/20625	0	14	document	NN	*)	-	-	-	-	*	8)
+notdoneraws/20625	0	15	on	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20625	0	16	his	PRP$	(NP(NP*	-	-	-	-	*	(5)
+notdoneraws/20625	0	17	return	NN	*)	-	-	-	-	*	-
+notdoneraws/20625	0	18	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20625	0	19	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/20625	0	20	bachelor	NN	*	-	-	-	-	*	-
+notdoneraws/20625	0	21	party	NN	*))))))))	-	-	-	-	*	-
+notdoneraws/20625	0	22	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20625	0	0	Another	DT	(TOP(S(NP*	-	-	-	-	*	(2
+notdoneraws/20625	0	1	character	NN	*)	-	-	-	-	*	2)
+notdoneraws/20625	0	2	throws	VBZ	(VP(VP*	-	-	-	-	*	-
+notdoneraws/20625	0	3	that	DT	(NP*	-	-	-	-	*	(8
+notdoneraws/20625	0	4	document	NN	*)	-	-	-	-	*	8)
+notdoneraws/20625	0	5	into	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20625	0	6	a	DT	(NP*	-	-	-	-	*	-
+notdoneraws/20625	0	7	fire	NN	*)))	-	-	-	-	*	-
+notdoneraws/20625	0	8	and	CC	*	-	-	-	-	*	-
+notdoneraws/20625	0	9	avoids	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20625	0	10	blackmail	VB	(NP*)	-	-	-	-	*	-
+notdoneraws/20625	0	11	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20625	0	12	Judge	NNP	(NP*	-	-	-	-	(PERSON*	(7
+notdoneraws/20625	0	13	Brack	NNP	*))	-	-	-	-	*)	7)
+notdoneraws/20625	0	14	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20625	0	15	committing	VBG	(S(VP*	-	-	-	-	*	-
+notdoneraws/20625	0	16	suicide	NN	(NP*))))))	-	-	-	-	*	-
+notdoneraws/20625	0	17	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20625	0	0	In	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/20625	0	1	another	DT	(NP(NP*	-	-	-	-	*	(4
+notdoneraws/20625	0	2	work	NN	*)	-	-	-	-	*	-
+notdoneraws/20625	0	3	by	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20625	0	4	this	DT	(NP*	-	-	-	-	*	(1
+notdoneraws/20625	0	5	writer	NN	*))))	-	-	-	-	*	1)|4)
+notdoneraws/20625	0	6	,	,	*	-	-	-	-	*	-
+notdoneraws/20625	0	7	the	DT	(NP*	-	-	-	-	*	(3
+notdoneraws/20625	0	8	protagonist	NN	*)	-	-	-	-	*	3)
+notdoneraws/20625	0	9	borrows	VBZ	(VP(VP*	-	-	-	-	*	-
+notdoneraws/20625	0	10	money	NN	(NP*)	-	-	-	-	*	-
+notdoneraws/20625	0	11	from	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20625	0	12	Krogstad	NNP	(NP*)))	-	-	-	-	(PERSON)	(9)
+notdoneraws/20625	0	13	and	CC	*	-	-	-	-	*	-
+notdoneraws/20625	0	14	eventually	RB	(ADVP*)	-	-	-	-	*	-
+notdoneraws/20625	0	15	decides	VBZ	(VP*	-	-	-	-	*	-
+notdoneraws/20625	0	16	she	PRP	(SBAR(S(NP*)	-	-	-	-	*	(3)
+notdoneraws/20625	0	17	must	MD	(VP*	-	-	-	-	*	-
+notdoneraws/20625	0	18	leave	VB	(VP*	-	-	-	-	*	-
+notdoneraws/20625	0	19	her	PRP$	(S(NP(NP*	-	-	-	-	*	(10|(3)
+notdoneraws/20625	0	20	husband	NN	*)	-	-	-	-	*	10)
+notdoneraws/20625	0	21	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+notdoneraws/20625	0	22	\*	SYM	(X*)	-	-	-	-	*	-
+notdoneraws/20625	0	23	-RRB-	-RRB-	*))	-	-	-	-	*	-
+notdoneraws/20625	0	24	Torvald	JJ	(ADJP*))))))))	-	-	-	-	(PERSON)	(10)
+notdoneraws/20625	0	25	.	.	*))	-	-	-	-	*	-
+
+
+notdoneraws/20625	0	0	For	IN	(TOP(S(PP*	-	-	-	-	*	-
+notdoneraws/20625	0	1	10	CD	(NP*	-	-	-	-	*	-
+notdoneraws/20625	0	2	points	NNS	*))	-	-	-	-	*	-
+notdoneraws/20625	0	3	,	,	*	-	-	-	-	*	-
+notdoneraws/20625	0	4	name	VB	(VP*	-	-	-	-	*	-
+notdoneraws/20625	0	5	this	DT	(NP(NP*	-	-	-	-	*	(1
+notdoneraws/20625	0	6	playwright	NN	*)	-	-	-	-	*	1)
+notdoneraws/20625	0	7	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+notdoneraws/20625	0	8	created	VBD	(S(VP*	-	-	-	-	*	-
+notdoneraws/20625	0	9	the	DT	(NP(NP*	-	-	-	-	*	-
+notdoneraws/20625	0	10	title	NN	*	-	-	-	-	*	(2
+notdoneraws/20625	0	11	character	NN	*)	-	-	-	-	*	-
+notdoneraws/20625	0	12	of	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20625	0	13	Hedda	NNP	(NP(NP*	-	-	-	-	(PERSON*	(2
+notdoneraws/20625	0	14	Gabler	NNP	*)	-	-	-	-	*)	2)|2)
+notdoneraws/20625	0	15	and	CC	*	-	-	-	-	*	-
+notdoneraws/20625	0	16	Nora	NNP	(NP*	-	-	-	-	(PERSON*	(3
+notdoneraws/20625	0	17	Helmer	NNP	*))))	-	-	-	-	*)	3)
+notdoneraws/20625	0	18	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20625	0	19	A	DT	(NP(NP(NP*	-	-	-	-	*	(4
+notdoneraws/20625	0	20	Doll	NNP	*	-	-	-	-	*	-
+notdoneraws/20625	0	21	's	POS	*)	-	-	-	-	*	-
+notdoneraws/20625	0	22	House	NNP	*)	-	-	-	-	(ORGANIZATION)	4)
+notdoneraws/20625	0	23	,	,	*	-	-	-	-	*	-
+notdoneraws/20625	0	24	both	DT	(NP(NP*)	-	-	-	-	*	-
+notdoneraws/20625	0	25	set	VBN	(VP*	-	-	-	-	*	-
+notdoneraws/20625	0	26	in	IN	(PP*	-	-	-	-	*	-
+notdoneraws/20625	0	27	his	PRP$	(NP*	-	-	-	-	*	(1)
+notdoneraws/20625	0	28	native	JJ	*	-	-	-	-	*	-
+notdoneraws/20625	0	29	Norway	NNP	*)))))))))))	-	-	-	-	(LOCATION)	-
+notdoneraws/20625	0	30	.	.	*))	-	-	-	-	*	-
+
+
+#end document
+
