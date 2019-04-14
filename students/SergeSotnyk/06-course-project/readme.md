@@ -51,6 +51,20 @@ metrics = evaluate_processor_on_corpus(processor, corpus, "Krapivin2009")
 print(metrics)
 ```
 
+Результати першого запуску з бейзлайн-ядром:
+
+```
+C:\Users\ssotn\Anaconda3\envs\tesurf\python.exe D:/git-nlp/tesufr/evaluate_with_corpora.py
+WARNING:root:Could not import signal.SIGPIPE (this is expected on Windows machines)
+Check metrics for BBC News
+100%|██████████| 445/445 [00:40<00:00,  9.50it/s]
+{'rouge_1': 0.5489569227407518, 'rouge_2': 0.44733345610434844, 'rouge_3': 0.4047945705861156, 'rouge_4': 0.3695602606075601, 'bleu': 41.611864189349895}
+Downloading ['1zRP0sKH0tn3P2hWRyE2E3yXjjbkYLHtR'] into D:\git-nlp\tesufr\corpora_data\krapivin2009.zip... Done.
+  0%|          | 0/461 [00:00<?, ?it/s]Check metrics for Krapivin2009
+100%|██████████| 461/461 [28:08<00:00,  3.17s/it]
+{'precision': 0.4030932949690004, 'recall': 0.14229306838749253, 'f1': 0.20524058808381612, 'rouge_1': 0.024238965325505984, 'rouge_2': 0.008135379808691693, 'rouge_3': 0.003927411070078904, 'rouge_4': 0.0025979649815830105, 'bleu': 0.5387344660957267}
+```
+
 ### Плани на майбутнє
 1. Викладка як пакет Pypi (щоб можна було встановлювати за допомогою pip)
 2. Нові ядра
