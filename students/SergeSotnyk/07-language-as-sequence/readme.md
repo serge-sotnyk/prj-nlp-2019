@@ -32,7 +32,7 @@
 
 Запишіть ваші спостереження та результати в окремий файл.
 
-## Ход рішення
+## Хід рішення
 ### Перевіряємо статистичні характеристики наданого корпусу run-on-test.json
 
 Запускаємо скрипт rot.py:
@@ -58,8 +58,34 @@ Total sentences: 200
 через те, що з json розміром більше гігабайта досить незручно робити), у якому кожна
 строка - це набір токенів речення.
 
+```
+C:\Users\ssotn\Anaconda3\envs\nlp\python.exe D:/git-nlp/ss-prj-nlp-2019/students/SergeSotnyk/07-language-as-sequence/make_train_dev_ny2000.py
+...
+Start reading file "data/nyt2000-sents.train.jsonl"
+Has read 452465 lines, shuffling in memory
+Start writing back
+Done!
+Start reading file "data/nyt2000-sents.dev.jsonl"
+Has read 452525 lines, shuffling in memory
+Start writing back
+Done!
+```
+
 Наступна утілита **make_train_dev_ny2000.py** робить з эталонних речень 
 run-on-sentences з приблизно такими ж статистичними особливостями, як і в тестовому
 наборі, та розділяє їх на 2 сети - тренувальний, та валідаційний, на якому ми
-будемо підбирати налаштування алгоритму.
+будемо підбирати налаштування алгоритму. 
+
+```
+C:\Users\ssotn\Anaconda3\envs\nlp\python.exe D:/git-nlp/ss-prj-nlp-2019/students/SergeSotnyk/07-language-as-sequence/make_train_dev_ny2000.py
+100%|██████████| 6049450/6049450 [01:57<00:00, 51413.51it/s]
+Start reading file "data/nyt2000-sents.train.jsonl"
+Has read 1320752 lines, shuffling in memory
+Start writing back"
+Done!
+Start reading file "data/nyt2000-sents.dev.jsonl"
+Has read 1321908 lines, shuffling in memory
+Start writing back"
+Done!
+```
 

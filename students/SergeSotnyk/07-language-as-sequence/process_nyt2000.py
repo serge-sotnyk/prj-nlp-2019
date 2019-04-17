@@ -1,14 +1,12 @@
 import gzip
-import json
 from typing import List
 from zipfile import ZipFile
 
 import html2text
-from bs4 import BeautifulSoup
+import jsonlines
+import spacy
 from readability import Document
 from tqdm.auto import tqdm
-import spacy
-import jsonlines
 
 _h = html2text.HTML2Text()
 _h.ignore_links = True
@@ -34,8 +32,6 @@ def refine_article(corpus: ZipFile, a_name: str) -> str:
         gz_file = gzip.GzipFile(fileobj=gz)
         decompressed = gz_file.read().decode(encoding='utf-8')
     doc = Document(decompressed)
-    # soup = BeautifulSoup(doc.summary(), features="lxml")
-    # print(soup.get_text())
     res: str = _h.handle(doc.summary())
     res = res.replace("Continue reading the main story", '').replace("''", '"').strip()
     return res
@@ -51,13 +47,9 @@ def main():
     filename = 'data/NY-Times-2000.zip'
     with ZipFile(filename) as zip_corpus:
         all_names = sorted([f for f in zip_corpus.namelist() if f.endswith('.gz')])
-        # art = refine_article(zip_corpus, all_names[2])
-        # sents = article2sentences(art)
-        # for sent in sents:
-        #    print(sent)
         all_sents = []
         for name in tqdm(all_names, total=len(all_names)):
-            art = refine_article(zip_corpus, all_names[2])
+            art = refine_article(zip_corpus, name)
             sents = article2sentences(art)
             all_sents += sents
     store_sentences_as_jsonl('data/nyt2000-sents.jsonl', all_sents)
