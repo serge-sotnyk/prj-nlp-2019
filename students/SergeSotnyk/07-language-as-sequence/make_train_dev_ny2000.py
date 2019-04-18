@@ -13,7 +13,7 @@ _lowercase_prob = 80. / 155.
 def original_sentences(filename: str) -> Sequence[List[str]]:
     stored_cache: Set = set()
     with jsonlines.open(filename) as reader:
-        for sentence in tqdm(reader, total=6049450):
+        for sentence in tqdm(reader, total=2230373):
             key = '-:-'.join(sentence)
             if key in stored_cache:
                 continue

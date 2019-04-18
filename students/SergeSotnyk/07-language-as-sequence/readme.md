@@ -59,16 +59,12 @@ Total sentences: 200
 строка - це набір токенів речення.
 
 ```
-C:\Users\ssotn\Anaconda3\envs\nlp\python.exe D:/git-nlp/ss-prj-nlp-2019/students/SergeSotnyk/07-language-as-sequence/make_train_dev_ny2000.py
-...
-Start reading file "data/nyt2000-sents.train.jsonl"
-Has read 452465 lines, shuffling in memory
-Start writing back
-Done!
-Start reading file "data/nyt2000-sents.dev.jsonl"
-Has read 452525 lines, shuffling in memory
-Start writing back
-Done!
+C:\Users\ssotn\Anaconda3\envs\nlp\python.exe D:/git-nlp/ss-prj-nlp-2019/students/SergeSotnyk/07-language-as-sequence/process_nyt2000.py
+Load spacy...
+...Done!
+100%|██████████| 109990/109990 [1:16:38<00:00, 26.04it/s]
+Total proper sentences: 2230373
+Total articles: 109990
 ```
 
 Наступна утілита **make_train_dev_ny2000.py** робить з эталонних речень 
@@ -89,3 +85,52 @@ Start writing back"
 Done!
 ```
 
+Тепер, створюємо статистику колокацій (біграм) по нашому корпусу. В цей словник
+зберігаємо біграми, які знаходяться лише в межах одного речення. Для того, щоб 
+класифікатор не занадто опирався на цей признак, видаляємо зі словника ті біграми,
+котрі зустрічаються лише один раз. Для цього, запускаємо утілиту **prepare_colocations**:
+
+```
+C:\Users\ssotn\Anaconda3\envs\nlp\python.exe D:/git-nlp/ss-prj-nlp-2019/students/SergeSotnyk/07-language-as-sequence/prepare_colocations.py
+100%|██████████| 2230373/2230373 [00:47<00:00, 46892.79it/s]
+Collected 2150888
+Stored
+```
+
+Тепер, все підготувавши, можемо классифікувати. Цей процес можна подивитися у 
+ноутбуці [train_classify.ipynb](train_classify.ipynb). Після багатьох експериментів,
+маю такі результати:
+
+### Dev set:
+```
+              precision    recall  f1-score   support
+
+       False      0.992     0.996     0.994   2639384
+        True      0.795     0.693     0.740     65029
+
+   micro avg      0.988     0.988     0.988   2704413
+   macro avg      0.894     0.844     0.867   2704413
+weighted avg      0.988     0.988     0.988   2704413
+```
+
+### Test set:
+```
+              precision    recall  f1-score   support
+
+       False      0.992     0.988     0.990      4542
+        True      0.676     0.755     0.713       155
+
+   micro avg      0.980     0.980     0.980      4697
+   macro avg      0.834     0.871     0.852      4697
+weighted avg      0.981     0.980     0.981      4697
+```
+
+## Що можна поліпшити
+0. Додати ще фічі. Але то вже треба добре подумати, що ще додати. Не думаю, що цей
+шлях може покращити дуже сильно.
+0. Застосувати якийсь нелінійний классифікатор - ті ж самі нейронні мережі. Також,
+нейромережі можуть самі собі придумати нові фічи, до яких я не дійшов.
+0. Опробувати стекінг, беггінг, бустінг - це те, що я ще не пробував.
+0. Створити треніровочний набір на іншому корпусі з іншими статистичними 
+властивостями.
+0. Застосувати інший словник біграм слів, додати туди якісь плейсхолдери.
