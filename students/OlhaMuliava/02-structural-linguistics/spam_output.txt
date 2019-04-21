@@ -1,0 +1,2 @@
+named_ents, sentiment, comp_superlative
+0.6886, 0.0028, 0.0448
