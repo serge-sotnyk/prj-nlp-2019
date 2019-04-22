@@ -1,0 +1,3 @@
+After processing 45600 records,
+ top words: ['var', 'the', '0', 'and', 'a', 'to', 'of', 'de', 'in', 'if']
+ top langs: ['en', 'ru', 'de', 'fr', 'ja', 'es', 'zh-cn', 'bn', 'it', 'nl']
