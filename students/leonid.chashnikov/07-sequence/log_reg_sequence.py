@@ -1,34 +1,50 @@
 import json
 
+import spacy
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.linear_model import LogisticRegression
 import baseline_solution
+from test_data_tokenizer import WordTokenizer
 from sklearn.metrics import classification_report
+
+
+nlp = spacy.load('en_core_web_lg', disable=['textcat', 'ner'], max_length=10000001)
 
 
 def _get_feature_dict(token, prev_token, next_token):
     result_dict = dict()
-    result_dict['word'] = token.lower()
-    result_dict['is_capitalized'] = token.istitle()
-    result_dict['is_not_punct'] = token.isalnum()
-    result_dict['is_uppercase'] = token.isupper()
+    token_str = str(token)
+    result_dict['word_lower'] = token_str.lower()
+    result_dict['word_lemma'] = token.lemma_
+    result_dict['is_capitalized'] = token.is_title
+    result_dict['is_punct'] = token.is_punct
+    result_dict['is_uppercase'] = token.is_upper
 
-    # result_dict['is_ner'] = token.isupper()  #change to spacy
-    # result_dict['pos'] = str(morph.tag(token)[0].POS)  #change to spacy
-    # result_dict['word_lemma'] = morph.normal_forms(token)[0]   #change to spacy
+    result_dict['word_pos'] = token.pos_
+    result_dict['word_dep'] = token.dep_
+    result_dict['word_head'] = str(token.head)
+    result_dict['word_n_lefts'] = token.n_lefts
+    result_dict['word_n_rights'] = token.n_rights
+    # todo left_edge, right_edge
 
     if prev_token:
-        result_dict['prev_word'] = prev_token.lower()
-        # result_dict['prev_pos'] = str(morph.tag(prev_token)[0].POS)
+        prev_token_str = str(prev_token)
+        result_dict['prev_word_lower'] = prev_token_str.lower()
+        result_dict['prev_word_lemma'] = prev_token.lemma_
+        result_dict['prev_pos'] = prev_token.pos_
     else:
-        result_dict['prev_word'] = ''
+        result_dict['prev_word_lower'] = ''
+        result_dict['prev_word_lemma'] = ''
         result_dict['prev_pos'] = 'None'
 
     if next_token:
-        result_dict['next_word'] = next_token.lower()
-        # result_dict['next_pos'] = str(morph.tag(prev_token)[0].POS)
+        next_token_str = str(next_token)
+        result_dict['next_word_lower'] = next_token_str.lower()
+        result_dict['next_word_lemma'] = next_token.lemma_
+        result_dict['next_pos'] = next_token.pos_
     else:
-        result_dict['next_word'] = ''
+        result_dict['next_word_lower'] = ''
+        result_dict['next_word_lemma'] = ''
         result_dict['next_pos'] = 'None'
     return result_dict
 
@@ -51,24 +67,33 @@ def _read_test_data():
 
 
 def _corpus_to_list(sents):
-    return [' '.join(sent) for sent in sents if len(sent) > 3]
+    return [' '.join(sent) for sent in sents if len(sent) > 2]
+
+
+def _preprocess_ptb(sents):
+    result = []
+    for sent in sents:
+        sentence = ' '.join([w[0] for w in sent])
+        result.append(sentence)
+    return result
 
 
 def _filter_out_stop_sign(sent):
-    if sent[-1] == '.' or sent[-1] == '?' or sent[-1] == '!':  # todo maybe there's full list somewhere
+    if str(sent[-1]) == '.' or str(sent[-1]) == '?' or str(sent[-1]) == '!':  # todo maybe there's full list somewhere
         return sent[:-1]
     else:
         return sent
 
 
 def _transform_test_data(test_data):
+    nlp.tokenizer = WordTokenizer(nlp.vocab)
     raw_tokens = []
-    labels = []
     for sentence in test_data:
-        for token in sentence:
-            raw_tokens.append(token[0])
-            labels.append(token[1])
-    return raw_tokens, labels
+        sent = ' '.join([word[0] for word in sentence])
+        sent = list(nlp(sent))
+        raw_tokens.append(sent)
+    labels = [word[1] for sentence in test_data for word in sentence]
+    return _flatten(raw_tokens), labels
 
 
 def _flatten(l):
@@ -76,15 +101,30 @@ def _flatten(l):
     return flat_list
 
 
+def _remove_big_letter(sent):
+    import random
+    random = random.uniform(0, 1)
+    if random > 0.5:
+        sent[1] = sent[1].lower()
+    return sent[1]
+
+
 def _merge_sentences_by_two_and_tag(sents):
     raw_tokens = []
     labels = []
+    sents = ' '.join(sents)[0:700000]
+    # split into several groups
+    sents = list(nlp(sents).sents)
+    # try tokenizing whole text
     # for index in range(start=0, stop=len(sents) - 1, step=2):
     for index in range(len(sents) - 1):
-        sent_1 = sents[index].split()
-        sent_2 = sents[index + 1].split()
-        sent_1 = _filter_out_stop_sign(sent_1)
-        merged = sent_1 + sent_2
+        sent_1 = _filter_out_stop_sign(sents[index])
+        sent_2 = sents[index + 1]# _remove_big_letter(sents[index + 1])  # randomly remove Big letter at sentence start
+
+        # doc_1 = nlp(sent_1)
+        # doc_2 = nlp(sent_2)
+
+        merged = list(sent_1) + list(sent_2)
         raw_tokens.append(merged)
 
         sent_label = [False] * len(merged)
@@ -99,32 +139,21 @@ def _merge_sentences_by_two_and_tag(sents):
 def _download_train():
     # import nltk
     # nltk.download('treebank')
-    # nltk.download('inaugural')
     # nltk.download('brown')
-    # nltk.download('punkt')
-    # nltk.download('twitter_samples')
-    # nltk.download('gutenberg')
 
-    from nltk.corpus import inaugural
     from nltk.corpus import treebank
     from nltk.corpus import brown
-    from nltk.corpus import gutenberg
 
-    # inaugural_sents = _corpus_to_list(inaugural.sents())
-    brown_sents = _corpus_to_list(brown.sents())  # looks ok, but needs cleaning from special symbols
-    ptb_sents = list()  # _corpus_to_list(treebank.sents()) - not raw sentences :( needs cleaning from special symbols and tags
-    gutenberg_sents = list()  # _corpus_to_list(gutenberg.sents())
-    # print('Inaugural {}'.format(len(inaugural.sents())))
-    # print('Brown {}'.format(len(brown.sents())))
-    # print('Gutenberg {}'.format(len(gutenberg.sents())))
+    brown_sents = _corpus_to_list(brown.sents())  # looks ok, but needs cleaning from special symbols, list of sentence strings
+    ptb_sents = list()  #  _preprocess_ptb(treebank.tagged_sents())  # - not raw sentences :( needs cleaning from special symbols and tags
 
-    return brown_sents + ptb_sents + gutenberg_sents
+    return brown_sents + ptb_sents
 
 
 if __name__ == "__main__":
     # Baseline
     test_data = _read_test_data()
-    baseline_solution.evaluate_baseline(test_data)
+    # baseline_solution.evaluate_baseline(test_data)
 
     # Test data
     test_raw_tokens, test_labels = _transform_test_data(test_data)
@@ -135,6 +164,7 @@ if __name__ == "__main__":
     train_data = _download_train()
     raw_train_tokens, train_labels = _merge_sentences_by_two_and_tag(train_data)
     train_features = _get_features(raw_train_tokens)
+    print('Train features {}, train labels {}'.format(len(train_features), len(train_labels)))
 
     # DictVectorizer
     dict_vect = DictVectorizer()
