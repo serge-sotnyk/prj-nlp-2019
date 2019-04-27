@@ -48,7 +48,7 @@ def relation_to_features(tokens: List[str], child_pos: int, head_pos: int) -> Di
     def pos_to_str(i: int) -> str:
         return tokens[i - 1] if i > 0 else "root"
 
-    f = {'i': child_pos, 'head': head_pos, 'dist': abs(child_pos - head_pos)}
+    f = {'i': child_pos, 'head': head_pos, 'dist_abs': abs(child_pos - head_pos)}
     f.update(token_to_features(pos_to_str(child_pos), 't'))
     f.update(token_to_features(pos_to_str(head_pos), 'head:'))
     return f
