@@ -44,20 +44,26 @@ def token_to_features(t: str, prefix: str) -> Dict[str, str]:
     }
 
 
+def relation_to_features(tokens: List[str], child_pos: int, head_pos: int) -> Dict[str, object]:
+    def pos_to_str(i: int) -> str:
+        return tokens[i - 1] if i > 0 else "root"
+
+    f = {'i': child_pos, 'head': head_pos, 'dist': abs(child_pos - head_pos)}
+    f.update(token_to_features(pos_to_str(child_pos), 't'))
+    f.update(token_to_features(pos_to_str(head_pos), 'head:'))
+    return f
+
+
 def extract_features_and_y(tree: TokenList):
     features = []
     y = []
+    tokens = [t["form"] for t in tree]
     for i, t in enumerate(tree):
         # retrieve positive scenarios
-        from_token = t["form"]
         head = t['head']
         if head is None:  # Some trees are not well formed
             break
-        # noinspection PyTypeChecker
-        to_token = tree[head - 1]["form"] if head > 0 else "root"
-        f = {'i': i + 1, 'head': head, 'dist': abs(i + 1 - head)}
-        f.update(token_to_features(from_token, 'from_token'))
-        f.update(token_to_features(to_token, 'to_token'))
+        f = relation_to_features(tokens, i + 1, head)
         features.append(f)
         y.append(True)
         # construct negative samples
@@ -65,13 +71,10 @@ def extract_features_and_y(tree: TokenList):
             break
         while True:
             neg_head = _rnd.randint(0, len(tree))
-            if neg_head != i and neg_head + 1 != head:
+            if neg_head != i+1 and neg_head != head:
                 break
         head = neg_head
-        to_token = tree[head - 1]["form"] if head > 0 else "root"
-        f = {'i': i + 1, 'head': head, 'dist': abs(i + 1 - head)}
-        f.update(token_to_features(from_token, 'from_token'))
-        f.update(token_to_features(to_token, 'to_token'))
+        f = relation_to_features(tokens, i + 1, head)
         features.append(f)
         y.append(False)
     return features, y
