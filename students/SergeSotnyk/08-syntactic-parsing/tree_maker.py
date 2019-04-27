@@ -97,7 +97,7 @@ def generate_new_generation(sorted_genomes, mutation_prob, elitism: bool = False
 
 
 def restore_genome(tokens: List[str], classifier: Pipeline, verbose: bool = True) -> List[int]:
-    pool_size = 100
+    pool_size = 1000
     max_epoch = 1000
     cross_prob = 0.3
     mutation_prob = 0.1
@@ -121,7 +121,7 @@ def restore_genome(tokens: List[str], classifier: Pipeline, verbose: bool = True
             prev_best_fitness = sorted_genomes[0][0]
         if verbose:
             print(f"Epoch {epoch}, the best genome: ({sorted_genomes[0][0]}){sorted_genomes[0][1]}")
-        pool = generate_new_generation(sorted_genomes, mutation_prob, elitism=True)
+        pool = generate_new_generation(sorted_genomes, mutation_prob, elitism=False)
     return pool[0]
 
 
@@ -152,10 +152,11 @@ def main():
         print("Tokens:", tokens)
         genome = genome_from_sentence_tree(tree)
         f_genome = calc_genome_fitness(genome, tokens, classifier, {})
-        print(f"True genome  : ({f_genome}){genome}")
+        print(f"True genome: ({f_genome}){genome}")
         restored_genome = restore_genome(tokens, classifier, verbose=False)
         f_restored_genome = calc_genome_fitness(restored_genome, tokens, classifier, {})
-        print(f"Restored: ({f_restored_genome}){restored_genome}")
+        print(f"Restored   : ({f_restored_genome}){restored_genome}")
+        print()
 
 
 if __name__ == "__main__":

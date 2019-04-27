@@ -54,7 +54,8 @@ def relation_to_features(tokens: List[str], child_pos: int, head_pos: int) -> Di
     return f
 
 
-def extract_features_and_y(tree: TokenList):
+def extract_features_and_y(tree: TokenList,
+                           use_all_negative_samples: bool = False):
     features = []
     y = []
     tokens = [t["form"] for t in tree]
@@ -69,9 +70,20 @@ def extract_features_and_y(tree: TokenList):
         # construct negative samples
         if len(tree) < 2:
             break
-        for neg_head in range(0, len(tree)+1):
-            if neg_head==head or neg_head == i+1:
-                break
+        if use_all_negative_samples:
+            # All another variants except proper are negative
+            for neg_head in range(0, len(tree)+1):
+                if neg_head==head or neg_head == i+1:
+                    break
+                f = relation_to_features(tokens, i + 1, neg_head)
+                features.append(f)
+                y.append(False)
+        else:
+            # Randomly select one variant as negative
+            while True:
+                neg_head = _rnd.randint(0, len(tree))
+                if neg_head != i + 1 and neg_head != head:
+                    break
             f = relation_to_features(tokens, i + 1, neg_head)
             features.append(f)
             y.append(False)
