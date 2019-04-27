@@ -69,14 +69,12 @@ def extract_features_and_y(tree: TokenList):
         # construct negative samples
         if len(tree) < 2:
             break
-        while True:
-            neg_head = _rnd.randint(0, len(tree))
-            if neg_head != i+1 and neg_head != head:
+        for neg_head in range(0, len(tree)+1):
+            if neg_head==head or neg_head == i+1:
                 break
-        head = neg_head
-        f = relation_to_features(tokens, i + 1, head)
-        features.append(f)
-        y.append(False)
+            f = relation_to_features(tokens, i + 1, neg_head)
+            features.append(f)
+            y.append(False)
     return features, y
 
 
