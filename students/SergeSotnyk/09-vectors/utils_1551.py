@@ -12,7 +12,7 @@ class Message(NamedTuple):
     id: int
     text: str
 
-Corpora = Dict[str, List[Message]]
+Corpus = Dict[str, List[Message]]
 
 _local_filename = "data/1551.zip"
 _data_link = "https://github.com/vseloved/prj-nlp-2019/raw/master/tasks/1551.zip"
@@ -101,7 +101,7 @@ def parse_raw_category(raw_text: str) -> List[Message]:
     return res
 
 
-def load_corpora() -> Corpora:
+def load_corpora() -> Corpus:
     res = {}
     dir_ = os.path.dirname(os.path.abspath(__file__))
     filename = os.path.join(dir_, _local_filename)
@@ -119,7 +119,7 @@ def load_corpora() -> Corpora:
     return res
 
 
-def load_train_and_test() -> (Corpora, Corpora):
+def load_train_and_test() -> (Corpus, Corpus):
     full_corpora = load_corpora()
     res_train, res_test = {}, {}
     for name, messages in full_corpora.items():
