@@ -1,17 +1,18 @@
 import os
-from collections import namedtuple
 from pathlib import Path
 from typing import Dict, List, NamedTuple
 from zipfile import ZipFile
 
 import requests
 from tqdm.auto import tqdm
+from sklearn.model_selection import train_test_split
 
 
 class Message(NamedTuple):
     id: int
     text: str
 
+Corpora = Dict[str, List[Message]]
 
 _local_filename = "data/1551.zip"
 _data_link = "https://github.com/vseloved/prj-nlp-2019/raw/master/tasks/1551.zip"
@@ -100,10 +101,10 @@ def parse_raw_category(raw_text: str) -> List[Message]:
     return res
 
 
-def load_texts() -> Dict[str, List[Message]]:
+def load_corpora() -> Corpora:
     res = {}
-    dir = os.path.dirname(os.path.abspath(__file__))
-    filename = os.path.join(dir, _local_filename)
+    dir_ = os.path.dirname(os.path.abspath(__file__))
+    filename = os.path.join(dir_, _local_filename)
     if not check_if_file_exist_make_dir(filename):
         download_with_progress(_data_link, filename)
     with ZipFile(filename) as zip_corpus:
@@ -115,12 +116,21 @@ def load_texts() -> Dict[str, List[Message]]:
             messages = parse_raw_category(raw_text)
             category_name = os.path.basename(os.path.splitext(name)[0])
             res[category_name] = messages
-
     return res
 
 
+def load_train_and_test() -> (Corpora, Corpora):
+    full_corpora = load_corpora()
+    res_train, res_test = {}, {}
+    for name, messages in full_corpora.items():
+        train, test = train_test_split(messages, random_state=1974)
+        res_train[name] = train
+        res_test[name] = test
+    return res_train, res_test
+
+
 def main():
-    texts = load_texts()
+    texts = load_corpora()
     texts_list = list(texts.items())
     print(f"Categories found: {len(texts_list)}")
     min_cat_len = min(len(val) for name, val in texts_list)
@@ -129,6 +139,11 @@ def main():
     max_cat_len = max(len(val) for name, val in texts_list)
     max_cat_ind, max_cat_name = next((i, x[0]) for i, x in enumerate(texts_list) if len(x[1]) == max_cat_len)
     print(f"Max len cat: '{max_cat_name}' ({max_cat_len})")
+
+    train, test = load_train_and_test()
+    train_total_len = sum(len(m) for k, m in train.items())
+    test_total_len = sum(len(m) for k, m in test.items())
+    print(f"Total train messages: {train_total_len}, total test messages: {test_total_len}")
 
 
 if __name__ == "__main__":
