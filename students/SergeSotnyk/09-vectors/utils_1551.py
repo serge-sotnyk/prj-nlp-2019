@@ -1,11 +1,14 @@
 import os
+import re
 from pathlib import Path
 from typing import Dict, List, NamedTuple
 from zipfile import ZipFile
 
 import requests
-from tqdm.auto import tqdm
 from sklearn.model_selection import train_test_split
+from tqdm.auto import tqdm
+
+_re_tokens = re.compile(r"([\w][\w]*'?\w?)")
 
 
 class Message(NamedTuple):
@@ -17,6 +20,10 @@ Corpus = Dict[str, List[Message]]
 _local_filename = "data/1551.zip"
 _data_link = "https://github.com/vseloved/prj-nlp-2019/raw/master/tasks/1551.zip"
 _uk_chars = set('іїє')
+
+
+def text2tokens(text: str)->List[str]:
+    return _re_tokens.findall(text)
 
 
 def check_if_file_exist_make_dir(filename: str) -> bool:
