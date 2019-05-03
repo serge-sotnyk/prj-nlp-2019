@@ -41,3 +41,170 @@
 ## Оцінювання
 
 Крайній термін: 05.05.2019
+
+# Рішення
+## Baseline
+Бейзлайн знаходиться у ноутбуці [Baseline](Baseline.ipynb). Використано класифікатор 
+KNeighborsClassifier. Через те, що вирішив застосувати ембедінги BPEmb, вирішив 
+також перевірити якість цих ембедінгів, та тих, що застосовували на практиці 
+(результати в ноутбуці [Baseline-w2v](Baseline-w2v.ipynb)). Результати для різних 
+значень n_neighbors:
+
+news.lowercased.tokenized.word2vec.
+n_neighbors = 20:
+```
+              precision    recall  f1-score   support
+   micro avg       0.43      0.43      0.43     16147
+   macro avg       0.35      0.20      0.23     16147
+weighted avg       0.40      0.43      0.38     16147
+```
+
+n_neighbors = 10:
+```
+   micro avg       0.43      0.43      0.43     16147
+   macro avg       0.36      0.23      0.26     16147
+weighted avg       0.41      0.43      0.40     16147
+```
+
+n_neighbors = 2:
+```
+   micro avg       0.40      0.40      0.40     16147
+   macro avg       0.34      0.28      0.29     16147
+weighted avg       0.41      0.40      0.39     16147
+```
+
+dim = 300
+bpemb_ua = BPEmb(lang="uk", dim=dim)
+
+n_neighbors = 20:
+```
+   micro avg       0.44      0.44      0.44     16147
+   macro avg       0.40      0.23      0.26     16147
+weighted avg       0.44      0.44      0.41     16147
+```
+
+n_neighbors = 10:
+```
+   micro avg       0.43      0.43      0.43     16147
+   macro avg       0.37      0.25      0.27     16147
+weighted avg       0.43      0.43      0.41     16147
+```
+
+n_neighbors = 2:
+```
+   micro avg       0.42      0.42      0.42     16147
+   macro avg       0.35      0.30      0.30     16147
+weighted avg       0.44      0.42      0.41     16147
+```
+
+Таким чином, у якості бейзлайну беремо BPEmb(lang="uk", dim=300) та n_neighbors у 
+районі 2...20 - вони мають майже однакові показники якості, у кожного варианту свої
+невелики вади та переваги.
+
+## Decision trees
+
+Для того, щоб побудувати дерева, я спробував LGBMClassifier та RandomForestClassifier.
+Перший в мене "не завівся", і артефакти цих експериментів можна побачити в ноутбуці
+[trees](trees.ipynb). Для рендом форест, були отримані такі результати:
+
+```
+              precision    recall  f1-score   support
+
+   micro avg       0.45      0.45      0.45     16147
+   macro avg       0.79      0.24      0.32     16147
+weighted avg       0.60      0.45      0.41     16147
+```
+
+Трохи краще по точності, але є провал з recall.
+
+## FNN
+
+Третім вариантом став класифікатор із застосуванням нейромережі. Результати можна
+подивитися у ноутбуці [ANN](ANN.ipynb). Першою сіткою став відносно простий
+вариант з одним скритим шаром, та софтмаксом на виході. Це трохи адаптованний вариант
+із книги "Deep Learning with Python" François Chollet.
+
+```python
+model = models.Sequential()
+model.add(layers.Dense(64, activation='relu', input_shape=(dim,)))
+model.add(layers.Dense(64, activation='relu'))
+model.add(layers.Dense(len(labels_dict), activation='softmax'))
+model.compile(optimizer='rmsprop',
+              loss='categorical_crossentropy',
+              metrics=['accuracy'])
+
+history = model.fit(
+            partial_x_train,
+            partial_y_train,
+            epochs=100,
+            batch_size=256,
+            validation_data=(x_val, y_val),
+            callbacks=[early_stopping]
+          )              
+```
+
+Результати одразу вийшли досить непогані. Майже всі варианти F1 на 10 відсотків 
+перевищують попередні варианти.
+
+```
+   micro avg       0.55      0.55      0.55     16147
+   macro avg       0.43      0.38      0.39     16147
+weighted avg       0.53      0.55      0.53     16147
+```
+
+Звичайно, захотілося зробити щось краще. Але виявилося, що це не так вже й просто.
+Маю підозру, що автори книги ті параметри для класифікації Reuters не просто так
+взяли зі стелі :)
+
+То ж, довелося перевірити багато вариантів, доки з'явилося щось трохи краще, ніж 
+попередня нейромережа (до речі, дякую Всеволоду за статтю Andrew Karpathy - дещо
+звідти використав теж):
+
+```python
+model2 = models.Sequential()
+model2.add(layers.Dense(256, kernel_regularizer=regularizers.l1_l2(0.000, 0.002), input_shape=(dim,)))
+model2.add(layers.BatchNormalization())
+model2.add(layers.Activation('relu'))
+model2.add(layers.Dropout(rate = 0.35))
+model2.add(layers.Dense(128, kernel_regularizer=regularizers.l1_l2(0.00, 0.002)))
+model2.add(layers.BatchNormalization())
+model2.add(layers.Activation('relu'))
+model2.add(layers.Dropout(rate = 0.35))
+model2.add(layers.Dense(64, kernel_regularizer=regularizers.l1_l2(0.00, 0.002)))
+model2.add(layers.BatchNormalization())
+model2.add(layers.Activation('relu'))
+model2.add(layers.Dense(len(labels_dict), activation='softmax'))
+model2.compile(optimizer=Adam(lr=3e-4),
+              #optimizer='rmsprop',
+              loss='categorical_crossentropy',
+              metrics=['accuracy'])
+              
+history2 = model2.fit(
+            partial_x_train,
+            partial_y_train,
+            epochs=5000,
+            batch_size=32,
+            validation_data=(x_val, y_val),
+            callbacks=[early_stopping, reduce_lr]
+          )
+```
+
+І такі результати:
+
+```
+   micro avg       0.59      0.59      0.59     16147
+   macro avg       0.51      0.42      0.44     16147
+weighted avg       0.57      0.59      0.57     16147
+```
+
+На цьому вирішив зупинитися, щоб переключитися на курсовий.
+
+Що б робив, як би рухався далі:
+
+* щось добавив би до стоп-слів
+* або застосував реккурентні нейромережі та подавав би туди ембедінги від
+кожного слова, щоб вони самі фільтрували стоп-слова, та використовували 
+інформацію про порядок слів.
+* поексперементував би із розмірами класів, або ваговими коефіцієнтами, бо
+в нас досить несбалансовані класи вийшли (особливо після видалення російськомовних
+семплів).
