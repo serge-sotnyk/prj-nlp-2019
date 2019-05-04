@@ -7,6 +7,7 @@
 - [Spacy](https://spacy.io/) (7 languages; Python)
 - [Emory NLP](https://github.com/emorynlp/) (English; Java)
 - [OpenNLP](https://opennlp.apache.org/) (7 languages; Java)
+- [AllenNLP](https://allennlp.org/) (English; Python)
 
 Навчальні:
 - [nltk](http://www.nltk.org/) (English; Python)
