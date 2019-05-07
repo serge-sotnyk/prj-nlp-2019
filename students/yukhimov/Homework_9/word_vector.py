@@ -34,7 +34,7 @@ def vectorize_message(message):
     if not message_vector:
         return numpy.array([0] * 300)
     message_vector = numpy.array(message_vector)
-    return numpy.sum(message_vector, axis=0)
+    return numpy.mean(message_vector, axis=0)
 
 
 train_features = numpy.array([vectorize_message(message) for message in train_messages])
@@ -50,16 +50,16 @@ print(metrics.classification_report(test_labels, y_pred))
 
 
 '''
-Baseline
+Vectors mean average
 
 
-Accuracy: 0.3149168286887017
+Accuracy: 0.3337653920933247
 
-            precision    recall  f1-score   support
+           precision    recall  f1-score   support
 
-micro avg       0.31      0.31      0.31     18516
-macro avg       0.25      0.16      0.17     18516
-weighted avg    0.32      0.31      0.29     18516
+micro avg       0.33      0.33      0.33     18516
+macro avg       0.26      0.18      0.19     18516
+weighted avg    0.35      0.33      0.32     18516
 
 
 '''
