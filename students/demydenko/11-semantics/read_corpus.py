@@ -75,45 +75,64 @@ print('loading word vectors finished')
 #%%
 # genete input
 # TODO filter stopwords
-i=-1
-x_train = []
-y_train = []
-for case in train_data:
-    i=i+1
-    # first_sentence = " ".join([t[0].lower() for t in case[0]])
-    # second_sentence = " ".join([t[0].lower() for t in case[1]])
-    first_sentence = " ".join([t[0].lower() if t[0].lower() not in set(stopwords.words('english')) else ' ' for t in case[0]])
-    second_sentence = " ".join([t[0].lower() if t[0].lower() not in set(stopwords.words('english')) else ' ' for t in case[1]])
-    similarity = word_vectors.wmdistance(first_sentence, second_sentence)
-    if (case[2]!=None):
-        x_train.append(similarity)
-        y_train.append(str(case[2]).lower())
-    else:
-        # ignore debatable for training
-        pass
-        # грався з третім класом але класифікатор його не ловить
-        # x_train.append(similarity)
-        # y_train.append(False)
-        # y_train.append('----')
 
-x_test = []
-y_test = []
-for case in test_data:
-    i=i+1
-    first_sentence = " ".join([t[0].lower() if t[0].lower() not in set(stopwords.words('english')) else ' ' for t in case[0]])
-    second_sentence = " ".join([t[0].lower() if t[0].lower() not in set(stopwords.words('english')) else ' ' for t in case[1]])
-    similarity = word_vectors.wmdistance(first_sentence, second_sentence)
-    if (case[2]!=None):
-        x_test.append(similarity)
-        # y_test.append(case[2])
-        y_test.append(str(case[2]).lower())
-    else:
-        pass
+def extract_features_and_labels(data_,skip_none):
+    x_data = []
+    y_data = []
+    i=-1
+    for case in data_:
+        i=i+1
+        # first_sentence = " ".join([t[0].lower() for t in case[0]])
+        # second_sentence = " ".join([t[0].lower() for t in case[1]])
+        first_set_of_tokens = [t[0].lower() for t in case[0] if t[0].lower() not in set(stopwords.words('english')) ]
+        second_set_of_tokens = [t[0].lower() for t in case[1] if t[0].lower() not in set(stopwords.words('english')) ]
+        f = first_set_of_tokens
+        s = second_set_of_tokens
+        # ця фіча погіршувала картину
+        # inter = len(set(s).intersection(set(f)))/(len(f)+len(s))
+        # skip vector not in vocabulary
+        first_set_of_tokens = [t for t in first_set_of_tokens if t in  word_vectors.vocab]
+        second_set_of_tokens = [t for t in second_set_of_tokens if t in  word_vectors.vocab]
+        if len(first_set_of_tokens)==0 or len(second_set_of_tokens)==0:
+            n_sim = 100
+            similarity = 100
+        else:
+            n_sim = word_vectors.n_similarity(first_set_of_tokens, second_set_of_tokens)
+            first_sentence = " ".join([t[0].lower() for t in case[0] if t[0].lower() not in set(stopwords.words('english')) ])
+            second_sentence = " ".join([t[0].lower()  for t in case[1] if t[0].lower() not in set(stopwords.words('english')) ])
+            similarity = word_vectors.wmdistance(first_sentence, second_sentence)
+
+        if (case[2]!=None):
+            # x_data.append([n_sim, similarity])
+            x_data.append([n_sim, similarity])
+            y_data.append(str(case[2]).lower())
+        else:
+            if not skip_none:
+                x_data.append([n_sim, similarity])
+                y_data.append('----')
+            pass
+            
+    return x_data, y_data
+
+# x_train , y_train = extract_features_and_labels(train_data,skip_none=True)
+x_train , y_train = extract_features_and_labels(train_data, skip_none=False)
+x_test , y_test = extract_features_and_labels(test_data, skip_none=False)
+# for case in test_data:
+#     i=i+1
+#     first_sentence = " ".join([t[0].lower() if t[0].lower() not in set(stopwords.words('english')) else ' ' for t in case[0]])
+#     second_sentence = " ".join([t[0].lower() if t[0].lower() not in set(stopwords.words('english')) else ' ' for t in case[1]])
+#     similarity = word_vectors.wmdistance(first_sentence, second_sentence)
+#     if (case[2]!=None):
+#         x_test.append(similarity)
+#         # y_test.append(case[2])
+#         y_test.append(str(case[2]).lower())
+#     else:
+#         pass
 #%%
-x_train = np.array(x_train).reshape(-1, 1)
-x_test = np.array(x_test).reshape(-1, 1)
+# x_train = np.array(x_train).reshape(-1, 1)
+# x_test = np.array(x_test).reshape(-1, 1)
 
-clf = LogisticRegression(random_state=0)
+clf = LogisticRegression(random_state=1)
 # clf = LinearSVC(random_state=0)
 
 clf.fit(x_train, y_train)
@@ -179,3 +198,17 @@ f.close()
 #         True       0.62      0.37      0.46       175
 
 # вивід із ймоіврносями впливає тільки на другу частину оцінки(P-corr: 0.405	F1: 0.493	Prec: 0.474	Rec: 0.514)
+
+# додав нову фічу
+# precision    recall  f1-score   support
+
+#         ----       0.00      0.00      0.00       134
+#        false       0.78      0.93      0.84       663
+#         true       0.55      0.56      0.55       175
+
+#     accuracy                           0.73       972
+#    macro avg       0.44      0.50      0.47       972
+# weighted avg       0.63      0.73      0.68       972
+
+# python3 scripts/pit2015_eval_single.py data/test.label PIT2015_BASELINE_SIM_SEM.output 
+# 838     BASELINE        SIM_SEM         F: 0.611        Prec: 0.671     Rec: 0.560              P-corr: 0.536   F1: 0.621       Prec: 0.624     Rec: 0.617
